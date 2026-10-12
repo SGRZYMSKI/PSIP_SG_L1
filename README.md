@@ -12,3 +12,4 @@
 - Jan - warszawski
 - Daniel - sochaczewski
 - Michał - biłgorajski
+- Maciej - kutnowski
