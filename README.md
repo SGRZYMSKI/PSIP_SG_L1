@@ -10,3 +10,4 @@
 - Jan - miński
 - Kacper - legnicki
 - Jan - warszawski
+- Daniel - sochaczewski
