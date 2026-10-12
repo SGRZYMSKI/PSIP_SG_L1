@@ -4,3 +4,4 @@
 - Marcin - miński
 - Bartek - radomszczański
 - Dawid - bocheński
+- Tymoteusz - toruński
