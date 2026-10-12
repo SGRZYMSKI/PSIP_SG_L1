@@ -2,3 +2,4 @@
 - Stanisław - turecki
 - Jakub - chełmski
 - Marcin - miński
+- Bartek - radomszczański
