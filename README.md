@@ -7,3 +7,4 @@
 - Tymoteusz - toruński
 - Julia - hajnowski
 - Dominik - koniński
+- Jan - miński
