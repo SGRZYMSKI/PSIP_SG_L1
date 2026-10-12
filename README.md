@@ -5,3 +5,4 @@
 - Bartek - radomszczański
 - Dawid - bocheński
 - Tymoteusz - toruński
+- Julia - hajnowski
