@@ -8,3 +8,4 @@
 - Julia - hajnowski
 - Dominik - koniński
 - Jan - miński
+- Kacper - legnicki
