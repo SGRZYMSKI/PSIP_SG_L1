@@ -1,2 +1,14 @@
 # PSIP_SG_L1
-Lab 1
+- Stanisław - turecki
+- Jakub - chełmski
+- Marcin - miński
+- Bartek - radomszczański
+- Dawid - bocheński
+- Tymoteusz - toruński
+- Julia - hajnowski
+- Dominik - koniński
+- Jan - miński
+- Kacper - legnicki
+- Jan - warszawski
+- Daniel - sochaczewski
+- Michał - biłgorajski
