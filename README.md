@@ -6,3 +6,4 @@
 - Dawid - bocheński
 - Tymoteusz - toruński
 - Julia - hajnowski
+- Dominik - koniński
