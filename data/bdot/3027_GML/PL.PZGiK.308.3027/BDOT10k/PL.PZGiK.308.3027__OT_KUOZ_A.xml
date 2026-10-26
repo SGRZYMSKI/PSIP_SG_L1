@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:FeatureCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:ot="urn:gugik:specyfikacje:gmlas:bazaDanychObiektowTopograficznych10k:2.0" gml:id="GUGiK_OT_KUOZ_A" xsi:schemaLocation="urn:gugik:specyfikacje:gmlas:bazaDanychObiektowTopograficznych10k:2.0 ../XSD/BDOT10k_BDOO.xsd">
+	<gml:featureMember>
+		<ot:OT_KUOZ_A gml:id="PL.PZGiK.308.BDOT10k_2923959E-D174-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D174-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>zespół szpitalny lub sanatoryjny</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-b5f212e3-49e3-4590-88b2-caef2361eafb-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>465049.48 460670.21 465096.05 460662.12 465096.96 460629.62 465096.99 460628.69 465118.67 460628.09 465121.73 460590.74 465123.83 460565.03 465124.81 460553.02 465125.56 460543.93 465127.57 460519.28 465021.62 460507.97 465017.85 460517.69 465015.85 460523.51 465014.35 460530.08 465014.84 460541.72 465014.34 460550.84 465012.68 460574.96 465009.89 460601.26 465006.09 460630.00 465003.72 460658.52 465047.57 460654.57 465049.48 460670.21</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUOZ_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUOZ_A gml:id="PL.PZGiK.308.BDOT10k_2923959E-D173-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D173-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:informacjaDodatkowa>Dom Opieki Społecznej w Skęczniewie</ot:informacjaDodatkowa>
+			<ot:rodzaj>zakład opieki socjalnej lub dom dziecka</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-5f4775fc-81e0-4842-b4cd-a5fd925680d4-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>478110.15 443860.38 478147.69 443953.66 478201.69 443932.61 478203.81 443926.25 478215.91 443920.29 478219.55 443916.84 478191.92 443848.89 478184.47 443830.75 478110.15 443860.38</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUOZ_A>
+	</gml:featureMember>
+</gml:FeatureCollection>

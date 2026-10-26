@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:FeatureCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:ot="urn:gugik:specyfikacje:gmlas:bazaDanychObiektowTopograficznych10k:2.0" gml:id="GUGiK_OT_BUHD_A" xsi:schemaLocation="urn:gugik:specyfikacje:gmlas:bazaDanychObiektowTopograficznych10k:2.0 ../XSD/BDOT10k_BDOO.xsd">
+	<gml:featureMember>
+		<ot:OT_BUHD_A gml:id="PL.PZGiK.308.BDOT10k_EM5dMTje-dzyS-ii9r-j8pM-lakIWP62m8CR_2025-11-19T000000">
+			<ot:lokalnyId>EM5dMTje-dzyS-ii9r-j8pM-lakIWP62m8CR</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2025-11-19T00:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2025-11-19T00:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>BGW-I-K.7520.32.2025</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_616</ot:kodKarto10k>
+			<ot:rodzaj>zapora</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-6593fa88-34f3-4f69-a675-1c426c64eb9d-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>479215.83 443749.24 479218.75 443725.78 479220.63 443710.72 479224.25 443681.64 479221.05 443682.62 479110.01 443723.39 478949.15 443782.70 478813.89 443832.62 478704.66 443873.58 478600.55 443911.99 478489.37 443952.83 478481.38 443955.76 478431.40 443986.90 478390.43 444002.05 478392.86 444008.62 478398.28 444020.90 478424.84 444017.54 478490.55 444002.19 478550.16 443981.41 478982.61 443830.59 479215.83 443749.24</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_BUHD_A>
+	</gml:featureMember>
+</gml:FeatureCollection>

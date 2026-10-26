@@ -12,11 +12,13 @@ RUN apt-get update \
         libgdal-dev \
         proj-bin \
         libproj-dev \
+        libpq-dev \
     && rm -rf /var/lib/apt/lists/*
 
 RUN python3 -m pip install --no-cache-dir --break-system-packages \
     geopandas \
     h3 \
-    shapely
+    shapely \
+    psycopg2-binary
 
 WORKDIR /app

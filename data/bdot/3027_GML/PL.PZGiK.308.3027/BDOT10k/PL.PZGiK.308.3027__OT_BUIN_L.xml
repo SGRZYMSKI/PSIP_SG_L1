@@ -1,0 +1,3782 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:FeatureCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:ot="urn:gugik:specyfikacje:gmlas:bazaDanychObiektowTopograficznych10k:2.0" gml:id="GUGiK_OT_BUIN_L" xsi:schemaLocation="urn:gugik:specyfikacje:gmlas:bazaDanychObiektowTopograficznych10k:2.0 ../XSD/BDOT10k_BDOO.xsd">
+	<gml:featureMember>
+		<ot:OT_BUIN_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-7E56-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-7E56-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_133_2</ot:kodKarto10k>
+			<ot:rodzaj>most</ot:rodzaj>
+			<ot:konstrukcja>stała</ot:konstrukcja>
+			<ot:nosnosc>6</ot:nosnosc>
+			<ot:szerokosc uom="m">7.0</ot:szerokosc>
+			<ot:geometria>
+				<gml:Curve gml:id="id-5ddf0ddb-1c82-49eb-ac7f-bc187a7a8ee3-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>470534.80 446197.00 470536.80 446196.99 470538.80 446196.98</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUIN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIN_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-7E62-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-7E62-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_133_2</ot:kodKarto10k>
+			<ot:rodzaj>most</ot:rodzaj>
+			<ot:konstrukcja>stała</ot:konstrukcja>
+			<ot:nosnosc>5</ot:nosnosc>
+			<ot:szerokosc uom="m">2.2</ot:szerokosc>
+			<ot:geometria>
+				<gml:Curve gml:id="id-14d8a446-d36b-4d08-bd30-dc1dbfa6b14e-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>473219.80 456490.31 473223.47 456490.44 473225.80 456490.52</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUIN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIN_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-7DB0-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-7DB0-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_134_2</ot:kodKarto10k>
+			<ot:rodzaj>kładka</ot:rodzaj>
+			<ot:szerokosc uom="m">1.5</ot:szerokosc>
+			<ot:geometria>
+				<gml:Curve gml:id="id-e90c7531-637d-4a6e-b7eb-07a518679362-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>459036.48 454352.15 459038.91 454351.57 459041.34 454350.99</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUIN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIN_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-7C3B-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-7C3B-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>pomiar terenowy</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:informacjaDodatkowa>długość do granicy powiatu 73.9m</ot:informacjaDodatkowa>
+			<ot:kodKarto10k>0010_133_1</ot:kodKarto10k>
+			<ot:rodzaj>most</ot:rodzaj>
+			<ot:konstrukcja>stała</ot:konstrukcja>
+			<ot:nosnosc>30</ot:nosnosc>
+			<ot:szerokosc uom="m">17.5</ot:szerokosc>
+			<ot:geometria>
+				<gml:Curve gml:id="id-b5845c4c-e670-4863-b41e-0cebdf5aa1ff-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>478571.79 472958.39 478641.91 472935.95</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUIN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIN_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-7D78-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-7D78-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_134_2</ot:kodKarto10k>
+			<ot:rodzaj>kładka</ot:rodzaj>
+			<ot:szerokosc uom="m">1.0</ot:szerokosc>
+			<ot:geometria>
+				<gml:Curve gml:id="id-0c0dd3fb-b8a1-4944-bda4-bac574a33b26-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>473264.24 456858.85 473261.40 456857.89 473258.56 456856.93</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUIN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIN_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-7BFC-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-7BFC-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_133_1</ot:kodKarto10k>
+			<ot:rodzaj>most</ot:rodzaj>
+			<ot:konstrukcja>stała</ot:konstrukcja>
+			<ot:nosnosc>30</ot:nosnosc>
+			<ot:szerokosc uom="m">9.0</ot:szerokosc>
+			<ot:geometria>
+				<gml:Curve gml:id="id-55174928-5cbc-4f38-8e36-dcd49a1b339d-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>467568.00 456025.78 467571.29 456020.19 467575.11 456013.72</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUIN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIN_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-7E28-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-7E28-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_133_1</ot:kodKarto10k>
+			<ot:rodzaj>most</ot:rodzaj>
+			<ot:konstrukcja>stała</ot:konstrukcja>
+			<ot:nosnosc>30</ot:nosnosc>
+			<ot:szerokosc uom="m">8.4</ot:szerokosc>
+			<ot:geometria>
+				<gml:Curve gml:id="id-f7cc071b-0ddb-493a-837b-6a0affd7ed28-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>472508.02 450759.23 472500.43 450764.07 472492.84 450768.91</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUIN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIN_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-82CC-829B-E053-CA2BA8C0F89A_2024-06-21T000000">
+			<ot:lokalnyId>2923959E-82CC-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2024-06-21T00:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2024-06-21T00:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>BGW-I-G.7520.15.2024</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_220_2</ot:kodKarto10k>
+			<ot:rodzaj>wiadukt</ot:rodzaj>
+			<ot:nosnosc>30</ot:nosnosc>
+			<ot:szerokosc uom="m">4.4</ot:szerokosc>
+			<ot:geometria>
+				<gml:Curve gml:id="id-27cd8225-461e-4d66-8c18-ed50950d38ce-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>469922.09 461152.42 469925.84 461153.47 469929.79 461154.58</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUIN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIN_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-7C01-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-7C01-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_133_2</ot:kodKarto10k>
+			<ot:rodzaj>most</ot:rodzaj>
+			<ot:konstrukcja>stała</ot:konstrukcja>
+			<ot:nosnosc>5</ot:nosnosc>
+			<ot:szerokosc uom="m">5.8</ot:szerokosc>
+			<ot:geometria>
+				<gml:Curve gml:id="id-85fc09cb-29fa-458d-b597-24b48eb5dd63-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>470926.39 458803.49 470927.32 458805.81 470928.24 458808.13</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUIN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIN_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-7DEC-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-7DEC-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_134_1</ot:kodKarto10k>
+			<ot:rodzaj>kładka</ot:rodzaj>
+			<ot:szerokosc uom="m">1.0</ot:szerokosc>
+			<ot:geometria>
+				<gml:Curve gml:id="id-c161d921-d845-48a6-9ae7-e9bd94fa6da8-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>477575.14 467937.72 477576.83 467934.77 477578.05 467932.65 477579.34 467930.35 477580.63 467928.19</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUIN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIN_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-7B1C-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-7B1C-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_133_1</ot:kodKarto10k>
+			<ot:rodzaj>most</ot:rodzaj>
+			<ot:konstrukcja>stała</ot:konstrukcja>
+			<ot:nosnosc>10</ot:nosnosc>
+			<ot:szerokosc uom="m">5.0</ot:szerokosc>
+			<ot:geometria>
+				<gml:Curve gml:id="id-95d6bf07-7115-4132-80bc-826efdbe4c39-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>478352.03 472418.97 478350.41 472418.63 478347.19 472417.95 478343.98 472417.28 478342.24 472416.91</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUIN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIN_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-7DAF-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-7DAF-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_134_2</ot:kodKarto10k>
+			<ot:rodzaj>kładka</ot:rodzaj>
+			<ot:szerokosc uom="m">1.5</ot:szerokosc>
+			<ot:geometria>
+				<gml:Curve gml:id="id-e3140892-a8a2-4e17-9329-ddf0b7ef953c-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>459027.59 454268.90 459029.96 454269.69 459032.33 454270.48</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUIN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIN_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-7B1D-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-7B1D-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_133_1</ot:kodKarto10k>
+			<ot:rodzaj>most</ot:rodzaj>
+			<ot:konstrukcja>stała</ot:konstrukcja>
+			<ot:nosnosc>10</ot:nosnosc>
+			<ot:szerokosc uom="m">2.0</ot:szerokosc>
+			<ot:geometria>
+				<gml:Curve gml:id="id-3d24f28a-35dd-48e3-b12d-dee604c49df8-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>475869.71 469950.22 475872.86 469951.56 475875.47 469952.67 475877.59 469953.57 475879.83 469954.53</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUIN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIN_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-7B91-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-7B91-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_133_1</ot:kodKarto10k>
+			<ot:rodzaj>most</ot:rodzaj>
+			<ot:konstrukcja>stała</ot:konstrukcja>
+			<ot:nosnosc>15</ot:nosnosc>
+			<ot:szerokosc uom="m">8.5</ot:szerokosc>
+			<ot:geometria>
+				<gml:Curve gml:id="id-054adf38-133b-4039-8f28-08a0ab6b90e3-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>477548.50 467759.04 477549.62 467755.66 477550.40 467753.35 477551.23 467750.86 477552.30 467747.66</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUIN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIN_L gml:id="PL.PZGiK.308.BDOT10k_779da67e-d339-42b0-99b4-e573c26066e7_2023-12-31T120000">
+			<ot:lokalnyId>779da67e-d339-42b0-99b4-e573c26066e7</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_134_1</ot:kodKarto10k>
+			<ot:rodzaj>kładka</ot:rodzaj>
+			<ot:szerokosc uom="m">3.0</ot:szerokosc>
+			<ot:geometria>
+				<gml:Curve gml:id="id-52e1c53d-fdd2-42bb-8e9b-e89e21ad92f0-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>473123.78 457312.80 473113.85 457311.95 473100.80 457311.47</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUIN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIN_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-7E22-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-7E22-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_133_1</ot:kodKarto10k>
+			<ot:rodzaj>most</ot:rodzaj>
+			<ot:konstrukcja>stała</ot:konstrukcja>
+			<ot:nosnosc>10</ot:nosnosc>
+			<ot:szerokosc uom="m">6.7</ot:szerokosc>
+			<ot:geometria>
+				<gml:Curve gml:id="id-b11f3acc-bc85-4ea9-ab06-4f070f0e8e2a-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>460479.45 474514.92 460483.58 474517.27 460489.01 474520.36</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUIN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIN_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-7D79-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-7D79-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_134_2</ot:kodKarto10k>
+			<ot:rodzaj>kładka</ot:rodzaj>
+			<ot:szerokosc uom="m">1.0</ot:szerokosc>
+			<ot:geometria>
+				<gml:Curve gml:id="id-d0969d5d-a034-4d6e-82e4-9ba38e2bde1a-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>473281.96 456789.34 473284.69 456790.21 473287.74 456790.94</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUIN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIN_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-7C37-829B-E053-CA2BA8C0F89A_2025-01-28T151321">
+			<ot:lokalnyId>2923959E-7C37-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2025-01-28T15:13:21</ot:wersja>
+			<ot:poczatekWersjiObiektu>2025-01-28T15:13:21</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>BGW-I-G.7520.19.2024</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_133_2</ot:kodKarto10k>
+			<ot:rodzaj>most</ot:rodzaj>
+			<ot:konstrukcja>stała</ot:konstrukcja>
+			<ot:nosnosc>8</ot:nosnosc>
+			<ot:szerokosc uom="m">6.2</ot:szerokosc>
+			<ot:geometria>
+				<gml:Curve gml:id="id-33f13cd3-9242-48af-888b-d0b3311bc3a9-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>464297.70 459835.09 464298.51 459832.68 464299.20 459830.73 464300.54 459827.21</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUIN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIN_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-7B93-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-7B93-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_133_1</ot:kodKarto10k>
+			<ot:rodzaj>most</ot:rodzaj>
+			<ot:konstrukcja>stała</ot:konstrukcja>
+			<ot:nosnosc>15</ot:nosnosc>
+			<ot:szerokosc uom="m">7.2</ot:szerokosc>
+			<ot:geometria>
+				<gml:Curve gml:id="id-c7f04079-4b05-4d21-accd-6899acd7b874-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>482145.48 449176.54 482138.35 449176.44 482132.48 449176.35</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUIN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIN_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-82C6-829B-E053-CA2BA8C0F89A_2025-01-28T145758">
+			<ot:lokalnyId>2923959E-82C6-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2025-01-28T14:57:58</ot:wersja>
+			<ot:poczatekWersjiObiektu>2025-01-28T14:57:58</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>BGW-I-G.7520.19.2024</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_133_2</ot:kodKarto10k>
+			<ot:rodzaj>wiadukt</ot:rodzaj>
+			<ot:nosnosc>15</ot:nosnosc>
+			<ot:szerokosc uom="m">7.5</ot:szerokosc>
+			<ot:geometria>
+				<gml:Curve gml:id="id-ce3e33a6-3599-4c69-aeb5-0237c3c2a158-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>476521.30 469704.41 476524.79 469705.18 476528.15 469705.86</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUIN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIN_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-7DAC-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-7DAC-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_134_1</ot:kodKarto10k>
+			<ot:rodzaj>kładka</ot:rodzaj>
+			<ot:szerokosc uom="m">2.5</ot:szerokosc>
+			<ot:geometria>
+				<gml:Curve gml:id="id-c5125afa-ee75-40cc-bb06-91fcb5c192fb-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>473269.12 450079.47 473269.30 450066.27</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUIN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIN_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-7B22-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-7B22-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_133_1</ot:kodKarto10k>
+			<ot:rodzaj>most</ot:rodzaj>
+			<ot:konstrukcja>stała</ot:konstrukcja>
+			<ot:nosnosc>10</ot:nosnosc>
+			<ot:szerokosc uom="m">7.3</ot:szerokosc>
+			<ot:geometria>
+				<gml:Curve gml:id="id-cf0b26e7-62be-4af7-8028-1fc8c7a06dc6-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>466049.35 455866.88 466048.88 455859.64 466048.58 455854.90</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUIN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIN_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-7DE6-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-7DE6-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_134_2</ot:kodKarto10k>
+			<ot:rodzaj>kładka</ot:rodzaj>
+			<ot:szerokosc uom="m">1.0</ot:szerokosc>
+			<ot:geometria>
+				<gml:Curve gml:id="id-e03eb281-097e-473a-9a84-b16aed738abb-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>477314.81 466901.78 477317.31 466903.83 477319.50 466905.52</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUIN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIN_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-7BBF-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-7BBF-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_133_1</ot:kodKarto10k>
+			<ot:rodzaj>most</ot:rodzaj>
+			<ot:konstrukcja>stała</ot:konstrukcja>
+			<ot:nosnosc>15</ot:nosnosc>
+			<ot:szerokosc uom="m">7.2</ot:szerokosc>
+			<ot:geometria>
+				<gml:Curve gml:id="id-181cb23e-9702-4a80-8d80-b958de5167e1-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>469790.53 465456.16 469798.37 465454.57 469806.21 465452.98</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUIN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIN_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-7BC5-829B-E053-CA2BA8C0F89A_2025-01-07T114415">
+			<ot:lokalnyId>2923959E-7BC5-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2025-01-07T11:44:15</ot:wersja>
+			<ot:poczatekWersjiObiektu>2025-01-07T11:44:15</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>BGW-I-G.7520.19.2024</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_133_1</ot:kodKarto10k>
+			<ot:rodzaj>most</ot:rodzaj>
+			<ot:konstrukcja>stała</ot:konstrukcja>
+			<ot:nosnosc>15</ot:nosnosc>
+			<ot:szerokosc uom="m">7.1</ot:szerokosc>
+			<ot:geometria>
+				<gml:Curve gml:id="id-662da8fa-5d72-400a-8718-727d0a84f2b6-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>475711.51 472395.84 475721.95 472392.40 475724.82 472391.45 475727.68 472390.51 475734.30 472388.32</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUIN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIN_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-7E60-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-7E60-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_133_1</ot:kodKarto10k>
+			<ot:rodzaj>most</ot:rodzaj>
+			<ot:konstrukcja>stała</ot:konstrukcja>
+			<ot:nosnosc>30</ot:nosnosc>
+			<ot:szerokosc uom="m">9.7</ot:szerokosc>
+			<ot:geometria>
+				<gml:Curve gml:id="id-2cc1f2ed-4074-425b-9151-eff8aee5b665-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>473105.78 457296.30 473115.78 457296.57 473125.77 457296.84</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUIN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIN_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-7C36-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-7C36-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_133_2</ot:kodKarto10k>
+			<ot:rodzaj>most</ot:rodzaj>
+			<ot:konstrukcja>stała</ot:konstrukcja>
+			<ot:nosnosc>6</ot:nosnosc>
+			<ot:szerokosc uom="m">3.5</ot:szerokosc>
+			<ot:geometria>
+				<gml:Curve gml:id="id-1456fa61-0a1e-47d3-b2f0-bcc65db0874a-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>450579.18 459562.12 450580.99 459559.07 450583.26 459555.24</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUIN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIN_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-7BFB-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-7BFB-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_133_1</ot:kodKarto10k>
+			<ot:rodzaj>most</ot:rodzaj>
+			<ot:konstrukcja>stała</ot:konstrukcja>
+			<ot:nosnosc>30</ot:nosnosc>
+			<ot:szerokosc uom="m">7.0</ot:szerokosc>
+			<ot:geometria>
+				<gml:Curve gml:id="id-4828cce2-cb0c-41ab-ac63-b711ac9af6b7-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>450179.32 463010.72 450182.75 463016.37 450185.54 463020.98</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUIN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIN_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-82B5-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-82B5-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_133_1</ot:kodKarto10k>
+			<ot:rodzaj>wiadukt</ot:rodzaj>
+			<ot:nosnosc>30</ot:nosnosc>
+			<ot:szerokosc uom="m">9.3</ot:szerokosc>
+			<ot:geometria>
+				<gml:Curve gml:id="id-277da8fd-27f2-49d6-ad35-1423e91eadd0-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>461344.69 476034.53 461346.15 476006.56 461346.62 475997.44 461347.21 475986.13 461348.23 475966.50 461349.06 475950.64</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUIN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIN_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-7BC9-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-7BC9-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_133_2</ot:kodKarto10k>
+			<ot:rodzaj>most</ot:rodzaj>
+			<ot:konstrukcja>stała</ot:konstrukcja>
+			<ot:nosnosc>2</ot:nosnosc>
+			<ot:szerokosc uom="m">3.8</ot:szerokosc>
+			<ot:geometria>
+				<gml:Curve gml:id="id-d5e6ecf8-20de-4a1f-8a67-79620eaf75a9-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>468132.89 461647.49 468134.53 461646.30 468137.74 461643.95</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUIN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIN_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-7DF1-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-7DF1-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:informacjaDodatkowa>przejście taśmociągu nad rzeką Struga Janiszewska</ot:informacjaDodatkowa>
+			<ot:kodKarto10k>0010_134_1</ot:kodKarto10k>
+			<ot:rodzaj>kładka</ot:rodzaj>
+			<ot:szerokosc uom="m">4.0</ot:szerokosc>
+			<ot:geometria>
+				<gml:Curve gml:id="id-112eda55-0594-43cb-bc28-c7a89f66fe71-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>476497.85 469800.67 476498.64 469797.86 476499.27 469795.63 476500.17 469792.44 476501.11 469789.12</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUIN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIN_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-7B8C-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-7B8C-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_133_1</ot:kodKarto10k>
+			<ot:rodzaj>most</ot:rodzaj>
+			<ot:konstrukcja>stała</ot:konstrukcja>
+			<ot:nosnosc>15</ot:nosnosc>
+			<ot:szerokosc uom="m">6.9</ot:szerokosc>
+			<ot:geometria>
+				<gml:Curve gml:id="id-0ee99346-a739-411a-bd20-ee8bb8971a67-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>479930.09 460275.60 479931.63 460273.51 479935.24 460268.59 479936.60 460266.73</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUIN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIN_L gml:id="PL.PZGiK.308.BDOT10k_oDayWzNR-eRwx-U8mk-78Cx-a18szlLX4WkY_2024-06-26T000000">
+			<ot:lokalnyId>oDayWzNR-eRwx-U8mk-78Cx-a18szlLX4WkY</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2024-06-26T00:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2024-06-26T00:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>BGW-I-G.7520.15.2024</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>BDOT500</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_133_1</ot:kodKarto10k>
+			<ot:rodzaj>wiadukt</ot:rodzaj>
+			<ot:szerokosc uom="m">11.0</ot:szerokosc>
+			<ot:geometria>
+				<gml:Curve gml:id="id-52234b77-0c90-4388-b62a-390629a44857-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>457082.42 463844.24 457096.36 463853.08 457107.53 463860.67</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUIN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIN_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-82CA-829B-E053-CA2BA8C0F89A_2024-06-21T000000">
+			<ot:lokalnyId>2923959E-82CA-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2024-06-21T00:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2024-06-21T00:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>BGW-I-G.7520.15.2024</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>nieczynny</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_220_1</ot:kodKarto10k>
+			<ot:rodzaj>wiadukt</ot:rodzaj>
+			<ot:nosnosc>30</ot:nosnosc>
+			<ot:szerokosc uom="m">5.0</ot:szerokosc>
+			<ot:geometria>
+				<gml:Curve gml:id="id-e57de622-2f13-409a-8791-31475efa8c12-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>469828.49 461194.50 469832.82 461199.37 469836.46 461203.47</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUIN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIN_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-7E24-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-7E24-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_133_1</ot:kodKarto10k>
+			<ot:rodzaj>most</ot:rodzaj>
+			<ot:konstrukcja>stała</ot:konstrukcja>
+			<ot:nosnosc>10</ot:nosnosc>
+			<ot:szerokosc uom="m">6.7</ot:szerokosc>
+			<ot:geometria>
+				<gml:Curve gml:id="id-e5f0e98b-5f90-4159-bd66-eff4be3545ae-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>473658.43 453225.17 473663.86 453227.56 473669.42 453229.99</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUIN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIN_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-7E25-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-7E25-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_133_1</ot:kodKarto10k>
+			<ot:rodzaj>most</ot:rodzaj>
+			<ot:konstrukcja>stała</ot:konstrukcja>
+			<ot:nosnosc>10</ot:nosnosc>
+			<ot:szerokosc uom="m">7.1</ot:szerokosc>
+			<ot:geometria>
+				<gml:Curve gml:id="id-2045e872-1935-4c1f-83fa-038f3073e088-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>473400.36 451711.50 473406.11 451711.30 473412.35 451711.09</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUIN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIN_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-7BCC-829B-E053-CA2BA8C0F89A_2025-01-28T151321">
+			<ot:lokalnyId>2923959E-7BCC-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2025-01-28T15:13:21</ot:wersja>
+			<ot:poczatekWersjiObiektu>2025-01-28T15:13:21</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>BGW-I-G.7520.19.2024</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_133_1</ot:kodKarto10k>
+			<ot:rodzaj>most</ot:rodzaj>
+			<ot:konstrukcja>stała</ot:konstrukcja>
+			<ot:nosnosc>20</ot:nosnosc>
+			<ot:szerokosc uom="m">4.1</ot:szerokosc>
+			<ot:geometria>
+				<gml:Curve gml:id="id-82d78930-25a0-4720-9797-5a3c08b19456-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>470553.92 458877.69 470562.60 458878.61 470573.90 458878.60</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUIN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIN_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-7BC1-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-7BC1-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_133_1</ot:kodKarto10k>
+			<ot:rodzaj>most</ot:rodzaj>
+			<ot:konstrukcja>stała</ot:konstrukcja>
+			<ot:nosnosc>15</ot:nosnosc>
+			<ot:szerokosc uom="m">7.2</ot:szerokosc>
+			<ot:geometria>
+				<gml:Curve gml:id="id-05488aac-2e8e-40a6-bfbf-e0d801f428f6-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>470927.44 458403.39 470930.90 458409.60 470935.71 458418.24</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUIN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIN_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-7B8A-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-7B8A-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_133_1</ot:kodKarto10k>
+			<ot:rodzaj>most</ot:rodzaj>
+			<ot:konstrukcja>stała</ot:konstrukcja>
+			<ot:nosnosc>15</ot:nosnosc>
+			<ot:szerokosc uom="m">8.6</ot:szerokosc>
+			<ot:geometria>
+				<gml:Curve gml:id="id-f853cb08-cb5d-4100-bb0d-94de1b918b58-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>459637.31 461785.24 459632.71 461783.29 459628.10 461781.34</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUIN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIN_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-7B8F-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-7B8F-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_133_1</ot:kodKarto10k>
+			<ot:rodzaj>most</ot:rodzaj>
+			<ot:konstrukcja>stała</ot:konstrukcja>
+			<ot:nosnosc>15</ot:nosnosc>
+			<ot:szerokosc uom="m">7.1</ot:szerokosc>
+			<ot:geometria>
+				<gml:Curve gml:id="id-c7fccec5-47fd-4310-8ae5-d74836ee9e09-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>473400.97 455642.11 473406.95 455641.57 473412.92 455641.02</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUIN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIN_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-7B1B-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-7B1B-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_133_1</ot:kodKarto10k>
+			<ot:rodzaj>most</ot:rodzaj>
+			<ot:konstrukcja>stała</ot:konstrukcja>
+			<ot:nosnosc>10</ot:nosnosc>
+			<ot:szerokosc uom="m">3.0</ot:szerokosc>
+			<ot:geometria>
+				<gml:Curve gml:id="id-b2c10ac7-b9fe-447e-b9b0-3055ce3bb1a2-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>477653.09 469288.15 477650.63 469287.56 477648.23 469286.99 477645.64 469286.37 477643.36 469285.83</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUIN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIN_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-82B2-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-82B2-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_133_1</ot:kodKarto10k>
+			<ot:rodzaj>wiadukt</ot:rodzaj>
+			<ot:nosnosc>30</ot:nosnosc>
+			<ot:szerokosc uom="m">9.8</ot:szerokosc>
+			<ot:geometria>
+				<gml:Curve gml:id="id-f489eadc-a0c9-44e3-8ec6-0cbb7bd3b8bb-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>463050.59 476452.38 463057.79 476439.79 463061.92 476432.58 463068.20 476421.60 463070.88 476416.92 463076.37 476407.32 463081.87 476397.71 463090.83 476382.04 463094.74 476375.22 463103.73 476359.51</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUIN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIN_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-7DB8-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-7DB8-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_134_2</ot:kodKarto10k>
+			<ot:rodzaj>kładka</ot:rodzaj>
+			<ot:szerokosc uom="m">1.0</ot:szerokosc>
+			<ot:geometria>
+				<gml:Curve gml:id="id-7df7dd4c-5831-4ff8-93a5-484ebabacab5-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>464711.93 467147.11 464713.21 467145.08 464714.57 467142.86</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUIN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIN_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-7C03-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-7C03-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_133_2</ot:kodKarto10k>
+			<ot:rodzaj>most</ot:rodzaj>
+			<ot:konstrukcja>stała</ot:konstrukcja>
+			<ot:nosnosc>5</ot:nosnosc>
+			<ot:szerokosc uom="m">7.5</ot:szerokosc>
+			<ot:geometria>
+				<gml:Curve gml:id="id-32401945-dcbb-44de-981b-d4cabca47c90-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>465440.74 455780.28 465441.11 455777.81 465441.48 455775.34</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUIN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIN_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-7E5C-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-7E5C-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_133_1</ot:kodKarto10k>
+			<ot:rodzaj>most</ot:rodzaj>
+			<ot:konstrukcja>stała</ot:konstrukcja>
+			<ot:nosnosc>10</ot:nosnosc>
+			<ot:szerokosc uom="m">7.1</ot:szerokosc>
+			<ot:geometria>
+				<gml:Curve gml:id="id-613eb7ae-b9c4-465f-bdb8-73ac14d91d0c-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>473273.91 456700.96 473279.08 456697.91 473284.24 456694.86</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUIN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIN_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-82B7-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-82B7-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_133_2</ot:kodKarto10k>
+			<ot:rodzaj>wiadukt</ot:rodzaj>
+			<ot:nosnosc>15</ot:nosnosc>
+			<ot:szerokosc uom="m">7.5</ot:szerokosc>
+			<ot:geometria>
+				<gml:Curve gml:id="id-282ff20c-3c60-426e-92c7-675b498b456a-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>475872.04 469843.84 475874.96 469842.50 475878.39 469840.89</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUIN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIN_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-7B59-829B-E053-CA2BA8C0F89A_2025-01-28T151321">
+			<ot:lokalnyId>2923959E-7B59-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2025-01-28T15:13:21</ot:wersja>
+			<ot:poczatekWersjiObiektu>2025-01-28T15:13:21</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>BGW-I-G.7520.19.2024</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_133_2</ot:kodKarto10k>
+			<ot:rodzaj>most</ot:rodzaj>
+			<ot:konstrukcja>stała</ot:konstrukcja>
+			<ot:nosnosc>10</ot:nosnosc>
+			<ot:szerokosc uom="m">5.4</ot:szerokosc>
+			<ot:geometria>
+				<gml:Curve gml:id="id-a16dc483-4c89-4437-8fb0-a7afc4af8e6c-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>479892.95 445458.80 479892.13 445454.24 479891.31 445449.95</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUIN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIN_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-7B1E-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-7B1E-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_133_1</ot:kodKarto10k>
+			<ot:rodzaj>most</ot:rodzaj>
+			<ot:konstrukcja>stała</ot:konstrukcja>
+			<ot:nosnosc>10</ot:nosnosc>
+			<ot:szerokosc uom="m">6.3</ot:szerokosc>
+			<ot:geometria>
+				<gml:Curve gml:id="id-8c2abe86-4c53-4b08-a1ad-98e8c1da9e7b-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>469955.34 458096.38 469957.55 458094.15 469963.07 458088.56</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUIN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIN_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-7B89-829B-E053-CA2BA8C0F89A_2024-06-19T000000">
+			<ot:lokalnyId>2923959E-7B89-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2024-06-19T00:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2024-06-19T00:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>BGW-I-G.7520.15.2024</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_133_2</ot:kodKarto10k>
+			<ot:rodzaj>most</ot:rodzaj>
+			<ot:konstrukcja>stała</ot:konstrukcja>
+			<ot:nosnosc>15</ot:nosnosc>
+			<ot:szerokosc uom="m">4.9</ot:szerokosc>
+			<ot:geometria>
+				<gml:Curve gml:id="id-2147f0aa-e69a-4459-bc0b-fb306e1e168e-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>454301.44 466932.08 454300.75 466927.13 454300.06 466922.18</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUIN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIN_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-7BFD-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-7BFD-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_133_1</ot:kodKarto10k>
+			<ot:rodzaj>most</ot:rodzaj>
+			<ot:konstrukcja>stała</ot:konstrukcja>
+			<ot:nosnosc>30</ot:nosnosc>
+			<ot:szerokosc uom="m">9.6</ot:szerokosc>
+			<ot:geometria>
+				<gml:Curve gml:id="id-858b89e7-3393-40f7-80ee-b19a11baee03-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>468075.57 461566.38 468081.42 461558.27 468087.26 461550.15</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUIN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIN_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-7E27-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-7E27-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_133_1</ot:kodKarto10k>
+			<ot:rodzaj>most</ot:rodzaj>
+			<ot:konstrukcja>stała</ot:konstrukcja>
+			<ot:nosnosc>30</ot:nosnosc>
+			<ot:szerokosc uom="m">7.0</ot:szerokosc>
+			<ot:geometria>
+				<gml:Curve gml:id="id-b8236499-ebb4-4e34-ab0d-bde60dd29f1d-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>471890.93 451734.06 471892.46 451728.26 471894.00 451722.46</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUIN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIN_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-7B21-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-7B21-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_133_1</ot:kodKarto10k>
+			<ot:rodzaj>most</ot:rodzaj>
+			<ot:konstrukcja>stała</ot:konstrukcja>
+			<ot:nosnosc>10</ot:nosnosc>
+			<ot:szerokosc uom="m">7.1</ot:szerokosc>
+			<ot:geometria>
+				<gml:Curve gml:id="id-7c7405be-a126-4d39-a40a-58042634926b-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>473409.92 456037.85 473416.50 456034.85 473420.84 456032.87</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUIN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIN_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-7E21-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-7E21-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_133_1</ot:kodKarto10k>
+			<ot:rodzaj>most</ot:rodzaj>
+			<ot:konstrukcja>stała</ot:konstrukcja>
+			<ot:nosnosc>10</ot:nosnosc>
+			<ot:szerokosc uom="m">6.5</ot:szerokosc>
+			<ot:geometria>
+				<gml:Curve gml:id="id-2700c908-4524-455a-a456-2749f2ddf3f5-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>473360.67 454083.60 473365.65 454083.96 473371.64 454084.41</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUIN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIN_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-7BC3-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-7BC3-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_133_1</ot:kodKarto10k>
+			<ot:rodzaj>most</ot:rodzaj>
+			<ot:konstrukcja>stała</ot:konstrukcja>
+			<ot:nosnosc>15</ot:nosnosc>
+			<ot:szerokosc uom="m">7.0</ot:szerokosc>
+			<ot:geometria>
+				<gml:Curve gml:id="id-464ad83c-fb88-4a80-8014-924864692515-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>472150.91 467853.96 472159.65 467848.14 472168.38 467842.31</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUIN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIN_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-7B56-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-7B56-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_133_2</ot:kodKarto10k>
+			<ot:rodzaj>most</ot:rodzaj>
+			<ot:konstrukcja>stała</ot:konstrukcja>
+			<ot:nosnosc>10</ot:nosnosc>
+			<ot:szerokosc uom="m">3.0</ot:szerokosc>
+			<ot:geometria>
+				<gml:Curve gml:id="id-2a8ba100-b028-42e1-9f8a-d1268f6417ad-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>472311.03 460302.38 472314.66 460305.05 472318.28 460307.71</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUIN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIN_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-7B52-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-7B52-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_133_2</ot:kodKarto10k>
+			<ot:rodzaj>most</ot:rodzaj>
+			<ot:konstrukcja>stała</ot:konstrukcja>
+			<ot:nosnosc>10</ot:nosnosc>
+			<ot:szerokosc uom="m">4.0</ot:szerokosc>
+			<ot:geometria>
+				<gml:Curve gml:id="id-b0aa69dc-b4da-4235-82cb-fe924757cefd-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>472958.88 469184.26 472962.26 469184.26 472964.88 469184.26</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUIN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIN_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-7B94-829B-E053-CA2BA8C0F89A_2025-01-28T151321">
+			<ot:lokalnyId>2923959E-7B94-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2025-01-28T15:13:21</ot:wersja>
+			<ot:poczatekWersjiObiektu>2025-01-28T15:13:21</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>BGW-I-G.7520.19.2024</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_133_1</ot:kodKarto10k>
+			<ot:rodzaj>most</ot:rodzaj>
+			<ot:konstrukcja>stała</ot:konstrukcja>
+			<ot:nosnosc>15</ot:nosnosc>
+			<ot:szerokosc uom="m">7.0</ot:szerokosc>
+			<ot:geometria>
+				<gml:Curve gml:id="id-0bfc60a7-e564-41ac-b615-2f1766c18107-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>471239.40 444898.10 471233.22 444895.42 471226.52 444892.75</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUIN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIN_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-7BFF-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-7BFF-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_133_2</ot:kodKarto10k>
+			<ot:rodzaj>most</ot:rodzaj>
+			<ot:konstrukcja>stała</ot:konstrukcja>
+			<ot:nosnosc>30</ot:nosnosc>
+			<ot:szerokosc uom="m">9.3</ot:szerokosc>
+			<ot:geometria>
+				<gml:Curve gml:id="id-576b40d4-0bcd-42a8-8ccc-374eeeded1f9-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>467930.46 449841.20 467930.77 449836.71 467931.08 449832.22</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUIN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIN_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-7D74-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-7D74-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_134_2</ot:kodKarto10k>
+			<ot:rodzaj>kładka</ot:rodzaj>
+			<ot:szerokosc uom="m">1.0</ot:szerokosc>
+			<ot:geometria>
+				<gml:Curve gml:id="id-77d604a6-0161-415a-a333-34a141ae40d2-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>473439.66 456130.78 473442.16 456130.81 473444.66 456130.84</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUIN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIN_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-7B4E-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-7B4E-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_133_1</ot:kodKarto10k>
+			<ot:rodzaj>most</ot:rodzaj>
+			<ot:konstrukcja>stała</ot:konstrukcja>
+			<ot:nosnosc>10</ot:nosnosc>
+			<ot:szerokosc uom="m">7.5</ot:szerokosc>
+			<ot:geometria>
+				<gml:Curve gml:id="id-c4aeb1d2-74d2-4ba3-b284-4e98fd612d21-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>478088.03 465639.23 478093.60 465642.59 478099.17 465645.94</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUIN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIN_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-7D7E-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-7D7E-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_134_2</ot:kodKarto10k>
+			<ot:rodzaj>kładka</ot:rodzaj>
+			<ot:szerokosc uom="m">1.0</ot:szerokosc>
+			<ot:geometria>
+				<gml:Curve gml:id="id-d1162a70-edb5-40fa-a568-e312a18f8b52-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>473388.51 455536.30 473391.99 455535.99 473395.48 455535.68</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUIN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIN_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-7DB5-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-7DB5-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_134_1</ot:kodKarto10k>
+			<ot:rodzaj>kładka</ot:rodzaj>
+			<ot:szerokosc uom="m">1.0</ot:szerokosc>
+			<ot:geometria>
+				<gml:Curve gml:id="id-3ecd2458-c923-4b88-97cd-8b639149473b-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>482143.91 449950.98 482148.99 449950.98 482153.91 449950.98</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUIN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIN_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-82C8-829B-E053-CA2BA8C0F89A_2024-06-21T000000">
+			<ot:lokalnyId>2923959E-82C8-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2024-06-21T00:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2024-06-21T00:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>BGW-I-G.7520.15.2024</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>nieczynny</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_220_1</ot:kodKarto10k>
+			<ot:rodzaj>wiadukt</ot:rodzaj>
+			<ot:nosnosc>20</ot:nosnosc>
+			<ot:szerokosc uom="m">6.5</ot:szerokosc>
+			<ot:geometria>
+				<gml:Curve gml:id="id-4488cc39-0097-42ae-8853-032d793fb417-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>464818.51 471663.56 464831.87 471656.19 464844.77 471649.06</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUIN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIN_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-7DF0-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-7DF0-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:informacjaDodatkowa>przejście dla zwierząt</ot:informacjaDodatkowa>
+			<ot:kodKarto10k>0010_151_1</ot:kodKarto10k>
+			<ot:rodzaj>przejście dla zwierząt</ot:rodzaj>
+			<ot:szerokosc uom="m">40.0</ot:szerokosc>
+			<ot:geometria>
+				<gml:Curve gml:id="id-3e6d6928-8ca5-460b-9869-bed4a7001730-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>455814.03 475141.19 455812.78 475116.74 455811.96 475100.55 455811.45 475090.55 455810.94 475080.47 455810.11 475064.24 455807.53 475013.36</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUIN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIN_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-7B54-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-7B54-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_133_2</ot:kodKarto10k>
+			<ot:rodzaj>most</ot:rodzaj>
+			<ot:konstrukcja>stała</ot:konstrukcja>
+			<ot:nosnosc>10</ot:nosnosc>
+			<ot:szerokosc uom="m">5.5</ot:szerokosc>
+			<ot:geometria>
+				<gml:Curve gml:id="id-6ebdeb3d-6596-40f9-bf14-7f01c072be42-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>475652.62 470078.15 475653.48 470081.05 475654.24 470083.60 475654.89 470085.82</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUIN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIN_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-7DEE-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-7DEE-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_134_1</ot:kodKarto10k>
+			<ot:rodzaj>kładka</ot:rodzaj>
+			<ot:szerokosc uom="m">1.0</ot:szerokosc>
+			<ot:geometria>
+				<gml:Curve gml:id="id-a1c37290-39fa-410a-aab1-107c8932114f-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>477746.13 468045.34 477748.58 468045.75 477750.98 468046.14 477753.57 468046.59 477756.97 468047.23</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUIN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIN_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-7E20-829B-E053-CA2BA8C0F89A_2024-06-19T000000">
+			<ot:lokalnyId>2923959E-7E20-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2024-06-19T00:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2024-06-19T00:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>BGW-I-G.7520.15.2024</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_133_2</ot:kodKarto10k>
+			<ot:rodzaj>most</ot:rodzaj>
+			<ot:konstrukcja>stała</ot:konstrukcja>
+			<ot:nosnosc>10</ot:nosnosc>
+			<ot:szerokosc uom="m">8.3</ot:szerokosc>
+			<ot:geometria>
+				<gml:Curve gml:id="id-a13867af-1836-4a6e-8fa0-7951fd6f2d3a-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>473779.15 452819.05 473785.64 452817.78 473788.93 452817.12</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUIN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIN_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-7BCD-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-7BCD-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_133_1</ot:kodKarto10k>
+			<ot:rodzaj>most</ot:rodzaj>
+			<ot:konstrukcja>stała</ot:konstrukcja>
+			<ot:nosnosc>40</ot:nosnosc>
+			<ot:szerokosc uom="m">6.0</ot:szerokosc>
+			<ot:geometria>
+				<gml:Curve gml:id="id-51484506-8694-475f-97ca-2dcc4d9617c5-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>473082.78 469963.84 473089.99 469954.27 473094.82 469947.87</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUIN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIN_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-7C3A-829B-E053-CA2BA8C0F89A_2025-01-28T142646">
+			<ot:lokalnyId>2923959E-7C3A-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2025-01-28T14:26:46</ot:wersja>
+			<ot:poczatekWersjiObiektu>2025-01-28T14:26:46</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>BGW-I-G.7520.19.2024</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>pomiar terenowy</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_133_1</ot:kodKarto10k>
+			<ot:rodzaj>most</ot:rodzaj>
+			<ot:konstrukcja>stała</ot:konstrukcja>
+			<ot:nosnosc>30</ot:nosnosc>
+			<ot:szerokosc uom="m">16.5</ot:szerokosc>
+			<ot:geometria>
+				<gml:Curve gml:id="id-8f136970-e696-43a2-8473-c6f632dd3ba6-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>478051.64 473188.91 478037.42 473195.64 478034.04 473197.02 478030.52 473198.73 478023.51 473202.09 478019.98 473203.73</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUIN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIN_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-7B8D-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-7B8D-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_133_1</ot:kodKarto10k>
+			<ot:rodzaj>most</ot:rodzaj>
+			<ot:konstrukcja>stała</ot:konstrukcja>
+			<ot:nosnosc>15</ot:nosnosc>
+			<ot:szerokosc uom="m">7.0</ot:szerokosc>
+			<ot:geometria>
+				<gml:Curve gml:id="id-815d7249-ef0d-47ad-987a-e51a77a27854-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>451917.33 467148.87 451917.73 467144.12 451918.26 467137.91</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUIN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIN_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-7E5E-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-7E5E-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_133_2</ot:kodKarto10k>
+			<ot:rodzaj>most</ot:rodzaj>
+			<ot:konstrukcja>stała</ot:konstrukcja>
+			<ot:nosnosc>15</ot:nosnosc>
+			<ot:szerokosc uom="m">8.0</ot:szerokosc>
+			<ot:geometria>
+				<gml:Curve gml:id="id-8fcd09de-726b-441a-9879-9aee344e1176-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>470168.84 459811.94 470171.32 459814.42 470173.79 459816.89</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUIN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIN_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-7BF8-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-7BF8-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_133_1</ot:kodKarto10k>
+			<ot:rodzaj>most</ot:rodzaj>
+			<ot:konstrukcja>stała</ot:konstrukcja>
+			<ot:nosnosc>20</ot:nosnosc>
+			<ot:szerokosc uom="m">9.5</ot:szerokosc>
+			<ot:geometria>
+				<gml:Curve gml:id="id-3e084822-2fde-4fcb-93f5-495a272ac759-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>469479.94 461197.90 469488.80 461197.90 469501.94 461197.90</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUIN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIN_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-7BC8-829B-E053-CA2BA8C0F89A_2025-01-28T151321">
+			<ot:lokalnyId>2923959E-7BC8-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2025-01-28T15:13:21</ot:wersja>
+			<ot:poczatekWersjiObiektu>2025-01-28T15:13:21</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>BGW-I-G.7520.19.2024</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_133_2</ot:kodKarto10k>
+			<ot:rodzaj>most</ot:rodzaj>
+			<ot:konstrukcja>stała</ot:konstrukcja>
+			<ot:nosnosc>15</ot:nosnosc>
+			<ot:szerokosc uom="m">9.5</ot:szerokosc>
+			<ot:geometria>
+				<gml:Curve gml:id="id-c7d994b1-44cd-4122-b443-c03c92465a38-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>467994.05 452880.03 467994.52 452876.26 467994.81 452873.07</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUIN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIN_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-7D81-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-7D81-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_134_2</ot:kodKarto10k>
+			<ot:rodzaj>kładka</ot:rodzaj>
+			<ot:szerokosc uom="m">3.0</ot:szerokosc>
+			<ot:geometria>
+				<gml:Curve gml:id="id-77c55886-90f7-4998-a66b-426c60f05e6e-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>470306.33 458712.97 470310.33 458710.90 470314.32 458708.83</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUIN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIN_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-7E2A-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-7E2A-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_133_1</ot:kodKarto10k>
+			<ot:rodzaj>most</ot:rodzaj>
+			<ot:konstrukcja>stała</ot:konstrukcja>
+			<ot:nosnosc>30</ot:nosnosc>
+			<ot:szerokosc uom="m">16.0</ot:szerokosc>
+			<ot:geometria>
+				<gml:Curve gml:id="id-ffc45436-a39a-4824-9461-dd1be14dbbb7-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>460486.88 475725.29 460503.10 475730.48 460511.98 475733.32 460523.27 475736.93 460536.41 475741.13</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUIN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIN_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-7E58-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-7E58-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_133_1</ot:kodKarto10k>
+			<ot:rodzaj>most</ot:rodzaj>
+			<ot:konstrukcja>stała</ot:konstrukcja>
+			<ot:nosnosc>8</ot:nosnosc>
+			<ot:szerokosc uom="m">4.8</ot:szerokosc>
+			<ot:geometria>
+				<gml:Curve gml:id="id-7863bbf1-f1d3-4723-8139-48c9e891f714-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>460473.80 477979.39 460477.82 477979.97 460483.70 477980.82</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUIN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIN_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-7B55-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-7B55-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_133_2</ot:kodKarto10k>
+			<ot:rodzaj>most</ot:rodzaj>
+			<ot:konstrukcja>stała</ot:konstrukcja>
+			<ot:nosnosc>10</ot:nosnosc>
+			<ot:szerokosc uom="m">7.2</ot:szerokosc>
+			<ot:geometria>
+				<gml:Curve gml:id="id-147d92e8-3745-45f0-bf62-3cd55cc0fa83-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>473279.65 455217.79 473283.65 455217.99 473287.64 455218.19</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUIN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIN_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-7DE4-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-7DE4-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_134_2</ot:kodKarto10k>
+			<ot:rodzaj>kładka</ot:rodzaj>
+			<ot:szerokosc uom="m">1.0</ot:szerokosc>
+			<ot:geometria>
+				<gml:Curve gml:id="id-39fc111a-550c-4ef6-b0e9-a13edff78c51-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>474047.89 465703.60 474049.79 465702.19 474051.87 465700.58</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUIN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIN_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-7DE8-829B-E053-CA2BA8C0F89A_2024-06-19T000000">
+			<ot:lokalnyId>2923959E-7DE8-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2024-06-19T00:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2024-06-19T00:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>BGW-I-G.7520.15.2024</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_134_2</ot:kodKarto10k>
+			<ot:rodzaj>kładka</ot:rodzaj>
+			<ot:szerokosc uom="m">1.0</ot:szerokosc>
+			<ot:geometria>
+				<gml:Curve gml:id="id-53396f79-6a2e-4452-be0b-4d75aaf11fab-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>477245.28 466946.91 477246.52 466945.10 477247.90 466943.07 477249.30 466940.83 477250.74 466938.54</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUIN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIN_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-7C3C-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-7C3C-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>pomiar terenowy</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:informacjaDodatkowa>długość do granicy powiatu 76.1m</ot:informacjaDodatkowa>
+			<ot:kodKarto10k>0010_133_1</ot:kodKarto10k>
+			<ot:rodzaj>most</ot:rodzaj>
+			<ot:konstrukcja>stała</ot:konstrukcja>
+			<ot:nosnosc>30</ot:nosnosc>
+			<ot:szerokosc uom="m">17.8</ot:szerokosc>
+			<ot:geometria>
+				<gml:Curve gml:id="id-49177451-d7d1-4ffe-9e69-b330a75507e7-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>478572.51 472979.63 478611.72 472967.00 478644.91 472956.31</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUIN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIN_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-7B20-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-7B20-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_133_1</ot:kodKarto10k>
+			<ot:rodzaj>most</ot:rodzaj>
+			<ot:konstrukcja>stała</ot:konstrukcja>
+			<ot:nosnosc>10</ot:nosnosc>
+			<ot:szerokosc uom="m">7.0</ot:szerokosc>
+			<ot:geometria>
+				<gml:Curve gml:id="id-46675d68-f62d-4888-8700-6f7796371558-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>479776.72 461627.72 479780.57 461631.29 479785.56 461635.84</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUIN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIN_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-7E26-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-7E26-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_133_1</ot:kodKarto10k>
+			<ot:rodzaj>most</ot:rodzaj>
+			<ot:konstrukcja>stała</ot:konstrukcja>
+			<ot:nosnosc>15</ot:nosnosc>
+			<ot:szerokosc uom="m">7.2</ot:szerokosc>
+			<ot:geometria>
+				<gml:Curve gml:id="id-189e7ca4-78bd-4550-99bb-1f3fc1f0da9d-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>471844.74 448831.00 471850.76 448828.17 471855.60 448825.89</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUIN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIN_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-7E29-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-7E29-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_133_1</ot:kodKarto10k>
+			<ot:rodzaj>most</ot:rodzaj>
+			<ot:konstrukcja>stała</ot:konstrukcja>
+			<ot:nosnosc>30</ot:nosnosc>
+			<ot:szerokosc uom="m">16.0</ot:szerokosc>
+			<ot:geometria>
+				<gml:Curve gml:id="id-d639a337-571f-42fd-8d65-1b9b2990d619-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>460485.49 475703.82 460500.35 475708.57 460510.21 475711.73 460519.56 475714.72 460535.02 475719.66</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUIN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIN_L gml:id="PL.PZGiK.308.BDOT10k_084c72e6-a9c9-42d0-912f-75f70e4cc5ac_2023-12-31T120000">
+			<ot:lokalnyId>084c72e6-a9c9-42d0-912f-75f70e4cc5ac</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_134_2</ot:kodKarto10k>
+			<ot:rodzaj>kładka</ot:rodzaj>
+			<ot:szerokosc uom="m">2.0</ot:szerokosc>
+			<ot:geometria>
+				<gml:Curve gml:id="id-865c721a-331e-40aa-9944-7ca0732279a5-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>452181.82 468213.81 452185.07 468215.67 452187.03 468216.85</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUIN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIN_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-7DB1-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-7DB1-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_134_2</ot:kodKarto10k>
+			<ot:rodzaj>kładka</ot:rodzaj>
+			<ot:szerokosc uom="m">1.7</ot:szerokosc>
+			<ot:geometria>
+				<gml:Curve gml:id="id-cd6ccbb5-d3f7-452c-9b9b-1ca91e307cbd-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>473754.18 450221.74 473752.56 450220.07 473749.98 450217.37</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUIN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIN_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-7B5B-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-7B5B-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_133_2</ot:kodKarto10k>
+			<ot:rodzaj>most</ot:rodzaj>
+			<ot:konstrukcja>stała</ot:konstrukcja>
+			<ot:nosnosc>10</ot:nosnosc>
+			<ot:szerokosc uom="m">5.7</ot:szerokosc>
+			<ot:geometria>
+				<gml:Curve gml:id="id-c19265ec-4759-47bb-840f-502ec80630f3-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>480003.07 447044.62 480004.97 447039.58 480006.25 447036.20</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUIN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIN_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-82B1-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-82B1-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_133_1</ot:kodKarto10k>
+			<ot:rodzaj>wiadukt</ot:rodzaj>
+			<ot:nosnosc>30</ot:nosnosc>
+			<ot:szerokosc uom="m">9.0</ot:szerokosc>
+			<ot:geometria>
+				<gml:Curve gml:id="id-003779b3-ed11-4dbb-8f51-94ebdd6cbbdc-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>459368.93 475368.19 459369.62 475373.18 459373.76 475400.66 459375.39 475411.45 459376.92 475421.64 459379.24 475437.04 459380.94 475448.31 459382.02 475455.17</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUIN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIN_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-7BC2-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-7BC2-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_133_1</ot:kodKarto10k>
+			<ot:rodzaj>most</ot:rodzaj>
+			<ot:konstrukcja>stała</ot:konstrukcja>
+			<ot:nosnosc>15</ot:nosnosc>
+			<ot:szerokosc uom="m">7.5</ot:szerokosc>
+			<ot:geometria>
+				<gml:Curve gml:id="id-d963bb36-9628-4b9c-a419-8a9092813e83-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>470887.06 466951.20 470899.49 466944.57 470904.71 466941.79</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUIN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIN_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-7B87-829B-E053-CA2BA8C0F89A_2024-06-21T000000">
+			<ot:lokalnyId>2923959E-7B87-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2024-06-21T00:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2024-06-21T00:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>BGW-I-G.7520.15.2024</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_220_1</ot:kodKarto10k>
+			<ot:rodzaj>most</ot:rodzaj>
+			<ot:konstrukcja>stała</ot:konstrukcja>
+			<ot:nosnosc>10</ot:nosnosc>
+			<ot:szerokosc uom="m">3.1</ot:szerokosc>
+			<ot:geometria>
+				<gml:Curve gml:id="id-2cc6f11b-8c8b-449e-b406-24889d38715d-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>451377.43 461346.99 451383.29 461347.14 451388.43 461347.28</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUIN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIN_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-7B4F-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-7B4F-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_133_1</ot:kodKarto10k>
+			<ot:rodzaj>most</ot:rodzaj>
+			<ot:konstrukcja>stała</ot:konstrukcja>
+			<ot:nosnosc>10</ot:nosnosc>
+			<ot:szerokosc uom="m">7.0</ot:szerokosc>
+			<ot:geometria>
+				<gml:Curve gml:id="id-5aae3fa5-e0c0-4f56-a448-edc937a500ce-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>479656.80 466290.26 479660.50 466282.61 479664.20 466274.96</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUIN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIN_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-7B86-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-7B86-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_133_2</ot:kodKarto10k>
+			<ot:rodzaj>most</ot:rodzaj>
+			<ot:konstrukcja>stała</ot:konstrukcja>
+			<ot:nosnosc>10</ot:nosnosc>
+			<ot:szerokosc uom="m">5.8</ot:szerokosc>
+			<ot:geometria>
+				<gml:Curve gml:id="id-9bb453de-778e-4c7e-a4fc-6073c16b51a2-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>481480.91 448478.98 481480.55 448482.37 481479.95 448487.93</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUIN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIN_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-7B1A-829B-E053-CA2BA8C0F89A_2024-06-19T000000">
+			<ot:lokalnyId>2923959E-7B1A-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2024-06-19T00:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2024-06-19T00:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>BGW-I-G.7520.15.2024</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_133_2</ot:kodKarto10k>
+			<ot:rodzaj>most</ot:rodzaj>
+			<ot:konstrukcja>stała</ot:konstrukcja>
+			<ot:nosnosc>10</ot:nosnosc>
+			<ot:szerokosc uom="m">2.5</ot:szerokosc>
+			<ot:geometria>
+				<gml:Curve gml:id="id-4fac603b-dca2-48cd-a840-3369882cf208-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>477704.72 468685.46 477702.25 468685.38 477699.71 468685.29 477697.25 468685.21 477694.73 468685.13</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUIN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIN_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-7BCA-829B-E053-CA2BA8C0F89A_2024-06-19T000000">
+			<ot:lokalnyId>2923959E-7BCA-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2024-06-19T00:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2024-06-19T00:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>BGW-I-G.7520.15.2024</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_133_2</ot:kodKarto10k>
+			<ot:rodzaj>most</ot:rodzaj>
+			<ot:konstrukcja>stała</ot:konstrukcja>
+			<ot:nosnosc>20</ot:nosnosc>
+			<ot:szerokosc uom="m">7.0</ot:szerokosc>
+			<ot:geometria>
+				<gml:Curve gml:id="id-8ab183c6-bdc8-4114-8bc9-3ee30d5747ea-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>446922.21 469217.02 446923.78 469217.13 446929.05 469217.49</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUIN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIN_L gml:id="PL.PZGiK.308.BDOT10k_BDkyneFl-ajgL-oDbf-U5l3-sblywMXBvLOS_2024-06-19T000000">
+			<ot:lokalnyId>BDkyneFl-ajgL-oDbf-U5l3-sblywMXBvLOS</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2024-06-19T00:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2024-06-19T00:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>BGW-I-G.7520.15.2024</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>BDOT500</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_133_1</ot:kodKarto10k>
+			<ot:rodzaj>most</ot:rodzaj>
+			<ot:szerokosc uom="m">12.5</ot:szerokosc>
+			<ot:geometria>
+				<gml:Curve gml:id="id-3a09114a-e45a-44a9-ba3c-79a2f764d1ad-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>457196.97 463926.95 457203.82 463932.04 457209.78 463936.76</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUIN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIN_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-7D7D-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-7D7D-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_134_2</ot:kodKarto10k>
+			<ot:rodzaj>kładka</ot:rodzaj>
+			<ot:szerokosc uom="m">1.0</ot:szerokosc>
+			<ot:geometria>
+				<gml:Curve gml:id="id-b9f22579-d1e5-474f-bb5f-39fa62511ade-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>473359.70 455423.58 473363.12 455422.86 473366.55 455422.16</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUIN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIN_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-82B0-829B-E053-CA2BA8C0F89A_2024-06-26T000000">
+			<ot:lokalnyId>2923959E-82B0-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2024-06-26T00:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2024-06-26T00:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>BGW-I-G.7520.15.2024</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_131_1</ot:kodKarto10k>
+			<ot:rodzaj>tunel</ot:rodzaj>
+			<ot:szerokosc uom="m">5.0</ot:szerokosc>
+			<ot:geometria>
+				<gml:Curve gml:id="id-10377efe-2c6a-4b10-971b-3fe3da3d0106-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>478412.85 473003.96 478416.54 473013.94 478423.41 473032.45 478427.13 473042.39</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUIN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIN_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-7DB3-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-7DB3-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_134_2</ot:kodKarto10k>
+			<ot:rodzaj>kładka</ot:rodzaj>
+			<ot:szerokosc uom="m">1.5</ot:szerokosc>
+			<ot:geometria>
+				<gml:Curve gml:id="id-f97b3e78-2f54-4171-bdbd-d46c6c11cc5c-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>477670.71 460151.96 477671.66 460149.11 477672.60 460146.27</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUIN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIN_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-7C00-829B-E053-CA2BA8C0F89A_2025-01-28T142159">
+			<ot:lokalnyId>2923959E-7C00-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2025-01-28T14:21:59</ot:wersja>
+			<ot:poczatekWersjiObiektu>2025-01-28T14:21:59</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>BGW-I-G.7520.19.2024</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_133_1</ot:kodKarto10k>
+			<ot:rodzaj>most</ot:rodzaj>
+			<ot:konstrukcja>stała</ot:konstrukcja>
+			<ot:nosnosc>5</ot:nosnosc>
+			<ot:szerokosc uom="m">4.5</ot:szerokosc>
+			<ot:geometria>
+				<gml:Curve gml:id="id-033a556e-8024-4b3e-a22f-d2478bf8ac8e-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>452093.45 468252.12 452097.24 468253.62 452103.23 468255.95 452108.33 468258.01</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUIN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIN_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-7BFE-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-7BFE-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_133_2</ot:kodKarto10k>
+			<ot:rodzaj>most</ot:rodzaj>
+			<ot:konstrukcja>stała</ot:konstrukcja>
+			<ot:nosnosc>30</ot:nosnosc>
+			<ot:szerokosc uom="m">10.5</ot:szerokosc>
+			<ot:geometria>
+				<gml:Curve gml:id="id-c57897fd-5d63-4a4d-87d4-e696cba9fa95-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>472927.35 470675.98 472927.87 470672.28 472928.33 470669.05</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUIN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIN_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-82B4-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-82B4-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_133_1</ot:kodKarto10k>
+			<ot:rodzaj>wiadukt</ot:rodzaj>
+			<ot:nosnosc>30</ot:nosnosc>
+			<ot:szerokosc uom="m">16.0</ot:szerokosc>
+			<ot:geometria>
+				<gml:Curve gml:id="id-28027a7c-fb4a-42b0-883f-81f8a301041c-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>458487.31 475325.40 458494.73 475325.56 458503.30 475325.88</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUIN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIN_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-7C39-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-7C39-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>pomiar terenowy</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_133_1</ot:kodKarto10k>
+			<ot:rodzaj>most</ot:rodzaj>
+			<ot:konstrukcja>stała</ot:konstrukcja>
+			<ot:nosnosc>30</ot:nosnosc>
+			<ot:szerokosc uom="m">16.5</ot:szerokosc>
+			<ot:geometria>
+				<gml:Curve gml:id="id-a19a4c95-039e-4e1b-86fc-661fdf81e542-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>478042.49 473170.64 478028.42 473177.16 478025.35 473178.66 478021.80 473180.31 478014.63 473183.93 478010.86 473185.50</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUIN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIN_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-82B6-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-82B6-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_133_2</ot:kodKarto10k>
+			<ot:rodzaj>wiadukt</ot:rodzaj>
+			<ot:nosnosc>15</ot:nosnosc>
+			<ot:szerokosc uom="m">7.5</ot:szerokosc>
+			<ot:geometria>
+				<gml:Curve gml:id="id-c27c3f75-6aa5-42f4-bd67-b04f65763a52-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>475435.35 469074.20 475438.67 469073.26 475442.08 469072.29</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUIN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIN_L gml:id="PL.PZGiK.308.BDOT10k_48904111-1542-46e0-a44f-d5844dc67ec4_2023-12-31T120000">
+			<ot:lokalnyId>48904111-1542-46e0-a44f-d5844dc67ec4</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_133_2</ot:kodKarto10k>
+			<ot:rodzaj>most</ot:rodzaj>
+			<ot:konstrukcja>stała</ot:konstrukcja>
+			<ot:nosnosc>15</ot:nosnosc>
+			<ot:szerokosc uom="m">5.0</ot:szerokosc>
+			<ot:geometria>
+				<gml:Curve gml:id="id-39606e2e-ce99-4f61-ae6f-44a4bb362dbe-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>459612.06 467529.21 459613.54 467531.10 459616.39 467534.77</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUIN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIN_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-7DB6-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-7DB6-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_134_2</ot:kodKarto10k>
+			<ot:rodzaj>kładka</ot:rodzaj>
+			<ot:szerokosc uom="m">1.0</ot:szerokosc>
+			<ot:geometria>
+				<gml:Curve gml:id="id-03c0fa0c-385c-41c3-ac24-eb3af57cd75d-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>461802.17 472271.69 461801.43 472273.02 461800.26 472275.20</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUIN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIN_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-7D75-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-7D75-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_134_2</ot:kodKarto10k>
+			<ot:rodzaj>kładka</ot:rodzaj>
+			<ot:szerokosc uom="m">1.0</ot:szerokosc>
+			<ot:geometria>
+				<gml:Curve gml:id="id-2eeae07d-3399-4b82-ae12-d079870f41e6-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>447336.77 468352.62 447339.61 468353.99 447342.21 468355.14</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUIN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIN_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-7B57-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-7B57-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_133_2</ot:kodKarto10k>
+			<ot:rodzaj>most</ot:rodzaj>
+			<ot:konstrukcja>stała</ot:konstrukcja>
+			<ot:nosnosc>10</ot:nosnosc>
+			<ot:szerokosc uom="m">5.2</ot:szerokosc>
+			<ot:geometria>
+				<gml:Curve gml:id="id-0daf3e89-22cf-412f-8325-ac4391b07ce8-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>449705.04 466399.70 449704.69 466404.19 449704.33 466408.67</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUIN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIN_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-7B1F-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-7B1F-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_133_1</ot:kodKarto10k>
+			<ot:rodzaj>most</ot:rodzaj>
+			<ot:konstrukcja>stała</ot:konstrukcja>
+			<ot:nosnosc>10</ot:nosnosc>
+			<ot:szerokosc uom="m">7.3</ot:szerokosc>
+			<ot:geometria>
+				<gml:Curve gml:id="id-bdb0ef19-c574-4ec1-a9cb-0ff48a5c337f-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>479585.98 463827.10 479592.46 463826.22 479596.88 463825.62</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUIN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIN_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-7B5A-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-7B5A-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_133_2</ot:kodKarto10k>
+			<ot:rodzaj>most</ot:rodzaj>
+			<ot:konstrukcja>stała</ot:konstrukcja>
+			<ot:nosnosc>10</ot:nosnosc>
+			<ot:szerokosc uom="m">5.5</ot:szerokosc>
+			<ot:geometria>
+				<gml:Curve gml:id="id-ccc3e48e-fb45-4e1c-a685-bd070b9ea304-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>477697.87 468342.15 477699.90 468342.43 477702.33 468342.77 477704.94 468343.13 477706.78 468343.39</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUIN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIN_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-7B8B-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-7B8B-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_133_1</ot:kodKarto10k>
+			<ot:rodzaj>most</ot:rodzaj>
+			<ot:konstrukcja>stała</ot:konstrukcja>
+			<ot:nosnosc>15</ot:nosnosc>
+			<ot:szerokosc uom="m">5.3</ot:szerokosc>
+			<ot:geometria>
+				<gml:Curve gml:id="id-66b23f90-bb6d-41bf-a720-bcb6bc5b4b52-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>468940.15 457255.00 468938.63 457260.29 468937.12 457265.57</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUIN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIN_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-7B58-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-7B58-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_133_2</ot:kodKarto10k>
+			<ot:rodzaj>most</ot:rodzaj>
+			<ot:konstrukcja>stała</ot:konstrukcja>
+			<ot:nosnosc>10</ot:nosnosc>
+			<ot:szerokosc uom="m">5.2</ot:szerokosc>
+			<ot:geometria>
+				<gml:Curve gml:id="id-44e9b01c-fdc4-45fe-b549-0bc940a573ef-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>469577.81 452548.02 469576.78 452543.64 469575.76 452539.26</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUIN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIN_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-7BFA-829B-E053-CA2BA8C0F89A_2024-06-21T000000">
+			<ot:lokalnyId>2923959E-7BFA-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2024-06-21T00:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2024-06-21T00:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>BGW-I-G.7520.15.2024</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>zniszczony</ot:kategoriaIstnienia>
+			<ot:informacjaDodatkowa>brak toru kolejowego na moście</ot:informacjaDodatkowa>
+			<ot:kodKarto10k>0010_220_1</ot:kodKarto10k>
+			<ot:rodzaj>most</ot:rodzaj>
+			<ot:konstrukcja>stała</ot:konstrukcja>
+			<ot:nosnosc>20</ot:nosnosc>
+			<ot:szerokosc uom="m">5.9</ot:szerokosc>
+			<ot:geometria>
+				<gml:Curve gml:id="id-128c067c-bf0f-46e2-83be-30dc24159dae-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>469124.14 462713.82 469132.39 462707.49 469140.80 462701.04</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUIN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIN_L gml:id="PL.PZGiK.308.BDOT10k_K5FX9lpe-FYjL-CM89-wDXM-eCKLi3IJh82c_2024-06-19T000000">
+			<ot:lokalnyId>K5FX9lpe-FYjL-CM89-wDXM-eCKLi3IJh82c</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2024-06-19T00:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2024-06-19T00:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>BGW-I-G.7520.15.2024</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>BDOT500</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_134_1</ot:kodKarto10k>
+			<ot:rodzaj>kładka</ot:rodzaj>
+			<ot:szerokosc uom="m">3.5</ot:szerokosc>
+			<ot:geometria>
+				<gml:Curve gml:id="id-cc7319a8-23e1-4f26-b25b-5859e1097933-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>457217.36 463921.69 457225.39 463928.63</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUIN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIN_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-7E1F-829B-E053-CA2BA8C0F89A_2024-06-19T000000">
+			<ot:lokalnyId>2923959E-7E1F-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2024-06-19T00:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2024-06-19T00:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>BGW-I-G.7520.15.2024</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_133_2</ot:kodKarto10k>
+			<ot:rodzaj>most</ot:rodzaj>
+			<ot:konstrukcja>stała</ot:konstrukcja>
+			<ot:nosnosc>10</ot:nosnosc>
+			<ot:szerokosc uom="m">7.9</ot:szerokosc>
+			<ot:geometria>
+				<gml:Curve gml:id="id-130191d3-7e00-403d-b766-bdb565280f71-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>461188.93 475317.74 461188.63 475312.51 461188.35 475307.76</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUIN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIN_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-7E5A-829B-E053-CA2BA8C0F89A_2024-06-26T000000">
+			<ot:lokalnyId>2923959E-7E5A-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2024-06-26T00:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2024-06-26T00:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>BGW-I-G.7520.15.2024</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_134_2</ot:kodKarto10k>
+			<ot:rodzaj>kładka</ot:rodzaj>
+			<ot:nosnosc>10</ot:nosnosc>
+			<ot:szerokosc uom="m">3.8</ot:szerokosc>
+			<ot:geometria>
+				<gml:Curve gml:id="id-cd88401c-e471-4e11-ba3d-6583c4e022ff-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>465579.54 460772.42 465579.91 460775.40 465580.28 460778.37</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUIN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIN_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-7B88-829B-E053-CA2BA8C0F89A_2024-06-19T000000">
+			<ot:lokalnyId>2923959E-7B88-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2024-06-19T00:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2024-06-19T00:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>BGW-I-G.7520.15.2024</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_133_2</ot:kodKarto10k>
+			<ot:rodzaj>most</ot:rodzaj>
+			<ot:konstrukcja>stała</ot:konstrukcja>
+			<ot:nosnosc>15</ot:nosnosc>
+			<ot:szerokosc uom="m">10.5</ot:szerokosc>
+			<ot:geometria>
+				<gml:Curve gml:id="id-9e32dd25-efc1-43fc-9a1d-93643030757a-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>456433.14 464325.19 456436.45 464328.94 456439.76 464332.68</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUIN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIN_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-7C02-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-7C02-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_133_2</ot:kodKarto10k>
+			<ot:rodzaj>most</ot:rodzaj>
+			<ot:konstrukcja>stała</ot:konstrukcja>
+			<ot:nosnosc>5</ot:nosnosc>
+			<ot:szerokosc uom="m">6.2</ot:szerokosc>
+			<ot:geometria>
+				<gml:Curve gml:id="id-621ce88d-3722-4040-b0eb-47c1181811eb-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>467537.79 449630.35 467536.95 449632.75 467536.15 449635.07</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUIN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIN_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-7C34-829B-E053-CA2BA8C0F89A_2024-06-21T000000">
+			<ot:lokalnyId>2923959E-7C34-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2024-06-21T00:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2024-06-21T00:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>BGW-I-G.7520.15.2024</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_220_1</ot:kodKarto10k>
+			<ot:rodzaj>most</ot:rodzaj>
+			<ot:konstrukcja>stała</ot:konstrukcja>
+			<ot:nosnosc>50</ot:nosnosc>
+			<ot:szerokosc uom="m">10.0</ot:szerokosc>
+			<ot:geometria>
+				<gml:Curve gml:id="id-737d7b4e-6d24-4e94-9a34-5b3feb23341b-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>469584.74 461037.96 469592.99 461041.68 469603.88 461046.59</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUIN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIN_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-7C38-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-7C38-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>pomiar terenowy</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_133_1</ot:kodKarto10k>
+			<ot:rodzaj>most</ot:rodzaj>
+			<ot:konstrukcja>stała</ot:konstrukcja>
+			<ot:nosnosc>30</ot:nosnosc>
+			<ot:szerokosc uom="m">4.0</ot:szerokosc>
+			<ot:geometria>
+				<gml:Curve gml:id="id-f30d1307-adf9-4ed3-879b-22cc353c99ed-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>478034.55 473129.80 478011.31 473141.04 478008.34 473142.50 478004.74 473144.24 477997.18 473147.91 477993.15 473149.86</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUIN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIN_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-7D7C-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-7D7C-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_134_2</ot:kodKarto10k>
+			<ot:rodzaj>kładka</ot:rodzaj>
+			<ot:szerokosc uom="m">1.0</ot:szerokosc>
+			<ot:geometria>
+				<gml:Curve gml:id="id-a71aeb86-086a-426a-b235-1e2f43f1309a-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>473230.99 457013.00 473234.75 457013.07 473237.99 457013.00</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUIN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIN_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-7B92-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-7B92-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_133_1</ot:kodKarto10k>
+			<ot:rodzaj>most</ot:rodzaj>
+			<ot:konstrukcja>stała</ot:konstrukcja>
+			<ot:nosnosc>15</ot:nosnosc>
+			<ot:szerokosc uom="m">6.9</ot:szerokosc>
+			<ot:geometria>
+				<gml:Curve gml:id="id-e8332d99-3200-4301-b16b-681266bb78e1-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>448465.53 466072.22 448473.88 466072.17 448478.53 466072.14</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUIN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIN_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-7DE5-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-7DE5-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_134_2</ot:kodKarto10k>
+			<ot:rodzaj>kładka</ot:rodzaj>
+			<ot:szerokosc uom="m">1.0</ot:szerokosc>
+			<ot:geometria>
+				<gml:Curve gml:id="id-b1e0531c-62e8-4dd0-8f1d-8f7bd2b2cda0-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>470180.69 466322.44 470182.61 466320.58 470184.99 466318.26</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUIN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIN_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-7E59-829B-E053-CA2BA8C0F89A_2024-06-26T000000">
+			<ot:lokalnyId>2923959E-7E59-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2024-06-26T00:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2024-06-26T00:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>BGW-I-G.7520.15.2024</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_134_2</ot:kodKarto10k>
+			<ot:rodzaj>kładka</ot:rodzaj>
+			<ot:nosnosc>5</ot:nosnosc>
+			<ot:szerokosc uom="m">3.9</ot:szerokosc>
+			<ot:geometria>
+				<gml:Curve gml:id="id-c3c61280-a214-4e49-b991-71862bd2d297-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>465951.49 460654.16 465954.19 460655.47 465956.89 460656.78</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUIN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIN_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-7D77-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-7D77-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_134_2</ot:kodKarto10k>
+			<ot:rodzaj>kładka</ot:rodzaj>
+			<ot:szerokosc uom="m">1.0</ot:szerokosc>
+			<ot:geometria>
+				<gml:Curve gml:id="id-b86245d2-e8c8-4e1f-b508-c9702349f418-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>473135.33 457159.33 473138.27 457159.89 473141.22 457160.45</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUIN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIN_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-7D80-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-7D80-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_134_2</ot:kodKarto10k>
+			<ot:rodzaj>kładka</ot:rodzaj>
+			<ot:szerokosc uom="m">1.0</ot:szerokosc>
+			<ot:geometria>
+				<gml:Curve gml:id="id-af840000-488e-4d46-8ca3-efdbe12964eb-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>473304.10 456345.42 473308.09 456345.73 473312.08 456346.04</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUIN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIN_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-7BC0-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-7BC0-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_133_1</ot:kodKarto10k>
+			<ot:rodzaj>most</ot:rodzaj>
+			<ot:konstrukcja>stała</ot:konstrukcja>
+			<ot:nosnosc>15</ot:nosnosc>
+			<ot:szerokosc uom="m">7.0</ot:szerokosc>
+			<ot:geometria>
+				<gml:Curve gml:id="id-c05476ab-b90b-41e5-a3f1-70e153958fee-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>475255.63 469103.70 475244.81 469104.85 475238.72 469105.49</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUIN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIN_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-7E5F-829B-E053-CA2BA8C0F89A_2025-01-28T151321">
+			<ot:lokalnyId>2923959E-7E5F-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2025-01-28T15:13:21</ot:wersja>
+			<ot:poczatekWersjiObiektu>2025-01-28T15:13:21</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>BGW-I-G.7520.19.2024</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_133_1</ot:kodKarto10k>
+			<ot:rodzaj>most</ot:rodzaj>
+			<ot:konstrukcja>stała</ot:konstrukcja>
+			<ot:nosnosc>30</ot:nosnosc>
+			<ot:szerokosc uom="m">8.1</ot:szerokosc>
+			<ot:geometria>
+				<gml:Curve gml:id="id-c3c10063-8437-4990-846a-70fd9fda103e-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>470299.60 458704.17 470305.04 458701.08 470310.91 458697.83</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUIN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIN_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-7D73-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-7D73-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_134_1</ot:kodKarto10k>
+			<ot:rodzaj>kładka</ot:rodzaj>
+			<ot:szerokosc uom="m">1.0</ot:szerokosc>
+			<ot:geometria>
+				<gml:Curve gml:id="id-5df34998-e2f5-4467-907a-5dcfc1eaa87b-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>470631.07 458714.00 470636.99 458721.18 470642.43 458726.62</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUIN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIN_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-7E1D-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-7E1D-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_133_2</ot:kodKarto10k>
+			<ot:rodzaj>most</ot:rodzaj>
+			<ot:konstrukcja>stała</ot:konstrukcja>
+			<ot:nosnosc>8</ot:nosnosc>
+			<ot:szerokosc uom="m">5.3</ot:szerokosc>
+			<ot:geometria>
+				<gml:Curve gml:id="id-1b6e4d52-12cd-4d56-a06a-c82b040da091-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>460021.06 473947.60 460022.50 473944.98 460023.94 473942.34</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUIN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIN_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-7DB2-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-7DB2-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_134_2</ot:kodKarto10k>
+			<ot:rodzaj>kładka</ot:rodzaj>
+			<ot:szerokosc uom="m">1.7</ot:szerokosc>
+			<ot:geometria>
+				<gml:Curve gml:id="id-5e54fb76-39d8-493c-8489-1963cc83ee78-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>473776.24 450212.05 473775.38 450209.84 473774.39 450207.37</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUIN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIN_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-82D1-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-82D1-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>pomiar terenowy</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_133_1</ot:kodKarto10k>
+			<ot:rodzaj>wiadukt</ot:rodzaj>
+			<ot:nosnosc>30</ot:nosnosc>
+			<ot:szerokosc uom="m">9.2</ot:szerokosc>
+			<ot:geometria>
+				<gml:Curve gml:id="id-9f256ab6-2b6a-45de-9c83-9c19c495452f-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>464970.19 476151.61 464974.23 476166.48 464978.71 476183.11 464979.55 476185.90 464981.15 476193.05</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUIN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIN_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-7DEA-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-7DEA-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_134_1</ot:kodKarto10k>
+			<ot:rodzaj>kładka</ot:rodzaj>
+			<ot:szerokosc uom="m">1.0</ot:szerokosc>
+			<ot:geometria>
+				<gml:Curve gml:id="id-b778322d-3f21-44f0-b851-7dd37dad4d42-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>476838.94 466773.56 476839.00 466776.66 476839.01 466779.29 476839.01 466781.73 476839.01 466784.56</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUIN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIN_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-7DB4-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-7DB4-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_134_2</ot:kodKarto10k>
+			<ot:rodzaj>kładka</ot:rodzaj>
+			<ot:szerokosc uom="m">1.0</ot:szerokosc>
+			<ot:geometria>
+				<gml:Curve gml:id="id-66cf3191-a33c-45e8-a19b-3967bb436e40-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>472460.36 457622.02 472458.24 457618.05 472456.13 457614.08</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUIN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIN_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-7DB9-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-7DB9-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_134_1</ot:kodKarto10k>
+			<ot:rodzaj>kładka</ot:rodzaj>
+			<ot:szerokosc uom="m">1.0</ot:szerokosc>
+			<ot:geometria>
+				<gml:Curve gml:id="id-83fda698-4e47-4c9f-97a5-68be7c3ef8f3-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>475306.12 471993.38 475307.40 471991.83 475309.32 471989.50 475311.24 471987.18 475312.48 471985.66</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUIN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIN_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-7E23-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-7E23-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_133_1</ot:kodKarto10k>
+			<ot:rodzaj>most</ot:rodzaj>
+			<ot:konstrukcja>stała</ot:konstrukcja>
+			<ot:nosnosc>10</ot:nosnosc>
+			<ot:szerokosc uom="m">3.7</ot:szerokosc>
+			<ot:geometria>
+				<gml:Curve gml:id="id-feb7749f-0eb6-4da7-a124-74839ccb1496-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>473675.21 452416.36 473680.31 452413.55 473685.70 452410.53</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUIN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIN_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-7B90-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-7B90-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_133_1</ot:kodKarto10k>
+			<ot:rodzaj>most</ot:rodzaj>
+			<ot:konstrukcja>stała</ot:konstrukcja>
+			<ot:nosnosc>15</ot:nosnosc>
+			<ot:szerokosc uom="m">8.0</ot:szerokosc>
+			<ot:geometria>
+				<gml:Curve gml:id="id-b95c43ac-8d61-43ea-8ce4-a37c31d76383-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>477453.51 469408.44 477453.58 469401.57 477453.63 469396.44</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUIN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIN_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-7B50-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-7B50-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_133_1</ot:kodKarto10k>
+			<ot:rodzaj>most</ot:rodzaj>
+			<ot:konstrukcja>stała</ot:konstrukcja>
+			<ot:nosnosc>10</ot:nosnosc>
+			<ot:szerokosc uom="m">7.6</ot:szerokosc>
+			<ot:geometria>
+				<gml:Curve gml:id="id-f1f49b16-2023-4ec1-85ae-055360075e1b-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>469137.49 462954.83 469145.98 462954.32 469154.46 462953.80</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUIN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIN_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-7DE9-829B-E053-CA2BA8C0F89A_2024-06-19T000000">
+			<ot:lokalnyId>2923959E-7DE9-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2024-06-19T00:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2024-06-19T00:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>BGW-I-G.7520.15.2024</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_134_2</ot:kodKarto10k>
+			<ot:rodzaj>kładka</ot:rodzaj>
+			<ot:szerokosc uom="m">1.0</ot:szerokosc>
+			<ot:geometria>
+				<gml:Curve gml:id="id-a9478b88-43d7-42e9-9fb6-8f9101935eb3-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>477359.50 467530.38 477361.10 467528.66 477362.78 467526.85 477364.63 467524.84 477366.32 467523.07</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUIN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIN_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-7B4D-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-7B4D-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_133_1</ot:kodKarto10k>
+			<ot:rodzaj>most</ot:rodzaj>
+			<ot:konstrukcja>stała</ot:konstrukcja>
+			<ot:nosnosc>10</ot:nosnosc>
+			<ot:szerokosc uom="m">8.5</ot:szerokosc>
+			<ot:geometria>
+				<gml:Curve gml:id="id-295aacf4-0207-446e-9d1c-a25446437c86-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>476631.62 469768.34 476631.84 469771.71 476632.04 469774.37 476632.19 469776.69 476632.45 469780.31</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUIN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIN_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-7D7F-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-7D7F-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_134_2</ot:kodKarto10k>
+			<ot:rodzaj>kładka</ot:rodzaj>
+			<ot:szerokosc uom="m">1.0</ot:szerokosc>
+			<ot:geometria>
+				<gml:Curve gml:id="id-a59eb4a0-a823-425a-ad43-7dfc98748595-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>473399.62 455595.87 473403.12 455595.74 473406.62 455595.61</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUIN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIN_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-7DEB-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-7DEB-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_134_1</ot:kodKarto10k>
+			<ot:rodzaj>kładka</ot:rodzaj>
+			<ot:szerokosc uom="m">1.0</ot:szerokosc>
+			<ot:geometria>
+				<gml:Curve gml:id="id-b0745068-8628-4637-a868-20c5d90a2127-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>476980.66 466783.81 476980.72 466780.87 476980.70 466778.43 476980.72 466775.80 476980.74 466772.81</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUIN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIN_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-7BCB-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-7BCB-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_133_1</ot:kodKarto10k>
+			<ot:rodzaj>most</ot:rodzaj>
+			<ot:konstrukcja>stała</ot:konstrukcja>
+			<ot:nosnosc>20</ot:nosnosc>
+			<ot:szerokosc uom="m">3.7</ot:szerokosc>
+			<ot:geometria>
+				<gml:Curve gml:id="id-8bf768b5-9efc-47da-8448-db6026f868b2-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>472108.25 457785.10 472113.66 457795.34 472117.13 457801.90</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUIN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIN_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-82B3-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-82B3-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_133_1</ot:kodKarto10k>
+			<ot:rodzaj>wiadukt</ot:rodzaj>
+			<ot:nosnosc>30</ot:nosnosc>
+			<ot:szerokosc uom="m">16.0</ot:szerokosc>
+			<ot:geometria>
+				<gml:Curve gml:id="id-ad0ba58d-a6cf-4275-8451-d9ee73f5730a-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>458486.65 475345.37 458494.56 475345.61 458502.64 475345.85</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUIN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIN_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-7B8E-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-7B8E-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_133_1</ot:kodKarto10k>
+			<ot:rodzaj>most</ot:rodzaj>
+			<ot:konstrukcja>stała</ot:konstrukcja>
+			<ot:nosnosc>15</ot:nosnosc>
+			<ot:szerokosc uom="m">9.3</ot:szerokosc>
+			<ot:geometria>
+				<gml:Curve gml:id="id-ac56aedd-4f54-4c2f-a002-9d88c776d744-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>452272.43 467174.71 452273.05 467169.32 452273.68 467163.78</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUIN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIN_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-7C32-829B-E053-CA2BA8C0F89A_2025-01-28T143045">
+			<ot:lokalnyId>2923959E-7C32-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2025-01-28T14:30:45</ot:wersja>
+			<ot:poczatekWersjiObiektu>2025-01-28T14:30:45</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>BGW-I-G.7520.19.2024</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_133_2</ot:kodKarto10k>
+			<ot:rodzaj>most</ot:rodzaj>
+			<ot:konstrukcja>stała</ot:konstrukcja>
+			<ot:nosnosc>5</ot:nosnosc>
+			<ot:szerokosc uom="m">5.0</ot:szerokosc>
+			<ot:geometria>
+				<gml:Curve gml:id="id-6cc0213e-fe43-4fa1-bff8-164e8b704f1d-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>476004.24 469805.49 476004.30 469803.67 476004.33 469801.13 476004.37 469798.67 476004.39 469797.49</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUIN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIN_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-7DAE-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-7DAE-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_134_2</ot:kodKarto10k>
+			<ot:rodzaj>kładka</ot:rodzaj>
+			<ot:szerokosc uom="m">2.0</ot:szerokosc>
+			<ot:geometria>
+				<gml:Curve gml:id="id-dcd96b8e-d37f-43e7-8a4e-de265e93190e-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>459072.76 454375.93 459073.05 454373.95 459073.34 454371.97</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUIN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIN_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-7B53-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-7B53-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_133_2</ot:kodKarto10k>
+			<ot:rodzaj>most</ot:rodzaj>
+			<ot:konstrukcja>stała</ot:konstrukcja>
+			<ot:nosnosc>10</ot:nosnosc>
+			<ot:szerokosc uom="m">3.0</ot:szerokosc>
+			<ot:geometria>
+				<gml:Curve gml:id="id-70960328-4e6e-4107-b327-2fa94c551aec-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>452785.88 463013.89 452789.07 463011.09 452791.14 463009.27</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUIN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIN_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-7DED-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-7DED-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_134_1</ot:kodKarto10k>
+			<ot:rodzaj>kładka</ot:rodzaj>
+			<ot:szerokosc uom="m">1.0</ot:szerokosc>
+			<ot:geometria>
+				<gml:Curve gml:id="id-d4eab0b9-0067-4ecd-9256-7faf5998c66f-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>477715.91 468227.86 477718.47 468228.28 477721.04 468228.70 477723.65 468229.01 477726.80 468229.39</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUIN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIN_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-7C33-829B-E053-CA2BA8C0F89A_2025-01-28T150523">
+			<ot:lokalnyId>2923959E-7C33-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2025-01-28T15:05:23</ot:wersja>
+			<ot:poczatekWersjiObiektu>2025-01-28T15:05:23</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>BGW-I-G.7520.19.2024</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_220_1</ot:kodKarto10k>
+			<ot:rodzaj>most</ot:rodzaj>
+			<ot:konstrukcja>stała</ot:konstrukcja>
+			<ot:nosnosc>5</ot:nosnosc>
+			<ot:szerokosc uom="m">5.0</ot:szerokosc>
+			<ot:geometria>
+				<gml:Curve gml:id="id-5a702de1-e157-4279-9a98-a6861978ccbd-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>456939.85 464041.18 456942.01 464045.55 456944.34 464050.12</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUIN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIN_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-7E5D-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-7E5D-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_133_2</ot:kodKarto10k>
+			<ot:rodzaj>most</ot:rodzaj>
+			<ot:konstrukcja>stała</ot:konstrukcja>
+			<ot:nosnosc>10</ot:nosnosc>
+			<ot:szerokosc uom="m">6.8</ot:szerokosc>
+			<ot:geometria>
+				<gml:Curve gml:id="id-e8e5f97e-c56c-4dd0-a017-8311a89382b6-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>473033.91 463378.14 473033.70 463376.14 473033.49 463374.16</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUIN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIN_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-7BF9-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-7BF9-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_133_2</ot:kodKarto10k>
+			<ot:rodzaj>most</ot:rodzaj>
+			<ot:konstrukcja>stała</ot:konstrukcja>
+			<ot:nosnosc>20</ot:nosnosc>
+			<ot:szerokosc uom="m">7.0</ot:szerokosc>
+			<ot:geometria>
+				<gml:Curve gml:id="id-929cb13a-e1dc-48b8-a9bb-69cf05a31f36-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>469622.37 471623.89 469618.58 471625.17</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUIN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIN_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-7BC4-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-7BC4-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_133_1</ot:kodKarto10k>
+			<ot:rodzaj>most</ot:rodzaj>
+			<ot:konstrukcja>stała</ot:konstrukcja>
+			<ot:nosnosc>15</ot:nosnosc>
+			<ot:szerokosc uom="m">7.5</ot:szerokosc>
+			<ot:geometria>
+				<gml:Curve gml:id="id-602d67cd-d89a-49e7-8c01-a9f110b5a623-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>479413.29 464087.76 479413.88 464076.42 479414.43 464065.79</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUIN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIN_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-82C9-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-82C9-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_133_1</ot:kodKarto10k>
+			<ot:rodzaj>wiadukt</ot:rodzaj>
+			<ot:nosnosc>30</ot:nosnosc>
+			<ot:szerokosc uom="m">9.5</ot:szerokosc>
+			<ot:geometria>
+				<gml:Curve gml:id="id-a7732421-4196-4bdc-81d0-4dc6e903f311-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>476633.66 473837.03 476615.50 473807.50 476609.38 473797.55 476604.62 473789.80 476586.52 473760.36</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUIN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIN_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-7DEF-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-7DEF-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_134_1</ot:kodKarto10k>
+			<ot:rodzaj>kładka</ot:rodzaj>
+			<ot:szerokosc uom="m">1.5</ot:szerokosc>
+			<ot:geometria>
+				<gml:Curve gml:id="id-995b39fa-4f0d-47a5-9b99-1cad24242b5c-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>477554.13 467882.18 477557.76 467882.09 477560.20 467882.04 477562.83 467881.99 477566.13 467881.99</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUIN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIN_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-7BC6-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-7BC6-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_133_2</ot:kodKarto10k>
+			<ot:rodzaj>most</ot:rodzaj>
+			<ot:konstrukcja>stała</ot:konstrukcja>
+			<ot:nosnosc>15</ot:nosnosc>
+			<ot:szerokosc uom="m">10.0</ot:szerokosc>
+			<ot:geometria>
+				<gml:Curve gml:id="id-733ac38e-b8b0-470e-af33-b4fa176aeb44-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>471841.07 470236.56 471842.48 470233.93 471843.91 470231.27</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUIN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIN_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-7E61-829B-E053-CA2BA8C0F89A_2025-01-28T151321">
+			<ot:lokalnyId>2923959E-7E61-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2025-01-28T15:13:21</ot:wersja>
+			<ot:poczatekWersjiObiektu>2025-01-28T15:13:21</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>BGW-I-G.7520.19.2024</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_133_2</ot:kodKarto10k>
+			<ot:rodzaj>most</ot:rodzaj>
+			<ot:konstrukcja>stała</ot:konstrukcja>
+			<ot:nosnosc>5</ot:nosnosc>
+			<ot:szerokosc uom="m">9.2</ot:szerokosc>
+			<ot:geometria>
+				<gml:Curve gml:id="id-3b8ba9fb-66ff-497a-ae7a-f77d6213f174-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>473101.51 463455.06 473103.40 463454.42 473105.32 463453.83</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUIN_L>
+	</gml:featureMember>
+</gml:FeatureCollection>

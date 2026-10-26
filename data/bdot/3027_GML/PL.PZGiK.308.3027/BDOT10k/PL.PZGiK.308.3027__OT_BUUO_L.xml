@@ -1,0 +1,3303 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:FeatureCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:ot="urn:gugik:specyfikacje:gmlas:bazaDanychObiektowTopograficznych10k:2.0" gml:id="GUGiK_OT_BUUO_L" xsi:schemaLocation="urn:gugik:specyfikacje:gmlas:bazaDanychObiektowTopograficznych10k:2.0 ../XSD/BDOT10k_BDOO.xsd">
+	<gml:featureMember>
+		<ot:OT_BUUO_L gml:id="PL.PZGiK.308.BDOT10k_f1218759-81d0-47d7-ab76-39b95268d578_2023-12-31T120000">
+			<ot:lokalnyId>f1218759-81d0-47d7-ab76-39b95268d578</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_349</ot:kodKarto10k>
+			<ot:rodzaj>ściana oporowa</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-6fe9e46d-ccc8-41f8-9620-33cbfb66b980-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>473735.20 459008.12 473707.11 459064.04</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUUO_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUUO_L gml:id="PL.PZGiK.308.BDOT10k_c0f43b55-2651-4821-9642-52e45afc86c4_2023-12-31T120000">
+			<ot:lokalnyId>c0f43b55-2651-4821-9642-52e45afc86c4</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_349</ot:kodKarto10k>
+			<ot:rodzaj>ściana oporowa</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-7d4877be-4d6c-4af3-94ac-e569e82f18ac-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>467479.66 452001.32 467479.58 452012.83</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUUO_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUUO_L gml:id="PL.PZGiK.308.BDOT10k_f846a418-fe3b-492c-b760-636e12cdff7d_2023-12-31T120000">
+			<ot:lokalnyId>f846a418-fe3b-492c-b760-636e12cdff7d</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_349</ot:kodKarto10k>
+			<ot:rodzaj>ściana oporowa</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-4449dc56-e956-4f2b-990b-d3451019a5f1-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>461388.03 470356.85 461374.23 470360.22</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUUO_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUUO_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-87AA-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-87AA-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_626</ot:kodKarto10k>
+			<ot:rodzaj>umocnienie brzegu</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-0fd23144-06f1-4299-a052-e33c9b86b869-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>478050.19 473256.75 478051.06 473251.73 478050.70 473246.60 478049.30 473240.57 478048.16 473237.50 478046.38 473233.00 478041.37 473221.97 478037.80 473214.12 478021.80 473180.31 478004.74 473144.24 478002.57 473139.66 478000.62 473134.68 477998.83 473130.11 477997.38 473121.21 477998.37 473112.41 478001.79 473103.90 478007.60 473096.53 478014.71 473091.20 478051.43 473073.91 478088.18 473057.54 478134.42 473036.42 478142.71 473030.43 478148.44 473022.60 478150.48 473013.61 478151.82 472996.01</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUUO_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUUO_L gml:id="PL.PZGiK.308.BDOT10k_e4ed3062-fa51-46db-ba73-7ae13933f368_2023-12-31T120000">
+			<ot:lokalnyId>e4ed3062-fa51-46db-ba73-7ae13933f368</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_349</ot:kodKarto10k>
+			<ot:rodzaj>ściana oporowa</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-3604b45c-752b-488f-a190-656045c707b3-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>468507.50 447552.70 468507.41 447512.17</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUUO_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUUO_L gml:id="PL.PZGiK.308.BDOT10k_fe3cf965-5f2a-48c2-9f8a-4b6298b90435_2023-12-31T120000">
+			<ot:lokalnyId>fe3cf965-5f2a-48c2-9f8a-4b6298b90435</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_349</ot:kodKarto10k>
+			<ot:rodzaj>ściana oporowa</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-63360773-9f44-4438-996d-fde56675f92f-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>466185.48 449504.54 466200.73 449503.80</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUUO_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUUO_L gml:id="PL.PZGiK.308.BDOT10k_7345a0b9-fabc-410d-85bc-943fb070132a_2023-12-31T120000">
+			<ot:lokalnyId>7345a0b9-fabc-410d-85bc-943fb070132a</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_349</ot:kodKarto10k>
+			<ot:rodzaj>ściana oporowa</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-28f8fe9d-bbfc-4d4a-9e08-c885d51c1b7a-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>467422.54 462332.28 467423.63 462327.32</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUUO_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUUO_L gml:id="PL.PZGiK.308.BDOT10k_e94d0642-0b8e-4336-80c1-926b20e8ae3f_2023-12-31T120000">
+			<ot:lokalnyId>e94d0642-0b8e-4336-80c1-926b20e8ae3f</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_349</ot:kodKarto10k>
+			<ot:rodzaj>ściana oporowa</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-69cf5b06-1f2c-4e77-a9c6-70afc76529f7-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>470889.66 469867.88 470896.52 469831.11 470887.50 469829.82</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUUO_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUUO_L gml:id="PL.PZGiK.308.BDOT10k_199b1d03-cb5d-4644-b52f-964f158d0b52_2023-12-31T120000">
+			<ot:lokalnyId>199b1d03-cb5d-4644-b52f-964f158d0b52</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_349</ot:kodKarto10k>
+			<ot:rodzaj>ściana oporowa</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-e3990c49-a3ba-4946-b493-fa26b0f76b6b-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>466712.04 446099.75 466713.18 446106.99 466727.95 446104.71 466726.99 446097.48</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUUO_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUUO_L gml:id="PL.PZGiK.308.BDOT10k_2b536336-5de4-444d-9277-7ee48053d6a3_2023-12-31T120000">
+			<ot:lokalnyId>2b536336-5de4-444d-9277-7ee48053d6a3</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_626</ot:kodKarto10k>
+			<ot:rodzaj>umocnienie brzegu</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-f4d5de52-ce61-4a03-b1c2-0a45da879e72-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>482090.92 449086.14 482091.36 449084.76 482091.43 449083.01 482087.93 449075.94</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUUO_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUUO_L gml:id="PL.PZGiK.308.BDOT10k_082657c8-558d-41f6-a1bb-f696470d79d9_2023-12-31T120000">
+			<ot:lokalnyId>082657c8-558d-41f6-a1bb-f696470d79d9</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_349</ot:kodKarto10k>
+			<ot:rodzaj>ściana oporowa</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-9c15e35e-8108-4009-bab5-9690032d00ca-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>469239.88 451263.70 469251.02 451264.30</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUUO_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUUO_L gml:id="PL.PZGiK.308.BDOT10k_c3192ae0-fd8c-410c-a7c3-e9a1005e255c_2023-12-31T120000">
+			<ot:lokalnyId>c3192ae0-fd8c-410c-a7c3-e9a1005e255c</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_349</ot:kodKarto10k>
+			<ot:rodzaj>ściana oporowa</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-325a6316-108d-46c1-8a70-eb27e9b00f8a-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>466844.50 444919.96 466848.32 444938.20 466854.44 444937.22</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUUO_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUUO_L gml:id="PL.PZGiK.308.BDOT10k_cf5aa83e-43e3-47b9-8d15-93068ca449d3_2023-12-31T120000">
+			<ot:lokalnyId>cf5aa83e-43e3-47b9-8d15-93068ca449d3</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_349</ot:kodKarto10k>
+			<ot:rodzaj>ściana oporowa</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-6e480615-cdba-42af-9d33-add45ffcb48a-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>467647.79 443729.29 467653.03 443765.02</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUUO_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUUO_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-879A-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-879A-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_349</ot:kodKarto10k>
+			<ot:rodzaj>ściana oporowa</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-5728988a-d9f0-4867-a132-ca2155978823-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>458049.90 454872.01 458062.13 454852.63 458064.20 454849.49</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUUO_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUUO_L gml:id="PL.PZGiK.308.BDOT10k_391c3cfe-6d02-4484-9bae-9e07a2e3921b_2023-12-31T120000">
+			<ot:lokalnyId>391c3cfe-6d02-4484-9bae-9e07a2e3921b</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_349</ot:kodKarto10k>
+			<ot:rodzaj>ściana oporowa</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-ac554d7d-5eea-440d-85a6-9025bdc41fdd-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>468673.22 473937.24 468671.60 473919.79 468655.90 473921.28</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUUO_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUUO_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-8792-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-8792-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_349</ot:kodKarto10k>
+			<ot:rodzaj>ściana oporowa</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-842db5c1-9f60-41f0-96a9-13ca235ea3e2-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>462031.43 472513.40 462029.24 472475.83</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUUO_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUUO_L gml:id="PL.PZGiK.308.BDOT10k_01769207-2c47-40c7-8646-07d7184f7dbd_2023-12-31T120000">
+			<ot:lokalnyId>01769207-2c47-40c7-8646-07d7184f7dbd</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_349</ot:kodKarto10k>
+			<ot:rodzaj>ściana oporowa</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-29184d62-f770-42a7-96ca-203a59009642-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>467604.44 446786.58 467603.60 446805.59</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUUO_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUUO_L gml:id="PL.PZGiK.308.BDOT10k_ef4df9a1-f7e3-4dcb-b3d2-2c417f3442cf_2023-12-31T120000">
+			<ot:lokalnyId>ef4df9a1-f7e3-4dcb-b3d2-2c417f3442cf</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_349</ot:kodKarto10k>
+			<ot:rodzaj>ściana oporowa</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-2a699535-0986-4e21-988f-5ad402ebdd8b-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>467656.66 446803.99 467665.66 446803.91 467665.66 446789.02</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUUO_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUUO_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-879C-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-879C-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_349</ot:kodKarto10k>
+			<ot:rodzaj>ściana oporowa</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-fd1dd528-31b1-4d29-a5f2-f7e7438a94a3-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>456111.74 464669.24 456128.79 464647.75</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUUO_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUUO_L gml:id="PL.PZGiK.308.BDOT10k_ce0a5a30-2cac-4759-90e0-ba2fd209e17e_2023-12-31T120000">
+			<ot:lokalnyId>ce0a5a30-2cac-4759-90e0-ba2fd209e17e</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_349</ot:kodKarto10k>
+			<ot:rodzaj>ściana oporowa</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-f81adccc-1a8d-43bb-93cf-5b24afbc1d1a-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>469290.64 451245.09 469289.07 451263.11</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUUO_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUUO_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-87A6-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-87A6-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_626</ot:kodKarto10k>
+			<ot:rodzaj>umocnienie brzegu</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-1eae5560-00e2-4fbb-bd1f-535f5b314582-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>476090.83 466627.28 476091.71 466630.05 476109.60 466686.57 476124.97 466735.53 476127.95 466742.49 476131.49 466747.69 476136.95 466752.31 476142.53 466754.67 476155.77 466756.23 476272.60 466768.35 476385.06 466779.90 476531.60 466795.80 476596.04 466802.25 476607.19 466802.85 476614.32 466799.06 476623.07 466787.41 476629.77 466780.70 476634.30 466778.99 476646.49 466779.53 476706.94 466781.62 476739.74 466781.65 476839.01 466781.73 476980.72 466780.87 477089.59 466780.03 477095.91 466779.98 477107.83 466784.42 477116.79 466792.53 477207.91 466925.04 477246.52 466945.10 477265.58 466955.07 477269.79 466960.93 477275.78 466969.24 477295.91 467016.60 477305.48 467036.04 477319.22 467060.52 477343.02 467098.01 477371.45 467143.43 477371.18 467150.70 477361.24 467369.99 477357.32 467456.41 477357.06 467522.24 477361.10 467528.66 477371.40 467542.15 477374.25 467546.31 477384.90 467561.89 477402.67 467596.69 477408.34 467611.97 477410.29 467624.19 477412.06 467677.02 477413.93 467684.21 477416.72 467691.74 477423.76 467697.66 477451.14 467710.11 477531.60 467749.30 477544.78 467753.95 477549.62 467755.66 477556.05 467757.72 477558.01 467760.21 477559.86 467769.21 477557.56 467873.14 477557.76 467882.09 477558.14 467899.61 477560.34 467913.57 477565.68 467924.04 477576.83 467934.77 477588.94 467940.43 477623.88 467947.19 477699.71 467964.47 477731.41 467974.15 477749.87 467985.74 477754.88 467992.49 477756.43 468002.04 477755.88 468005.11 477748.58 468045.75 477739.89 468098.72 477737.29 468114.55 477732.06 468146.47 477718.63 468228.30 477699.90 468342.43 477676.56 468486.95 477677.62 468497.58 477682.10 468505.49 477711.34 468546.18 477713.96 468555.37 477713.83 468560.08 477704.01 468625.33 477700.68 468642.53 477699.24 468653.12 477698.28 468663.23 477697.47 468677.99 477697.25 468685.21 477696.51 468709.91 477696.12 468748.24 477695.72 468788.07 477695.45 468814.67 477695.39 468820.28 477695.23 468827.02 477694.75 468833.92 477693.79 468840.50 477691.38 468853.33 477684.49 468883.65 477672.19 468935.73 477662.69 468975.93 477662.37 468980.58 477662.85 468984.75 477664.29 468988.44 477666.69 468991.81 477678.09 469004.67 477715.76 469047.16 477718.49 469051.18 477719.77 469055.99 477720.17 469058.16 477720.57 469060.32 477720.25 469065.30 477719.13 469070.43 477716.56 469078.13 477707.08 469105.46 477700.20 469125.29 477698.12 469129.62 477694.75 469134.59 477690.90 469141.49 477689.14 469146.30 477687.54 469152.24 477686.25 469158.50 477684.81 469167.48 477683.21 469174.22 477681.29 469180.31 477666.22 469224.91 477659.22 469245.81 477645.64 469286.37 477644.39 469288.25 477642.30 469290.65 477639.50 469293.38 477634.12 469297.47 477628.98 469300.95 477627.89 469301.69 477594.30 469324.44</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUUO_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUUO_L gml:id="PL.PZGiK.308.BDOT10k_d72e67c7-9946-4ed5-8380-510cde01b741_2023-12-31T120000">
+			<ot:lokalnyId>d72e67c7-9946-4ed5-8380-510cde01b741</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_349</ot:kodKarto10k>
+			<ot:rodzaj>ściana oporowa</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-87310226-3350-4bbb-ad8f-8c41a06d5fbf-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>470871.77 469864.73 470878.47 469828.53</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUUO_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUUO_L gml:id="PL.PZGiK.308.BDOT10k_72470206-7939-4b01-8548-c41e432b283d_2023-12-31T120000">
+			<ot:lokalnyId>72470206-7939-4b01-8548-c41e432b283d</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_349</ot:kodKarto10k>
+			<ot:rodzaj>ściana oporowa</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-85e43524-0bd6-446d-998e-0b4d5d32de8c-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>467479.49 443579.74 467472.51 443581.71</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUUO_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUUO_L gml:id="PL.PZGiK.308.BDOT10k_4a86d8fc-9f41-4b9e-b286-b94689591e36_2023-12-31T120000">
+			<ot:lokalnyId>4a86d8fc-9f41-4b9e-b286-b94689591e36</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_349</ot:kodKarto10k>
+			<ot:rodzaj>ściana oporowa</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-8ab918a7-203a-49b4-a827-a06551e93513-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>466132.78 449670.71 466145.34 449673.25</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUUO_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUUO_L gml:id="PL.PZGiK.308.BDOT10k_5d6d94b3-04bc-47f0-95cb-4d97a5ed3264_2023-12-31T120000">
+			<ot:lokalnyId>5d6d94b3-04bc-47f0-95cb-4d97a5ed3264</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_349</ot:kodKarto10k>
+			<ot:rodzaj>ściana oporowa</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-66e6fcac-bb9d-471b-90df-97571c3e808b-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>472190.74 456916.27 472190.74 456939.24</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUUO_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUUO_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-87A2-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-87A2-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_626</ot:kodKarto10k>
+			<ot:rodzaj>umocnienie brzegu</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-0843b066-1527-44e4-a065-5418bc075f67-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>473662.32 453222.49 473751.62 452995.77 473786.77 452906.87 473790.70 452891.79 473792.01 452877.59 473790.70 452862.30 473786.28 452840.64 473785.33 452835.96</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUUO_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUUO_L gml:id="PL.PZGiK.308.BDOT10k_1e38ded7-254c-434e-9aa8-c41c30b59ea5_2023-12-31T120000">
+			<ot:lokalnyId>1e38ded7-254c-434e-9aa8-c41c30b59ea5</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_349</ot:kodKarto10k>
+			<ot:rodzaj>ściana oporowa</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-e7b2f292-d1ca-4de0-9144-dac11247b42d-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>469811.52 445209.05 469815.85 445250.02</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUUO_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUUO_L gml:id="PL.PZGiK.308.BDOT10k_b5940ef6-66fc-48e4-b990-6f33748aba81_2023-12-31T120000">
+			<ot:lokalnyId>b5940ef6-66fc-48e4-b990-6f33748aba81</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_349</ot:kodKarto10k>
+			<ot:rodzaj>ściana oporowa</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-a9ad2dfb-d9e8-48f7-ae47-802fc6d4bb61-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>467313.45 445814.20 467312.13 445806.78 467341.55 445800.80 467343.35 445810.97</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUUO_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUUO_L gml:id="PL.PZGiK.308.BDOT10k_19ad11f8-69c4-4c94-abdc-fe06ce868105_2023-12-31T120000">
+			<ot:lokalnyId>19ad11f8-69c4-4c94-abdc-fe06ce868105</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_349</ot:kodKarto10k>
+			<ot:rodzaj>ściana oporowa</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-9004ea06-128f-4765-ad85-266483bec9ca-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>469099.89 460089.02 469131.58 460101.23</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUUO_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUUO_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-87AE-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-87AE-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_626</ot:kodKarto10k>
+			<ot:rodzaj>umocnienie brzegu</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-12f3bca2-5ceb-45fa-bdfc-bb1a5e014380-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>456213.10 464537.62 456223.76 464538.64 456224.77 464531.10 456214.21 464529.97 456213.10 464537.62</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUUO_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUUO_L gml:id="PL.PZGiK.308.BDOT10k_806bda6f-bf79-4743-9ca1-1085ff02b32c_2023-12-31T120000">
+			<ot:lokalnyId>806bda6f-bf79-4743-9ca1-1085ff02b32c</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_349</ot:kodKarto10k>
+			<ot:rodzaj>ściana oporowa</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-933631be-97c4-47cb-8824-58bca3ced063-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>468532.01 446979.39 468532.52 446968.88 468541.01 446969.05</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUUO_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUUO_L gml:id="PL.PZGiK.308.BDOT10k_615a5eb6-0c9e-42f5-9f38-f62bac1063e2_2023-12-31T120000">
+			<ot:lokalnyId>615a5eb6-0c9e-42f5-9f38-f62bac1063e2</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_349</ot:kodKarto10k>
+			<ot:rodzaj>ściana oporowa</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-8388e983-6221-4407-b7b8-915d78f8d6e0-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>469842.76 445209.05 469846.80 445247.17</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUUO_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUUO_L gml:id="PL.PZGiK.308.BDOT10k_83f08ede-b727-4781-b96e-bd2c2dae9b67_2023-12-31T120000">
+			<ot:lokalnyId>83f08ede-b727-4781-b96e-bd2c2dae9b67</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_349</ot:kodKarto10k>
+			<ot:rodzaj>ściana oporowa</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-ae14f21f-c6b9-416d-9710-f41303bfc1a3-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>467483.90 443595.35 467476.35 443597.34</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUUO_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUUO_L gml:id="PL.PZGiK.308.BDOT10k_d6b72485-0f42-4a01-a411-ff2ba65dba63_2023-12-31T120000">
+			<ot:lokalnyId>d6b72485-0f42-4a01-a411-ff2ba65dba63</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_349</ot:kodKarto10k>
+			<ot:rodzaj>ściana oporowa</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-93d1d3ff-4f68-4b57-a85c-ec998ee20b4f-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>461950.79 446623.23 461963.35 446619.65</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUUO_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUUO_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-87A7-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-87A7-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_626</ot:kodKarto10k>
+			<ot:rodzaj>umocnienie brzegu</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-43f787cc-fdbe-41da-bec1-1a85599c5b2d-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>477596.22 469329.18 477628.71 469307.10 477630.15 469306.19 477637.04 469301.53 477642.77 469297.17 477645.94 469294.09 477648.37 469291.29 477650.63 469287.56 477670.96 469226.50 477686.04 469181.86 477688.03 469175.55 477689.72 469168.45 477691.17 469159.40 477692.41 469153.40 477693.91 469147.81 477695.46 469143.58 477699.01 469137.22 477702.47 469132.12 477704.83 469127.20 477721.29 469079.74 477723.96 469071.76 477725.22 469066.00 477725.60 469060.02 477724.95 469054.83 477723.10 469049.07 477719.72 469044.08 477670.61 468988.69 477668.71 468986.03 477667.74 468983.54 477667.39 468980.46 477667.65 468976.68 477689.36 468884.78 477696.28 468854.35 477698.72 468841.32 477699.72 468834.46 477700.23 468827.25 477700.39 468820.36 477701.51 468710.01 477702.25 468685.38 477702.47 468678.20 477703.27 468663.60 477704.21 468653.69 477705.62 468643.34 477708.63 468627.80 477709.11 468625.30 477718.89 468560.53 477719.05 468554.74 477715.97 468543.94 477686.38 468502.76 477682.56 468496.01 477681.67 468487.11 477704.94 468343.13 477708.50 468321.35 477714.02 468287.69 477723.65 468229.01 477753.57 468046.59 477755.60 468035.30 477761.57 468002.08 477759.68 467990.46 477753.37 467981.96 477743.46 467975.73 477733.54 467969.50 477701.01 467959.57 477624.93 467942.23 477590.52 467935.58 477579.34 467930.35 477569.81 467921.00 477565.22 467911.99 477563.20 467899.16 477562.83 467881.99 477562.63 467873.14 477564.94 467768.75 477562.73 467758.02 477560.72 467754.71 477557.91 467752.99 477551.23 467750.86 477546.49 467749.19 477533.54 467744.61 477480.50 467719.16 477443.85 467701.57 477426.52 467693.36 477421.00 467688.73 477418.77 467682.69 477417.11 467676.29 477415.35 467623.70 477413.26 467610.67 477407.32 467594.65 477389.26 467559.30 477375.51 467539.18 477364.63 467524.84 477362.14 467520.81 477362.39 467456.54 477373.31 467215.50 477375.25 467172.84 477376.24 467150.91 477376.57 467142.07 477347.31 467095.31 477323.57 467057.92 477309.97 467033.68 477300.52 467014.49 477280.23 466966.74 477273.12 466956.87 477268.99 466951.13 477249.30 466940.83 477211.36 466921.13 477120.63 466789.17 477110.51 466780.01 477096.81 466774.91 477089.59 466774.97 477062.67 466775.17 476980.72 466775.80 476974.93 466775.84 476950.08 466775.99 476844.42 466776.63 476839.00 466776.66 476778.53 466776.61 476707.03 466776.55 476646.70 466774.47 476633.48 466773.88 476626.95 466776.35 476619.23 466784.08 476610.95 466795.12 476606.05 466797.72 476596.43 466797.19 476532.13 466790.76 476430.73 466779.76 476385.59 466774.86 476365.25 466772.77 476273.12 466763.31 476205.49 466756.29 476156.32 466751.19 476143.84 466749.73 476139.63 466747.94 476135.29 466744.27 476132.41 466740.04 476129.73 466733.77 476114.43 466685.05 476096.54 466628.52 476095.73 466625.94</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUUO_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUUO_L gml:id="PL.PZGiK.308.BDOT10k_05310eed-41f3-4988-b570-3af760a01cfc_2023-12-31T120000">
+			<ot:lokalnyId>05310eed-41f3-4988-b570-3af760a01cfc</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_626</ot:kodKarto10k>
+			<ot:rodzaj>umocnienie brzegu</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-f7748730-bb84-4b85-b0f5-6ce3f8eeb5c0-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>470554.77 459018.45 470549.82 459082.08 470547.99 459105.76 470544.40 459155.12 470541.77 459195.86 470539.06 459228.39 470536.91 459234.85 470534.28 459244.42 470509.64 459308.60 470487.95 459363.62 470468.50 459415.21 470444.10 459475.88 470425.28 459524.36 470417.63 459543.66 470410.69 459559.84 470406.62 459568.22 470400.40 459576.59 470387.97 459589.90 470355.51 459624.75 470307.04 459675.46 470282.64 459700.65 470242.61 459742.51 470222.16 459763.44 470208.37 459777.91 470190.03 459797.37 470182.45 459805.74 470175.95 459815.21 470173.25 459812.44 470170.87 459810.27 470171.65 459807.65 470178.98 459801.36 470197.96 459781.82 470209.52 459770.34 470231.93 459746.74 470245.64 459732.47 470267.01 459710.14 470304.25 459671.15 470340.84 459632.64 470373.14 459598.67 470396.34 459573.96 470401.44 459566.94 470406.15 459559.05 470410.69 459547.80 470424.96 459512.16 470441.07 459470.62 470461.40 459417.68 470475.67 459381.08 470489.07 459347.11 470505.49 459304.94 470522.48 459260.60 470529.01 459243.78 470532.84 459231.58 470534.52 459223.77 470535.15 459210.85 470537.55 459179.44 470541.53 459125.62 470546.16 459058.80 470554.21 458960.41 470559.71 458881.15</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUUO_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUUO_L gml:id="PL.PZGiK.308.BDOT10k_a4bd1232-1cfb-4646-a3e0-f717deadb5a4_2023-12-31T120000">
+			<ot:lokalnyId>a4bd1232-1cfb-4646-a3e0-f717deadb5a4</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_349</ot:kodKarto10k>
+			<ot:rodzaj>ściana oporowa</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-3c49114b-9e2f-41ec-9048-ca38e397ab29-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>466058.48 449640.07 466060.72 449628.55 466071.94 449630.95 466069.55 449642.76</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUUO_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUUO_L gml:id="PL.PZGiK.308.BDOT10k_74cd51a8-c1d0-484a-bf82-805e2fd4d8fe_2023-12-31T120000">
+			<ot:lokalnyId>74cd51a8-c1d0-484a-bf82-805e2fd4d8fe</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_349</ot:kodKarto10k>
+			<ot:rodzaj>ściana oporowa</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-e74671d8-ba3b-43bb-8594-4ae2aa2122e1-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>468675.79 473965.01 468674.51 473951.18</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUUO_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUUO_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-87AB-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-87AB-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_626</ot:kodKarto10k>
+			<ot:rodzaj>umocnienie brzegu</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-53437ecc-bc5c-40f2-9242-5793e1e5ac67-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>478058.68 473256.71 478059.34 473252.38 478059.26 473248.21 478058.09 473242.05 478056.68 473237.31 478053.77 473229.92 478048.61 473218.93 478044.95 473211.12 478037.42 473195.64 478028.42 473177.16 478025.70 473171.57 478011.31 473141.04 478009.17 473136.50 478006.96 473131.22 478004.64 473122.37 478005.32 473113.70 478009.71 473105.20 478016.49 473098.25 478024.06 473094.16 478060.87 473077.49 478098.74 473060.44 478135.60 473043.40 478143.54 473038.80 478150.48 473032.06 478155.40 473024.44 478157.72 473014.36 478158.10 473008.18 478158.60 472995.52</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUUO_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUUO_L gml:id="PL.PZGiK.308.BDOT10k_bc22d38b-12f3-40e5-8628-92190a9ff2ad_2023-12-31T120000">
+			<ot:lokalnyId>bc22d38b-12f3-40e5-8628-92190a9ff2ad</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_349</ot:kodKarto10k>
+			<ot:rodzaj>ściana oporowa</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-020ceec1-33a7-48cc-85af-4c2125218bab-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>462206.61 445954.79 462205.89 445947.26 462210.47 445946.90 462211.10 445954.16</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUUO_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUUO_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-87AF-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-87AF-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_626</ot:kodKarto10k>
+			<ot:rodzaj>umocnienie brzegu</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-7b471332-bb7b-4b7c-8e40-1fb4d6210dc4-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>460147.62 475567.42 460331.70 475624.75 460334.26 475613.88 460165.70 475557.81 460164.21 475561.86 460149.71 475558.03 460147.62 475567.42</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUUO_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUUO_L gml:id="PL.PZGiK.308.BDOT10k_ae8a7900-4812-4d49-91e2-d4bc9549fa2b_2023-12-31T120000">
+			<ot:lokalnyId>ae8a7900-4812-4d49-91e2-d4bc9549fa2b</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_349</ot:kodKarto10k>
+			<ot:rodzaj>ściana oporowa</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-1bb478f6-7e59-4dbb-ba43-d03d561e96ef-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>468242.33 447874.14 468242.33 447864.89</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUUO_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUUO_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-87A8-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-87A8-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_626</ot:kodKarto10k>
+			<ot:rodzaj>umocnienie brzegu</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-3d4f474d-00e3-45f3-a1ed-014b72638f80-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>476864.11 469722.73 476735.84 469747.07 476669.29 469760.70 476662.55 469762.47 476657.26 469764.87 476653.09 469767.60 476649.56 469769.53 476645.23 469770.65 476631.84 469771.71 476623.75 469772.46 476617.01 469773.10 476610.60 469773.26 476601.94 469773.74 476596.00 469774.39 476585.58 469775.99 476558.64 469781.12 476511.65 469790.12 476500.17 469792.44 476454.55 469801.67 476416.69 469809.71</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUUO_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUUO_L gml:id="PL.PZGiK.308.BDOT10k_2db9281c-a8a9-4900-81e4-71dd185329c9_2023-12-31T120000">
+			<ot:lokalnyId>2db9281c-a8a9-4900-81e4-71dd185329c9</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_349</ot:kodKarto10k>
+			<ot:rodzaj>ściana oporowa</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-0f5f6fd5-9de3-4aff-9b30-3f3a767ed9a6-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>464317.51 470044.52 464314.01 470059.19 464377.15 470076.09 464379.39 470065.73</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUUO_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUUO_L gml:id="PL.PZGiK.308.BDOT10k_88eae270-5999-475f-a209-3bc3cc72f3f8_2023-12-31T120000">
+			<ot:lokalnyId>88eae270-5999-475f-a209-3bc3cc72f3f8</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_349</ot:kodKarto10k>
+			<ot:rodzaj>ściana oporowa</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-89a200ce-5e2e-4754-bcd0-b45f20592375-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>468520.91 446968.54 468529.15 446968.46 468528.98 446979.31</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUUO_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUUO_L gml:id="PL.PZGiK.308.BDOT10k_6ae3fa15-0a4f-4c20-8cb6-57d4ddee35fb_2023-12-31T120000">
+			<ot:lokalnyId>6ae3fa15-0a4f-4c20-8cb6-57d4ddee35fb</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_349</ot:kodKarto10k>
+			<ot:rodzaj>ściana oporowa</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-286c7ade-a5bf-471d-b203-6969cf849c2c-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>467423.63 462327.32 467416.20 462325.50</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUUO_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUUO_L gml:id="PL.PZGiK.308.BDOT10k_717d33b1-dbdf-4c78-a7b4-d13a42891e73_2023-12-31T120000">
+			<ot:lokalnyId>717d33b1-dbdf-4c78-a7b4-d13a42891e73</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_349</ot:kodKarto10k>
+			<ot:rodzaj>ściana oporowa</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-80553578-636b-4e24-8fde-bb64b41e4ebe-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>466933.20 453244.79 466922.25 453247.18</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUUO_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUUO_L gml:id="PL.PZGiK.308.BDOT10k_92b30c19-3e09-4ac4-b72d-bca411b60bc9_2023-12-31T120000">
+			<ot:lokalnyId>92b30c19-3e09-4ac4-b72d-bca411b60bc9</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_349</ot:kodKarto10k>
+			<ot:rodzaj>ściana oporowa</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-82088fa7-e6d0-45f1-b59e-5ee697e60cba-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>467658.86 443726.90 467664.39 443762.78</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUUO_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUUO_L gml:id="PL.PZGiK.308.BDOT10k_db6f4045-08a0-40bc-a2b2-ab0409b6c014_2023-12-31T120000">
+			<ot:lokalnyId>db6f4045-08a0-40bc-a2b2-ab0409b6c014</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_349</ot:kodKarto10k>
+			<ot:rodzaj>ściana oporowa</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-ae985085-1d52-4eb1-af18-9604e3feb691-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>467413.31 462335.04 467421.23 462338.21 467422.54 462332.28</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUUO_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUUO_L gml:id="PL.PZGiK.308.BDOT10k_33d844fc-8389-4ba6-9815-1bb02bf70b9e_2023-12-31T120000">
+			<ot:lokalnyId>33d844fc-8389-4ba6-9815-1bb02bf70b9e</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_349</ot:kodKarto10k>
+			<ot:rodzaj>ściana oporowa</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-704e8c6b-af42-48ee-8554-cb0c35ce2314-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>469274.42 451263.41 469275.76 451243.30</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUUO_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUUO_L gml:id="PL.PZGiK.308.BDOT10k_04927a91-91ed-43ce-9ce4-a8ea90ba3281_2023-12-31T120000">
+			<ot:lokalnyId>04927a91-91ed-43ce-9ce4-a8ea90ba3281</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_349</ot:kodKarto10k>
+			<ot:rodzaj>ściana oporowa</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-673100fc-6139-4bb8-9bc5-95742703209b-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>466185.78 449508.95 466200.73 449508.43</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUUO_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUUO_L gml:id="PL.PZGiK.308.BDOT10k_2ed28cfd-2ceb-45fa-851f-7b1fcc5e9717_2023-12-31T120000">
+			<ot:lokalnyId>2ed28cfd-2ceb-45fa-851f-7b1fcc5e9717</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_349</ot:kodKarto10k>
+			<ot:rodzaj>ściana oporowa</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-da655a3f-f1e4-48e8-bc8c-6ded9d59324d-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>468673.22 473937.24 468658.19 473938.58</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUUO_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUUO_L gml:id="PL.PZGiK.308.BDOT10k_a8ea3117-8e90-41e1-955a-0c9ed292c3f9_2023-12-31T120000">
+			<ot:lokalnyId>a8ea3117-8e90-41e1-955a-0c9ed292c3f9</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_349</ot:kodKarto10k>
+			<ot:rodzaj>ściana oporowa</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-4ad4dadb-355d-412b-874b-647298055edb-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>452568.10 464479.69 452569.35 464410.49</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUUO_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUUO_L gml:id="PL.PZGiK.308.BDOT10k_47f1ece4-1196-49e3-9634-281be45686b5_2023-12-31T120000">
+			<ot:lokalnyId>47f1ece4-1196-49e3-9634-281be45686b5</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_349</ot:kodKarto10k>
+			<ot:rodzaj>ściana oporowa</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-24af4374-0df1-4b57-9b7d-097ee0790c23-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>449893.60 461182.67 449894.54 461127.97 449902.60 461128.06</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUUO_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUUO_L gml:id="PL.PZGiK.308.BDOT10k_85f2dacd-97b4-46dd-a899-3929954bf7e7_2023-12-31T120000">
+			<ot:lokalnyId>85f2dacd-97b4-46dd-a899-3929954bf7e7</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_349</ot:kodKarto10k>
+			<ot:rodzaj>ściana oporowa</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-244a92e4-b1b1-4e05-954b-04bbb0c6e120-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>468674.51 473951.18 468673.22 473937.24</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUUO_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUUO_L gml:id="PL.PZGiK.308.BDOT10k_7a78c7a3-908d-4eef-908f-48e9cad940b7_2023-12-31T120000">
+			<ot:lokalnyId>7a78c7a3-908d-4eef-908f-48e9cad940b7</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_349</ot:kodKarto10k>
+			<ot:rodzaj>ściana oporowa</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-e7b2927e-93f7-450f-8c75-4a53a88d43b5-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>467478.41 443575.90 467473.31 443577.34</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUUO_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUUO_L gml:id="PL.PZGiK.308.BDOT10k_8277b3c3-0938-4471-a9e3-53bd2d52e353_2023-12-31T120000">
+			<ot:lokalnyId>8277b3c3-0938-4471-a9e3-53bd2d52e353</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_349</ot:kodKarto10k>
+			<ot:rodzaj>ściana oporowa</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-c4953f39-69e2-4ef7-846e-ffa21f02c189-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>469286.00 451245.02 469284.66 451263.03</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUUO_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUUO_L gml:id="PL.PZGiK.308.BDOT10k_745cba84-1af1-493f-b983-01e552fd53fe_2023-12-31T120000">
+			<ot:lokalnyId>745cba84-1af1-493f-b983-01e552fd53fe</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_349</ot:kodKarto10k>
+			<ot:rodzaj>ściana oporowa</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-bc5a6b00-5347-4c2a-9b33-69d0f5d10151-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>467590.81 452127.34 467591.11 452137.36 467595.22 452137.36</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUUO_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUUO_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-87A3-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-87A3-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_626</ot:kodKarto10k>
+			<ot:rodzaj>umocnienie brzegu</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-79c20db7-58a1-4558-aa17-3a6c9002e360-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>473793.32 452836.09 473797.68 452864.48 473798.77 452874.97 473798.34 452886.76 473795.94 452897.25 473790.70 452912.32 473756.90 452997.64 473668.64 453224.05</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUUO_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUUO_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-879E-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-879E-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_349</ot:kodKarto10k>
+			<ot:rodzaj>ściana oporowa</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-4ee2ceab-26c3-4fd9-97e8-40ede2b7592e-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>456127.46 464679.73 456144.60 464658.47</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUUO_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUUO_L gml:id="PL.PZGiK.308.BDOT10k_b13eefe7-4005-4a9c-a3df-dc5012c65dad_2023-12-31T120000">
+			<ot:lokalnyId>b13eefe7-4005-4a9c-a3df-dc5012c65dad</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_349</ot:kodKarto10k>
+			<ot:rodzaj>ściana oporowa</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-b148a9ce-1c8b-44bf-b6ca-77c161fcb125-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>482551.94 452032.51 482549.42 452026.77 482550.59 452024.12 482553.53 452023.37 482555.26 452023.63 482556.33 452024.57 482556.56 452031.30</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUUO_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUUO_L gml:id="PL.PZGiK.308.BDOT10k_8432e3c4-94db-4957-bb5d-bb296be53d5d_2023-12-31T120000">
+			<ot:lokalnyId>8432e3c4-94db-4957-bb5d-bb296be53d5d</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_349</ot:kodKarto10k>
+			<ot:rodzaj>ściana oporowa</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-79e76557-b8c3-4351-987c-56d4a8442bbd-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>467485.01 443599.31 467476.75 443601.45</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUUO_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUUO_L gml:id="PL.PZGiK.308.BDOT10k_dbf99ab7-bfd5-4724-b5ed-901d52ff0c39_2023-12-31T120000">
+			<ot:lokalnyId>dbf99ab7-bfd5-4724-b5ed-901d52ff0c39</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_349</ot:kodKarto10k>
+			<ot:rodzaj>ściana oporowa</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-32f6c243-a39a-4df7-8f6e-788f152d85f8-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>467670.22 443725.41 467675.90 443761.29</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUUO_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUUO_L gml:id="PL.PZGiK.308.BDOT10k_7612948d-90e4-44eb-917d-7da02e3f1e5a_2023-12-31T120000">
+			<ot:lokalnyId>7612948d-90e4-44eb-917d-7da02e3f1e5a</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_349</ot:kodKarto10k>
+			<ot:rodzaj>ściana oporowa</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-ee070125-39ad-49a2-82e3-dffa689e77ef-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>468660.37 473981.66 468677.21 473980.29 468675.79 473965.01</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUUO_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUUO_L gml:id="PL.PZGiK.308.BDOT10k_47568ed5-c571-4565-aaeb-4117c33d13bf_2023-12-31T120000">
+			<ot:lokalnyId>47568ed5-c571-4565-aaeb-4117c33d13bf</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_349</ot:kodKarto10k>
+			<ot:rodzaj>ściana oporowa</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-079b1f47-9644-4ce6-bb41-3c73de923e67-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>467423.63 462327.32 467424.66 462322.64</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUUO_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUUO_L gml:id="PL.PZGiK.308.BDOT10k_e6923a69-b96e-4ab5-9331-c53b8677e258_2023-12-31T120000">
+			<ot:lokalnyId>e6923a69-b96e-4ab5-9331-c53b8677e258</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_349</ot:kodKarto10k>
+			<ot:rodzaj>ściana oporowa</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-88d6b5f8-9aa2-44c1-bcd0-f0ab07c5767b-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>469756.11 448521.81 469762.24 448521.96 469762.98 448500.88 469757.53 448500.66</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUUO_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUUO_L gml:id="PL.PZGiK.308.BDOT10k_f03739be-7c3f-45e9-94ba-f39d0a525d31_2023-12-31T120000">
+			<ot:lokalnyId>f03739be-7c3f-45e9-94ba-f39d0a525d31</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_349</ot:kodKarto10k>
+			<ot:rodzaj>ściana oporowa</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-d5beaa34-5007-455f-bb44-1cfb825bb6d4-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>470880.35 469866.88 470887.50 469829.82</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUUO_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUUO_L gml:id="PL.PZGiK.308.BDOT10k_8852df0b-d290-4faa-a654-9975fd76d77e_2023-12-31T120000">
+			<ot:lokalnyId>8852df0b-d290-4faa-a654-9975fd76d77e</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_349</ot:kodKarto10k>
+			<ot:rodzaj>ściana oporowa</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-2aa37ae3-5db1-447c-b2f2-a752bf4c94f3-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>467420.57 453129.08 467420.33 453139.48 467433.48 453139.84 467433.72 453129.91</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUUO_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUUO_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-87AC-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-87AC-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_626</ot:kodKarto10k>
+			<ot:rodzaj>umocnienie brzegu</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-be8e38ec-a211-4791-b8e2-797566bab4e9-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>478442.85 443912.30 478420.78 443923.68 478393.60 443934.91 478381.23 443908.36 478383.84 443895.30 478395.25 443889.25 478392.19 443879.93 478382.80 443883.75 478369.29 443877.21 478353.71 443838.60 478370.14 443833.48 478373.14 443787.35 478417.08 443770.42 478448.48 443759.05 478457.93 443757.35 478466.57 443759.20 478476.69 443763.04 478485.10 443767.43 478493.50 443771.82 478502.65 443777.16 478511.80 443782.49 478521.61 443786.54 478530.18 443785.19 478538.25 443781.21 478546.57 443769.90 478552.12 443757.53 478554.68 443749.21 478555.75 443743.45 478554.89 443729.37 478549.99 443716.14 478543.37 443706.75 478536.33 443699.50 478523.32 443692.46 478507.10 443682.43 478493.50 443673.26 478486.62 443670.48</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUUO_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUUO_L gml:id="PL.PZGiK.308.BDOT10k_fb8d1686-544f-4e93-8f51-b32a4db1abac_2023-12-31T120000">
+			<ot:lokalnyId>fb8d1686-544f-4e93-8f51-b32a4db1abac</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_349</ot:kodKarto10k>
+			<ot:rodzaj>ściana oporowa</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-f9bd81e1-7d67-4e17-8ec7-55162377e5f6-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>466063.15 447639.35 466063.15 447628.93 466085.80 447629.26 466085.47 447640.25</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUUO_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUUO_L gml:id="PL.PZGiK.308.BDOT10k_17919391-493a-4f79-adaf-cba6fa919330_2023-12-31T120000">
+			<ot:lokalnyId>17919391-493a-4f79-adaf-cba6fa919330</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_349</ot:kodKarto10k>
+			<ot:rodzaj>ściana oporowa</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-8990d778-2314-4fba-bec1-f376933fbc2b-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>462963.41 446220.26 462959.64 446208.78 462969.69 446205.37</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUUO_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUUO_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-879B-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-879B-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_349</ot:kodKarto10k>
+			<ot:rodzaj>ściana oporowa</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-1cb16338-c8da-4463-9aea-a33b4227b973-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>458055.64 454877.55 458069.96 454854.00</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUUO_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUUO_L gml:id="PL.PZGiK.308.BDOT10k_137dcad2-52dd-4924-8578-49b7391ae3d5_2023-12-31T120000">
+			<ot:lokalnyId>137dcad2-52dd-4924-8578-49b7391ae3d5</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_349</ot:kodKarto10k>
+			<ot:rodzaj>ściana oporowa</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-f6005fe9-8301-4c1e-8121-208e1c4f1340-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>467477.35 443572.12 467472.25 443573.37</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUUO_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUUO_L gml:id="PL.PZGiK.308.BDOT10k_ef3ccdeb-017c-40f4-a3b3-ef516ba58ba9_2023-12-31T120000">
+			<ot:lokalnyId>ef3ccdeb-017c-40f4-a3b3-ef516ba58ba9</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_349</ot:kodKarto10k>
+			<ot:rodzaj>ściana oporowa</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-3d48e392-b56d-468b-ae6e-7b6425ce11af-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>468658.59 454429.59 468671.33 454380.79</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUUO_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUUO_L gml:id="PL.PZGiK.308.BDOT10k_f9aca63f-3bef-4059-b4c1-29f36ff81bc6_2023-12-31T120000">
+			<ot:lokalnyId>f9aca63f-3bef-4059-b4c1-29f36ff81bc6</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_349</ot:kodKarto10k>
+			<ot:rodzaj>ściana oporowa</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-519591a6-8d7e-4a78-9328-c8d8e7abc666-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>461953.52 446633.01 461965.41 446629.33</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUUO_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUUO_L gml:id="PL.PZGiK.308.BDOT10k_374685c3-2f41-45a5-bd93-4f2e7eb7d0cc_2023-12-31T120000">
+			<ot:lokalnyId>374685c3-2f41-45a5-bd93-4f2e7eb7d0cc</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_349</ot:kodKarto10k>
+			<ot:rodzaj>ściana oporowa</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-8bf8e186-5c09-4d33-8d57-77036274ca21-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>461368.29 470334.17 461365.75 470323.04 461377.75 470320.08</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUUO_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUUO_L gml:id="PL.PZGiK.308.BDOT10k_9f02bb7f-0df5-4cef-b1df-931b4bc2cb32_2023-12-31T120000">
+			<ot:lokalnyId>9f02bb7f-0df5-4cef-b1df-931b4bc2cb32</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_349</ot:kodKarto10k>
+			<ot:rodzaj>ściana oporowa</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-ce8df3a1-75bc-4bcf-b338-d1c12fc92da9-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>470791.51 469779.43 470830.98 469786.65 470832.75 469775.97 470793.48 469768.74</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUUO_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUUO_L gml:id="PL.PZGiK.308.BDOT10k_f7e9b5ea-bc57-44ae-94ed-5c35d6096eae_2023-12-31T120000">
+			<ot:lokalnyId>f7e9b5ea-bc57-44ae-94ed-5c35d6096eae</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_349</ot:kodKarto10k>
+			<ot:rodzaj>ściana oporowa</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-86c6aea8-1762-4de2-91fd-ac398fdbfe71-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>468675.79 473965.01 468659.45 473967.00</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUUO_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUUO_L gml:id="PL.PZGiK.308.BDOT10k_162cd0c8-4bc0-4824-b57e-e0934b99b689_2023-12-31T120000">
+			<ot:lokalnyId>162cd0c8-4bc0-4824-b57e-e0934b99b689</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_349</ot:kodKarto10k>
+			<ot:rodzaj>ściana oporowa</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-9cdb37d9-33a3-4325-8df7-329dd8333355-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>461397.02 470420.43 461388.08 470422.52 461390.27 470434.53 461406.35 470430.96</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUUO_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUUO_L gml:id="PL.PZGiK.308.BDOT10k_60a64851-8bf8-48cd-9c62-7b07b0abc4f4_2023-12-31T120000">
+			<ot:lokalnyId>60a64851-8bf8-48cd-9c62-7b07b0abc4f4</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_349</ot:kodKarto10k>
+			<ot:rodzaj>ściana oporowa</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-b44b7455-df97-4556-8d9a-9f3521b8ffd4-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>467422.54 462332.28 467414.86 462330.38</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUUO_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUUO_L gml:id="PL.PZGiK.308.BDOT10k_4aa1409f-208d-4c22-b2ce-0e08ab6b48b4_2023-12-31T120000">
+			<ot:lokalnyId>4aa1409f-208d-4c22-b2ce-0e08ab6b48b4</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_626</ot:kodKarto10k>
+			<ot:rodzaj>umocnienie brzegu</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-40e09706-d406-4e61-9536-628f6412c7db-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>482082.25 449077.76 482084.66 449085.56 482085.52 449086.61 482087.15 449087.63</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUUO_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUUO_L gml:id="PL.PZGiK.308.BDOT10k_71be6fe0-0de7-440d-a166-1b45a380a06d_2023-12-31T120000">
+			<ot:lokalnyId>71be6fe0-0de7-440d-a166-1b45a380a06d</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_349</ot:kodKarto10k>
+			<ot:rodzaj>ściana oporowa</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-eea93ae1-4b2b-47ac-9a62-ee8c111341b4-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>468668.46 454431.92 468681.19 454383.30</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUUO_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUUO_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-8793-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-8793-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_349</ot:kodKarto10k>
+			<ot:rodzaj>ściana oporowa</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-8d450446-82d3-4fe5-bc62-e581de698b59-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>462047.41 472512.14 462044.90 472474.63</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUUO_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUUO_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-87A9-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-87A9-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_626</ot:kodKarto10k>
+			<ot:rodzaj>umocnienie brzegu</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-82f0a3c2-6f6b-481d-8463-e6a44dfedfe0-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>476417.43 469814.32 476455.57 469806.57 476498.64 469797.86 476512.62 469795.03 476559.58 469786.03 476586.43 469780.92 476596.65 469779.35 476602.35 469778.72 476610.80 469778.26 476617.31 469778.09 476632.19 469776.69 476646.06 469775.60 476651.41 469774.22 476655.66 469771.89 476659.68 469769.26 476664.23 469767.20 476670.43 469765.57 476736.81 469751.98 476864.48 469727.75</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUUO_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUUO_L gml:id="PL.PZGiK.308.BDOT10k_ba917496-3d07-4c99-89c6-fece9e4bd1b4_2023-12-31T120000">
+			<ot:lokalnyId>ba917496-3d07-4c99-89c6-fece9e4bd1b4</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_349</ot:kodKarto10k>
+			<ot:rodzaj>ściana oporowa</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-c890094b-05d7-4a37-a0d9-a91650db40c9-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>469822.13 445209.65 469826.02 445248.67</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUUO_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUUO_L gml:id="PL.PZGiK.308.BDOT10k_604ac991-06d1-4a34-a86e-e91469ae4f68_2023-12-31T120000">
+			<ot:lokalnyId>604ac991-06d1-4a34-a86e-e91469ae4f68</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_349</ot:kodKarto10k>
+			<ot:rodzaj>ściana oporowa</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-f0d88608-9c86-4867-992d-2f30c4312642-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>467426.72 462313.27 467427.70 462308.82</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUUO_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUUO_L gml:id="PL.PZGiK.308.BDOT10k_addab18b-527f-45c3-8fe6-fc563f4ef0be_2023-12-31T120000">
+			<ot:lokalnyId>addab18b-527f-45c3-8fe6-fc563f4ef0be</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_349</ot:kodKarto10k>
+			<ot:rodzaj>ściana oporowa</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-e73e1d3d-48f6-47d3-8518-5fa66ad41394-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>467426.72 462313.27 467419.65 462311.57</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUUO_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUUO_L gml:id="PL.PZGiK.308.BDOT10k_eb457132-62d2-4253-bdad-fe9eafddcdb1_2023-12-31T120000">
+			<ot:lokalnyId>eb457132-62d2-4253-bdad-fe9eafddcdb1</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_349</ot:kodKarto10k>
+			<ot:rodzaj>ściana oporowa</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-78d5fd14-240f-4097-8bdb-5a165927bd47-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>461374.23 470360.22 461371.33 470347.50</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUUO_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUUO_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-8796-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-8796-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_349</ot:kodKarto10k>
+			<ot:rodzaj>ściana oporowa</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-9e69f512-68e7-4f54-88ea-01b7269a2cea-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>462092.24 472508.62 462089.91 472471.18</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUUO_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUUO_L gml:id="PL.PZGiK.308.BDOT10k_1e746074-deb9-4585-aafd-6f91347da673_2023-12-31T120000">
+			<ot:lokalnyId>1e746074-deb9-4585-aafd-6f91347da673</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_349</ot:kodKarto10k>
+			<ot:rodzaj>ściana oporowa</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-7c5ede91-eaaf-4f47-9641-821c10658087-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>467125.94 444883.40 467142.98 444879.82 467144.77 444887.59</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUUO_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUUO_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-8798-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-8798-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_349</ot:kodKarto10k>
+			<ot:rodzaj>ściana oporowa</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-a30ab85e-f507-4d08-9ca2-46fdbacc7468-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>451055.76 467903.43 451058.69 468002.84</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUUO_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUUO_L gml:id="PL.PZGiK.308.BDOT10k_fb041f36-bdff-4f28-8d1c-d38212ac522b_2023-12-31T120000">
+			<ot:lokalnyId>fb041f36-bdff-4f28-8d1c-d38212ac522b</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_349</ot:kodKarto10k>
+			<ot:rodzaj>ściana oporowa</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-8a7165d1-949a-49f6-b779-cd0ae64faf11-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>466846.07 444951.20 466847.27 444956.66 466853.85 444955.31</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUUO_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUUO_L gml:id="PL.PZGiK.308.BDOT10k_95b724dc-dfef-4fd3-bd35-2e9188d2c89e_2023-12-31T120000">
+			<ot:lokalnyId>95b724dc-dfef-4fd3-bd35-2e9188d2c89e</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_349</ot:kodKarto10k>
+			<ot:rodzaj>ściana oporowa</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-9232548c-2396-41bd-a96e-605da6e07a81-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>468655.90 473921.28 468657.16 473928.16</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUUO_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUUO_L gml:id="PL.PZGiK.308.BDOT10k_096b3a1b-74f7-41e7-a3a8-6fd63c297c02_2023-12-31T120000">
+			<ot:lokalnyId>096b3a1b-74f7-41e7-a3a8-6fd63c297c02</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_349</ot:kodKarto10k>
+			<ot:rodzaj>ściana oporowa</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-3cfe05d4-101b-4cfc-bcc1-555f2c425e5b-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>469279.57 451263.85 469280.55 451243.82</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUUO_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUUO_L gml:id="PL.PZGiK.308.BDOT10k_37759588-7368-4c81-9593-a927a79575cc_2023-12-31T120000">
+			<ot:lokalnyId>37759588-7368-4c81-9593-a927a79575cc</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_349</ot:kodKarto10k>
+			<ot:rodzaj>ściana oporowa</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-0492b146-e3d3-436a-b5ba-00ce0aef0ced-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>470887.50 469829.82 470878.47 469828.53</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUUO_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUUO_L gml:id="PL.PZGiK.308.BDOT10k_529eda1d-6f5b-41ac-b6de-e4df8af56457_2023-12-31T120000">
+			<ot:lokalnyId>529eda1d-6f5b-41ac-b6de-e4df8af56457</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_349</ot:kodKarto10k>
+			<ot:rodzaj>ściana oporowa</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-9af3dea3-21b5-47a0-be38-ed6d5c800896-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>473707.11 459064.04 473722.75 459071.90 473751.06 459015.03</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUUO_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUUO_L gml:id="PL.PZGiK.308.BDOT10k_f79fd15e-aab3-4102-b689-637ed72ad514_2023-12-31T120000">
+			<ot:lokalnyId>f79fd15e-aab3-4102-b689-637ed72ad514</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_349</ot:kodKarto10k>
+			<ot:rodzaj>ściana oporowa</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-5d3bda95-5595-4dcd-a6e0-77dd45217267-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>467425.64 462318.16 467426.72 462313.27</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUUO_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUUO_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-879F-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-879F-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_349</ot:kodKarto10k>
+			<ot:rodzaj>ściana oporowa</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-2c70a666-0afa-4d97-81f4-e601e2c1dc9b-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>456134.12 464685.83 456151.26 464664.57</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUUO_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUUO_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-879D-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-879D-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_349</ot:kodKarto10k>
+			<ot:rodzaj>ściana oporowa</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-7e94820e-24d5-483a-a828-143cbd351ab5-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>456120.24 464674.48 456137.38 464653.22</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUUO_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUUO_L gml:id="PL.PZGiK.308.BDOT10k_21bdb310-9302-4114-bb69-75d1e5c3ff31_2023-12-31T120000">
+			<ot:lokalnyId>21bdb310-9302-4114-bb69-75d1e5c3ff31</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_349</ot:kodKarto10k>
+			<ot:rodzaj>ściana oporowa</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-b280620a-87a9-4ce0-895e-598898d457c5-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>473692.87 459056.89 473707.11 459064.04</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUUO_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUUO_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-87A4-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-87A4-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_626</ot:kodKarto10k>
+			<ot:rodzaj>umocnienie brzegu</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-605fe06e-1ea8-4a8a-aad5-f6dbfb911a06-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>476378.42 469817.15 476315.34 469829.43 476265.95 469840.02 476260.66 469840.82 476256.17 469841.14 476250.40 469840.82 476240.45 469839.85 476224.09 469837.45 476138.46 469821.56 476017.54 469799.74 476011.76 469798.94 476006.47 469798.62 476004.37 469798.67 476000.22 469798.78 475995.56 469799.26 475990.75 469800.54 475984.50 469803.59 475955.63 469820.44 475948.73 469825.25 475944.88 469828.78 475941.04 469833.12 475937.67 469837.93 475932.70 469846.92 475898.69 469914.95 475895.32 469920.56 475892.44 469925.06 475888.43 469930.51 475872.86 469951.56 475829.09 470010.74 475825.88 470014.11 475821.71 470016.84 475816.42 470019.41 475810.00 470022.13 475696.63 470062.49 475652.62 470078.15 475633.75 470084.87 475365.44 470181.63 475357.42 470185.00 475344.92 470189.81 475336.37 470193.79</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUUO_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUUO_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-8794-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-8794-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_349</ot:kodKarto10k>
+			<ot:rodzaj>ściana oporowa</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-62930663-273b-4fc6-b982-5fd101b21cce-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>462062.14 472510.99 462059.80 472473.49</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUUO_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUUO_L gml:id="PL.PZGiK.308.BDOT10k_e048a1cf-5513-4951-9441-c219e018d2c0_2023-12-31T120000">
+			<ot:lokalnyId>e048a1cf-5513-4951-9441-c219e018d2c0</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_349</ot:kodKarto10k>
+			<ot:rodzaj>ściana oporowa</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-7f628f73-4933-4d64-acbf-21d9867000fb-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>470878.47 469828.53 470868.48 469827.10 470862.04 469861.59</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUUO_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUUO_L gml:id="PL.PZGiK.308.BDOT10k_367567b9-d62c-4e73-b7c6-b8eb161d4d7e_2023-12-31T120000">
+			<ot:lokalnyId>367567b9-d62c-4e73-b7c6-b8eb161d4d7e</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_349</ot:kodKarto10k>
+			<ot:rodzaj>ściana oporowa</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-d7375eb9-7169-45bf-97a3-18188aae7056-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>449902.60 461128.06 449910.66 461128.16 449910.09 461183.05</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUUO_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUUO_L gml:id="PL.PZGiK.308.BDOT10k_bd6ae928-6ca8-4eba-bbaf-d0f2167ea0f2_2023-12-31T120000">
+			<ot:lokalnyId>bd6ae928-6ca8-4eba-bbaf-d0f2167ea0f2</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_349</ot:kodKarto10k>
+			<ot:rodzaj>ściana oporowa</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-2de8c4ea-47f9-401c-87e6-07dd33beb63d-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>466924.34 453255.31 466935.41 453252.92</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUUO_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUUO_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-8799-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-8799-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_349</ot:kodKarto10k>
+			<ot:rodzaj>ściana oporowa</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-fc4b3785-9f62-42a6-a12d-99f4baff213a-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>458043.62 454866.67 458052.36 454852.71 458055.12 454848.40</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUUO_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUUO_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-87A0-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-87A0-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_626</ot:kodKarto10k>
+			<ot:rodzaj>umocnienie brzegu</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-27aa9c5d-d4fe-499e-a4e3-c26084fc49b0-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>465596.87 460840.29 465646.71 460832.80 465650.89 460830.01 465652.28 460824.60 465650.89 460799.84 465652.15 460795.71 465658.32 460790.58 465667.20 460783.71 465671.29 460778.05 465672.24 460773.62 465669.89 460770.57</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUUO_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUUO_L gml:id="PL.PZGiK.308.BDOT10k_f71577f0-463e-4208-a219-f0a08bad7cce_2023-12-31T120000">
+			<ot:lokalnyId>f71577f0-463e-4208-a219-f0a08bad7cce</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_349</ot:kodKarto10k>
+			<ot:rodzaj>ściana oporowa</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-21e1acc0-e6ec-4f1d-a1d2-27cb2838d075-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>452548.03 464456.89 452548.78 464415.12</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUUO_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUUO_L gml:id="PL.PZGiK.308.BDOT10k_988543d3-e121-4d45-813d-26fbd8d480d4_2023-12-31T120000">
+			<ot:lokalnyId>988543d3-e121-4d45-813d-26fbd8d480d4</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_349</ot:kodKarto10k>
+			<ot:rodzaj>ściana oporowa</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-46d4f7db-b8f8-47c6-b858-a99a2c28fa6c-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>468655.67 473917.67 468655.90 473921.28</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUUO_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUUO_L gml:id="PL.PZGiK.308.BDOT10k_9dd87bbf-1a24-408a-bc6f-fe58b0f6df4e_2023-12-31T120000">
+			<ot:lokalnyId>9dd87bbf-1a24-408a-bc6f-fe58b0f6df4e</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_349</ot:kodKarto10k>
+			<ot:rodzaj>ściana oporowa</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-4700ada7-c4af-4b3d-a51f-eb3c574a1499-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>461420.25 470344.29 461428.45 470342.19 461427.07 470336.62</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUUO_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUUO_L gml:id="PL.PZGiK.308.BDOT10k_99b74345-2604-40f2-86b1-0d64e38e5dac_2023-12-31T120000">
+			<ot:lokalnyId>99b74345-2604-40f2-86b1-0d64e38e5dac</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_349</ot:kodKarto10k>
+			<ot:rodzaj>ściana oporowa</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-50007cb8-1f3a-4cc5-a1f6-63f7b8a8d54f-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>465304.31 454782.67 465304.53 454759.91 465313.17 454759.68</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUUO_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUUO_L gml:id="PL.PZGiK.308.BDOT10k_4c69c93b-a375-4ba6-9f9a-9710f28527e1_2023-12-31T120000">
+			<ot:lokalnyId>4c69c93b-a375-4ba6-9f9a-9710f28527e1</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_349</ot:kodKarto10k>
+			<ot:rodzaj>ściana oporowa</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-55f8a374-c84d-4b35-b468-18129f014714-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>467326.57 444865.16 467324.62 444853.06 467333.44 444850.96</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUUO_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUUO_L gml:id="PL.PZGiK.308.BDOT10k_61847651-ff37-4c39-afd4-ca9f5b2d72cf_2023-12-31T120000">
+			<ot:lokalnyId>61847651-ff37-4c39-afd4-ca9f5b2d72cf</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_349</ot:kodKarto10k>
+			<ot:rodzaj>ściana oporowa</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-2305d5e6-76c5-463f-8c11-23022e58e35d-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>468248.78 447865.00 468248.50 447874.31</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUUO_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUUO_L gml:id="PL.PZGiK.308.BDOT10k_02fcff40-b714-4879-baf7-97a1e0f87816_2023-12-31T120000">
+			<ot:lokalnyId>02fcff40-b714-4879-baf7-97a1e0f87816</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_349</ot:kodKarto10k>
+			<ot:rodzaj>ściana oporowa</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-532a5bef-fbe0-4767-ac96-4a19378c471f-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>467599.18 452137.29 467603.07 452137.29 467602.99 452126.97</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUUO_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUUO_L gml:id="PL.PZGiK.308.BDOT10k_46238395-ca41-4094-98de-4554c720cf8a_2023-12-31T120000">
+			<ot:lokalnyId>46238395-ca41-4094-98de-4554c720cf8a</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_349</ot:kodKarto10k>
+			<ot:rodzaj>ściana oporowa</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-60c40c4b-0672-4673-9c41-747c614004d6-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>467424.66 462322.64 467425.64 462318.16</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUUO_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUUO_L gml:id="PL.PZGiK.308.BDOT10k_cb8930c6-b2f5-4e1e-b86e-69b39af9e5c6_2023-12-31T120000">
+			<ot:lokalnyId>cb8930c6-b2f5-4e1e-b86e-69b39af9e5c6</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_349</ot:kodKarto10k>
+			<ot:rodzaj>ściana oporowa</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-24edcdb5-f515-4687-ae3b-07bac8ec25d5-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>467425.64 462318.16 467418.06 462316.20</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUUO_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUUO_L gml:id="PL.PZGiK.308.BDOT10k_fd71762f-1bbc-41fb-a9f9-56612dac6f09_2023-12-31T120000">
+			<ot:lokalnyId>fd71762f-1bbc-41fb-a9f9-56612dac6f09</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_349</ot:kodKarto10k>
+			<ot:rodzaj>ściana oporowa</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-446e672b-eaca-4dc5-b257-58f41b5a91e7-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>467467.48 443570.85 467476.35 443568.60 467477.35 443572.12 467478.41 443575.90 467479.49 443579.74 467480.59 443583.61 467481.66 443587.41 467482.82 443591.52 467483.90 443595.35 467485.01 443599.31 467486.29 443603.83 467476.88 443606.08</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUUO_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUUO_L gml:id="PL.PZGiK.308.BDOT10k_d5893d89-9f38-4041-804c-fa7a5112ac05_2023-12-31T120000">
+			<ot:lokalnyId>d5893d89-9f38-4041-804c-fa7a5112ac05</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_349</ot:kodKarto10k>
+			<ot:rodzaj>ściana oporowa</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-2d55a898-7924-4267-9f54-280217c8d9ef-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>467473.45 452012.83 467473.45 452001.54</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUUO_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUUO_L gml:id="PL.PZGiK.308.BDOT10k_d5e44abc-6eaa-4307-be52-f229ff3c3f9d_2023-12-31T120000">
+			<ot:lokalnyId>d5e44abc-6eaa-4307-be52-f229ff3c3f9d</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_349</ot:kodKarto10k>
+			<ot:rodzaj>ściana oporowa</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-9c478e24-695b-4234-95a7-438930558e89-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>449902.60 461128.06 449901.46 461182.86</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUUO_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUUO_L gml:id="PL.PZGiK.308.BDOT10k_837e74c4-1a9e-429c-9cec-4dd8c43dbb22_2023-12-31T120000">
+			<ot:lokalnyId>837e74c4-1a9e-429c-9cec-4dd8c43dbb22</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_349</ot:kodKarto10k>
+			<ot:rodzaj>ściana oporowa</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-9b331be4-a7ec-4b07-99ce-11a2247dd5d9-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>452557.32 464479.70 452558.51 464414.15</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUUO_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUUO_L gml:id="PL.PZGiK.308.BDOT10k_df2a9d6b-d063-4f64-a48b-659d99245f3f_2023-12-31T120000">
+			<ot:lokalnyId>df2a9d6b-d063-4f64-a48b-659d99245f3f</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_349</ot:kodKarto10k>
+			<ot:rodzaj>ściana oporowa</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-e75e351b-50b8-42a1-a15c-aee25777888f-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>469832.30 445209.20 469836.18 445248.67</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUUO_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUUO_L gml:id="PL.PZGiK.308.BDOT10k_6fe62333-2b34-404a-9d49-3419ccedc7d9_2023-12-31T120000">
+			<ot:lokalnyId>6fe62333-2b34-404a-9d49-3419ccedc7d9</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_349</ot:kodKarto10k>
+			<ot:rodzaj>ściana oporowa</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-81f7e6a8-a083-4516-97d7-6d54a19b646d-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>461418.46 470339.03 461427.07 470336.62</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUUO_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUUO_L gml:id="PL.PZGiK.308.BDOT10k_c8592491-115f-487a-971e-998100abc5ca_2023-12-31T120000">
+			<ot:lokalnyId>c8592491-115f-487a-971e-998100abc5ca</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_349</ot:kodKarto10k>
+			<ot:rodzaj>ściana oporowa</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-157fab8c-b898-414a-b7c4-1aca35cd0f00-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>461368.29 470334.17 461379.05 470331.68</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUUO_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUUO_L gml:id="PL.PZGiK.308.BDOT10k_2f22cb2c-3f0c-47ea-9f00-d755f5124d2a_2023-12-31T120000">
+			<ot:lokalnyId>2f22cb2c-3f0c-47ea-9f00-d755f5124d2a</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_349</ot:kodKarto10k>
+			<ot:rodzaj>ściana oporowa</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-5418af70-5f2f-4b2a-b8f2-bad4dc4fc365-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>467636.28 443732.73 467641.81 443769.06</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUUO_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUUO_L gml:id="PL.PZGiK.308.BDOT10k_8668ee68-9140-4d58-9dd2-31c589c4c65e_2023-12-31T120000">
+			<ot:lokalnyId>8668ee68-9140-4d58-9dd2-31c589c4c65e</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_349</ot:kodKarto10k>
+			<ot:rodzaj>ściana oporowa</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-4f2b847f-95e1-4b1e-a6fa-d4095e4b1373-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>482546.96 452008.78 482546.96 452013.72 482548.62 452015.65 482551.75 452014.98 482552.30 452014.84 482552.56 452013.22 482553.46 452011.97 482551.76 452008.02</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUUO_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUUO_L gml:id="PL.PZGiK.308.BDOT10k_8c17521f-0d17-4921-b611-e551390ff479_2023-12-31T120000">
+			<ot:lokalnyId>8c17521f-0d17-4921-b611-e551390ff479</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_349</ot:kodKarto10k>
+			<ot:rodzaj>ściana oporowa</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-6ee78b44-a98d-4cf9-a91a-9e13ec0b9d56-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>469159.46 460028.89 469159.31 460013.71 469075.10 460014.58 469075.30 460030.13 469075.70 460061.90 469076.03 460121.13 469059.51 460120.94</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUUO_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUUO_L gml:id="PL.PZGiK.308.BDOT10k_5a09aa63-f259-4815-832d-46d14666f832_2023-12-31T120000">
+			<ot:lokalnyId>5a09aa63-f259-4815-832d-46d14666f832</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_349</ot:kodKarto10k>
+			<ot:rodzaj>ściana oporowa</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-caaa1fc2-c9fc-4267-a032-e199e04fc845-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>468674.51 473951.18 468658.54 473953.13</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUUO_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUUO_L gml:id="PL.PZGiK.308.BDOT10k_50c5131c-cd3d-4a64-a64d-6b1c7550236d_2023-12-31T120000">
+			<ot:lokalnyId>50c5131c-cd3d-4a64-a64d-6b1c7550236d</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_349</ot:kodKarto10k>
+			<ot:rodzaj>ściana oporowa</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-aea53ec8-175d-4604-9803-cab01e38d045-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>461374.23 470360.22 461385.70 470413.19 461394.44 470411.00</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUUO_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUUO_L gml:id="PL.PZGiK.308.BDOT10k_2729d331-d75b-4c67-b1f4-ac101f76b93f_2023-12-31T120000">
+			<ot:lokalnyId>2729d331-d75b-4c67-b1f4-ac101f76b93f</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_349</ot:kodKarto10k>
+			<ot:rodzaj>ściana oporowa</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-90ba6a3a-fbbb-45e8-b307-2cdb4d00e64a-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>468650.97 473889.77 468662.89 473888.17 468663.23 473894.35 468651.66 473895.96</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUUO_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUUO_L gml:id="PL.PZGiK.308.BDOT10k_03219cba-faaf-45bc-80c9-d23a89d0cf36_2023-12-31T120000">
+			<ot:lokalnyId>03219cba-faaf-45bc-80c9-d23a89d0cf36</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_349</ot:kodKarto10k>
+			<ot:rodzaj>ściana oporowa</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-1bac7f32-54df-45c7-abe6-306f81d6c59c-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>467480.59 443583.61 467473.18 443585.95</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUUO_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUUO_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-8795-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-8795-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_349</ot:kodKarto10k>
+			<ot:rodzaj>ściana oporowa</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-c5c81b26-44fe-44eb-b501-29880e174e5f-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>462077.53 472509.78 462075.10 472472.32</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUUO_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUUO_L gml:id="PL.PZGiK.308.BDOT10k_345EDFFC-8298-28FF-E053-CC2BA8C0223B_2025-11-19T000000">
+			<ot:lokalnyId>345EDFFC-8298-28FF-E053-CC2BA8C0223B</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2025-11-19T00:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2025-11-19T00:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>BGW-I-K.7520.29.2025</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_627</ot:kodKarto10k>
+			<ot:rodzaj>ostroga</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-5f698dec-50d8-4311-a7b7-cfd25eb89cff-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>480402.17 444933.19 480393.46 444939.68</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUUO_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUUO_L gml:id="PL.PZGiK.308.BDOT10k_e7a65d98-1813-40b9-b18c-ca6ee918277a_2023-12-31T120000">
+			<ot:lokalnyId>e7a65d98-1813-40b9-b18c-ca6ee918277a</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_349</ot:kodKarto10k>
+			<ot:rodzaj>ściana oporowa</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-50e3e0df-369c-4768-b7b2-13f4947ede7f-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>469240.18 451257.95 469251.17 451258.62</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUUO_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUUO_L gml:id="PL.PZGiK.308.BDOT10k_862bf40e-590f-4408-9565-91926729d02f_2023-12-31T120000">
+			<ot:lokalnyId>862bf40e-590f-4408-9565-91926729d02f</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_349</ot:kodKarto10k>
+			<ot:rodzaj>ściana oporowa</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-6cb272f6-1514-4ef3-a360-eda9860c0cc1-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>467481.66 443587.41 467474.63 443589.39</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUUO_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUUO_L gml:id="PL.PZGiK.308.BDOT10k_bae14d09-2500-4ddc-aca1-fca1491ecf3f_2023-12-31T120000">
+			<ot:lokalnyId>bae14d09-2500-4ddc-aca1-fca1491ecf3f</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_349</ot:kodKarto10k>
+			<ot:rodzaj>ściana oporowa</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-1787a1ae-06e1-405a-8cd1-9080f1eb5c42-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>461371.33 470347.50 461384.91 470344.09</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUUO_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUUO_L gml:id="PL.PZGiK.308.BDOT10k_8b0711f9-54fb-4b20-93a5-39abe0dc79d4_2023-12-31T120000">
+			<ot:lokalnyId>8b0711f9-54fb-4b20-93a5-39abe0dc79d4</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_349</ot:kodKarto10k>
+			<ot:rodzaj>ściana oporowa</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-9a1b29b6-c1cc-44c4-9aa2-100bf1dac1f6-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>469412.54 452213.08 469414.19 452217.87 469423.98 452214.88</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUUO_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUUO_L gml:id="PL.PZGiK.308.BDOT10k_b1893f00-8d59-4ddf-a4ab-6427b1b2b9de_2023-12-31T120000">
+			<ot:lokalnyId>b1893f00-8d59-4ddf-a4ab-6427b1b2b9de</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_349</ot:kodKarto10k>
+			<ot:rodzaj>ściana oporowa</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-4e79cd83-adb6-4fd6-8bec-e13fed921b59-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>468648.00 454427.44 468661.28 454378.82</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUUO_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUUO_L gml:id="PL.PZGiK.308.BDOT10k_0743e463-2f89-4e4f-a336-f4e36b2fad47_2023-12-31T120000">
+			<ot:lokalnyId>0743e463-2f89-4e4f-a336-f4e36b2fad47</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_349</ot:kodKarto10k>
+			<ot:rodzaj>ściana oporowa</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-79651f22-3577-4b42-8ccc-3029fa454666-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>467482.82 443591.52 467475.03 443593.90</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUUO_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUUO_L gml:id="PL.PZGiK.308.BDOT10k_421834fa-5d4a-4163-834e-e1c4cfe99c97_2023-12-31T120000">
+			<ot:lokalnyId>421834fa-5d4a-4163-834e-e1c4cfe99c97</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_349</ot:kodKarto10k>
+			<ot:rodzaj>ściana oporowa</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-93676eb6-221d-451b-8dbf-47dfc1614313-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>461427.07 470336.62 461424.77 470327.35 461416.38 470329.89</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUUO_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUUO_L gml:id="PL.PZGiK.308.BDOT10k_cf474cf0-1352-42a4-a27d-9859473b0c78_2023-12-31T120000">
+			<ot:lokalnyId>cf474cf0-1352-42a4-a27d-9859473b0c78</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_349</ot:kodKarto10k>
+			<ot:rodzaj>ściana oporowa</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-2abd7d7a-545e-4c19-9b19-af30e4511aac-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>472199.67 456939.02 472199.88 456915.85</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUUO_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUUO_L gml:id="PL.PZGiK.308.BDOT10k_6f793646-8289-4b1c-a9c0-c00988a7d6e8_2023-12-31T120000">
+			<ot:lokalnyId>6f793646-8289-4b1c-a9c0-c00988a7d6e8</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_349</ot:kodKarto10k>
+			<ot:rodzaj>ściana oporowa</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-571ead68-c756-4348-bf92-63fbfa1d813f-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>452578.65 464479.85 452579.92 464409.37</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUUO_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUUO_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-87A1-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-87A1-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_626</ot:kodKarto10k>
+			<ot:rodzaj>umocnienie brzegu</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-a7f006ba-2d5c-4394-8683-13fdf5a482ab-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>470921.14 459971.88 470904.80 460018.59 470918.40 460022.85 470939.27 459974.58</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUUO_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUUO_L gml:id="PL.PZGiK.308.BDOT10k_c31e8ef4-9215-4228-91fa-8429f772df81_2023-12-31T120000">
+			<ot:lokalnyId>c31e8ef4-9215-4228-91fa-8429f772df81</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_349</ot:kodKarto10k>
+			<ot:rodzaj>ściana oporowa</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-0f946f04-6bc3-4bbe-bdaf-23a42a875d46-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>467424.66 462322.64 467416.97 462321.08</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUUO_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUUO_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-87B2-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-87B2-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_626</ot:kodKarto10k>
+			<ot:rodzaj>umocnienie brzegu</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-faabdf00-f684-45cd-8e83-5a151d84c79a-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>469725.98 460692.88 469726.31 460700.44 469731.85 460693.93 469734.27 460688.96 469745.17 460653.61 469751.98 460635.85 469753.03 460633.11 469787.06 460504.83 469801.90 460446.80 469833.10 460347.21 469876.07 460214.67 469904.00 460125.66 469911.61 460103.27 469919.70 460088.14 469944.57 460056.72 469978.23 460021.96 469988.50 460011.35 470035.37 459963.03 470061.33 459936.26 470160.36 459835.34 470170.45 459822.20 470167.46 459818.44 470164.37 459816.01 470157.39 459821.56 470095.75 459883.68 470041.75 459940.98 470033.88 459949.25 469988.50 459996.95 469978.14 460007.80 469911.41 460077.67 469901.38 460094.68 469861.67 460217.29 469827.20 460321.57 469820.56 460341.71 469814.11 460361.28 469790.99 460428.91 469772.62 460498.62 469769.61 460510.06 469749.97 460579.88 469737.19 460624.24 469735.14 460631.36 469734.18 460638.09 469732.96 460646.63 469730.78 460669.76 469725.98 460692.88</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUUO_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUUO_L gml:id="PL.PZGiK.308.BDOT10k_5586b769-1474-4eec-9e2c-673e131c7dd6_2023-12-31T120000">
+			<ot:lokalnyId>5586b769-1474-4eec-9e2c-673e131c7dd6</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_349</ot:kodKarto10k>
+			<ot:rodzaj>ściana oporowa</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-c79138aa-541b-4f7b-ae6b-fefcedd90d00-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>469180.44 460131.03 469156.64 460126.70 469156.95 460097.64 469156.64 460089.91 469153.55 460085.28 469139.33 460085.89</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUUO_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUUO_L gml:id="PL.PZGiK.308.BDOT10k_4ad7d9ff-91fe-4edf-ad28-ec70b26de89c_2023-12-31T120000">
+			<ot:lokalnyId>4ad7d9ff-91fe-4edf-ad28-ec70b26de89c</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_349</ot:kodKarto10k>
+			<ot:rodzaj>ściana oporowa</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-dd99192d-38a1-472e-8b3e-ede9d3098813-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>461371.33 470347.50 461368.29 470334.17</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUUO_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUUO_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-87A5-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-87A5-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_626</ot:kodKarto10k>
+			<ot:rodzaj>umocnienie brzegu</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-373e17a1-e7d7-4d91-bcc2-3dbe050d6f1a-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>475344.01 470200.41 475350.58 470195.43 475354.88 470192.24 475359.65 470189.49 475367.26 470186.29 475635.76 470090.02 475654.24 470083.60 475811.82 470026.79 475818.49 470023.96 475824.18 470021.20 475829.10 470017.98 475832.92 470013.96 475877.59 469953.57 475884.79 469943.84 475892.45 469933.48 475896.56 469927.89 475899.57 469923.20 475903.08 469917.36 475937.13 469849.25 475941.92 469840.58 475944.97 469836.22 475948.45 469832.29 475951.86 469829.16 475958.32 469824.66 475986.86 469808.00 475992.51 469805.25 475996.46 469804.19 476000.54 469803.77 476004.30 469803.67 476006.38 469803.62 476011.27 469803.92 476016.75 469804.68 476137.56 469826.48 476223.27 469842.38 476239.84 469844.81 476250.02 469845.81 476256.21 469846.15 476261.21 469845.79 476266.85 469844.94 476316.34 469834.33 476379.29 469822.07</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUUO_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUUO_L gml:id="PL.PZGiK.308.BDOT10k_3aca80a5-cb4d-42e6-aada-cfd86d25bb6d_2023-12-31T120000">
+			<ot:lokalnyId>3aca80a5-cb4d-42e6-aada-cfd86d25bb6d</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_349</ot:kodKarto10k>
+			<ot:rodzaj>ściana oporowa</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-0302c279-4de0-42b0-a572-db106f6ae22d-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>467613.77 446787.76 467613.27 446805.50</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUUO_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUUO_L gml:id="PL.PZGiK.308.BDOT10k_7b0ca445-96ab-403f-b864-0f0c844042da_2023-12-31T120000">
+			<ot:lokalnyId>7b0ca445-96ab-403f-b864-0f0c844042da</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_349</ot:kodKarto10k>
+			<ot:rodzaj>ściana oporowa</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-c3a9e218-440d-45d9-84da-9557c787ac97-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>473705.98 458991.61 473677.50 459049.17 473692.87 459056.89</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUUO_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUUO_L gml:id="PL.PZGiK.308.BDOT10k_78b1fafe-99d4-4b15-948e-7c6150a280f2_2023-12-31T120000">
+			<ot:lokalnyId>78b1fafe-99d4-4b15-948e-7c6150a280f2</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_349</ot:kodKarto10k>
+			<ot:rodzaj>ściana oporowa</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-aa004c06-af72-42ab-8eff-2c99aa5605f2-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>473692.87 459056.89 473720.04 459000.55</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUUO_L>
+	</gml:featureMember>
+</gml:FeatureCollection>

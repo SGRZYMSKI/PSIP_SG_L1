@@ -1,0 +1,2267 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:FeatureCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:ot="urn:gugik:specyfikacje:gmlas:bazaDanychObiektowTopograficznych10k:2.0" gml:id="GUGiK_OT_OIMK_A" xsi:schemaLocation="urn:gugik:specyfikacje:gmlas:bazaDanychObiektowTopograficznych10k:2.0 ../XSD/BDOT10k_BDOO.xsd">
+	<gml:featureMember>
+		<ot:OT_OIMK_A gml:id="PL.PZGiK.308.BDOT10k_af3cc6a7-e56d-4707-8cb8-c3e8d8f1260a_2023-12-31T120000">
+			<ot:lokalnyId>af3cc6a7-e56d-4707-8cb8-c3e8d8f1260a</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_726</ot:kodKarto10k>
+			<ot:rodzaj>teren podmokły</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-8928cd6e-0195-4bbf-bd24-0e76c8621acc-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>460568.54 477143.34 460595.53 477148.24 460637.15 477146.80 460645.76 477140.11 460645.76 477124.80 460651.98 477114.27 460663.46 477104.71 460668.24 477091.31 460676.38 477081.26 460700.78 477067.87 460723.26 477042.03 460746.22 477023.86 460752.44 477003.28 460742.40 476991.32 460739.53 476981.76 460751.49 476961.19 460755.79 476944.44 460749.57 476935.35 460729.00 476929.13 460699.82 476934.87 460680.68 476949.70 460662.50 476972.67 460633.32 476983.67 460605.10 476983.67 460582.61 476984.63 460568.74 476993.24 460556.30 477002.33 460538.12 477007.11 460466.84 477008.55 460442.44 477009.98 460437.18 477026.25 460441.96 477043.95 460447.67 477048.43 460510.37 477045.86 460559.17 477041.56 460567.78 477048.25 460572.08 477057.29 460587.08 477057.08 460587.50 477063.68 460590.38 477065.91 460597.19 477064.32 460603.46 477067.72 460608.25 477078.58 460599.84 477083.90 460589.42 477088.37 460581.87 477087.20 460573.36 477093.80 460566.57 477096.74 460566.45 477118.32 460577.77 477120.67 460579.82 477121.10 460583.75 477126.42 460577.58 477131.42 460575.30 477135.04 460573.01 477138.66 460568.54 477143.34</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIMK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIMK_A gml:id="PL.PZGiK.308.BDOT10k_2923959E-D479-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D479-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_726</ot:kodKarto10k>
+			<ot:rodzaj>teren podmokły</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-61b09ebb-53ee-4572-82e7-5d1a11804f9c-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>450604.90 458395.40 450603.27 458401.90 450607.06 458413.54 450620.31 458422.47 450626.54 458425.45 450652.23 458420.85 450668.19 458414.62 450696.87 458397.03 450707.41 458384.30 450712.28 458369.42 450704.44 458359.13 450680.36 458347.49 450662.51 458346.68 450650.88 458350.47 450637.90 458354.80 450631.41 458353.17 450624.64 458352.09 450614.63 458354.53 450612.74 458361.02 450615.18 458371.04 450615.18 458375.64 450604.90 458395.40</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIMK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIMK_A gml:id="PL.PZGiK.308.BDOT10k_2923959E-D4DE-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D4DE-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_726</ot:kodKarto10k>
+			<ot:rodzaj>teren podmokły</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-6bbf4596-01cd-406a-a1e1-714103cf6f12-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>466458.20 442263.84 466418.32 442268.51 466465.84 442385.69 466504.45 442371.68 466473.90 442310.54 466458.20 442263.84</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIMK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIMK_A gml:id="PL.PZGiK.308.BDOT10k_2923959E-D46E-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D46E-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_726</ot:kodKarto10k>
+			<ot:rodzaj>teren podmokły</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-4ba60587-5073-4b18-b93b-facfacb10718-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>478670.07 470119.74 478668.27 470142.70 478663.70 470204.46 478665.15 470232.15 478666.11 470263.86 478669.01 470270.30 478669.81 470263.38 478671.26 470254.36 478678.02 470230.54 478685.99 470207.36 478691.79 470196.25 478699.03 470175.00 478703.70 470154.55 478705.63 470145.38 478705.96 470140.55 478707.89 470134.43 478708.53 470125.74 478709.01 470117.69 478708.85 470109.15 478709.11 470092.12 478710.10 470083.22 478710.10 470073.00 478708.45 470056.86 478687.24 470075.44 478675.86 470098.22 478670.07 470119.74</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIMK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIMK_A gml:id="PL.PZGiK.308.BDOT10k_2923959E-D464-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D464-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_726</ot:kodKarto10k>
+			<ot:rodzaj>teren podmokły</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-654f2a74-a2fc-496b-8363-8ca09add17a8-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>474193.55 441284.31 474190.71 441298.73 474197.62 441308.71 474233.82 441317.39 474274.40 441334.78 474268.90 441357.27 474258.62 441373.53 474226.56 441389.80 474199.77 441460.84 474192.42 441474.39 474228.77 441474.64 474271.39 441447.30 474311.49 441306.56 474287.93 441271.95 474334.05 441155.30 474334.55 441125.20 474317.76 441112.91 474314.50 441095.10 474316.32 441086.65 474267.69 441064.82 474211.26 441235.88 474193.55 441284.31</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIMK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIMK_A gml:id="PL.PZGiK.308.BDOT10k_2923959E-D4DA-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D4DA-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_726</ot:kodKarto10k>
+			<ot:rodzaj>teren podmokły</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-cc7a9853-4e7e-4d92-8424-0fcd87f7b445-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>465503.18 444297.45 465500.73 444315.01 465507.49 444315.15 465551.50 444284.07 465590.76 444287.96 465611.35 444310.44 465631.83 444307.83 465645.99 444289.20 465638.16 444251.19 465590.05 444249.24 465531.51 444248.24 465512.96 444253.56 465502.17 444272.56 465503.18 444297.45</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIMK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIMK_A gml:id="PL.PZGiK.308.BDOT10k_2923959E-D467-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D467-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_726</ot:kodKarto10k>
+			<ot:rodzaj>teren podmokły</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-826d98f5-c2a1-4a5e-ab66-c8ee6556ce82-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>474840.94 472013.22 474842.99 472018.33 474849.62 472022.41 474857.07 472024.66 474868.81 472024.41 474890.77 472013.42 474928.76 471992.27 474935.15 471989.97 474950.46 471980.27 474960.93 471978.73 474970.38 471980.78 474971.72 471991.19 474967.64 472003.97 474967.13 472019.81 474972.23 472027.47 474983.47 472030.03 474995.73 472028.24 475008.93 472016.03 475030.63 472003.77 475035.99 472003.51 475041.86 472011.17 475051.31 472017.30 475059.73 472016.79 475067.64 472019.35 475077.34 472026.76 475087.30 472030.08 475096.75 472031.35 475103.90 472030.59 475110.53 472024.97 475119.98 472000.45 475125.96 471986.85 475125.19 471973.31 475119.83 471965.90 475104.25 471962.83 475051.14 471956.45 475028.16 471948.53 475009.44 471935.57 475004.59 471930.46 474998.46 471929.95 474992.84 471931.73 474972.23 471931.66 474936.48 471917.61 474928.31 471918.12 474920.14 471923.23 474899.66 471945.53 474891.49 471949.10 474885.88 471949.36 474875.92 471948.08 474863.67 471945.02 474857.03 471946.29 474849.62 471950.89 474846.56 471957.53 474846.56 471963.92 474849.11 471972.86 474848.86 471980.27 474840.94 472013.22</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIMK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIMK_A gml:id="PL.PZGiK.308.BDOT10k_3896ca7f-d5a1-419b-97c3-da7049813fd3_2023-12-31T120000">
+			<ot:lokalnyId>3896ca7f-d5a1-419b-97c3-da7049813fd3</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_726</ot:kodKarto10k>
+			<ot:rodzaj>teren podmokły</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-3ad02abf-790f-4f14-b445-470028e773aa-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>478763.97 457638.94 478767.40 457628.64 478766.61 457623.63 478762.65 457617.02 478756.44 457613.46 478750.24 457611.21 478741.26 457611.21 478735.71 457613.59 478731.75 457617.16 478729.37 457621.78 478729.90 457625.08 478732.68 457628.64 478746.67 457635.25 478755.78 457639.87 478758.82 457641.05 478761.20 457641.05 478763.97 457638.94</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIMK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIMK_A gml:id="PL.PZGiK.308.BDOT10k_d670e0a6-c1ba-446b-999c-2dab76b3cd07_2023-12-31T120000">
+			<ot:lokalnyId>d670e0a6-c1ba-446b-999c-2dab76b3cd07</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_726</ot:kodKarto10k>
+			<ot:rodzaj>teren podmokły</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-313181a4-889e-40cd-bd7f-d19848bed469-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>481069.88 461979.46 481061.33 461993.51 481058.49 461998.53 481058.10 462003.42 481059.22 462011.08 481058.95 462016.89 481055.79 462023.49 481055.65 462027.98 481057.90 462033.79 481059.92 462038.11 481060.84 462036.84 481068.26 462027.45 481074.02 462020.17 481080.87 462011.08 481085.53 462007.14 481080.99 462002.60 481075.53 461993.96 481072.09 461987.64 481069.88 461979.46</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIMK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIMK_A gml:id="PL.PZGiK.308.BDOT10k_27d038f5-6139-479e-bca3-896b55839fcd_2023-12-31T120000">
+			<ot:lokalnyId>27d038f5-6139-479e-bca3-896b55839fcd</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_726</ot:kodKarto10k>
+			<ot:rodzaj>teren podmokły</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-74881fc6-c408-4dfd-8c3c-3c73fb0074c3-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>460211.76 474542.19 460164.56 474550.48 460133.94 474572.81 460128.20 474590.03 460128.84 474605.34 460132.67 474614.91 460149.25 474641.06 460151.81 474656.72 460153.72 474670.40 460171.58 474684.43 460185.61 474699.10 460197.73 474721.43 460206.66 474760.34 460206.02 474787.77 460190.08 474829.23 460191.35 474856.66 460189.37 474903.63 460192.59 474939.92 460191.49 474939.94 460181.86 474940.13 460189.13 475022.08 460170.27 475021.78 460191.73 475093.29 460210.99 475163.35 460215.46 475179.59 460239.04 475280.04 460224.07 475284.80 460186.08 475284.59 460154.67 475284.86 460164.12 475311.31 460173.37 475331.95 460213.93 475412.87 460231.13 475453.36 460258.45 475507.62 460270.00 475534.19 460274.62 475550.69 460279.24 475561.59 460284.68 475574.13 460290.95 475585.84 460299.61 475592.29 460317.76 475598.56 460347.71 475606.93 460381.66 475604.33 460396.97 475595.72 460402.23 475585.67 460502.44 475590.83 460503.81 475611.25 460504.20 475620.78 460504.59 475630.31 460504.96 475639.19 460505.10 475642.54 460525.18 475642.13 460592.16 475643.08 460703.62 475705.75 460733.28 475711.01 460743.74 475707.61 460740.36 475702.90 460740.94 475695.71 460741.90 475676.09 460742.85 475667.00 460731.85 475660.78 460705.06 475644.52 460704.58 475636.86 460600.77 475587.59 460595.33 475578.96 460587.85 475506.26 460556.28 475487.12 460544.80 475480.43 460552.93 475460.81 460566.80 475447.89 460580.20 475418.71 460587.64 475399.47 460574.64 475390.40 460557.10 475376.63 460541.90 475363.45 460532.91 475351.79 460520.04 475335.68 460509.81 475318.99 460501.62 475305.22 460493.76 475288.61 460488.50 475275.14 460482.65 475256.97 460465.69 475198.68 460437.59 475099.78 460427.38 475063.93 460422.11 475041.67 460414.22 475014.42 460412.76 475008.27 460411.30 475002.12 460408.96 474984.84 460408.96 474968.73 460408.84 474953.90 460409.63 474937.95 460392.69 474938.45 460352.72 474939.50 460344.13 474908.92 460336.32 474879.69 460338.52 474861.64 460338.80 474858.83 460333.71 474848.01 460342.19 474814.25 460359.42 474794.64 460364.68 474763.07 460362.29 474744.41 460347.94 474712.18 460343.39 474679.82 460342.91 474659.01 460346.35 474641.06 460355.59 474615.72 460368.74 474591.08 460364.68 474583.67 460357.74 474583.19 460344.35 474595.39 460333.60 474595.77 460314.46 474585.56 460271.08 474559.41 460248.12 474549.84 460211.76 474542.19</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+					<gml:interior>
+						<gml:LinearRing>
+							<gml:posList>460322.65 475347.69 460324.62 475346.62 460332.87 475346.97 460359.60 475346.60 460381.29 475346.30 460384.69 475346.26 460385.94 475347.87 460386.30 475349.84 460385.94 475353.97 460384.33 475359.35 460381.64 475360.24 460342.19 475361.14 460336.46 475361.50 460334.13 475359.88 460332.69 475358.09 460328.28 475357.60 460324.26 475356.30 460323.01 475354.33 460322.32 475351.80 460322.65 475347.69</gml:posList>
+						</gml:LinearRing>
+					</gml:interior>
+					<gml:interior>
+						<gml:LinearRing>
+							<gml:posList>460406.30 475352.00 460409.95 475352.54 460416.28 475354.58 460418.43 475357.80 460412.74 475360.91 460407.16 475360.70 460404.05 475357.26 460406.30 475352.00</gml:posList>
+						</gml:LinearRing>
+					</gml:interior>
+					<gml:interior>
+						<gml:LinearRing>
+							<gml:posList>460273.57 475172.09 460275.29 475170.69 460303.30 475166.61 460305.56 475167.25 460309.20 475179.39 460308.67 475182.39 460283.77 475186.80 460277.65 475187.44 460274.97 475184.00 460273.57 475172.09</gml:posList>
+						</gml:LinearRing>
+					</gml:interior>
+					<gml:interior>
+						<gml:LinearRing>
+							<gml:posList>460250.40 474947.92 460253.89 474946.94 460257.19 474946.89 460259.74 474948.19 460261.58 474955.03 460263.04 474970.01 460262.99 474974.62 460260.28 474976.25 460256.37 474976.79 460252.90 474975.38 460250.78 474968.92 460250.13 474951.94 460250.40 474947.92</gml:posList>
+						</gml:LinearRing>
+					</gml:interior>
+					<gml:interior>
+						<gml:LinearRing>
+							<gml:posList>460240.52 474991.72 460241.61 474987.38 460242.82 474986.33 460253.51 474984.83 460269.27 474982.95 460271.52 474983.70 460272.08 474986.14 460272.45 474989.14 460275.46 474994.96 460281.64 475009.21 460283.52 475014.65 460282.21 475016.90 460278.27 475016.90 460249.42 475018.10 460245.19 475016.68 460244.54 475013.10 460245.84 475010.06 460250.83 475010.28 460255.28 475009.41 460260.49 475010.28 460261.90 475009.09 460262.44 475005.94 460258.32 475004.85 460254.41 475006.70 460246.49 475006.81 460243.24 475005.50 460241.61 475002.36 460240.74 474997.69 460240.52 474991.72</gml:posList>
+						</gml:LinearRing>
+					</gml:interior>
+					<gml:interior>
+						<gml:LinearRing>
+							<gml:posList>460280.33 474985.95 460283.52 474985.02 460289.71 474989.70 460294.40 474994.21 460300.78 474994.58 460317.47 474993.27 460351.79 474989.89 460356.86 474991.39 460358.17 474993.27 460362.48 475005.46 460363.65 475009.03 460359.54 475013.24 460356.11 475014.46 460348.98 475015.03 460314.47 475016.53 460291.96 475016.71 460289.45 475014.01 460285.02 475001.71 460280.14 474988.20 460280.33 474985.95</gml:posList>
+						</gml:LinearRing>
+					</gml:interior>
+					<gml:interior>
+						<gml:LinearRing>
+							<gml:posList>460284.10 474945.16 460319.19 474945.05 460335.72 474946.55 460334.54 474958.58 460326.60 474958.79 460294.29 474962.12 460282.60 474962.23 460284.10 474945.16</gml:posList>
+						</gml:LinearRing>
+					</gml:interior>
+					<gml:interior>
+						<gml:LinearRing>
+							<gml:posList>460323.09 475088.38 460323.09 475082.80 460327.59 475081.51 460338.11 475078.93 460345.41 475078.72 460354.42 475081.08 460350.99 475086.45 460344.98 475091.17 460337.25 475096.75 460331.46 475099.12 460325.45 475097.61 460322.44 475093.96 460323.09 475088.38</gml:posList>
+						</gml:LinearRing>
+					</gml:interior>
+					<gml:interior>
+						<gml:LinearRing>
+							<gml:posList>460286.71 475360.05 460287.69 475351.28 460289.84 475349.13 460291.81 475348.77 460313.86 475348.77 460315.48 475350.38 460316.02 475354.15 460316.64 475358.87 460315.48 475362.93 460312.61 475363.65 460300.24 475363.29 460292.31 475364.08 460287.51 475364.37 460286.71 475360.05</gml:posList>
+						</gml:LinearRing>
+					</gml:interior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIMK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIMK_A gml:id="PL.PZGiK.308.BDOT10k_5d40bbdd-e219-4c41-9d83-6a9c53e9303d_2023-12-31T120000">
+			<ot:lokalnyId>5d40bbdd-e219-4c41-9d83-6a9c53e9303d</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_726</ot:kodKarto10k>
+			<ot:rodzaj>teren podmokły</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-514c1a26-b057-4f73-9bfd-3e12d5caee69-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>480437.83 458121.67 480428.72 458120.48 480428.29 458134.42 480430.04 458136.66 480431.76 458138.44 480437.57 458142.93 480444.83 458144.38 480449.58 458144.38 480453.41 458142.67 480455.00 458138.44 480454.07 458134.21 480450.51 458128.01 480445.88 458123.92 480437.83 458121.67</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIMK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIMK_A gml:id="PL.PZGiK.308.BDOT10k_2923959E-D485-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D485-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_726</ot:kodKarto10k>
+			<ot:rodzaj>teren podmokły</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-f9821141-33db-402d-b121-3efc2519d6e5-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>455023.25 466494.51 455026.43 466500.42 455036.87 466504.05 455057.75 466504.05 455089.99 466499.05 455105.42 466486.33 455130.39 466464.98 455134.02 466440.45 455115.41 466420.00 455089.99 466420.00 455049.58 466432.72 455030.51 466473.61 455023.25 466494.51</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIMK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIMK_A gml:id="PL.PZGiK.308.BDOT10k_2923959E-D474-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D474-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_726</ot:kodKarto10k>
+			<ot:rodzaj>teren podmokły</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-adfe7474-528f-49e5-b655-8bd5c19b0ca0-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>447278.93 470195.52 447269.24 470216.20 447283.12 470235.27 447303.79 470240.12 447322.85 470247.23 447339.97 470243.03 447349.66 470235.92 447366.77 470227.52 447383.89 470217.17 447382.05 470211.26 447360.77 470196.56 447333.83 470181.94 447302.18 470178.71 447278.93 470195.52</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIMK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIMK_A gml:id="PL.PZGiK.308.BDOT10k_2923959E-D463-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D463-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_726</ot:kodKarto10k>
+			<ot:rodzaj>teren podmokły</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-5f7424dd-c5c8-43f6-a7b9-cf4682470486-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>473717.41 442140.73 473742.62 442237.11 473852.53 442259.11 473903.60 442111.62 473866.10 442099.33 473812.44 442146.55 473717.41 442140.73</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIMK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIMK_A gml:id="PL.PZGiK.308.BDOT10k_2923959E-D4D5-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D4D5-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_726</ot:kodKarto10k>
+			<ot:rodzaj>teren podmokły</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-c4658dc3-d98d-47ed-b1af-e9b4d5264c2f-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>464521.33 443095.73 464510.53 443142.40 464522.14 443139.32 464540.58 443152.67 464546.91 443132.43 464560.26 443123.48 464562.05 443114.12 464571.41 443108.75 464572.92 443100.21 464567.69 443094.98 464549.39 443095.81 464526.95 443099.52 464521.33 443095.73</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIMK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIMK_A gml:id="PL.PZGiK.308.BDOT10k_a7d28672-a87c-4754-83a0-5ac375881048_2023-12-31T120000">
+			<ot:lokalnyId>a7d28672-a87c-4754-83a0-5ac375881048</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_726</ot:kodKarto10k>
+			<ot:rodzaj>teren podmokły</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-7e845972-3f35-4285-a50c-6c0f2130f9fa-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>464165.09 444520.26 464163.77 444517.95 464176.21 444526.08 464185.54 444509.57 464196.78 444502.64 464294.01 444580.90 464327.47 444568.51 464349.02 444563.20 464344.91 444538.44 464303.87 444509.54 464306.77 444482.30 464287.97 444463.63 464295.88 444433.47 464226.92 444370.36 464214.00 444356.97 464193.33 444384.02 464171.33 444422.26 464143.35 444477.96 464137.58 444502.49 464137.45 444502.68 464161.85 444517.47 464165.09 444520.26</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIMK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIMK_A gml:id="PL.PZGiK.308.BDOT10k_2923959E-D4E9-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D4E9-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_726</ot:kodKarto10k>
+			<ot:rodzaj>teren podmokły</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-79e7c64a-9205-4388-b908-6a2faff5aa04-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>472180.79 443596.93 472163.34 443727.92 472239.62 443725.65 472263.87 443528.69 472180.79 443596.93</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIMK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIMK_A gml:id="PL.PZGiK.308.BDOT10k_2923959E-D4DF-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D4DF-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_726</ot:kodKarto10k>
+			<ot:rodzaj>teren podmokły</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-4d65a6a3-e192-41c1-9d2f-d5bb148c1496-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>466619.45 442327.12 466628.36 442326.69 466638.12 442331.79 466641.73 442343.25 466640.66 442356.41 466631.12 442367.66 466631.33 442401.20 466634.72 442411.18 466643.85 442413.72 466656.58 442407.36 466665.06 442390.37 466664.21 442364.90 466660.82 442348.13 466636.00 442311.41 466619.45 442327.12</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIMK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIMK_A gml:id="PL.PZGiK.308.BDOT10k_2923959E-D4D3-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D4D3-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_726</ot:kodKarto10k>
+			<ot:rodzaj>teren podmokły</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-07070c1c-93b9-4ccf-bae2-fa0d9061caa2-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>464426.36 443155.79 464430.62 443163.08 464434.20 443181.66 464439.01 443187.31 464471.20 443186.34 464497.34 443146.98 464426.36 443155.79</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIMK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIMK_A gml:id="PL.PZGiK.308.BDOT10k_7616c34c-3041-49ae-a7df-70cf699c007a_2023-12-31T120000">
+			<ot:lokalnyId>7616c34c-3041-49ae-a7df-70cf699c007a</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_726</ot:kodKarto10k>
+			<ot:rodzaj>teren podmokły</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-229fd565-6006-4687-8648-0173e988a68e-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>474631.51 452843.84 474619.30 452846.89 474615.23 452850.58 474613.96 452854.40 474612.48 452860.67 474613.70 452865.08 474615.10 452869.53 474617.01 452873.48 474618.54 452874.24 474624.13 452874.88 474634.69 452873.09 474643.98 452869.41 474653.77 452865.72 474669.03 452862.41 474674.63 452860.50 474712.54 452853.76 474719.15 452851.09 474719.52 452846.82 474716.80 452843.69 474712.46 452828.54 474710.74 452823.69 474707.61 452810.56 474706.50 452794.50 474702.23 452792.58 474698.93 452800.34 474696.89 452805.55 474695.62 452810.64 474694.73 452815.73 474693.58 452821.96 474692.31 452826.67 474690.78 452830.48 474685.95 452833.79 474670.87 452836.57 474631.51 452843.84</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIMK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIMK_A gml:id="PL.PZGiK.308.BDOT10k_2923959E-D4C0-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D4C0-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_726</ot:kodKarto10k>
+			<ot:rodzaj>teren podmokły</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-d790b6a5-814e-43ca-9aef-a163307dcbdd-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>460564.65 476189.25 460565.08 476207.15 460571.04 476229.30 460601.71 476233.57 460648.98 476224.62 460676.24 476210.98 460681.77 476203.74 460671.98 476186.27 460670.28 476164.11 460657.50 476151.75 460636.20 476150.47 460610.65 476160.28 460604.26 476170.50 460574.02 476179.02 460564.65 476189.25</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIMK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIMK_A gml:id="PL.PZGiK.308.BDOT10k_2923959E-D4E7-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D4E7-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_726</ot:kodKarto10k>
+			<ot:rodzaj>teren podmokły</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-a407939a-221a-4e40-8922-0eeb643fb7a7-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>472104.47 442524.60 472102.32 442554.65 472147.75 442521.37 472147.48 442507.92 472123.28 442494.74 472109.04 442502.00 472104.47 442524.60</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIMK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIMK_A gml:id="PL.PZGiK.308.BDOT10k_2923959E-D48E-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D48E-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_726</ot:kodKarto10k>
+			<ot:rodzaj>teren podmokły</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-9a99c538-f981-40a1-a19d-7d06ef58e5f4-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>456055.47 464477.52 456052.19 464498.01 456058.34 464515.63 456073.49 464522.19 456101.75 464517.27 456110.76 464504.98 456108.71 464482.85 456090.28 464465.63 456068.98 464468.09 456055.47 464477.52</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIMK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIMK_A gml:id="PL.PZGiK.308.BDOT10k_1a88c43c-d619-44f4-9b17-3ffc9a1d66be_2023-12-31T120000">
+			<ot:lokalnyId>1a88c43c-d619-44f4-9b17-3ffc9a1d66be</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_726</ot:kodKarto10k>
+			<ot:rodzaj>teren podmokły</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-9e9bd76e-2770-4965-abe3-cd385045662b-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>460510.73 477388.47 460518.66 477395.12 460520.38 477408.00 460513.51 477414.43 460522.95 477421.09 460524.87 477421.30 460532.38 477422.59 460534.96 477429.19 460546.82 477434.38 460550.25 477445.75 460533.68 477448.08 460526.18 477449.74 460545.18 477463.51 460545.18 477472.12 460534.17 477485.51 460506.90 477496.51 460492.98 477513.52 460490.16 477533.35 460491.12 477562.47 460501.78 477562.81 460509.85 477564.87 460517.93 477569.00 460524.12 477575.01 460526.87 477582.40 460529.62 477590.48 460532.71 477596.67 460536.67 477601.82 460540.45 477602.68 460547.15 477602.00 460551.27 477599.59 460555.23 477596.50 460563.82 477592.16 460584.77 477591.21 460587.31 477591.09 460610.04 477592.38 460610.20 477594.35 460610.26 477595.14 460618.65 477594.95 460630.51 477596.84 460637.21 477597.87 460643.05 477598.56 460652.34 477597.70 460661.44 477595.29 460664.26 477594.37 460664.73 477593.61 460666.77 477590.31 460667.46 477582.57 460666.94 477577.42 460664.71 477572.09 460665.23 477566.59 460671.41 477559.89 460684.13 477552.32 460704.41 477543.90 460708.28 477544.24 460712.15 477544.59 460717.65 477550.09 460721.26 477552.50 460726.74 477555.93 460726.74 477505.98 460729.73 477483.23 460736.32 477468.26 460741.45 477462.67 460698.03 477465.90 460682.72 477464.94 460678.89 477430.97 460675.78 477403.71 460673.39 477388.64 460582.49 477390.79 460566.47 477390.27 460550.20 477389.75 460510.73 477388.47</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIMK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIMK_A gml:id="PL.PZGiK.308.BDOT10k_66059d7d-d2cc-4bcc-ac8a-ad44aac7b47c_2023-12-31T120000">
+			<ot:lokalnyId>66059d7d-d2cc-4bcc-ac8a-ad44aac7b47c</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_726</ot:kodKarto10k>
+			<ot:rodzaj>teren podmokły</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-fc437b9a-41a6-4efd-92ef-3e2b5ed941b0-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>465547.72 443587.76 465561.82 443590.64 465582.25 443607.92 465613.04 443611.09 465601.04 443635.27 465694.91 443682.05 465793.80 443726.58 465828.18 443666.05 465898.45 443542.30 466066.81 443232.99 466061.10 443231.75 466058.75 443231.24 466025.83 443224.10 465961.25 443210.09 465957.32 443209.30 465657.92 443149.51 465323.36 443082.52 465322.28 443083.90 465332.64 443092.39 465334.51 443105.64 465320.99 443119.17 465324.87 443125.94 465326.85 443137.82 465327.03 443138.89 465354.08 443143.21 465359.26 443150.98 465358.18 443154.26 465353.22 443169.27 465351.53 443169.10 465330.72 443167.06 465322.43 443166.24 465322.28 443194.31 465339.27 443199.06 465342.30 443235.78 465317.12 443234.19 465316.54 443241.53 465305.89 443251.18 465294.96 443270.04 465292.23 443282.71 465296.97 443299.98 465270.50 443333.09 465277.47 443356.52 465288.92 443394.99 465289.06 443395.43 465317.42 443483.83 465547.72 443587.76</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+					<gml:interior>
+						<gml:LinearRing>
+							<gml:posList>465570.12 443564.74 465565.11 443563.35 465561.21 443561.68 465560.66 443557.51 465562.88 443553.89 465566.78 443549.72 465573.73 443549.72 465594.46 443556.95 465598.22 443560.15 465599.33 443563.63 465597.38 443568.08 465592.93 443569.05 465570.12 443564.74</gml:posList>
+						</gml:LinearRing>
+					</gml:interior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIMK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIMK_A gml:id="PL.PZGiK.308.BDOT10k_2923959E-D46A-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D46A-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_726</ot:kodKarto10k>
+			<ot:rodzaj>teren podmokły</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-ddc1d5bf-9c56-496d-8895-da9669d3f7f4-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>478240.20 473593.84 478234.57 473617.21 478253.68 473629.58 478261.61 473630.64 478263.25 473623.75 478267.45 473618.80 478274.33 473608.46 478273.72 473603.82 478271.03 473601.13 478265.79 473597.23 478261.29 473589.44 478256.72 473583.01 478255.08 473576.16 478255.17 473571.66 478249.18 473569.26 478245.59 473573.46 478240.20 473593.84</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIMK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIMK_A gml:id="PL.PZGiK.308.BDOT10k_2923959E-D49A-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D49A-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_726</ot:kodKarto10k>
+			<ot:rodzaj>teren podmokły</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-c8be7f8a-80b5-4aea-816c-c2276bc4b365-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>456802.55 467247.71 456800.93 467264.66 456803.08 467273.54 456822.44 467305.02 456828.36 467311.75 456836.16 467316.86 456847.72 467320.89 456898.80 467330.85 456902.57 467330.31 456905.26 467326.54 456906.33 467299.64 456904.99 467295.60 456898.00 467289.41 456867.88 467282.42 456853.90 467277.31 456823.52 467252.82 456813.84 467240.45 456809.54 467239.37 456806.04 467241.25 456802.55 467247.71</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIMK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIMK_A gml:id="PL.PZGiK.308.BDOT10k_2923959E-D4EB-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D4EB-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_726</ot:kodKarto10k>
+			<ot:rodzaj>teren podmokły</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-38ad3d68-1740-4b94-80ca-c71dd0aa7139-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>472633.32 442600.77 472673.36 442609.76 472683.32 442608.66 472694.10 442622.75 472711.54 442623.97 472746.47 442654.11 472777.32 442686.88 472795.74 442688.56 472850.04 442660.57 472833.35 442651.40 472825.92 442618.41 472838.52 442603.21 472858.24 442603.86 472901.23 442582.51 472899.94 442565.04 472930.65 442531.41 472861.80 442519.12 472853.07 442508.12 472633.32 442600.77</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIMK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIMK_A gml:id="PL.PZGiK.308.BDOT10k_1e0e0ee5-8e9c-4d2c-9d8f-9fdc7c72b79c_2023-12-31T120000">
+			<ot:lokalnyId>1e0e0ee5-8e9c-4d2c-9d8f-9fdc7c72b79c</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_726</ot:kodKarto10k>
+			<ot:rodzaj>teren podmokły</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-1dde2507-4ca4-478f-aab9-e9f047d5038c-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>459847.70 472234.94 459841.32 472234.30 459839.40 472236.85 459838.45 472245.78 459837.17 472254.71 459836.53 472267.47 459835.58 472280.86 459835.58 472296.17 459839.09 472307.01 459845.78 472313.07 459859.50 472315.63 459872.25 472309.89 459876.40 472297.77 459876.08 472277.35 459872.57 472260.45 459870.34 472248.65 459865.56 472242.27 459854.71 472235.89 459847.70 472234.94</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIMK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIMK_A gml:id="PL.PZGiK.308.BDOT10k_2923959E-D4CB-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D4CB-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_726</ot:kodKarto10k>
+			<ot:rodzaj>teren podmokły</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-8cef2fca-55cb-4e2b-b89c-e228ca96b254-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>460876.05 475458.57 460800.23 475464.46 460827.74 475489.81 460832.52 475502.25 460841.13 475517.08 460863.38 475532.15 460881.56 475544.35 460905.00 475552.00 460920.79 475557.27 460932.27 475548.18 460937.29 475542.20 460948.29 475517.32 460968.15 475494.12 460984.65 475471.39 460996.13 475452.50 460997.57 475446.52 460914.69 475455.56 460876.05 475458.57</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIMK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIMK_A gml:id="PL.PZGiK.308.BDOT10k_2923959E-D468-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D468-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_726</ot:kodKarto10k>
+			<ot:rodzaj>teren podmokły</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-a8de2887-f08d-4718-99de-56e94c1ede62-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>474903.04 441213.13 474896.21 441264.90 474957.47 441290.05 474967.72 441249.02 475003.85 441220.21 475009.21 441199.94 475006.28 441174.05 475005.27 441172.98 474954.73 441119.37 474945.96 441117.29 474936.78 441125.22 474913.78 441179.43 474903.04 441213.13</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+					<gml:interior>
+						<gml:LinearRing>
+							<gml:posList>474934.62 441190.32 474935.32 441182.98 474946.79 441159.21 474950.64 441154.05 474956.45 441153.89 474960.41 441156.50 474963.74 441161.75 474963.50 441167.00 474953.10 441184.21 474942.29 441193.22 474937.11 441192.71 474934.62 441190.32</gml:posList>
+						</gml:LinearRing>
+					</gml:interior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIMK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIMK_A gml:id="PL.PZGiK.308.BDOT10k_2923959E-D472-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D472-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_725</ot:kodKarto10k>
+			<ot:rodzaj>bagno</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-f3daf2c7-3ed0-48a7-b309-013fbf470b7f-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>477100.53 449211.45 477101.32 449220.12 477109.20 449228.54 477151.63 449237.77 477178.59 449245.11 477192.61 449250.35 477196.19 449258.40 477197.98 449270.34 477203.05 449281.39 477211.56 449289.30 477216.03 449297.95 477220.21 449310.49 477225.88 449320.93 477234.54 449324.51 477242.30 449323.92 477250.36 449321.83 477259.55 449316.91 477290.67 449298.18 477288.47 449291.85 477274.74 449252.39 477271.32 449242.54 477270.25 449235.00 477261.25 449227.96 477255.58 449220.80 477255.88 449208.03 477261.92 449198.56 477262.98 449187.51 477269.28 449179.36 477278.22 449175.42 477280.32 449170.68 477271.12 449163.32 477265.87 449159.64 477241.95 449171.21 477236.40 449163.21 477246.01 449155.04 477237.48 449145.17 477222.76 449137.28 477177.55 449139.39 477160.72 449148.06 477148.37 449161.48 477134.44 449173.84 477132.86 449181.46 477134.18 449191.72 477131.28 449199.09 477120.24 449205.40 477103.68 449207.50 477100.53 449211.45</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+					<gml:interior>
+						<gml:LinearRing>
+							<gml:posList>477162.61 449216.65 477163.67 449211.49 477166.58 449208.31 477171.35 449206.59 477176.11 449207.12 477178.63 449208.97 477179.16 449211.88 477169.14 449220.72 477164.86 449219.83 477162.61 449216.65</gml:posList>
+						</gml:LinearRing>
+					</gml:interior>
+					<gml:interior>
+						<gml:LinearRing>
+							<gml:posList>477238.72 449289.00 477233.94 449274.67 477227.67 449262.14 477216.93 449250.50 477213.35 449245.72 477213.05 449242.74 477220.51 449237.06 477230.96 449229.60 477236.93 449226.92 477243.79 449229.01 477251.55 449242.44 477259.91 449259.45 477261.70 449273.18 477260.21 449290.49 477258.12 449304.82 477256.03 449308.70 477246.48 449313.77 477241.11 449313.77 477239.31 449310.78 477238.72 449289.00</gml:posList>
+						</gml:LinearRing>
+					</gml:interior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIMK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIMK_A gml:id="PL.PZGiK.308.BDOT10k_2923959E-D4E1-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D4E1-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_726</ot:kodKarto10k>
+			<ot:rodzaj>teren podmokły</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-158d0287-724f-4659-82a8-1ff9e701a3c8-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>471071.92 444062.53 471081.12 444065.68 471307.66 444143.28 471329.81 444085.06 471219.07 444041.50 471220.57 444036.24 471332.06 444076.05 471339.19 444045.63 471137.68 443978.42 471091.44 443963.00 471071.92 444062.53</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIMK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIMK_A gml:id="PL.PZGiK.308.BDOT10k_6c8bdee9-525d-4998-b954-a5eb6125b8c5_2023-12-31T120000">
+			<ot:lokalnyId>6c8bdee9-525d-4998-b954-a5eb6125b8c5</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_726</ot:kodKarto10k>
+			<ot:rodzaj>teren podmokły</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-af3132cf-75db-4f15-8ca4-1face28b7c74-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>472333.98 460303.85 472333.57 460311.28 472339.76 460322.41 472352.12 460342.21 472371.50 460366.55 472396.23 460390.88 472420.14 460408.20 472448.59 460420.58 472469.20 460425.53 472483.63 460427.59 472488.27 460422.00 472489.07 460413.24 472487.08 460394.93 472486.28 460386.57 472489.46 460383.78 472494.24 460380.60 472499.81 460377.41 472503.39 460365.47 472506.97 460357.51 472512.94 460340.39 472518.91 460328.05 472527.27 460319.29 472537.61 460318.49 472549.95 460322.47 472543.41 460317.46 472520.32 460303.03 472460.54 460288.59 472417.67 460286.12 472359.54 460293.13 472340.58 460298.08 472333.98 460303.85</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIMK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIMK_A gml:id="PL.PZGiK.308.BDOT10k_2923959E-D47C-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D47C-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_726</ot:kodKarto10k>
+			<ot:rodzaj>teren podmokły</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-a892c788-be91-4051-8b80-6f0466e9e55c-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>452612.04 471567.47 452612.04 471588.60 452629.31 471599.88 452644.67 471610.92 452670.81 471612.60 452690.01 471611.16 452694.08 471576.11 452680.17 471559.79 452648.74 471549.46 452628.11 471551.87 452612.04 471567.47</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIMK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIMK_A gml:id="PL.PZGiK.308.BDOT10k_2923959E-D465-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D465-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_726</ot:kodKarto10k>
+			<ot:rodzaj>teren podmokły</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-b9f21794-3fdf-48c6-b571-9049940ef551-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>474238.60 441010.37 474229.08 441032.19 474376.24 441104.69 474382.51 441049.25 474342.90 441026.93 474341.89 441010.12 474376.61 440991.17 474375.73 440983.67 474381.95 440977.45 474389.37 440974.34 474396.78 440966.45 474408.74 440960.47 474421.90 440956.88 474433.86 440951.62 474440.56 440942.29 474445.10 440931.04 474436.97 440915.02 474436.49 440903.54 474327.35 440955.94 474250.64 440994.57 474238.60 441010.37</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIMK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIMK_A gml:id="PL.PZGiK.308.BDOT10k_2923959E-D483-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D483-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_726</ot:kodKarto10k>
+			<ot:rodzaj>teren podmokły</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-852f965d-48d9-4dfa-8620-baec996a1a9d-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>454902.98 466313.42 454903.89 466319.78 454908.43 466323.42 454938.85 466322.96 454954.28 466321.15 455045.53 466307.52 455064.15 466301.16 455063.69 466290.71 455039.18 466282.98 454993.33 466282.53 454927.50 466297.07 454907.98 466305.70 454902.98 466313.42</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIMK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIMK_A gml:id="PL.PZGiK.308.BDOT10k_2923959E-D4E4-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D4E4-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_726</ot:kodKarto10k>
+			<ot:rodzaj>teren podmokły</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-e7c90a49-8e20-493f-9e0a-a3377c9ccb28-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>471136.09 443454.56 471227.30 443494.75 471254.33 443429.40 471231.81 443403.49 471187.14 443461.33 471166.49 443456.07 471241.19 443300.58 471231.71 443293.04 471136.09 443454.56</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIMK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIMK_A gml:id="PL.PZGiK.308.BDOT10k_2923959E-D48C-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D48C-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_726</ot:kodKarto10k>
+			<ot:rodzaj>teren podmokły</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-9a378a7e-f716-424d-a224-bd8ccefc9513-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>455944.93 469365.26 455947.13 469366.70 455959.26 469365.26 455971.72 469363.44 455976.48 469362.20 455979.31 469357.44 455981.70 469350.32 455980.62 469346.61 455965.55 469341.47 455955.50 469336.80 455944.93 469365.26</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIMK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIMK_A gml:id="PL.PZGiK.308.BDOT10k_2923959E-D46B-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D46B-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_726</ot:kodKarto10k>
+			<ot:rodzaj>teren podmokły</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-b1178e7d-b971-4ae0-a4ef-fe61d4927562-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>478262.61 473541.48 478263.51 473551.67 478266.88 473555.03 478273.16 473557.52 478279.86 473563.22 478285.85 473561.42 478290.80 473554.38 478290.05 473548.23 478291.39 473541.94 478294.24 473539.24 478297.24 473539.84 478299.18 473542.09 478299.78 473547.63 478297.83 473559.17 478295.29 473562.47 478304.18 473559.98 478308.82 473553.99 478318.33 473533.69 478321.92 473522.30 478331.81 473475.84 478336.90 473450.06 478341.69 473429.68 478347.98 473410.20 478356.67 473393.71 478381.83 473368.23 478382.58 473362.08 478376.37 473357.06 478372.78 473349.64 478375.41 473332.18 478380.67 473312.21 478390.00 473298.33 478395.50 473305.75 478403.30 473310.83 478410.33 473305.75 478413.20 473300.73 478411.29 473296.42 478407.22 473291.64 478407.98 473281.53 478412.48 473270.83 478408.66 473262.69 478409.61 473250.97 478409.14 473233.99 478398.61 473232.55 478393.35 473227.53 478353.37 473312.78 478309.63 473409.00 478285.67 473468.64 478272.19 473518.70 478262.61 473541.48</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIMK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIMK_A gml:id="PL.PZGiK.308.BDOT10k_2923959E-D48B-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D48B-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_726</ot:kodKarto10k>
+			<ot:rodzaj>teren podmokły</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-8df0b01f-171e-47d5-b6f5-9e59df541c4e-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>455822.76 466709.43 455828.12 466720.17 455840.64 466721.96 455929.64 466722.85 455962.74 466722.41 455970.34 466716.59 455965.42 466709.43 455939.48 466696.45 455849.14 466700.48 455829.02 466704.06 455822.76 466709.43</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIMK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIMK_A gml:id="PL.PZGiK.308.BDOT10k_2923959E-D4E2-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D4E2-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_726</ot:kodKarto10k>
+			<ot:rodzaj>teren podmokły</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-f53500f7-357c-44db-8a1f-68228fe10fc4-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>471124.47 443567.58 471099.69 443644.58 471131.60 443651.72 471150.74 443664.49 471222.44 443505.61 471109.08 443449.64 471124.47 443567.58</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIMK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIMK_A gml:id="PL.PZGiK.308.BDOT10k_2923959E-D49F-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D49F-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_726</ot:kodKarto10k>
+			<ot:rodzaj>teren podmokły</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-847d973d-58de-42b2-8d75-3aeb7a26160f-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>459022.69 469586.00 459015.52 469600.34 459029.34 469625.94 459044.70 469633.11 459069.27 469628.51 459085.65 469619.29 459090.26 469611.09 459088.72 469579.35 459070.30 469567.06 459054.94 469566.54 459040.61 469568.08 459022.69 469586.00</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIMK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIMK_A gml:id="PL.PZGiK.308.BDOT10k_b12c654d-c129-4ca8-b862-24a630d50ff2_2023-12-31T120000">
+			<ot:lokalnyId>b12c654d-c129-4ca8-b862-24a630d50ff2</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_726</ot:kodKarto10k>
+			<ot:rodzaj>teren podmokły</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-60364391-d09d-4a51-9d42-0de27cc4b200-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>455001.25 451662.36 454993.23 451656.35 454977.18 451654.34 454939.56 451660.36 454927.53 451664.37 454924.02 451657.85 454917.50 451626.76 454921.51 451614.22 454922.51 451590.14 454915.99 451580.11 454901.95 451575.60 454878.38 451578.11 454848.79 451589.14 454831.74 451591.15 454823.71 451583.62 454821.71 451570.08 454825.22 451550.52 454829.73 451536.48 454828.23 451530.46 454822.71 451529.46 454815.19 451534.48 454807.66 451547.52 454801.64 451561.56 454791.11 451562.06 454776.57 451561.06 454763.03 451564.57 454754.00 451584.13 454747.98 451599.67 454747.98 451605.69 454750.99 451612.71 454772.56 451621.24 454787.12 451623.86 454782.59 451644.31 454767.54 451659.86 454762.02 451673.40 454766.54 451677.41 454795.63 451682.93 454889.91 451682.93 454929.03 451691.45 454956.11 451699.98 454970.66 451693.96 454991.72 451684.43 455002.25 451674.90 455005.26 451667.88 455001.25 451662.36</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIMK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIMK_A gml:id="PL.PZGiK.308.BDOT10k_2923959E-D4CE-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D4CE-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_726</ot:kodKarto10k>
+			<ot:rodzaj>teren podmokły</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-8900dd00-161b-419c-9762-164f23d12239-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>464173.14 445721.26 464170.13 445728.68 464179.06 445759.11 464183.20 445765.66 464189.98 445768.42 464231.33 445766.66 464236.62 445763.76 464239.77 445756.98 464239.63 445751.44 464238.50 445745.66 464228.19 445731.95 464219.40 445722.02 464211.48 445717.49 464208.34 445717.74 464204.57 445721.00 464200.55 445728.30 464197.02 445729.56 464184.08 445718.74 464176.79 445718.61 464173.14 445721.26</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIMK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIMK_A gml:id="PL.PZGiK.308.BDOT10k_88dec702-6367-48c6-b1dc-581ff9e6051c_2023-12-31T120000">
+			<ot:lokalnyId>88dec702-6367-48c6-b1dc-581ff9e6051c</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_726</ot:kodKarto10k>
+			<ot:rodzaj>teren podmokły</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-96381e3c-0636-4dab-9e2c-15e46162b037-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>460255.66 475695.99 460248.75 475720.80 460247.79 475743.76 460249.23 475750.94 460239.66 475771.03 460230.09 475782.51 460224.11 475783.47 460206.66 475792.68 460194.86 475815.97 460192.30 475821.03 460197.32 475834.66 460207.13 475841.12 460231.53 475849.97 460237.51 475851.64 460239.42 475848.06 460242.53 475839.21 460245.64 475833.70 460251.14 475835.62 460260.23 475846.14 460263.82 475848.53 460269.56 475851.64 460272.89 475858.44 460273.39 475863.13 460268.13 475865.28 460253.53 475865.76 460229.85 475867.91 460225.06 475874.89 460221.96 475893.03 460238.34 475907.73 460240.63 475912.54 460240.82 475915.24 460246.36 475919.82 460255.69 475933.69 460262.62 475939.19 460270.04 475949.24 460278.89 475965.98 460279.61 475995.16 460283.06 476017.86 460285.83 476050.42 460292.52 476061.66 460311.66 476075.53 460330.66 476085.62 460331.99 476092.52 460335.82 476095.87 460347.30 476104.24 460359.74 476108.78 460374.39 476125.72 460385.57 476166.19 460391.79 476175.76 460398.73 476196.09 460401.84 476212.84 460418.82 476226.95 460429.59 476232.69 460447.91 476247.27 460442.79 476272.28 460443.70 476291.53 460467.38 476297.99 460530.53 476300.14 460539.14 476284.12 460531.38 476253.53 460529.67 476217.31 460491.06 476192.26 460487.44 476184.65 460481.76 476181.89 460464.03 476184.85 460458.77 476181.50 460460.17 476164.01 460499.19 476163.08 460541.75 476158.26 460539.34 476128.68 460537.93 476105.69 460519.52 476098.02 460508.04 476095.63 460502.30 476087.02 460496.08 476079.84 460473.60 476081.75 460463.55 476080.80 460458.77 476070.75 460460.20 476062.62 460489.86 476043.96 460490.34 476032.96 460499.43 476023.39 460497.04 476009.04 460491.78 475992.29 460498.95 475985.60 460510.91 475982.73 460513.78 475969.81 460506.61 475961.68 460489.39 475961.20 460475.03 475960.24 460470.73 475956.89 460472.64 475946.37 460482.69 475939.67 460500.87 475931.54 460504.69 475921.01 460504.22 475910.97 460509.00 475901.88 460523.49 475897.31 460521.03 475860.86 460437.24 475859.78 460432.46 475845.42 460427.67 475836.33 460409.01 475834.42 460391.31 475798.54 460385.09 475782.28 460463.55 475775.58 460465.17 475769.68 460461.52 475768.77 460453.57 475765.87 460443.42 475762.55 460432.57 475758.57 460420.01 475754.28 460405.08 475749.87 460391.89 475745.69 460385.85 475743.63 460377.39 475740.75 460353.65 475730.43 460342.64 475725.96 460321.37 475717.47 460302.60 475711.46 460278.38 475703.08 460265.27 475699.00 460255.66 475695.99</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+					<gml:interior>
+						<gml:LinearRing>
+							<gml:posList>460320.26 475947.94 460321.41 475948.29 460323.24 475950.69 460323.70 475953.56 460323.70 475956.31 460323.36 475961.35 460321.75 475965.13 460319.46 475967.08 460308.58 475967.77 460293.50 475966.69 460289.12 475966.38 460287.61 475966.28 460282.57 475964.44 460281.42 475962.27 460281.08 475959.86 460281.08 475956.88 460281.31 475954.13 460281.88 475951.61 460282.91 475949.89 460284.40 475949.20 460285.55 475948.97 460289.21 475948.52 460292.76 475948.52 460300.79 475948.97 460307.77 475949.09 460310.52 475948.86 460315.45 475948.17 460320.26 475947.94</gml:posList>
+						</gml:LinearRing>
+					</gml:interior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIMK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIMK_A gml:id="PL.PZGiK.308.BDOT10k_2923959E-D4CA-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D4CA-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_726</ot:kodKarto10k>
+			<ot:rodzaj>teren podmokły</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-8512d575-d9bf-42be-b8f6-c6305abd62da-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>460705.50 477124.37 460697.43 477141.30 460719.19 477142.50 460748.14 477143.22 460756.99 477137.48 460758.18 477101.83 460726.18 477102.76 460705.50 477124.37</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIMK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIMK_A gml:id="PL.PZGiK.308.BDOT10k_a2116f17-d3e3-434b-a292-3c524edd6321_2023-12-31T120000">
+			<ot:lokalnyId>a2116f17-d3e3-434b-a292-3c524edd6321</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_726</ot:kodKarto10k>
+			<ot:rodzaj>teren podmokły</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-8d6a5542-4a7a-4373-ad01-3c19142edc20-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>473803.94 471155.23 473831.90 471153.26 473883.50 471150.10 473910.28 471143.80 473949.79 471140.23 473968.40 471145.44 473994.18 471159.35 474009.45 471161.05 474027.43 471166.47 474046.17 471165.08 474057.20 471170.60 474069.02 471182.42 474101.32 471216.31 474124.15 471241.96 474116.53 471254.90 474110.70 471262.76 474106.85 471267.78 474120.75 471272.94 474143.84 471282.59 474158.33 471290.16 474189.99 471304.79 474205.42 471311.92 474207.54 471313.00 474237.73 471240.08 474221.79 471229.23 474198.72 471214.64 474179.05 471202.09 474167.85 471187.17 474143.75 471185.05 474118.33 471162.07 474100.01 471148.50 474091.19 471136.29 474089.16 471130.86 474079.66 471124.75 474073.56 471122.04 474062.36 471120.34 474054.46 471121.41 474037.94 471110.51 474022.68 471097.28 473962.64 471088.46 473959.92 471093.89 473903.96 471087.10 473875.80 471082.69 473853.36 471075.88 473846.30 471097.84 473840.91 471107.78 473835.86 471115.36 473829.29 471122.27 473821.38 471128.16 473805.38 471136.92 473803.94 471155.23</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIMK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIMK_A gml:id="PL.PZGiK.308.BDOT10k_2923959E-D49D-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D49D-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_726</ot:kodKarto10k>
+			<ot:rodzaj>teren podmokły</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-874ae1a6-a671-41ca-ab3a-4b44a5fd1ff7-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>458388.95 468968.12 458388.44 468981.43 458391.00 468988.85 458394.84 468995.77 458402.51 468996.02 458409.93 468996.02 458418.64 468992.95 458424.52 468988.60 458427.08 468980.66 458426.57 468975.03 458422.99 468969.40 458410.96 468965.81 458397.14 468965.56 458388.95 468968.12</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIMK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIMK_A gml:id="PL.PZGiK.308.BDOT10k_c7544073-35f7-4810-bb4d-fe50d84a810c_2023-12-31T120000">
+			<ot:lokalnyId>c7544073-35f7-4810-bb4d-fe50d84a810c</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_726</ot:kodKarto10k>
+			<ot:rodzaj>teren podmokły</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-ef375db6-bb37-46ff-b25e-71a40b806368-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>479336.77 466053.79 479341.80 466046.70 479348.34 466039.31 479350.52 466035.54 479350.85 466033.56 479350.05 466032.04 479347.41 466031.25 479343.06 466031.45 479339.36 466033.63 479335.00 466036.93 479329.85 466040.36 479327.67 466042.28 479326.15 466045.18 479325.43 466048.68 479325.56 466051.45 479327.74 466053.70 479330.58 466055.02 479332.69 466055.75 479334.74 466055.55 479336.77 466053.79</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIMK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIMK_A gml:id="PL.PZGiK.308.BDOT10k_2923959E-D4D9-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D4D9-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_726</ot:kodKarto10k>
+			<ot:rodzaj>teren podmokły</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-8484fa93-61a0-42f5-aef7-023b9f5fb63b-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>465345.64 443748.67 465355.70 443753.27 465365.19 443774.73 465368.21 443804.37 465368.13 443840.49 465382.30 443855.18 465383.59 443861.94 465373.67 443868.13 465369.07 443881.37 465372.09 443910.15 465380.58 443920.94 465411.36 443945.69 465420.85 443949.00 465436.53 443940.08 465451.48 443939.50 465460.11 443949.14 465463.85 443981.95 465460.40 444008.00 465450.47 444012.17 465438.82 444008.72 465435.66 443994.76 465430.34 443990.01 465412.79 443990.30 465410.35 444016.49 465416.67 444042.82 465506.82 444056.91 465508.72 444057.21 465545.69 444074.20 465557.70 444089.74 465582.44 444106.43 465599.69 444112.48 465728.19 444134.93 465736.76 444038.79 465721.87 443984.79 465661.90 443974.73 465637.42 443974.91 465607.06 443997.65 465594.01 443993.00 465563.52 443982.79 465550.15 443974.15 465528.14 443951.85 465523.68 443942.78 465517.06 443886.37 465505.84 443827.22 465524.54 443758.01 465547.70 443689.79 465561.79 443664.76 465582.09 443636.14 465563.82 443643.05 465546.56 443640.03 465534.05 443642.62 465526.43 443649.24 465522.11 443659.60 465521.54 443671.54 465508.74 443684.49 465493.64 443688.23 465483.42 443694.28 465472.21 443707.95 465460.70 443708.81 465442.86 443697.58 465432.36 443696.58 465428.48 443708.38 465381.74 443725.65 465358.44 443725.21 465345.64 443748.67</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIMK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIMK_A gml:id="PL.PZGiK.308.BDOT10k_2923959E-D4BE-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D4BE-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_726</ot:kodKarto10k>
+			<ot:rodzaj>teren podmokły</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-1ea0251f-8181-4913-bbca-0a3a61f85fb8-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>460532.56 477651.92 460530.84 477662.45 460541.15 477669.76 460553.61 477676.42 460564.77 477677.49 460570.36 477669.54 460565.85 477661.81 460555.75 477647.63 460547.16 477644.19 460532.56 477651.92</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIMK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIMK_A gml:id="PL.PZGiK.308.BDOT10k_2923959E-D494-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D494-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_726</ot:kodKarto10k>
+			<ot:rodzaj>teren podmokły</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-910303cc-ecad-4fe3-8942-cafa56b5c271-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>456213.61 466952.20 456215.24 466967.90 456226.06 466998.77 456261.77 467035.59 456293.16 467051.30 456302.36 467049.67 456306.69 467039.92 456303.44 467030.18 456287.75 467018.80 456269.89 466994.44 456235.26 466955.45 456221.19 466950.03 456213.61 466952.20</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIMK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIMK_A gml:id="PL.PZGiK.308.BDOT10k_2923959E-D484-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D484-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_726</ot:kodKarto10k>
+			<ot:rodzaj>teren podmokły</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-6e9beabc-61c1-499c-b79f-d7a58e5a618c-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>454922.05 466352.42 454923.41 466373.31 454934.30 466393.76 454948.83 466401.03 454959.73 466399.21 454997.41 466383.31 455003.77 466364.23 454994.23 466346.05 454973.80 466337.88 454934.30 466343.33 454922.05 466352.42</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIMK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIMK_A gml:id="PL.PZGiK.308.BDOT10k_2923959F-ADFB-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959F-ADFB-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_726</ot:kodKarto10k>
+			<ot:rodzaj>teren podmokły</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-6ca05002-49d0-426e-9089-31c701118865-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>460479.87 474245.35 460498.13 474246.79 460517.98 474239.85 460526.83 474239.14 460542.86 474254.21 460552.67 474248.70 460543.58 474228.13 460546.21 474206.84 460515.05 474176.51 460521.70 474163.84 460519.53 474159.75 460522.81 474156.46 460529.86 474151.77 460530.80 474146.60 460524.69 474144.25 460514.36 474146.13 460508.25 474144.72 460507.79 474137.26 460495.99 474140.06 460484.97 474127.19 460480.19 474110.69 460466.07 474092.51 460444.07 474084.61 460422.06 474083.42 460421.58 474095.14 460424.45 474109.73 460439.28 474124.56 460446.62 474142.63 460458.00 474143.28 460455.88 474155.99 460459.17 474168.21 460459.17 474181.36 460461.05 474190.28 460468.56 474196.86 460472.32 474206.72 460471.38 474224.10 460479.36 474233.03 460479.87 474245.35</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIMK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIMK_A gml:id="PL.PZGiK.308.BDOT10k_2923959E-D48D-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D48D-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_726</ot:kodKarto10k>
+			<ot:rodzaj>teren podmokły</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-ff86dafe-212b-460c-8946-427ad3fcbcea-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>455969.97 466991.07 455973.76 466998.65 456029.50 467024.10 456074.68 467035.47 456097.41 467037.64 456100.66 467031.68 456081.45 466989.98 456056.01 466956.95 456038.16 466951.53 456011.37 466959.39 455974.30 466982.13 455969.97 466991.07</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIMK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIMK_A gml:id="PL.PZGiK.308.BDOT10k_2923959E-D4DD-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D4DD-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_726</ot:kodKarto10k>
+			<ot:rodzaj>teren podmokły</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-590c9cb1-1ac1-4854-8a3a-0de3f7f50f89-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>465525.85 443913.29 465527.87 443932.29 465530.74 443948.26 465551.31 443969.85 465563.25 443976.32 465595.61 443989.27 465607.25 443990.57 465634.44 443966.16 465671.70 443967.64 465726.82 443975.10 465749.93 444029.50 465762.59 444021.68 465778.61 443979.19 465762.59 443951.99 465754.12 443951.80 465738.48 443920.13 465716.87 443920.69 465702.91 443898.51 465593.59 443909.84 465554.50 443911.83 465525.85 443913.29</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIMK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIMK_A gml:id="PL.PZGiK.308.BDOT10k_ea00c1b2-f470-4ba9-992d-284b01c21334_2023-12-31T120000">
+			<ot:lokalnyId>ea00c1b2-f470-4ba9-992d-284b01c21334</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_726</ot:kodKarto10k>
+			<ot:rodzaj>teren podmokły</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-ace56b31-099e-4920-9e02-89334f692cd9-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>470104.85 446894.78 470148.78 446889.22 470149.50 446845.11 470144.84 446845.65 470133.90 446850.13 470127.08 446856.41 470118.30 446861.07 470111.12 446857.66 470098.03 446848.16 470089.96 446847.80 470083.87 446848.52 470082.79 446852.10 470082.43 446862.32 470086.38 446879.72 470093.91 446893.35 470104.85 446894.78</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIMK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIMK_A gml:id="PL.PZGiK.308.BDOT10k_2923959E-D4A8-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D4A8-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_726</ot:kodKarto10k>
+			<ot:rodzaj>teren podmokły</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-ab0252a2-ab7d-4a05-ad68-999003bfc29c-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>459385.26 472167.81 459385.76 472180.73 459389.82 472188.33 459401.72 472192.38 459410.08 472192.89 459420.71 472190.36 459428.06 472178.70 459428.06 472158.43 459424.51 472144.75 459414.13 472133.60 459401.97 472131.07 459391.59 472132.84 459388.04 472140.19 459387.03 472150.58 459385.26 472167.81</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIMK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIMK_A gml:id="PL.PZGiK.308.BDOT10k_2923959E-D481-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D481-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_726</ot:kodKarto10k>
+			<ot:rodzaj>teren podmokły</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-f5207c1b-e2bd-42bd-8c5b-2be2cd9515c7-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>453715.94 464066.63 453718.26 464076.66 453723.65 464085.92 453731.36 464090.93 453749.87 464092.09 453771.46 464089.39 453783.41 464081.29 453782.25 464073.19 453767.99 464060.46 453731.36 464061.61 453715.94 464066.63</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIMK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIMK_A gml:id="PL.PZGiK.308.BDOT10k_2923959E-D492-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D492-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_726</ot:kodKarto10k>
+			<ot:rodzaj>teren podmokły</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-4dc87a20-0757-49ee-bb85-40851b6e8014-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>456161.00 466774.50 456163.12 466801.48 456166.29 466842.22 456177.92 466887.71 456190.08 466902.53 456211.75 466905.70 456224.44 466897.76 456229.73 466878.19 456221.80 466835.87 456207.52 466809.94 456182.15 466780.32 456174.22 466769.21 456165.23 466767.62 456161.00 466774.50</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIMK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIMK_A gml:id="PL.PZGiK.308.BDOT10k_2923959E-D47E-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D47E-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_726</ot:kodKarto10k>
+			<ot:rodzaj>teren podmokły</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-bd6369d5-d7b8-4bc3-a5da-458f826da176-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>453473.27 463769.43 453475.58 463786.02 453489.08 463794.51 453507.97 463793.73 453528.40 463781.00 453537.65 463766.73 453534.18 463755.93 453520.69 463753.23 453488.69 463755.16 453473.27 463769.43</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIMK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIMK_A gml:id="PL.PZGiK.308.BDOT10k_2923959E-D4F0-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D4F0-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_726</ot:kodKarto10k>
+			<ot:rodzaj>teren podmokły</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-c07f6fa7-6fea-4df4-883b-37399d8635ff-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>473687.82 441641.03 473724.99 441651.70 473772.83 441512.31 473729.84 441501.96 473687.82 441641.03</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIMK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIMK_A gml:id="PL.PZGiK.308.BDOT10k_2923959E-D4EC-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D4EC-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_726</ot:kodKarto10k>
+			<ot:rodzaj>teren podmokły</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-df02db0a-0b9b-48d3-b788-571ee61056a5-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>472737.69 442481.75 472722.14 442484.38 472711.61 442487.49 472714.72 442492.61 472746.40 442545.00 472869.24 442493.25 472827.15 442479.60 472821.14 442490.17 472808.25 442492.04 472756.10 442486.77 472737.69 442481.75</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIMK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIMK_A gml:id="PL.PZGiK.308.BDOT10k_2923959E-D46C-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D46C-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_726</ot:kodKarto10k>
+			<ot:rodzaj>teren podmokły</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-ea91141b-d2bb-44a2-a2ba-6809065c4406-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>478528.30 472473.50 478526.80 472519.21 478536.54 472556.69 478543.03 472560.18 478551.27 472558.68 478556.01 472554.19 478555.26 472540.45 478554.74 472516.40 478547.39 472511.38 478542.36 472492.24 478539.73 472472.63 478535.04 472464.75 478528.30 472473.50</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIMK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIMK_A gml:id="PL.PZGiK.308.BDOT10k_2923959E-D47A-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D47A-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_726</ot:kodKarto10k>
+			<ot:rodzaj>teren podmokły</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-878b9f93-b77e-4a4f-a582-93127a68d669-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>452497.60 467319.16 452501.87 467326.54 452564.75 467328.87 452564.75 467198.35 452562.42 467164.55 452552.72 467154.45 452533.70 467153.29 452516.23 467158.72 452512.74 467167.66 452497.60 467319.16</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIMK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIMK_A gml:id="PL.PZGiK.308.BDOT10k_2923959E-D469-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D469-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_726</ot:kodKarto10k>
+			<ot:rodzaj>teren podmokły</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-d627b583-eb58-4d8b-84b4-c80ae8c83efa-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>474979.69 441024.12 474981.40 441046.34 475001.17 441079.06 475001.66 441092.25 474991.16 441119.60 474994.09 441129.61 475005.32 441134.01 475012.15 441132.30 475033.14 441091.27 475032.66 441072.96 475027.29 441056.11 474995.80 441015.08 474984.57 441016.30 474979.69 441024.12</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIMK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIMK_A gml:id="PL.PZGiK.308.BDOT10k_2923959E-D4E3-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D4E3-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_726</ot:kodKarto10k>
+			<ot:rodzaj>teren podmokły</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-95ceb8b2-2c4f-4a81-9194-c8a0752b7d2e-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>471116.64 443965.42 471140.82 443973.58 471339.93 444040.74 471374.83 443941.50 471444.65 443742.44 471486.88 443648.17 471382.90 443600.08 471226.39 443527.69 471146.06 443694.45 471205.36 443680.15 471210.62 443719.24 471170.82 443766.91 471116.64 443965.42</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIMK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIMK_A gml:id="PL.PZGiK.308.BDOT10k_2923959E-D4D6-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D4D6-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_726</ot:kodKarto10k>
+			<ot:rodzaj>teren podmokły</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-e3db7d8c-4738-4caa-a609-8f66527092a8-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>464934.69 448577.78 464935.93 448580.05 464967.23 448592.85 464969.70 448592.31 464971.66 448589.01 464972.62 448579.49 464971.49 448575.13 464967.77 448573.19 464938.36 448569.38 464936.09 448570.44 464934.69 448577.78</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIMK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIMK_A gml:id="PL.PZGiK.308.BDOT10k_2923959E-D497-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D497-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_726</ot:kodKarto10k>
+			<ot:rodzaj>teren podmokły</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-66b4c041-b801-42d6-9eca-4686404bb6f5-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>456407.81 467095.12 456411.89 467107.37 456444.93 467137.83 456486.12 467163.83 456518.41 467183.51 456529.92 467179.42 456541.80 467158.63 456541.43 467107.74 456524.72 467053.89 456497.26 467032.72 456473.51 467011.55 456454.21 467007.84 456435.65 467033.46 456407.81 467095.12</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIMK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIMK_A gml:id="PL.PZGiK.308.BDOT10k_e44a3e13-7d08-4b69-8edc-d245fa0adf02_2023-12-31T120000">
+			<ot:lokalnyId>e44a3e13-7d08-4b69-8edc-d245fa0adf02</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_726</ot:kodKarto10k>
+			<ot:rodzaj>teren podmokły</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-65d2eb2a-aefb-450f-85a2-8e7f28f67669-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>460612.38 476481.22 460632.95 476529.77 460671.46 476607.75 460689.16 476644.59 460693.47 476649.85 460698.97 476648.66 460746.09 476637.41 460770.97 476657.51 460800.39 476688.84 460807.80 476695.78 460812.83 476685.97 460821.20 476673.05 460834.35 476648.18 460848.47 476625.69 460864.97 476610.38 460878.13 476609.19 460880.04 476606.56 460878.13 476601.53 460870.71 476581.68 460873.58 476550.82 460876.69 476521.40 460871.43 476508.01 460864.73 476502.27 460850.62 476503.46 460836.99 476507.29 460831.37 476506.64 460827.42 476500.11 460819.52 476496.05 460802.30 476491.02 460790.28 476490.40 460777.90 476458.49 460754.19 476418.92 460620.75 476466.62 460613.81 476472.37 460612.38 476481.22</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIMK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIMK_A gml:id="PL.PZGiK.308.BDOT10k_2923959E-D489-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D489-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_726</ot:kodKarto10k>
+			<ot:rodzaj>teren podmokły</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-bf741ef9-59b0-453f-9deb-ac56f1f8b552-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>455402.36 466618.99 455402.36 466641.81 455408.63 466655.24 455425.62 466655.68 455486.89 466628.38 455493.15 466614.06 455490.02 466594.37 455469.00 466575.13 455433.22 466575.13 455417.57 466584.08 455402.36 466618.99</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIMK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIMK_A gml:id="PL.PZGiK.308.BDOT10k_2923959E-D4EA-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D4EA-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_726</ot:kodKarto10k>
+			<ot:rodzaj>teren podmokły</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-4f92e85f-0abd-48f5-90c2-40939edb60c3-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>472265.96 443600.19 472248.17 443724.06 472356.46 443725.35 472367.13 443638.35 472265.96 443600.19</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIMK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIMK_A gml:id="PL.PZGiK.308.BDOT10k_1e2e97fa-d378-49f8-97b0-8143ca15ac5b_2023-12-31T120000">
+			<ot:lokalnyId>1e2e97fa-d378-49f8-97b0-8143ca15ac5b</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_726</ot:kodKarto10k>
+			<ot:rodzaj>teren podmokły</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-97f86f3d-5129-4fa2-a56c-322eef43c369-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>480500.86 466750.15 480508.62 466743.99 480527.09 466723.37 480549.04 466700.60 480543.45 466688.25 480530.38 466688.48 480524.24 466691.04 480515.02 466702.30 480504.40 466721.88 480498.00 466737.24 480497.61 466747.10 480500.86 466750.15</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIMK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIMK_A gml:id="PL.PZGiK.308.BDOT10k_2923959E-D473-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D473-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_726</ot:kodKarto10k>
+			<ot:rodzaj>teren podmokły</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-88757f23-80c3-44ad-95c3-ea8beb0233df-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>446586.74 467440.08 446587.54 467448.06 446594.08 467453.80 446603.17 467459.86 446610.18 467461.13 446615.68 467459.54 446619.59 467455.87 446621.35 467449.97 446622.06 467440.48 446618.56 467437.05 446611.62 467433.39 446599.18 467429.88 446594.72 467429.00 446591.21 467430.36 446588.42 467434.90 446586.74 467440.08</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIMK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIMK_A gml:id="PL.PZGiK.308.BDOT10k_2923959E-D490-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D490-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_726</ot:kodKarto10k>
+			<ot:rodzaj>teren podmokły</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-f2330f83-823f-46a4-8106-9c60d4127548-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>456129.99 467167.37 456127.94 467177.64 456131.36 467193.38 456138.20 467208.44 456158.26 467232.16 456174.68 467242.06 456200.21 467257.39 456200.67 467261.04 456194.74 467272.67 456191.55 467279.97 456194.74 467297.77 456204.55 467313.28 456210.02 467318.30 456218.00 467318.53 456223.47 467308.72 456236.46 467274.04 456236.69 467262.41 456227.57 467247.35 456218.00 467234.58 456215.26 467219.75 456220.73 467196.71 456220.73 467174.81 456207.52 467158.48 456180.61 467139.32 456174.46 467139.77 456157.36 467146.62 456149.61 467146.39 456140.03 467148.21 456129.99 467167.37</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIMK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIMK_A gml:id="PL.PZGiK.308.BDOT10k_2923959E-D4DB-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D4DB-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_726</ot:kodKarto10k>
+			<ot:rodzaj>teren podmokły</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-67b535b1-03d0-4024-b84f-c0f028d59eba-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>465510.81 443826.58 465517.85 443863.57 465530.02 443861.13 465546.93 443857.73 465540.60 443828.11 465549.17 443779.66 465658.68 443753.76 465647.88 443730.47 465654.03 443714.63 465673.78 443712.03 465682.90 443682.40 465610.15 443647.12 465587.93 443634.67 465566.61 443666.27 465551.22 443692.17 465527.92 443761.10 465510.81 443826.58</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIMK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIMK_A gml:id="PL.PZGiK.308.BDOT10k_2923959E-D4E6-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D4E6-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_726</ot:kodKarto10k>
+			<ot:rodzaj>teren podmokły</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-e4d393f0-58a6-4652-a1ed-5ec0f0998226-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>471744.22 443887.70 471761.03 443881.24 471794.00 443893.20 471800.12 443888.19 471802.51 443864.87 471808.49 443853.51 471818.17 443852.55 471825.71 443854.94 471828.75 443859.16 471826.79 443885.44 471819.87 443933.26 471852.20 443884.12 471863.18 443740.87 471818.25 443740.87 471744.22 443887.70</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIMK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIMK_A gml:id="PL.PZGiK.308.BDOT10k_2923959E-D49C-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D49C-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_726</ot:kodKarto10k>
+			<ot:rodzaj>teren podmokły</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-d747f984-c8ac-46d4-81dd-a63394fcb08d-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>457849.36 465200.09 457848.09 465208.45 457851.64 465217.06 457862.53 465224.41 457870.38 465227.20 457885.32 465226.19 457912.42 465215.54 457933.44 465203.38 457934.71 465193.00 457928.88 465185.14 457914.70 465177.79 457903.05 465180.84 457893.17 465189.20 457886.08 465191.22 457875.70 465189.20 457866.08 465189.96 457852.15 465194.77 457849.36 465200.09</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIMK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIMK_A gml:id="PL.PZGiK.308.BDOT10k_020d839d-bee0-457d-b1ca-b0eab6bacd2e_2023-12-31T120000">
+			<ot:lokalnyId>020d839d-bee0-457d-b1ca-b0eab6bacd2e</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_726</ot:kodKarto10k>
+			<ot:rodzaj>teren podmokły</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-2cd8a6a5-b139-4fe4-8aa5-a05e507a85c8-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>470271.03 447186.32 470277.11 447212.98 470282.21 447213.63 470293.27 447211.97 470304.85 447212.23 470312.35 447211.34 470323.67 447210.45 470335.88 447211.72 470348.22 447209.94 470356.74 447206.25 470360.69 447201.80 470362.21 447199.51 470361.83 447194.93 470358.02 447190.73 470356.24 447187.29 470354.46 447182.97 470348.41 447184.39 470311.97 447187.68 470305.74 447186.91 470300.78 447186.79 470298.23 447181.44 470288.95 447176.86 470280.42 447179.03 470271.03 447186.32</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIMK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIMK_A gml:id="PL.PZGiK.308.BDOT10k_2923959E-D475-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D475-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_726</ot:kodKarto10k>
+			<ot:rodzaj>teren podmokły</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-0fa05f7f-9430-4dc2-bbf0-0205e65daaa1-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>447887.70 468117.34 447896.56 468140.99 447924.87 468204.32 447949.48 468201.16 447993.05 468093.69 448001.42 468080.38 448007.82 468063.14 448008.81 468036.53 448010.28 468010.62 447999.45 467946.57 447984.20 467907.09 447923.15 467922.86 447918.72 467970.65 447914.78 468024.36 447887.70 468117.34</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+					<gml:interior>
+						<gml:LinearRing>
+							<gml:posList>447898.36 468133.56 447897.40 468119.69 447901.23 468106.45 447919.39 468088.12 447930.04 468080.14 447940.30 468078.81 447949.78 468081.64 447957.02 468085.46 447959.49 468088.50 447961.39 468093.25 447958.73 468101.24 447953.79 468104.85 447942.39 468109.79 447936.31 468113.97 447933.27 468122.14 447933.27 468128.60 447932.32 468136.75 447930.25 468140.42 447923.07 468161.15 447917.33 468161.31 447909.68 468158.92 447901.86 468146.16 447898.36 468133.56</gml:posList>
+						</gml:LinearRing>
+					</gml:interior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIMK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIMK_A gml:id="PL.PZGiK.308.BDOT10k_2923959E-D487-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D487-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_726</ot:kodKarto10k>
+			<ot:rodzaj>teren podmokły</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-ae648cf1-6557-4405-a8fb-3a0d6252f41a-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>455030.48 451333.94 455031.39 451339.02 455044.99 451353.72 455074.72 451362.61 455117.33 451356.62 455119.33 451353.54 455122.04 451314.89 455117.69 451310.18 455087.23 451305.64 455084.15 451306.19 455063.48 451318.52 455032.29 451330.31 455030.48 451333.94</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIMK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIMK_A gml:id="PL.PZGiK.308.BDOT10k_2923959E-D471-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D471-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_726</ot:kodKarto10k>
+			<ot:rodzaj>teren podmokły</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-78a1fcaf-a8c9-427f-b6ef-699ac8928eb1-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>480897.27 448499.19 480983.47 448534.24 480985.93 448516.17 481005.08 448503.30 481023.96 448497.28 481035.73 448506.04 481049.68 448497.28 481056.25 448482.22 481080.67 448473.88 481086.41 448454.85 481055.77 448462.65 481025.33 448438.14 481012.47 448435.95 481000.98 448438.41 480897.27 448499.19</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIMK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIMK_A gml:id="PL.PZGiK.308.BDOT10k_9a0944a6-adb1-41f8-94bb-9dc1d562d85d_2023-12-31T120000">
+			<ot:lokalnyId>9a0944a6-adb1-41f8-94bb-9dc1d562d85d</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_726</ot:kodKarto10k>
+			<ot:rodzaj>teren podmokły</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-3dc3fce2-dc4d-424f-a0b1-8291722e0687-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>474686.36 459256.89 474679.99 459257.68 474673.36 459263.25 474671.64 459267.76 474669.52 459276.90 474669.78 459280.88 474672.04 459283.53 474676.54 459286.58 474682.91 459289.50 474690.20 459291.35 474696.96 459293.21 474701.47 459294.14 474706.24 459294.80 474708.49 459294.67 474710.75 459291.09 474711.41 459285.12 474712.47 459279.29 474711.01 459273.46 474707.43 459264.71 474701.87 459260.07 474696.83 459256.62 474690.46 459255.69 474686.36 459256.89</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIMK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIMK_A gml:id="PL.PZGiK.308.BDOT10k_2923959E-D466-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D466-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_726</ot:kodKarto10k>
+			<ot:rodzaj>teren podmokły</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-2aff88fc-e3f4-42ae-8cb9-ab1736a8c0f6-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>474763.16 471537.86 474765.48 471545.82 474770.12 471548.64 474774.30 471548.97 474779.22 471548.63 474793.00 471557.76 474801.29 471555.44 474808.73 471552.02 474832.46 471560.09 474839.76 471565.73 474839.76 471573.02 474841.63 471575.25 474848.08 471584.07 474859.44 471597.64 474844.18 471598.32 474830.95 471591.70 474795.99 471571.03 474762.26 471558.97 474759.72 471569.32 474764.13 471579.32 474786.17 471592.72 474802.62 471598.57 474842.14 471617.65 474851.47 471625.29 474871.14 471640.89 474888.83 471647.34 474895.46 471647.67 474899.77 471644.36 474899.77 471638.38 474899.81 471611.04 474912.19 471598.15 474925.25 471579.83 474908.96 471571.35 474901.43 471569.37 474896.46 471565.06 474851.36 471547.15 474849.70 471541.51 474843.40 471532.22 474828.81 471523.59 474816.88 471519.94 474790.35 471511.65 474779.74 471510.32 474770.45 471512.97 474766.81 471520.60 474763.16 471537.86</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIMK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIMK_A gml:id="PL.PZGiK.308.BDOT10k_2923959E-D4DC-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D4DC-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_726</ot:kodKarto10k>
+			<ot:rodzaj>teren podmokły</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-b42770a6-d734-4009-b798-cb252a31ea80-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>465513.53 444316.59 465511.08 444333.14 465552.06 444349.75 465571.30 444341.13 465591.39 444349.98 465604.54 444345.19 465636.29 444319.39 465609.17 444314.29 465588.89 444291.69 465552.36 444288.53 465513.53 444316.59</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIMK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIMK_A gml:id="PL.PZGiK.308.BDOT10k_c3063fce-fb0f-4cba-8464-ad0be19106a8_2023-12-31T120000">
+			<ot:lokalnyId>c3063fce-fb0f-4cba-8464-ad0be19106a8</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_726</ot:kodKarto10k>
+			<ot:rodzaj>teren podmokły</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-66e88dff-199c-4554-830e-29754eb35120-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>460753.16 477211.15 460756.27 477175.99 460753.64 477167.85 460733.31 477161.63 460725.89 477162.83 460722.78 477168.57 460717.28 477172.40 460710.34 477173.83 460709.15 477180.77 460707.95 477211.63 460710.34 477215.22 460734.50 477216.41 460747.90 477215.22 460753.16 477211.15</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIMK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIMK_A gml:id="PL.PZGiK.308.BDOT10k_2923959E-D49E-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D49E-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_726</ot:kodKarto10k>
+			<ot:rodzaj>teren podmokły</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-47bb3b32-8620-4a3b-98f0-170c3de511e0-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>458457.88 469292.63 458457.88 469304.66 458460.18 469318.22 458461.46 469327.70 458466.06 469331.28 458472.21 469331.28 458478.09 469325.39 458482.44 469317.46 458482.95 469311.82 458477.58 469301.33 458479.88 469293.91 458486.79 469279.31 458495.49 469272.91 458503.42 469273.94 458509.31 469274.19 458511.61 469271.63 458511.10 469264.21 458502.15 469254.74 458492.17 469251.16 458488.84 469243.73 458485.26 469242.71 458476.56 469260.11 458464.02 469281.11 458457.88 469292.63</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIMK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIMK_A gml:id="PL.PZGiK.308.BDOT10k_2923959E-D4BC-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D4BC-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_726</ot:kodKarto10k>
+			<ot:rodzaj>teren podmokły</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-feeb9a56-f543-4540-8d39-ed28ab22464f-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>460561.25 473496.23 460557.90 473510.10 460561.49 473559.86 460569.86 473553.64 460599.52 473509.86 460623.48 473477.40 460621.77 473468.48 460612.85 473459.91 460603.35 473457.00 460592.35 473457.72 460582.30 473463.22 460572.49 473473.03 460561.25 473496.23</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIMK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIMK_A gml:id="PL.PZGiK.308.BDOT10k_2923959E-D4D1-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D4D1-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_726</ot:kodKarto10k>
+			<ot:rodzaj>teren podmokły</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-cfb18758-9ce3-43a1-bf37-903c4e54784c-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>464402.24 443147.86 464405.27 443156.11 464506.64 443141.93 464515.30 443095.70 464468.95 443111.80 464440.76 443114.55 464402.24 443147.86</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIMK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIMK_A gml:id="PL.PZGiK.308.BDOT10k_2923959E-D491-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D491-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_726</ot:kodKarto10k>
+			<ot:rodzaj>teren podmokły</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-981478bf-e043-4412-afa0-3a444ee608f9-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>456154.21 463111.54 456155.53 463119.25 456159.72 463131.60 456160.60 463148.57 456157.08 463160.26 456158.18 463162.91 456164.57 463163.13 456173.82 463164.89 456206.43 463188.70 456217.88 463192.94 456225.59 463191.17 456227.80 463186.98 456217.44 463137.60 456211.49 463127.01 456187.70 463115.99 456162.14 463107.35 456156.86 463106.91 456154.21 463111.54</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIMK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIMK_A gml:id="PL.PZGiK.308.BDOT10k_e08ed9af-8aa1-42ba-a276-482ea104d349_2023-12-31T120000">
+			<ot:lokalnyId>e08ed9af-8aa1-42ba-a276-482ea104d349</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_726</ot:kodKarto10k>
+			<ot:rodzaj>teren podmokły</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-2738cc4c-b7df-4b68-bcdb-f1df0e3ccfe0-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>455432.42 449207.85 455425.24 449208.33 455422.07 449211.37 455422.73 449218.49 455436.78 449269.08 455443.72 449295.16 455443.39 449305.28 455436.84 449301.40 455432.17 449302.41 455336.82 449247.97 455314.82 449272.13 455317.69 449286.24 455314.34 449313.51 455299.03 449344.37 455282.76 449363.98 455279.41 449384.55 455282.28 449451.05 455292.81 449476.40 455300.46 449494.58 455298.55 449507.98 455329.65 449548.64 455352.13 449560.12 455377.96 449564.43 455414.32 449551.99 455440.16 449527.59 455481.69 449393.65 455461.76 449386.57 455446.59 449371.52 455445.56 449367.67 455455.33 449353.13 455460.35 449352.36 455476.29 449354.16 455481.17 449353.13 455492.10 449337.32 455498.29 449336.13 455504.67 449339.28 455503.58 449332.17 455501.01 449326.97 455491.50 449321.11 455486.86 449314.90 455483.97 449297.19 455487.67 449279.85 455490.18 449265.02 455491.50 449252.82 455487.08 449246.12 455483.01 449242.53 455463.27 449245.76 455456.82 449246.24 455452.99 449244.81 455448.56 449239.66 455440.43 449216.46 455437.44 449211.20 455432.42 449207.85</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIMK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIMK_A gml:id="PL.PZGiK.308.BDOT10k_6d0afb69-b8b9-4c17-9fd4-a4087f5acf34_2023-12-31T120000">
+			<ot:lokalnyId>6d0afb69-b8b9-4c17-9fd4-a4087f5acf34</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_726</ot:kodKarto10k>
+			<ot:rodzaj>teren podmokły</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-31069f53-8331-49b4-b044-b74404036042-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>473329.42 463653.24 473328.92 463657.64 473330.88 463663.02 473338.18 463669.51 473347.02 463673.79 473384.68 463677.21 473389.11 463682.25 473390.55 463687.98 473393.00 463700.70 473387.62 463711.47 473365.12 463734.96 473362.49 463743.93 473363.16 463751.59 473368.85 463759.27 473384.20 463773.61 473399.36 463806.89 473401.56 463812.55 473410.82 463821.81 473419.41 463825.97 473443.38 463826.95 473459.03 463825.48 473464.65 463821.52 473467.83 463813.25 473470.43 463805.89 473471.30 463796.62 473469.79 463779.49 473466.36 463749.64 473456.58 463722.72 473448.73 463713.81 473439.18 463707.44 473423.32 463696.30 473399.85 463665.47 473368.06 463648.34 473337.73 463644.43 473331.52 463648.09 473329.42 463653.24</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+					<gml:interior>
+						<gml:LinearRing>
+							<gml:posList>473386.88 463747.19 473387.42 463741.29 473393.59 463738.07 473400.02 463739.68 473403.24 463743.97 473407.26 463748.26 473416.12 463752.29 473424.70 463752.02 473430.87 463742.90 473438.11 463740.48 473446.96 463742.09 473452.06 463743.16 473454.47 463745.85 473454.20 463749.07 473452.86 463754.70 473445.35 463766.78 473441.33 463775.10 473433.82 463776.71 473430.60 463775.10 473427.65 463770.27 473426.31 463776.17 473421.21 463784.49 473415.31 463790.93 473410.75 463790.13 473406.46 463781.27 473398.68 463769.46 473391.71 463762.22 473389.56 463757.92 473391.17 463751.75 473386.88 463747.19</gml:posList>
+						</gml:LinearRing>
+					</gml:interior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIMK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIMK_A gml:id="PL.PZGiK.308.BDOT10k_2923959E-D486-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D486-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_726</ot:kodKarto10k>
+			<ot:rodzaj>teren podmokły</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-7bd4f19f-2362-4491-8eff-9e3670026f09-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>455025.99 453681.75 455028.06 453687.27 455036.34 453720.86 455038.63 453725.23 455064.62 453743.86 455067.61 453742.48 455077.26 453725.23 455080.25 453722.24 455085.54 453723.85 455092.21 453723.16 455101.87 453710.51 455100.72 453706.59 455096.81 453704.98 455051.74 453670.47 455043.00 453670.93 455037.71 453672.09 455025.99 453681.75</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIMK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIMK_A gml:id="PL.PZGiK.308.BDOT10k_2923959E-D499-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D499-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_726</ot:kodKarto10k>
+			<ot:rodzaj>teren podmokły</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-aabbc8a8-d29b-44af-ae38-96a0f43fc008-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>456610.79 467134.86 456611.53 467147.49 456616.73 467155.66 456634.54 467151.95 456667.95 467117.78 456670.17 467093.26 456666.46 467083.61 456647.16 467086.58 456624.15 467113.32 456610.79 467134.86</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIMK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIMK_A gml:id="PL.PZGiK.308.BDOT10k_203fe6dc-9a88-44f5-b551-6a4beb9f792a_2023-12-31T120000">
+			<ot:lokalnyId>203fe6dc-9a88-44f5-b551-6a4beb9f792a</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_726</ot:kodKarto10k>
+			<ot:rodzaj>teren podmokły</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-3dfe1ca5-2da7-4da0-a430-d328a1239537-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>472771.14 449784.80 472851.91 449782.53 472892.86 449704.20 472894.83 449701.55 472914.99 449674.44 472925.68 449659.17 472945.77 449637.04 472929.49 449614.14 472914.99 449596.84 472824.87 449674.88 472779.60 449714.09 472772.27 449775.37 472771.14 449784.80</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIMK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIMK_A gml:id="PL.PZGiK.308.BDOT10k_81891cc2-e5bc-4faf-8239-123b949dfa4a_2023-12-31T120000">
+			<ot:lokalnyId>81891cc2-e5bc-4faf-8239-123b949dfa4a</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_726</ot:kodKarto10k>
+			<ot:rodzaj>teren podmokły</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-c6ed5596-2582-4d92-bc3e-12300ddabdf9-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>477138.40 468657.99 477123.52 468705.40 477113.60 468750.43 477097.57 468809.96 477067.80 468864.15 477046.44 468906.13 477032.70 468951.92 477027.36 469015.26 477026.31 469034.53 477026.31 469039.59 477024.40 469044.17 477013.81 469085.19 477004.94 469096.74 477002.07 469102.94 477004.46 469111.24 477009.13 469118.11 477012.76 469123.73 477014.19 469127.26 477037.47 469147.97 477103.10 469118.96 477200.79 469053.33 477261.09 469013.64 477275.59 468983.11 477274.06 468922.06 477267.95 468844.21 477244.29 468781.63 477183.24 468686.23 477171.15 468666.58 477150.33 468657.80 477143.93 468657.80 477138.40 468657.99</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIMK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIMK_A gml:id="PL.PZGiK.308.BDOT10k_2923959E-D493-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D493-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_726</ot:kodKarto10k>
+			<ot:rodzaj>teren podmokły</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-886e4075-d3b1-4a9b-a457-4dc23dede728-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>456189.93 451668.95 456190.83 451672.71 456202.25 451688.80 456205.71 451689.26 456224.20 451685.34 456242.09 451673.31 456244.04 451669.85 456242.69 451660.68 456234.57 451647.44 456232.17 451644.89 456224.95 451641.28 456218.94 451641.43 456197.29 451651.35 456194.14 451655.42 456189.93 451668.95</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIMK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIMK_A gml:id="PL.PZGiK.308.BDOT10k_2923959E-D495-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D495-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_726</ot:kodKarto10k>
+			<ot:rodzaj>teren podmokły</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-d21ae10d-0690-421f-964c-dd83621d86ef-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>456282.55 466783.48 456283.61 466793.53 456296.83 466810.46 456352.34 466856.49 456380.89 466880.30 456424.76 466896.70 456434.28 466894.58 456437.98 466880.83 456426.88 466860.19 456340.18 466807.82 456292.60 466778.72 456282.55 466783.48</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIMK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIMK_A gml:id="PL.PZGiK.308.BDOT10k_2923959E-D498-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D498-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_726</ot:kodKarto10k>
+			<ot:rodzaj>teren podmokły</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-07b96054-cad6-46c2-af05-06ec9e0241f1-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>456521.66 467226.11 456523.59 467241.53 456543.17 467280.40 456557.30 467298.07 456565.64 467299.03 456588.44 467290.68 456604.49 467291.00 456613.80 467295.18 456623.11 467287.47 456620.54 467273.97 456608.66 467255.34 456583.62 467228.03 456569.82 467218.40 456542.21 467207.95 456528.40 467216.47 456521.66 467226.11</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIMK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIMK_A gml:id="PL.PZGiK.308.BDOT10k_2abe66ee-dff0-4d16-b329-dbdf3df1a5e7_2023-12-31T120000">
+			<ot:lokalnyId>2abe66ee-dff0-4d16-b329-dbdf3df1a5e7</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_726</ot:kodKarto10k>
+			<ot:rodzaj>teren podmokły</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-cd7c1ae1-8f6f-4bf0-a75c-7387ecffc6bc-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>460567.42 477206.84 460523.65 477227.89 460502.12 477261.38 460509.06 477283.39 460506.67 477293.67 460506.67 477311.37 460507.62 477316.88 460535.37 477345.82 460541.35 477359.93 460536.80 477373.33 460538.48 477376.68 460550.20 477389.75 460566.47 477390.27 460578.19 477380.26 460588.95 477375.96 460628.66 477376.44 460671.00 477373.33 460676.50 477369.02 460684.15 477361.13 460709.75 477352.28 460721.71 477341.51 460730.92 477331.23 460731.87 477311.61 460677.25 477312.91 460676.64 477314.69 460643.20 477314.40 460637.03 477312.57 460635.12 477304.92 460636.31 477288.65 460641.81 477281.95 460706.52 477281.23 460731.33 477281.65 460743.59 477281.23 460749.57 477276.21 460750.53 477261.86 460747.62 477249.57 460751.73 477236.98 460750.77 477224.78 460701.73 477224.78 460693.36 477238.90 460688.67 477253.66 460673.51 477260.90 460649.95 477258.51 460647.31 477238.90 460652.94 477222.63 460665.37 477213.30 460673.03 477205.65 460674.94 477171.20 460580.22 477171.68 460567.42 477206.84</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIMK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIMK_A gml:id="PL.PZGiK.308.BDOT10k_2923959E-D4ED-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D4ED-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_726</ot:kodKarto10k>
+			<ot:rodzaj>teren podmokły</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-8b5a1dc1-3d18-4bd1-9251-0ec7197f1006-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>472741.35 462944.39 472740.34 462949.30 472743.98 463009.70 472755.46 463008.02 472783.21 463003.96 472861.67 462995.34 472851.86 462962.10 472836.31 462925.98 472803.07 462928.13 472796.13 462933.15 472779.38 462936.26 472764.08 462938.65 472761.68 462950.14 472761.92 462962.10 472756.18 462962.57 472753.07 462958.03 472741.35 462944.39</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIMK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIMK_A gml:id="PL.PZGiK.308.BDOT10k_2923959E-D48F-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D48F-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_726</ot:kodKarto10k>
+			<ot:rodzaj>teren podmokły</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-ee377b8f-a598-4aef-8f9c-9739d2de648f-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>456069.42 467112.99 456068.51 467121.21 456073.98 467127.82 456086.29 467129.65 456093.13 467133.53 456107.25 467154.02 456109.30 467160.63 456112.72 467164.28 456116.14 467163.14 456119.54 467151.90 456129.34 467131.37 456131.39 467117.46 456126.61 467100.57 456111.33 467083.01 456093.78 467072.29 456083.10 467072.16 456081.27 467076.26 456085.83 467084.93 456098.60 467100.90 456095.86 467109.57 456082.87 467112.77 456075.57 467110.03 456069.42 467112.99</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIMK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIMK_A gml:id="PL.PZGiK.308.BDOT10k_2923959E-D496-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D496-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_726</ot:kodKarto10k>
+			<ot:rodzaj>teren podmokły</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-15e2b4a5-21db-4c9a-992f-f33428c3cb04-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>456408.85 467441.47 456407.40 467453.06 456410.88 467492.48 456421.02 467509.87 456441.00 467518.86 456452.01 467519.15 456461.57 467513.64 456463.31 467499.44 456459.83 467482.92 456453.75 467449.29 456447.09 467427.26 456436.37 467423.49 456421.59 467428.42 456408.85 467441.47</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIMK_A>
+	</gml:featureMember>
+</gml:FeatureCollection>

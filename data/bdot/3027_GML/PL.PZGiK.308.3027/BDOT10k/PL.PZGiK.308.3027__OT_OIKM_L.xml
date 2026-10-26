@@ -1,0 +1,363 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:FeatureCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:ot="urn:gugik:specyfikacje:gmlas:bazaDanychObiektowTopograficznych10k:2.0" gml:id="GUGiK_OT_OIKM_L" xsi:schemaLocation="urn:gugik:specyfikacje:gmlas:bazaDanychObiektowTopograficznych10k:2.0 ../XSD/BDOT10k_BDOO.xsd">
+	<gml:featureMember>
+		<ot:OT_OIKM_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-D291-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D291-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>ekran akustyczny</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-8ed70d86-197b-4a7a-9767-a2600d1e8fe0-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>478441.50 473035.30 478502.26 473012.72 478517.27 473011.53 478520.94 473010.59 478533.93 473002.27 478564.95 472991.32</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_OIKM_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIKM_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-D292-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D292-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>ekran akustyczny</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-1004de41-77e8-4690-a740-be91c51af8d3-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>455877.54 475151.90 455852.38 475137.75 455837.59 475130.20 455833.31 475116.39 455828.92 475100.47 455828.19 475090.43 455829.37 475080.19 455833.04 475063.85 455836.47 475051.75 455839.56 475048.08 455870.04 475030.32</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_OIKM_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIKM_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-D29C-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D29C-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>ekran akustyczny</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-d207a69f-f681-4081-a7dd-5bb9c82a370f-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>476481.67 473855.66 476713.34 473786.57 476734.21 473780.58 476768.94 473772.12 476885.47 473731.27</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_OIKM_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIKM_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-D28F-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D28F-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>ekran akustyczny</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-27d65e20-3a52-4687-8a72-01028fffaea3-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>478065.21 473192.80 478201.98 473132.41 478312.92 473085.99 478413.75 473046.20</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_OIKM_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIKM_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-D299-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D299-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>ekran akustyczny</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-b3837239-f07d-4f4d-9a91-3ea35d4cae82-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>461584.18 476094.04 461637.77 476111.41 461703.51 476132.41 461774.62 476154.92 461850.22 476178.04 461962.02 476211.45 462024.34 476229.46 462061.42 476239.75</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_OIKM_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIKM_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-D29D-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D29D-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>ekran akustyczny</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-2a0ef59d-084c-4f34-bf4b-a91ce5de7498-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>477898.71 473228.54 477994.04 473183.06</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_OIKM_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIKM_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-D29F-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D29F-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>ekran akustyczny</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-367055b9-c61e-4292-839a-a916e51d0ff4-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>478047.77 473159.30 478265.13 473062.25 478295.13 473051.78 478408.39 473007.51</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_OIKM_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIKM_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-D298-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D298-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>ekran akustyczny</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-feae3453-c9c4-4b76-8afb-c1102b55ad85-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>460767.76 475785.68 460850.28 475812.91 460930.37 475839.26 461028.47 475871.60 461062.52 475882.75</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_OIKM_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIKM_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-D290-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D290-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>ekran akustyczny</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-b19e8bfe-f0d3-4e07-94a2-e0c45a08b32c-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>478420.81 473002.43 478464.81 472986.44 478472.22 472979.89 478476.40 472977.96 478486.17 472978.28 478555.72 472954.56</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_OIKM_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIKM_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-D29E-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D29E-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>ekran akustyczny</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-8d9716a6-70a8-4baf-8e90-317ae7e81fb7-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>477915.72 473262.43 478010.27 473216.70</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_OIKM_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIKM_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-D297-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D297-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>ekran akustyczny</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-ea4d73b1-8862-4c93-8402-8aee73ba3725-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>460738.42 475816.73 460801.23 475836.68 460874.47 475861.10 460956.30 475887.88 461031.48 475912.51 461084.61 475930.30</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_OIKM_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIKM_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-D294-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D294-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>ekran akustyczny</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-211edab8-1d9c-42d0-804d-45a30aff0986-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>458091.21 475339.43 458252.71 475346.72 458349.48 475349.72 458469.83 475353.76 458494.00 475354.03 458506.69 475354.19 458517.19 475355.05 458595.52 475358.06 458695.76 475361.93 458789.11 475366.21 458892.12 475372.64 458904.36 475373.51 458941.58 475376.50</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_OIKM_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIKM_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-D293-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D293-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>ekran akustyczny</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-d723bd82-866b-41bc-aa3c-2d2cb38ba570-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>456646.72 475166.27 456729.75 475177.91 456836.21 475193.79 456905.92 475204.53</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_OIKM_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIKM_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-D29A-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D29A-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>ekran akustyczny</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-0d3c784f-56d5-4908-9a9a-72f6f19cca5b-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>463135.28 476433.65 463195.44 476436.92 463265.05 476440.18 463294.09 476441.22 463321.10 476441.15 463381.92 476442.76 463419.63 476442.30 463531.43 476442.52 463616.90 476441.02</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_OIKM_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIKM_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-D295-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D295-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>ekran akustyczny</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-77a34952-7e0a-49bb-a96d-dee5d98d2fcc-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>458818.98 475330.13 458885.21 475333.99 458905.80 475335.62 458946.45 475338.92 459010.05 475344.28 459053.54 475348.35 459091.05 475352.43 459095.66 475352.91</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_OIKM_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIKM_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-D29B-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D29B-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>ekran akustyczny</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-02a0da03-612e-4708-a23c-bdaa2dd4320c-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>476858.60 473699.86 476790.92 473722.90 476756.03 473732.67 476701.60 473751.87 476441.68 473829.02</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_OIKM_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIKM_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-D28E-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D28E-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>ekran akustyczny</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-b4b452b2-9359-4116-8c28-e469b6eca2c9-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>455780.12 475134.68 455785.78 475129.80 455789.26 475117.49 455789.36 475117.14 455792.84 475100.63 455792.60 475090.68 455792.37 475080.75 455788.22 475064.61 455779.80 475037.02 455776.20 475032.04 455762.45 475024.25</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_OIKM_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIKM_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-D296-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D296-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>ekran akustyczny</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-8be34bb0-bd08-4d8f-b460-583d37b31b09-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>459369.52 475429.21 459445.55 475443.30 459523.07 475457.66 459572.34 475469.23 459580.48 475471.16 459587.77 475472.02 459599.78 475473.73 459639.14 475482.72 459679.01 475491.51</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_OIKM_L>
+	</gml:featureMember>
+</gml:FeatureCollection>
