@@ -18,7 +18,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Start PostGIS
+      - name: Start services
         env:
           POSTGRES_USER: ${{ secrets.POSTGRES_USER }}
           POSTGRES_PASSWORD: ${{ secrets.POSTGRES_PASSWORD }}
@@ -29,9 +29,96 @@ jobs:
           docker compose \
             -f docker-compose-remote.yml \
             -p remote-db-${{ github.ref_name }} \
+            down || true
+
+          docker compose \
+            -f docker-compose-remote.yml \
+            -p remote-db-${{ github.ref_name }} \
             up -d --build
+
+      - name: Wait for PostGIS
+        env:
+          POSTGRES_USER: ${{ secrets.POSTGRES_USER }}
+          POSTGRES_DB: ${{ secrets.POSTGRES_DB }}
+          POSTGRES_PORT: ${{ vars.POSTGRES_PORT }}
+          ENVIRONMENT: ${{ github.ref_name }}
+        run: |
+          for i in {1..30}; do
+            if docker compose \
+              -f docker-compose-remote.yml \
+              -p remote-db-${{ github.ref_name }} \
+              exec -T postgis \
+              pg_isready -U "$POSTGRES_USER" -d "$POSTGRES_DB"; then
+              exit 0
+            fi
+
+            sleep 2
+          done
+
+          exit 1
+
+      - name: Generate H3 grid
+        env:
+          POSTGRES_USER: ${{ secrets.POSTGRES_USER }}
+          POSTGRES_PASSWORD: ${{ secrets.POSTGRES_PASSWORD }}
+          POSTGRES_DB: ${{ secrets.POSTGRES_DB }}
+          POSTGRES_PORT: ${{ vars.POSTGRES_PORT }}
+          ENVIRONMENT: ${{ github.ref_name }}
+        run: |
+          docker compose \
+            -f docker-compose-remote.yml \
+            -p remote-db-${{ github.ref_name }} \
+            exec -T python \
+            python3 /app/python/h3_generator.py
+
+      - name: Load grid to PostGIS
+        env:
+          POSTGRES_USER: ${{ secrets.POSTGRES_USER }}
+          POSTGRES_PASSWORD: ${{ secrets.POSTGRES_PASSWORD }}
+          POSTGRES_DB: ${{ secrets.POSTGRES_DB }}
+          POSTGRES_PORT: ${{ vars.POSTGRES_PORT }}
+          ENVIRONMENT: ${{ github.ref_name }}
+        run: |
+          docker compose \
+            -f docker-compose-remote.yml \
+            -p remote-db-${{ github.ref_name }} \
+            exec -T python \
+            python3 /app/load.py
+
+      - name: Load BDOT10k on env-test
+        if: github.ref_name == 'env-test'
+        env:
+          POSTGRES_USER: ${{ secrets.POSTGRES_USER }}
+          POSTGRES_PASSWORD: ${{ secrets.POSTGRES_PASSWORD }}
+          POSTGRES_DB: ${{ secrets.POSTGRES_DB }}
+          POSTGRES_PORT: ${{ vars.POSTGRES_PORT }}
+          ENVIRONMENT: ${{ github.ref_name }}
+        run: |
+          docker compose \
+            -f docker-compose-remote.yml \
+            -p remote-db-${{ github.ref_name }} \
+            exec -T python \
+            python3 /app/python/load_bdot.py
+
+      - name: Aggregate BDOT10k
+        if: github.ref_name == 'env-test'
+        env:
+          POSTGRES_USER: ${{ secrets.POSTGRES_USER }}
+          POSTGRES_PASSWORD: ${{ secrets.POSTGRES_PASSWORD }}
+          POSTGRES_DB: ${{ secrets.POSTGRES_DB }}
+          POSTGRES_PORT: ${{ vars.POSTGRES_PORT }}
+          ENVIRONMENT: ${{ github.ref_name }}
+        run: |
+          docker compose \
+            -f docker-compose-remote.yml \
+            -p remote-db-${{ github.ref_name }} \
+            exec -T python \
+            python3 /app/python/aggregate_bdot.py
 
       - name: Show running containers
         run: |
           docker ps
+
+      - name: Show volumes
+        run: |
           docker volume ls | grep remote-db || true
