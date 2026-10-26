@@ -2,7 +2,7 @@ import os
 import subprocess
 from pathlib import Path
 
-POWIAT_FILE = Path("/data/powiat.shp")
+POWIAT_FILE = Path("/data/powiat_turecki.shp")
 H3_FILE = Path("/data/hexagons.gpkg")
 
 DB_HOST = os.getenv("DB_HOST", "postgis")
