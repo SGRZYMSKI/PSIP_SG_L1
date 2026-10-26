@@ -22,7 +22,7 @@ services:
       PGPASSWORD: psip
     volumes:
       - ./app:/app:ro
-      - ./data:/data:ro
+      - ./data:/data
     command: ["tail", "-f", "/dev/null"]
 
 volumes:
