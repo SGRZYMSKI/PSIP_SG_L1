@@ -29,6 +29,11 @@ jobs:
           docker compose \
             -f docker-compose-remote.yml \
             -p remote-db-${{ github.ref_name }} \
+            down || true
+
+          docker compose \
+            -f docker-compose-remote.yml \
+            -p remote-db-${{ github.ref_name }} \
             up -d --build
 
       - name: Wait for PostGIS
@@ -46,6 +51,7 @@ jobs:
               pg_isready -U "$POSTGRES_USER" -d "$POSTGRES_DB"; then
               exit 0
             fi
+
             sleep 2
           done
 
@@ -115,5 +121,4 @@ jobs:
 
       - name: Show volumes
         run: |
-          docker volume ls | grep remote-db || true
           docker volume ls | grep remote-db || true
