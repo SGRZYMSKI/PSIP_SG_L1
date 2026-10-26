@@ -14,9 +14,9 @@ RUN apt-get update \
         libproj-dev \
     && rm -rf /var/lib/apt/lists/*
 
-#COPY docker/python/requirements.txt /app/requirements.txt
-#
-#RUN python3 -m pip install --no-cache-dir \
-#    -r /app/requirements.txt
+RUN python3 -m pip install --no-cache-dir --break-system-packages \
+    geopandas \
+    h3 \
+    shapely
 
 WORKDIR /app
