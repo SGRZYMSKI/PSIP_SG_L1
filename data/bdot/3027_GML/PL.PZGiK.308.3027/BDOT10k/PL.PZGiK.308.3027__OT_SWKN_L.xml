@@ -1,0 +1,187 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:FeatureCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:ot="urn:gugik:specyfikacje:gmlas:bazaDanychObiektowTopograficznych10k:2.0" gml:id="GUGiK_OT_SWKN_L" xsi:schemaLocation="urn:gugik:specyfikacje:gmlas:bazaDanychObiektowTopograficznych10k:2.0 ../XSD/BDOT10k_BDOO.xsd">
+	<gml:featureMember>
+		<ot:OT_SWKN_L gml:id="PL.PZGiK.308.BDOT10k_0336f919-b3ac-48f4-8649-d2d7d20d5ea1_2023-12-31T120000">
+			<ot:lokalnyId>0336f919-b3ac-48f4-8649-d2d7d20d5ea1</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:identyfikatorPRNG>98253</ot:identyfikatorPRNG>
+			<ot:polozenie>pod powierzchnią</ot:polozenie>
+			<ot:szerokosc uom="m">5.0</ot:szerokosc>
+			<ot:nazwa>Kanał Pasywny</ot:nazwa>
+			<ot:geometria>
+				<gml:Curve gml:id="id-105a6ead-5da4-47ae-b518-ae4fb096beb1-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>477620.26 470957.91 477615.75 470971.22 477612.75 470989.25</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+			<ot:statusEksploatacji>nieżeglowny</ot:statusEksploatacji>
+		</ot:OT_SWKN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_SWKN_L gml:id="PL.PZGiK.308.BDOT10k_292395A0-A203-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>292395A0-A203-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_606</ot:kodKarto10k>
+			<ot:identyfikatorPRNG>98253</ot:identyfikatorPRNG>
+			<ot:polozenie>na powierzchni</ot:polozenie>
+			<ot:szerokosc uom="m">5.0</ot:szerokosc>
+			<ot:nazwa>Kanał Pasywny</ot:nazwa>
+			<ot:geometria>
+				<gml:Curve gml:id="id-d4c1bb13-5595-4d97-8c8c-3092cc48e208-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>477612.75 470989.25 477614.04 471007.28 477617.25 471024.89 477620.15 471040.88 477622.08 471051.50 477622.19 471054.08 477622.84 471060.52 477644.86 471114.31 477646.77 471127.27 477648.70 471136.07 477650.42 471145.30 477651.28 471151.96 477650.85 471157.75 477649.35 471165.27 477646.77 471174.71 477640.92 471187.02 477628.91 471200.76 477621.93 471208.75 477616.53 471214.94 477613.48 471221.98 477612.07 471229.49 477612.55 471236.30 477613.48 471244.75 477613.02 471252.26 477610.67 471259.77 477608.56 471269.39 477607.15 471278.07 477604.34 471285.34 477599.18 471292.15 477580.18 471311.15 477577.84 471317.59 477575.79 471325.18 477576.38 471333.65 477578.13 471347.07 477581.63 471368.68 477588.92 471391.15 477592.89 471401.33 477595.63 471408.37 477600.88 471419.76 477607.30 471429.98 477609.05 471433.48 477613.37 471439.42 477623.80 471443.95 477636.23 471444.42 477643.50 471446.07 477651.48 471450.52 477656.87 471456.16 477662.03 471463.66 477666.49 471470.94 477669.14 471481.93 477669.72 471496.53 477671.47 471509.37 477676.43 471516.96 477684.02 471522.21 477691.02 471522.80 477700.35 471523.38 477708.81 471524.55 477713.16 471526.09 477721.84 471534.07 477734.03 471547.45 477745.53 471560.59 477753.26 471567.62 477760.77 471572.79 477766.87 471577.25 477771.79 471582.88 477774.84 471590.62 477777.18 471598.60 477779.76 471605.64 477784.69 471613.15 477787.74 471619.49 477790.08 471628.40 477794.77 471642.48 477800.87 471650.93 477806.03 471655.62 477817.29 471662.89 477830.27 471675.45 477844.02 471689.41 477888.11 471733.53 477901.82 471747.76 477903.51 471749.52 477925.63 471772.48 477963.16 471810.49 477974.07 471821.37 477978.64 471825.93 477993.26 471840.51 478035.40 471882.53 478050.64 471897.78 478065.65 471913.74 478074.33 471921.72 478081.13 471926.64 478090.28 471932.51 478097.08 471938.61 478102.73 471944.27 478104.80 471946.34 478113.02 471954.57 478123.58 471964.18 478134.74 471973.35 478149.38 471985.53 478180.53 472011.03 478183.39 472013.46 478196.05 472025.42 478209.65 472039.50 478227.01 472059.67 478238.73 472072.34 478253.27 472087.36 478263.83 472098.62 478273.44 472107.30 478284.14 472118.65</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+			<ot:statusEksploatacji>nieżeglowny</ot:statusEksploatacji>
+		</ot:OT_SWKN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_SWKN_L gml:id="PL.PZGiK.308.BDOT10k_292395A0-A1FE-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>292395A0-A1FE-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:identyfikatorPRNG>98253</ot:identyfikatorPRNG>
+			<ot:polozenie>na powierzchni</ot:polozenie>
+			<ot:szerokosc uom="m">6.0</ot:szerokosc>
+			<ot:nazwa>Kanał Pasywny</ot:nazwa>
+			<ot:geometria>
+				<gml:Curve gml:id="id-0ba727eb-0db0-4d80-93b7-5edf32075308-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>476093.20 466626.68 476094.03 466629.32 476111.92 466685.84 476127.25 466734.69 476130.09 466741.31 476133.31 466746.05 476138.24 466750.21 476143.16 466752.30 476156.03 466753.81 476272.85 466765.93 476385.31 466777.48 476531.86 466793.38 476596.23 466799.82 476606.64 466800.39 476612.70 466797.17 476621.22 466785.81 476628.42 466778.61 476633.91 466776.53 476646.59 466777.10 476706.99 466779.18 476839.01 466779.29 476980.70 466778.43 477096.34 466777.55 477109.12 466782.30 477118.63 466790.92 477209.57 466923.16 477247.90 466943.07 477267.22 466953.18 477271.40 466958.98</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+			<ot:statusEksploatacji>nieżeglowny</ot:statusEksploatacji>
+			<ot:identyfikatorMPHP>1833444</ot:identyfikatorMPHP>
+		</ot:OT_SWKN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_SWKN_L gml:id="PL.PZGiK.308.BDOT10k_292395A0-A1FF-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>292395A0-A1FF-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_606</ot:kodKarto10k>
+			<ot:identyfikatorPRNG>98253</ot:identyfikatorPRNG>
+			<ot:polozenie>na powierzchni</ot:polozenie>
+			<ot:szerokosc uom="m">5.0</ot:szerokosc>
+			<ot:nazwa>Kanał Pasywny</ot:nazwa>
+			<ot:geometria>
+				<gml:Curve gml:id="id-e99b49fd-dd9a-423c-8b8e-d4d76816f49e-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>477687.66 470827.94 477671.62 470856.60 477663.83 470870.48 477659.12 470878.64 477658.03 470880.48 477657.14 470882.30 477644.12 470908.96 477632.19 470936.73 477620.26 470957.91</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+			<ot:statusEksploatacji>nieżeglowny</ot:statusEksploatacji>
+		</ot:OT_SWKN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_SWKN_L gml:id="PL.PZGiK.308.BDOT10k_292395A0-A200-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>292395A0-A200-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:identyfikatorPRNG>98253</ot:identyfikatorPRNG>
+			<ot:polozenie>na powierzchni</ot:polozenie>
+			<ot:szerokosc uom="m">6.0</ot:szerokosc>
+			<ot:nazwa>Kanał Pasywny</ot:nazwa>
+			<ot:geometria>
+				<gml:Curve gml:id="id-f5ce075a-5e93-4110-b4fc-3f464b32f6de-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>477271.40 466958.98 477277.92 466968.04 477298.13 467015.58 477307.64 467034.90 477321.31 467059.27 477345.08 467096.71 477373.91 467142.78 477373.61 467150.80 477359.75 467456.47 477359.50 467521.55 477362.78 467526.85 477373.37 467540.72 477387.00 467560.65 477404.90 467595.71 477410.71 467611.35 477412.72 467623.96 477414.49 467676.67 477416.25 467683.48 477418.78 467690.29 477425.08 467695.59 477445.26 467705.18 477475.49 467719.68 477479.59 467721.65 477532.53 467747.05 477550.40 467753.35 477557.51 467755.62 477560.28 467759.15 477562.30 467768.99 477560.00 467873.14 477560.20 467882.04 477560.58 467899.39 477562.68 467912.81 477567.67 467922.58 477578.05 467932.65 477589.70 467938.10 477624.38 467944.81 477700.33 467962.11 477732.44 467971.91 477751.55 467983.92 477757.19 467991.52 477758.90 468002.06 477750.98 468046.14 477739.69 468114.99 477734.46 468146.86 477721.04 468228.70 477702.33 468342.77 477679.01 468487.03 477679.99 468496.83 477684.16 468504.18 477713.57 468545.10 477716.41 468555.07 477716.26 468560.30 477710.69 468597.42 477706.50 468625.32 477703.19 468642.55 477701.95 468649.54 477700.95 468660.34 477699.71 468685.29 477699.44 468697.72 477697.92 468820.12 477697.72 468827.92 477697.19 468833.61 477696.66 468839.17 477695.60 468845.65 477693.08 468857.30 477678.40 468920.42 477666.09 468973.49 477664.83 468979.90 477665.19 468983.57 477666.60 468987.19 477669.16 468990.59 477716.87 469044.43 477720.17 469048.53 477722.16 469053.69 477723.21 469059.38 477722.95 469064.54 477722.02 469069.44 477703.10 469124.24 477701.38 469128.47 477699.40 469132.18 477694.77 469139.32 477691.73 469145.67 477690.40 469150.97 477688.82 469159.03 477686.70 469170.28 477685.51 469175.84 477683.79 469181.13 477655.87 469263.45 477648.23 469286.99 477645.94 469290.18 477642.63 469293.75 477637.48 469297.85 477632.19 469301.41 477630.09 469302.83 477629.65 469304.53 477630.15 469306.19</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+			<ot:statusEksploatacji>nieżeglowny</ot:statusEksploatacji>
+			<ot:identyfikatorMPHP>183344</ot:identyfikatorMPHP>
+		</ot:OT_SWKN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_SWKN_L gml:id="PL.PZGiK.308.BDOT10k_292395A0-A201-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>292395A0-A201-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_606</ot:kodKarto10k>
+			<ot:identyfikatorPRNG>98253</ot:identyfikatorPRNG>
+			<ot:polozenie>na powierzchni</ot:polozenie>
+			<ot:szerokosc uom="m">2.0</ot:szerokosc>
+			<ot:nazwa>Kanał Pasywny</ot:nazwa>
+			<ot:geometria>
+				<gml:Curve gml:id="id-1ab9e1d7-23bb-41db-93c7-ae90cf6942ca-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>475499.77 466441.10 475530.48 466460.62 475583.92 466480.59 475807.34 466556.28 475817.02 466559.91 475819.51 466560.84 475828.03 466563.40 475876.17 466578.79 475903.00 466587.80 475928.87 466590.77 475945.42 466591.73 476009.60 466595.45 476061.20 466600.47 476076.44 466606.26 476089.32 466614.51 476092.37 466624.07 476093.20 466626.68</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+			<ot:statusEksploatacji>nieżeglowny</ot:statusEksploatacji>
+			<ot:identyfikatorMPHP>1833444</ot:identyfikatorMPHP>
+		</ot:OT_SWKN_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_SWKN_L gml:id="PL.PZGiK.308.BDOT10k_292395A0-A202-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>292395A0-A202-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:informacjaDodatkowa>nazwa oboczna:Kanał Teleszyna - Kiełbaska</ot:informacjaDodatkowa>
+			<ot:kodKarto10k>0010_606</ot:kodKarto10k>
+			<ot:identyfikatorPRNG>49967</ot:identyfikatorPRNG>
+			<ot:polozenie>na powierzchni</ot:polozenie>
+			<ot:szerokosc uom="m">5.0</ot:szerokosc>
+			<ot:nazwa>Kanał Kiełbaski</ot:nazwa>
+			<ot:geometria>
+				<gml:Curve gml:id="id-3da09e96-b782-43ae-9e93-e7eb404627f1-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>473099.19 457349.38 473095.04 457354.82 473083.11 457363.26 473071.64 457369.00 473063.11 457371.52 473053.81 457374.34 473038.91 457376.20 473020.55 457373.84 472987.34 457370.97 472966.23 457370.32 472952.73 457371.26 472939.39 457373.82 472926.86 457377.90 472785.45 457449.29 472627.42 457530.49 472458.24 457618.05 472456.85 457618.77 472366.12 457664.54 472187.38 457756.36 472113.66 457795.34 472089.79 457807.96 471664.79 458030.16 471287.48 458226.02 471131.28 458306.30 470992.28 458378.96 470965.57 458391.74 470930.90 458409.60 470914.60 458418.00 470903.99 458426.19 470895.80 458436.51 470867.87 458503.21 470863.55 458510.91 470856.20 458519.08 470826.10 458547.57 470742.68 458625.30 470685.29 458677.98 470636.99 458721.18 470604.25 458752.55 470585.52 458771.29 470580.00 458780.17 470573.70 458792.79 470570.35 458805.22 470567.49 458824.83 470564.73 458850.93</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+			<ot:statusEksploatacji>nieżeglowny</ot:statusEksploatacji>
+			<ot:identyfikatorMPHP>1833416</ot:identyfikatorMPHP>
+		</ot:OT_SWKN_L>
+	</gml:featureMember>
+</gml:FeatureCollection>

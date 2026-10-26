@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:FeatureCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:ot="urn:gugik:specyfikacje:gmlas:bazaDanychObiektowTopograficznych10k:2.0" gml:id="GUGiK_OT_KUZA_A" xsi:schemaLocation="urn:gugik:specyfikacje:gmlas:bazaDanychObiektowTopograficznych10k:2.0 ../XSD/BDOT10k_BDOO.xsd">
+	<gml:featureMember>
+		<ot:OT_KUZA_A gml:id="PL.PZGiK.308.BDOT10k_624cf1b2-4ebe-4e83-a4ab-d46d860c879a_2023-12-31T120000">
+			<ot:lokalnyId>624cf1b2-4ebe-4e83-a4ab-d46d860c879a</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:informacjaDodatkowa>nr rej. Kl.IV-73/9/54 z 21.01.1953</ot:informacjaDodatkowa>
+			<ot:rodzaj>zespół zabudowy historycznej</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-9f34b727-08cb-47ae-be5f-c5feeea3bfcd-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>458751.88 474887.11 458746.80 474887.82 458749.19 474894.13 458752.15 474895.79 458756.22 474897.64 458761.22 474898.94 458766.03 474899.68 458783.24 474900.38 458801.90 474907.74 458818.68 474911.51 458838.37 474925.43 458849.05 474934.44 458849.24 474925.68 458862.72 474920.32 458872.99 474909.83 458881.55 474899.98 458889.04 474887.35 458899.74 474877.29 458905.31 474862.73 458904.66 474851.38 458895.46 474841.96 458887.54 474832.33 458895.66 474816.11 458898.75 474803.38 458891.30 474787.81 458882.74 474786.10 458866.90 474791.45 458854.07 474799.80 458844.44 474806.65 458833.11 474818.82 458824.12 474820.75 458818.34 474828.46 458813.42 474836.81 458798.13 474835.39 458751.88 474887.11</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUZA_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUZA_A gml:id="PL.PZGiK.308.BDOT10k_8380b4cb-ffed-4827-88cc-e04492bf498d_2023-12-31T120000">
+			<ot:lokalnyId>8380b4cb-ffed-4827-88cc-e04492bf498d</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:informacjaDodatkowa>nr rej. 295/37 z 30.04.1984</ot:informacjaDodatkowa>
+			<ot:rodzaj>zespół zabudowy historycznej</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-ca41ab59-dcbd-43bc-86f3-c5bbed541143-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>468639.94 470100.87 468603.76 470110.49 468589.01 470105.52 468507.50 470129.43 468516.72 470152.06 468519.92 470163.31 468523.84 470178.04 468528.66 470195.72 468551.62 470282.39 468582.10 470261.74 468671.91 470197.96 468639.94 470100.87</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUZA_A>
+	</gml:featureMember>
+</gml:FeatureCollection>

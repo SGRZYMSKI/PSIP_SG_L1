@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:FeatureCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:ot="urn:gugik:specyfikacje:gmlas:bazaDanychObiektowTopograficznych10k:2.0" gml:id="GUGiK_OT_BUTR_L" xsi:schemaLocation="urn:gugik:specyfikacje:gmlas:bazaDanychObiektowTopograficznych10k:2.0 ../XSD/BDOT10k_BDOO.xsd">
+	<gml:featureMember>
+		<ot:OT_BUTR_L gml:id="PL.PZGiK.308.BDOT10k_030e8f5a-4e43-4f5e-b298-6dd8c92a948d_2023-12-31T120000">
+			<ot:lokalnyId>030e8f5a-4e43-4f5e-b298-6dd8c92a948d</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_434</ot:kodKarto10k>
+			<ot:rodzaj>taśmociąg</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-f133cd3d-8a29-4d5a-8c7b-b0093ae1ec80-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>465100.96 453789.48 465170.09 453781.41 465181.90 453823.50</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUTR_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUTR_L gml:id="PL.PZGiK.308.BDOT10k_ecb02963-f966-4f3d-a89b-e330dc86f54c_2023-12-31T120000">
+			<ot:lokalnyId>ecb02963-f966-4f3d-a89b-e330dc86f54c</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_434</ot:kodKarto10k>
+			<ot:rodzaj>taśmociąg</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-b95d072d-fe9a-4105-b651-6469db6780bc-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>469708.50 471660.60 469657.93 471663.02 469635.30 471650.07</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUTR_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUTR_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-877F-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-877F-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_433_1</ot:kodKarto10k>
+			<ot:rodzaj>suwnica</ot:rodzaj>
+			<ot:szerokosc uom="m">14</ot:szerokosc>
+			<ot:geometria>
+				<gml:Curve gml:id="id-544c33ce-5d1c-47d0-95ff-9ed22a6a507e-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>473152.27 462572.23 473087.92 462473.28</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUTR_L>
+	</gml:featureMember>
+</gml:FeatureCollection>

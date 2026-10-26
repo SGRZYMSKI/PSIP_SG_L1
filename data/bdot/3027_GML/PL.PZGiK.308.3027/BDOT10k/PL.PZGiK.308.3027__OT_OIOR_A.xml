@@ -1,0 +1,1997 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:FeatureCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:ot="urn:gugik:specyfikacje:gmlas:bazaDanychObiektowTopograficznych10k:2.0" gml:id="GUGiK_OT_OIOR_A" xsi:schemaLocation="urn:gugik:specyfikacje:gmlas:bazaDanychObiektowTopograficznych10k:2.0 ../XSD/BDOT10k_BDOO.xsd">
+	<gml:featureMember>
+		<ot:OT_OIOR_A gml:id="PL.PZGiK.308.BDOT10k_869d3345-5aee-4860-a3c5-70048a0a5af5_2023-12-31T120000">
+			<ot:lokalnyId>869d3345-5aee-4860-a3c5-70048a0a5af5</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_336</ot:kodKarto10k>
+			<ot:rodzaj>wiata lub altana</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-4d0ecdc8-d03c-4589-b409-6e31a3ed5c52-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>447530.54 469265.66 447546.06 469302.81 447551.72 469300.46 447542.30 469277.89 447551.04 469274.28 447549.37 469269.76 447546.64 469270.88 447542.48 469260.69 447533.76 469239.74 447521.82 469244.71 447530.54 469265.66</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIOR_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIOR_A gml:id="PL.PZGiK.308.BDOT10k_2923959E-D517-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D517-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_336</ot:kodKarto10k>
+			<ot:rodzaj>wiata lub altana</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-a1e8a879-c9ad-45cd-98b2-f2dc40d2243f-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>467235.09 462499.66 467225.77 462521.94 467240.83 462528.25 467250.16 462505.97 467235.09 462499.66</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIOR_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIOR_A gml:id="PL.PZGiK.308.BDOT10k_1cc61f0a-0c64-4ca1-b911-f61e0106e633_2023-12-31T120000">
+			<ot:lokalnyId>1cc61f0a-0c64-4ca1-b911-f61e0106e633</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_336</ot:kodKarto10k>
+			<ot:rodzaj>wiata lub altana</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-d44222d4-707f-4698-a341-d83caa25d503-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>483485.91 451233.33 483480.53 451214.60 483467.82 451218.03 483471.25 451230.73 483463.34 451232.82 483464.94 451238.88 483485.91 451233.33</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIOR_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIOR_A gml:id="PL.PZGiK.308.BDOT10k_3a85b526-ce1d-4cc9-8183-a277ec12d755_2023-12-31T120000">
+			<ot:lokalnyId>3a85b526-ce1d-4cc9-8183-a277ec12d755</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_336</ot:kodKarto10k>
+			<ot:rodzaj>wiata lub altana</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-9b50ceb0-d340-4c89-aae6-db015cd13648-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>478405.07 466073.16 478412.93 466080.29 478426.86 466064.93 478419.00 466057.80 478405.07 466073.16</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIOR_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIOR_A gml:id="PL.PZGiK.308.BDOT10k_2923959E-D52C-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D52C-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_336</ot:kodKarto10k>
+			<ot:rodzaj>wiata lub altana</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-f1a19c27-e930-4b48-bc8e-82715cfd3850-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>473823.13 454293.01 473819.46 454304.21 473838.80 454310.32 473842.04 454299.30 473823.13 454293.01</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIOR_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIOR_A gml:id="PL.PZGiK.308.BDOT10k_b8063871-100f-4c05-bada-bc9369490eda_2023-12-31T120000">
+			<ot:lokalnyId>b8063871-100f-4c05-bada-bc9369490eda</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_336</ot:kodKarto10k>
+			<ot:rodzaj>wiata lub altana</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-d209c996-639d-4c23-8996-e40ec653460e-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>474711.59 456007.04 474737.70 456006.23 474735.47 455934.47 474709.36 455935.28 474711.59 456007.04</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIOR_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIOR_A gml:id="PL.PZGiK.308.BDOT10k_80235646-265c-45b0-9208-d23e3343488d_2023-12-31T120000">
+			<ot:lokalnyId>80235646-265c-45b0-9208-d23e3343488d</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_336</ot:kodKarto10k>
+			<ot:rodzaj>wiata lub altana</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-232adb27-d93e-4d96-8969-a6af27dabd0e-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>473649.14 454083.51 473654.18 454059.04 473639.76 454056.12 473634.74 454080.59 473649.14 454083.51</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIOR_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIOR_A gml:id="PL.PZGiK.308.BDOT10k_2923959E-D522-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D522-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_336</ot:kodKarto10k>
+			<ot:rodzaj>wiata lub altana</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-bd7ad4f5-565d-494d-8e21-e4c8145c0f7e-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>470747.38 469758.25 470743.46 469784.59 470753.82 469786.15 470757.75 469759.79 470747.38 469758.25</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIOR_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIOR_A gml:id="PL.PZGiK.308.BDOT10k_2923959E-D535-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D535-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_336</ot:kodKarto10k>
+			<ot:rodzaj>wiata lub altana</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-ce70fc19-b84a-4e28-8727-a05e3464afae-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>479650.18 466125.47 479645.52 466135.24 479664.12 466144.12 479668.78 466134.35 479650.18 466125.47</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIOR_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIOR_A gml:id="PL.PZGiK.308.BDOT10k_2923959E-D50E-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D50E-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_336</ot:kodKarto10k>
+			<ot:rodzaj>wiata lub altana</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-1e5c23ee-111c-4746-bd0b-5cfce1335504-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>463428.29 447213.08 463429.72 447219.38 463470.11 447210.20 463468.68 447203.91 463428.29 447213.08</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIOR_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIOR_A gml:id="PL.PZGiK.308.BDOT10k_2923959E-D52B-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D52B-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_336</ot:kodKarto10k>
+			<ot:rodzaj>wiata lub altana</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-b167a379-1fa6-4bc3-985b-008a8d55c6e0-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>473823.46 458037.50 473813.80 458046.22 473826.91 458060.75 473836.57 458052.03 473823.46 458037.50</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIOR_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIOR_A gml:id="PL.PZGiK.308.BDOT10k_d30b6669-0f60-4201-a7b3-432f9cfa8aaf_2023-12-31T120000">
+			<ot:lokalnyId>d30b6669-0f60-4201-a7b3-432f9cfa8aaf</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_336</ot:kodKarto10k>
+			<ot:rodzaj>wiata lub altana</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-bebfbaef-5333-4aa1-a5d8-f712503cb10b-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>460816.86 449928.44 460813.23 449928.30 460812.52 449947.46 460816.19 449947.59 460825.54 449947.92 460826.22 449928.77 460816.87 449928.44 460816.86 449928.44</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIOR_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIOR_A gml:id="PL.PZGiK.308.BDOT10k_f3be6959-eede-493c-a1b6-bf087333674e_2023-12-31T120000">
+			<ot:lokalnyId>f3be6959-eede-493c-a1b6-bf087333674e</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_336</ot:kodKarto10k>
+			<ot:rodzaj>wiata lub altana</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-ce402283-ab25-4c79-979f-5b3cb1f343c8-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>460561.92 449989.11 460560.67 450005.72 460588.27 450007.79 460591.78 450008.05 460593.02 449991.45 460561.92 449989.11</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIOR_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIOR_A gml:id="PL.PZGiK.308.BDOT10k_8f6f7d1e-54f8-4f7f-8660-d53946fd6f62_2023-12-31T120000">
+			<ot:lokalnyId>8f6f7d1e-54f8-4f7f-8660-d53946fd6f62</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_336</ot:kodKarto10k>
+			<ot:rodzaj>wiata lub altana</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-c6602358-1a22-4bb7-8d57-497282122107-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>473592.37 454045.39 473639.92 454055.32 473642.67 454040.71 473588.14 454029.31 473585.27 454043.92 473592.37 454045.39</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIOR_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIOR_A gml:id="PL.PZGiK.308.BDOT10k_2923959E-D501-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D501-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_336</ot:kodKarto10k>
+			<ot:rodzaj>wiata lub altana</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-66076649-8294-4d67-8edc-fd8e9ceabc14-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>469912.13 459205.48 469912.13 459222.42 469924.36 459222.42 469924.36 459205.48 469912.13 459205.48</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIOR_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIOR_A gml:id="PL.PZGiK.308.BDOT10k_2923959E-D504-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D504-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_336</ot:kodKarto10k>
+			<ot:rodzaj>wiata lub altana</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-f227d666-7ef3-4f50-bf44-9d956d803a32-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>472834.05 470907.80 472833.62 470930.55 472839.20 470930.66 472845.48 470930.78 472845.91 470908.02 472834.05 470907.80</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIOR_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIOR_A gml:id="PL.PZGiK.308.BDOT10k_876842f9-9b75-48f3-bece-45ba8d14d36c_2023-12-31T120000">
+			<ot:lokalnyId>876842f9-9b75-48f3-bece-45ba8d14d36c</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_336</ot:kodKarto10k>
+			<ot:rodzaj>wiata lub altana</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-0b0314d3-e60c-4cfb-af66-8f54034bdd4d-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>466341.26 461963.14 466328.50 462017.50 466335.81 462019.22 466337.36 462012.57 466332.01 462011.32 466332.94 462007.30 466338.30 462008.55 466341.84 461993.32 466348.47 461964.81 466341.26 461963.14</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIOR_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIOR_A gml:id="PL.PZGiK.308.BDOT10k_2923959E-D509-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D509-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_336</ot:kodKarto10k>
+			<ot:rodzaj>wiata lub altana</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-5a72321c-dfa4-43eb-a1c9-fc57138d30aa-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>450605.30 468245.31 450607.50 468252.01 450637.47 468242.17 450635.27 468235.48 450605.30 468245.31</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIOR_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIOR_A gml:id="PL.PZGiK.308.BDOT10k_ee78b144-5fae-4d74-a323-4a542bb098c3_2023-12-31T120000">
+			<ot:lokalnyId>ee78b144-5fae-4d74-a323-4a542bb098c3</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_336</ot:kodKarto10k>
+			<ot:rodzaj>wiata lub altana</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-aad9088e-6c72-49f0-95b2-373c7d02b2d9-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>473990.35 458412.72 473979.25 458423.44 473993.58 458438.26 474021.96 458410.84 474007.64 458396.01 474004.22 458399.31 473990.03 458384.64 473976.16 458398.04 473990.35 458412.72</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIOR_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIOR_A gml:id="PL.PZGiK.308.BDOT10k_2923959E-D4F6-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D4F6-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_336</ot:kodKarto10k>
+			<ot:rodzaj>wiata lub altana</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-3d538539-83d1-4814-aebc-bd244d20ab6f-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>456249.87 464612.51 456245.83 464617.59 456284.42 464647.84 456288.42 464642.72 456249.87 464612.51</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIOR_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIOR_A gml:id="PL.PZGiK.308.BDOT10k_83adbe34-0872-4f11-bad5-75f9d33a2c12_2023-12-31T120000">
+			<ot:lokalnyId>83adbe34-0872-4f11-bad5-75f9d33a2c12</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_336</ot:kodKarto10k>
+			<ot:rodzaj>wiata lub altana</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-c45bc4dc-2320-46fd-8573-388e92305289-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>459326.36 454644.93 459310.28 454671.45 459327.16 454681.67 459343.23 454655.15 459326.36 454644.93</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIOR_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIOR_A gml:id="PL.PZGiK.308.BDOT10k_2923959E-D524-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D524-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_336</ot:kodKarto10k>
+			<ot:rodzaj>wiata lub altana</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-39713cae-45e4-4581-8698-f1718f566848-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>471744.80 457826.72 471745.82 457869.18 471758.01 457868.89 471757.85 457862.06 471752.84 457862.18 471751.99 457826.55 471744.80 457826.72</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIOR_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIOR_A gml:id="PL.PZGiK.308.BDOT10k_2923959E-D519-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D519-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_336</ot:kodKarto10k>
+			<ot:rodzaj>wiata lub altana</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-e638d894-e3ee-46d4-967f-fb1750c20609-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>467394.63 461453.37 467393.15 461461.40 467418.81 461466.11 467420.28 461458.08 467394.63 461453.37</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIOR_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIOR_A gml:id="PL.PZGiK.308.BDOT10k_2923959E-D4F3-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D4F3-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_337</ot:kodKarto10k>
+			<ot:rodzaj>szklarnia niebędąca budynkiem</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-b6a1eee3-585a-4afc-b6e4-69ea2b02cf35-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>464838.34 460876.16 464830.71 460912.43 464856.75 460917.91 464864.38 460881.64 464838.34 460876.16</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIOR_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIOR_A gml:id="PL.PZGiK.308.BDOT10k_2923959E-D51F-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D51F-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_336</ot:kodKarto10k>
+			<ot:rodzaj>wiata lub altana</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-d1877fbe-0ae9-4bcf-b7df-a8a5987ede8a-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>469986.44 456219.82 469986.79 456247.76 469997.30 456247.63 469996.95 456219.68 469986.44 456219.82</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIOR_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIOR_A gml:id="PL.PZGiK.308.BDOT10k_cb4d3051-00bc-4eed-96c0-8161e3abee70_2023-12-31T120000">
+			<ot:lokalnyId>cb4d3051-00bc-4eed-96c0-8161e3abee70</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_336</ot:kodKarto10k>
+			<ot:rodzaj>wiata lub altana</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-11e238ba-e9d8-4624-a7c3-87b3fa7799ff-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>472363.77 457450.19 472384.17 457450.44 472385.44 457348.70 472365.04 457348.45 472363.77 457450.19</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIOR_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIOR_A gml:id="PL.PZGiK.308.BDOT10k_636d4b95-b78d-4bd2-9ba7-d34cb14ad500_2023-12-31T120000">
+			<ot:lokalnyId>636d4b95-b78d-4bd2-9ba7-d34cb14ad500</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_336</ot:kodKarto10k>
+			<ot:rodzaj>wiata lub altana</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-d1e6cf07-b0b8-4b1b-bcb8-735a83265f96-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>469989.75 467839.39 469969.97 467840.68 469970.77 467853.11 469970.88 467854.75 469990.66 467853.47 469990.55 467851.83 469989.75 467839.39</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIOR_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIOR_A gml:id="PL.PZGiK.308.BDOT10k_e6c48b14-90a0-4b9e-959c-0b33ab57fb42_2023-12-31T120000">
+			<ot:lokalnyId>e6c48b14-90a0-4b9e-959c-0b33ab57fb42</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_336</ot:kodKarto10k>
+			<ot:rodzaj>wiata lub altana</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-d28fe972-4c3b-414a-81f2-36a8baa29c9c-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>477587.37 456633.17 477590.63 456607.53 477581.41 456606.89 477578.18 456632.00 477587.37 456633.17</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIOR_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIOR_A gml:id="PL.PZGiK.308.BDOT10k_b5190985-9cf7-4c12-8d23-45c990bad191_2023-12-31T120000">
+			<ot:lokalnyId>b5190985-9cf7-4c12-8d23-45c990bad191</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_336</ot:kodKarto10k>
+			<ot:rodzaj>wiata lub altana</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-df9e3ced-cfd1-411d-816f-cf9e577c67eb-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>468125.49 458063.50 468101.02 458071.95 468104.32 458081.51 468128.79 458073.06 468125.49 458063.50</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIOR_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIOR_A gml:id="PL.PZGiK.308.BDOT10k_ae1af9cd-ec9c-4e25-a0a4-3cc35ee1b9bb_2023-12-31T120000">
+			<ot:lokalnyId>ae1af9cd-ec9c-4e25-a0a4-3cc35ee1b9bb</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_336</ot:kodKarto10k>
+			<ot:rodzaj>wiata lub altana</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-7792a4d7-ebc0-45ec-a248-e6ce86313a6a-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>462967.80 445187.68 462967.27 445194.94 462997.46 445197.17 462997.99 445189.90 462967.80 445187.68</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIOR_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIOR_A gml:id="PL.PZGiK.308.BDOT10k_5039814e-d8c8-4223-a1d8-d360a6bd457a_2023-12-31T120000">
+			<ot:lokalnyId>5039814e-d8c8-4223-a1d8-d360a6bd457a</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_336</ot:kodKarto10k>
+			<ot:rodzaj>wiata lub altana</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-bef68dd5-172a-4577-a679-a87f5b7a1f52-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>469968.34 467824.65 469969.42 467837.06 469989.17 467835.34 469988.09 467822.93 469968.34 467824.65</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIOR_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIOR_A gml:id="PL.PZGiK.308.BDOT10k_1d6de590-e17c-45a5-9cbd-a5ef3a74d159_2023-12-31T120000">
+			<ot:lokalnyId>1d6de590-e17c-45a5-9cbd-a5ef3a74d159</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_336</ot:kodKarto10k>
+			<ot:rodzaj>wiata lub altana</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-a9c0f382-10c1-40e6-a0fd-65230b8ef32d-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>467524.07 470141.62 467497.77 470046.05 467491.58 470047.74 467517.89 470143.29 467524.07 470141.62</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIOR_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIOR_A gml:id="PL.PZGiK.308.BDOT10k_0012c9e3-f1b3-49c2-ad85-4d32a4327977_2023-12-31T120000">
+			<ot:lokalnyId>0012c9e3-f1b3-49c2-ad85-4d32a4327977</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_336</ot:kodKarto10k>
+			<ot:rodzaj>wiata lub altana</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-e2c372a4-f3fe-4760-8466-aa6ad36faf2c-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>473640.42 453954.36 473642.02 453936.29 473612.47 453933.90 473611.01 453951.98 473640.42 453954.36</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIOR_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIOR_A gml:id="PL.PZGiK.308.BDOT10k_85444e19-8856-40f4-9823-133d7da7bebf_2023-12-31T120000">
+			<ot:lokalnyId>85444e19-8856-40f4-9823-133d7da7bebf</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_336</ot:kodKarto10k>
+			<ot:rodzaj>wiata lub altana</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-4d729324-bee7-44da-8696-d794bb13fa8d-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>466628.85 451593.14 466643.79 451592.78 466643.04 451561.84 466628.10 451562.20 466628.85 451593.14</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIOR_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIOR_A gml:id="PL.PZGiK.308.BDOT10k_2923959E-D513-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D513-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_336</ot:kodKarto10k>
+			<ot:rodzaj>wiata lub altana</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-c4ac2210-6219-44b6-9813-76db0e7d1911-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>466131.53 461404.69 466130.49 461412.31 466166.71 461417.25 466167.71 461409.62 466131.53 461404.69</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIOR_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIOR_A gml:id="PL.PZGiK.308.BDOT10k_2923959E-D4F7-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D4F7-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_336</ot:kodKarto10k>
+			<ot:rodzaj>wiata lub altana</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-74526c10-6cca-4b59-8ae9-437dfa6cce8b-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>456708.05 453315.26 456705.41 453320.64 456704.93 453321.56 456740.43 453338.81 456741.08 453337.56 456749.14 453322.18 456739.51 453317.49 456738.56 453319.30 456734.02 453328.19 456708.05 453315.26</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIOR_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIOR_A gml:id="PL.PZGiK.308.BDOT10k_13636f6e-5fa9-4113-b362-85d8bc438ded_2023-12-31T120000">
+			<ot:lokalnyId>13636f6e-5fa9-4113-b362-85d8bc438ded</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_336</ot:kodKarto10k>
+			<ot:rodzaj>wiata lub altana</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-3c762db1-8813-4e88-ab79-2c346d9145b4-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>473642.02 453936.29 473640.34 453955.41 473696.54 453960.21 473698.03 453941.11 473642.02 453936.29</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIOR_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIOR_A gml:id="PL.PZGiK.308.BDOT10k_2923959E-D50A-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D50A-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_336</ot:kodKarto10k>
+			<ot:rodzaj>wiata lub altana</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-8d0ced24-753c-44f6-bc7e-c77e9a145437-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>450703.12 460941.46 450703.23 460953.71 450703.21 460954.54 450769.95 460954.14 450769.83 460940.93 450703.12 460941.46</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIOR_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIOR_A gml:id="PL.PZGiK.308.BDOT10k_8d7275bf-767b-445d-b68e-bdd49b039195_2023-12-31T120000">
+			<ot:lokalnyId>8d7275bf-767b-445d-b68e-bdd49b039195</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_336</ot:kodKarto10k>
+			<ot:rodzaj>wiata lub altana</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-93f8e936-f81c-4ea2-920f-f463a1d82221-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>469203.91 452697.35 469211.09 452696.83 469207.88 452663.34 469201.30 452663.94 469203.91 452697.35</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIOR_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIOR_A gml:id="PL.PZGiK.308.BDOT10k_4d5f5cfb-29e3-4d41-9de6-60c1bbbab4e2_2023-12-31T120000">
+			<ot:lokalnyId>4d5f5cfb-29e3-4d41-9de6-60c1bbbab4e2</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_336</ot:kodKarto10k>
+			<ot:rodzaj>wiata lub altana</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-22b4b206-a4da-4d79-882c-7b193ba2fa1a-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>465735.42 473731.00 465695.58 473744.20 465693.44 473744.90 465688.06 473746.69 465696.35 473771.71 465701.73 473769.93 465703.87 473769.22 465697.30 473749.41 465737.14 473736.21 465735.42 473731.00</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIOR_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIOR_A gml:id="PL.PZGiK.308.BDOT10k_2923959E-D52E-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D52E-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_336</ot:kodKarto10k>
+			<ot:rodzaj>wiata lub altana</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-a3507650-2f78-40aa-847c-880a6ece830a-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>474791.18 456696.12 474791.79 456712.29 474823.82 456711.09 474823.22 456694.92 474791.18 456696.12</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIOR_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIOR_A gml:id="PL.PZGiK.308.BDOT10k_6b3fe308-21b2-4050-9a87-49d0bb9dd376_2023-12-31T120000">
+			<ot:lokalnyId>6b3fe308-21b2-4050-9a87-49d0bb9dd376</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_336</ot:kodKarto10k>
+			<ot:rodzaj>wiata lub altana</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-8f1a9bd5-4c4f-4502-8490-d545d67db0f3-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>464795.72 461485.63 464776.33 461484.83 464776.03 461493.18 464786.88 461493.57 464786.25 461510.90 464797.74 461511.45 464795.72 461485.63</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIOR_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIOR_A gml:id="PL.PZGiK.308.BDOT10k_2923959E-D4F1-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D4F1-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_337</ot:kodKarto10k>
+			<ot:rodzaj>szklarnia niebędąca budynkiem</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-e19d5d7d-459b-4c61-af48-d4fad35fdac8-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>460308.58 470882.01 460306.99 470929.07 460370.64 470931.22 460372.23 470884.16 460308.58 470882.01</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIOR_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIOR_A gml:id="PL.PZGiK.308.BDOT10k_f2666f7a-c9d3-4336-b891-615fcc2c1910_2023-12-31T120000">
+			<ot:lokalnyId>f2666f7a-c9d3-4336-b891-615fcc2c1910</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_336</ot:kodKarto10k>
+			<ot:rodzaj>wiata lub altana</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-1c84363a-5b7f-40c7-b84e-517cb2342094-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>479869.31 458955.96 479864.60 458969.91 479873.08 458972.77 479881.35 458948.24 479880.93 458948.10 479878.13 458947.15 479872.87 458945.38 479871.25 458950.19 479862.46 458947.23 479858.87 458957.69 479869.31 458955.96</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIOR_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIOR_A gml:id="PL.PZGiK.308.BDOT10k_30d2f7ad-1ce6-456f-b488-15d5fe27bff8_2024-06-21T000000">
+			<ot:lokalnyId>30d2f7ad-1ce6-456f-b488-15d5fe27bff8</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2024-06-21T00:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2024-06-21T00:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>BGW-I-G.7520.15.2024</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_336</ot:kodKarto10k>
+			<ot:rodzaj>wiata lub altana</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-6e2c07bb-6e48-4c19-b93e-1a9874014fdb-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>468213.69 444951.45 468214.44 444961.65 468241.60 444959.71 468240.75 444949.51 468213.69 444951.45</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIOR_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIOR_A gml:id="PL.PZGiK.308.BDOT10k_f2aee238-cc34-4dec-ad33-114e68f24837_2023-12-31T120000">
+			<ot:lokalnyId>f2aee238-cc34-4dec-ad33-114e68f24837</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_336</ot:kodKarto10k>
+			<ot:rodzaj>wiata lub altana</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-a308e75e-f1a1-42f9-a050-4d3481656d40-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>459281.46 454675.24 459298.36 454685.60 459322.59 454646.09 459305.69 454635.72 459281.46 454675.24</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIOR_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIOR_A gml:id="PL.PZGiK.308.BDOT10k_2923959E-D4FF-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D4FF-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_336</ot:kodKarto10k>
+			<ot:rodzaj>wiata lub altana</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-496bfa2e-4806-463c-81b4-19ed3139f36a-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>467513.43 470260.56 467518.38 470278.91 467528.79 470276.10 467523.84 470257.75 467513.43 470260.56</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIOR_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIOR_A gml:id="PL.PZGiK.308.BDOT10k_cf2fd5bf-a278-4717-a445-c8fbb4d7d6ac_2023-12-31T120000">
+			<ot:lokalnyId>cf2fd5bf-a278-4717-a445-c8fbb4d7d6ac</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_336</ot:kodKarto10k>
+			<ot:rodzaj>wiata lub altana</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-433907e6-25b2-449f-8784-bc52e7a70aa7-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>461579.92 460684.64 461614.98 460681.33 461612.54 460655.46 461577.48 460658.77 461579.92 460684.64</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIOR_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIOR_A gml:id="PL.PZGiK.308.BDOT10k_d3c5f2f2-2019-4da0-9d64-54b5faec5729_2023-12-31T120000">
+			<ot:lokalnyId>d3c5f2f2-2019-4da0-9d64-54b5faec5729</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_337</ot:kodKarto10k>
+			<ot:rodzaj>szklarnia niebędąca budynkiem</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-49bc8567-3ae5-4c0b-a2bc-efdcd422abcf-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>463118.27 470449.02 463118.34 470452.56 463125.67 470452.42 463125.60 470448.88 463125.53 470445.68 463125.36 470438.24 463125.20 470430.68 463125.19 470427.38 463117.86 470427.52 463118.27 470449.02</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIOR_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIOR_A gml:id="PL.PZGiK.308.BDOT10k_751ef335-c744-43b6-bfb0-e414a5d9a233_2023-12-31T120000">
+			<ot:lokalnyId>751ef335-c744-43b6-bfb0-e414a5d9a233</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_336</ot:kodKarto10k>
+			<ot:rodzaj>wiata lub altana</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-d58e1fca-6e89-46f6-846f-5dbb9bc69c72-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>467503.09 470147.30 467476.80 470051.75 467470.59 470053.43 467496.87 470148.98 467503.09 470147.30</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIOR_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIOR_A gml:id="PL.PZGiK.308.BDOT10k_1b9383fb-de0c-40fe-9af4-f21abdb4bf37_2023-12-31T120000">
+			<ot:lokalnyId>1b9383fb-de0c-40fe-9af4-f21abdb4bf37</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_336</ot:kodKarto10k>
+			<ot:rodzaj>wiata lub altana</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-d4248aea-9147-4a88-8bde-97af1242f056-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>455183.82 464258.26 455219.16 464257.46 455216.29 464130.21 455180.95 464131.01 455183.82 464258.26</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIOR_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIOR_A gml:id="PL.PZGiK.308.BDOT10k_5cf1e715-e91b-4e67-8f4e-599372f2ada3_2023-12-31T120000">
+			<ot:lokalnyId>5cf1e715-e91b-4e67-8f4e-599372f2ada3</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_336</ot:kodKarto10k>
+			<ot:rodzaj>wiata lub altana</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-38044a3c-0e6c-4ea9-b8f5-641a23b6ddbf-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>465781.37 473719.40 465757.41 473726.93 465748.54 473729.75 465751.35 473738.61 465760.22 473735.79 465784.11 473728.02 465781.37 473719.40</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIOR_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIOR_A gml:id="PL.PZGiK.308.BDOT10k_2923959E-D512-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D512-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_336</ot:kodKarto10k>
+			<ot:rodzaj>wiata lub altana</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-d4b8e724-3b5b-4f75-9c84-3011746ffa94-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>466065.05 461113.99 466053.45 461170.75 466065.06 461173.37 466075.44 461124.25 466072.89 461123.76 466066.71 461121.79 466067.96 461117.58 466067.72 461117.51 466068.36 461115.44 466065.05 461113.99</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIOR_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIOR_A gml:id="PL.PZGiK.308.BDOT10k_86c3e142-afc0-4f3b-ad8a-374136c84091_2023-12-31T120000">
+			<ot:lokalnyId>86c3e142-afc0-4f3b-ad8a-374136c84091</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_336</ot:kodKarto10k>
+			<ot:rodzaj>wiata lub altana</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-21bc38f4-e61d-436d-b4ec-812197821852-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>454044.15 472605.31 454044.65 472579.42 454032.76 472579.19 454032.26 472605.08 454044.15 472605.31</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIOR_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIOR_A gml:id="PL.PZGiK.308.BDOT10k_fc85cd02-69fd-404d-be83-d868b0f21eee_2023-12-31T120000">
+			<ot:lokalnyId>fc85cd02-69fd-404d-be83-d868b0f21eee</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_336</ot:kodKarto10k>
+			<ot:rodzaj>wiata lub altana</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-66d04c5d-756e-4c78-b963-c7a5a4202986-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>469108.51 460184.65 469135.53 460184.32 469135.38 460172.72 469108.37 460173.05 469108.51 460184.65</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIOR_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIOR_A gml:id="PL.PZGiK.308.BDOT10k_2c01459a-f04f-4f39-a2d7-9626f18d46d1_2023-12-31T120000">
+			<ot:lokalnyId>2c01459a-f04f-4f39-a2d7-9626f18d46d1</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_337</ot:kodKarto10k>
+			<ot:rodzaj>szklarnia niebędąca budynkiem</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-21261ead-5469-4846-b595-567cb370f009-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>463568.12 470876.61 463574.30 470878.08 463586.89 470833.18 463580.54 470831.35 463578.23 470839.38 463578.60 470839.50 463568.12 470876.61</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIOR_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIOR_A gml:id="PL.PZGiK.308.BDOT10k_2923959E-D4FB-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D4FB-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_336</ot:kodKarto10k>
+			<ot:rodzaj>wiata lub altana</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-83009286-78a1-4f70-af5d-63571ed05474-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>464327.45 470765.05 464325.31 470784.97 464337.50 470786.28 464339.64 470766.32 464327.45 470765.05</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIOR_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIOR_A gml:id="PL.PZGiK.308.BDOT10k_75f61ddb-8cba-4e38-bf0b-f4bf84cc4c07_2023-12-31T120000">
+			<ot:lokalnyId>75f61ddb-8cba-4e38-bf0b-f4bf84cc4c07</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_336</ot:kodKarto10k>
+			<ot:rodzaj>wiata lub altana</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-08fd9777-a10b-47b5-94c6-590747171717-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>479727.04 457122.04 479750.74 457115.85 479748.25 457106.29 479724.54 457112.48 479727.04 457122.04</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIOR_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIOR_A gml:id="PL.PZGiK.308.BDOT10k_2923959E-D528-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D528-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_336</ot:kodKarto10k>
+			<ot:rodzaj>wiata lub altana</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-cff5a808-449d-485d-97b2-180df3eca771-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>473210.71 462352.96 473216.76 462362.11 473233.30 462351.18 473227.25 462342.03 473210.71 462352.96</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIOR_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIOR_A gml:id="PL.PZGiK.308.BDOT10k_7483ae17-00dd-41ef-b41a-f334e234aa79_2023-12-31T120000">
+			<ot:lokalnyId>7483ae17-00dd-41ef-b41a-f334e234aa79</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_336</ot:kodKarto10k>
+			<ot:rodzaj>wiata lub altana</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-391a5598-f52b-48b7-b352-e46266ead77e-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>453578.96 470804.14 453593.73 470806.57 453598.51 470777.55 453583.74 470775.11 453578.96 470804.14</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIOR_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIOR_A gml:id="PL.PZGiK.308.BDOT10k_5f348cd8-6c2f-4207-925c-2d4fc57e68ce_2023-12-31T120000">
+			<ot:lokalnyId>5f348cd8-6c2f-4207-925c-2d4fc57e68ce</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_336</ot:kodKarto10k>
+			<ot:rodzaj>wiata lub altana</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-cdc417ae-c715-4c53-a446-273930f06304-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>453221.36 468287.63 453233.84 468289.96 453242.77 468242.12 453230.29 468239.79 453221.36 468287.63</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIOR_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIOR_A gml:id="PL.PZGiK.308.BDOT10k_2923959E-D518-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D518-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_336</ot:kodKarto10k>
+			<ot:rodzaj>wiata lub altana</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-488b4673-1e3e-4d1f-9981-934338bc96e1-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>467255.49 462556.48 467250.13 462581.50 467265.58 462584.81 467270.93 462559.79 467255.49 462556.48</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIOR_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIOR_A gml:id="PL.PZGiK.308.BDOT10k_31e120fa-fd88-40c3-bb3b-8d4a4d23e3e6_2023-12-31T120000">
+			<ot:lokalnyId>31e120fa-fd88-40c3-bb3b-8d4a4d23e3e6</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_336</ot:kodKarto10k>
+			<ot:rodzaj>wiata lub altana</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-76b0f147-2c1a-4e62-bb7c-bf3d35ebb78e-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>460549.19 450038.27 460558.94 450038.45 460560.67 450005.72 460549.82 450005.57 460549.19 450038.27</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIOR_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIOR_A gml:id="PL.PZGiK.308.BDOT10k_00381ae7-222b-415f-99b5-4b5bc84283b9_2023-12-31T120000">
+			<ot:lokalnyId>00381ae7-222b-415f-99b5-4b5bc84283b9</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_336</ot:kodKarto10k>
+			<ot:rodzaj>wiata lub altana</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-8505b78c-2f00-4b94-82a2-4c8d2e746ba9-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>472387.37 457431.37 472387.00 457451.81 472439.30 457452.76 472439.67 457432.33 472387.37 457431.37</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIOR_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIOR_A gml:id="PL.PZGiK.308.BDOT10k_10f9d429-8001-47aa-9a4d-3217214c0a8a_2023-12-31T120000">
+			<ot:lokalnyId>10f9d429-8001-47aa-9a4d-3217214c0a8a</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_336</ot:kodKarto10k>
+			<ot:rodzaj>wiata lub altana</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-e6d5204e-8367-4a20-b1c7-546cf815039f-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>472009.15 466438.39 472008.69 466449.76 472029.89 466450.62 472030.35 466439.25 472009.15 466438.39</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIOR_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIOR_A gml:id="PL.PZGiK.308.BDOT10k_2923959E-D527-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D527-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_336</ot:kodKarto10k>
+			<ot:rodzaj>wiata lub altana</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-2b28deb9-c996-41d2-9340-fabfe0343ad7-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>473113.29 462649.81 473120.42 462659.42 473157.30 462632.03 473150.17 462622.42 473113.29 462649.81</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIOR_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIOR_A gml:id="PL.PZGiK.308.BDOT10k_664e6679-4aec-49e4-b815-6cae87577102_2023-12-31T120000">
+			<ot:lokalnyId>664e6679-4aec-49e4-b815-6cae87577102</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_336</ot:kodKarto10k>
+			<ot:rodzaj>wiata lub altana</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-d029113d-232e-44d0-a11b-58c12c77f2be-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>467534.49 470138.80 467508.19 470043.23 467502.02 470044.90 467528.31 470140.47 467534.49 470138.80</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIOR_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIOR_A gml:id="PL.PZGiK.308.BDOT10k_fb9c2f29-11af-4851-ba58-98246c5f6122_2023-12-31T120000">
+			<ot:lokalnyId>fb9c2f29-11af-4851-ba58-98246c5f6122</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_336</ot:kodKarto10k>
+			<ot:rodzaj>wiata lub altana</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-ca3a54e7-1e34-4165-b218-aceea70aad13-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>466606.28 451612.43 466606.62 451629.09 466642.50 451628.34 466642.16 451611.68 466606.28 451612.43</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIOR_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIOR_A gml:id="PL.PZGiK.308.BDOT10k_2923959D-88EF-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959D-88EF-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_337</ot:kodKarto10k>
+			<ot:rodzaj>szklarnia niebędąca budynkiem</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-9c76964f-b0d1-4f24-a8ce-9d6d4ec140f9-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>457486.90 474132.62 457560.64 474158.51 457585.86 474086.57 457574.30 474082.51 457572.33 474088.23 457510.15 474066.40 457486.90 474132.62</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIOR_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIOR_A gml:id="PL.PZGiK.308.BDOT10k_fOzjzJkA-SxAn-qM7B-pOik-nP5llgmIFqr9_2025-01-08T092521">
+			<ot:lokalnyId>fOzjzJkA-SxAn-qM7B-pOik-nP5llgmIFqr9</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2025-01-08T09:25:21</ot:wersja>
+			<ot:poczatekWersjiObiektu>2025-01-08T09:25:21</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>BGW-I-G.7520.19.2024</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>szklarnia niebędąca budynkiem</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-2bc74bfc-c600-480c-87e7-8dbb2f4b7ebf-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>477064.07 444831.99 477072.57 444833.74 477078.61 444804.33 477070.11 444802.58 477064.07 444831.99</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIOR_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIOR_A gml:id="PL.PZGiK.308.BDOT10k_9a3fab5d-b6af-45d6-8bea-7ebd5a5db841_2023-12-31T120000">
+			<ot:lokalnyId>9a3fab5d-b6af-45d6-8bea-7ebd5a5db841</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_336</ot:kodKarto10k>
+			<ot:rodzaj>wiata lub altana</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-da3e1574-1aa3-4a3e-87b8-9fae25cca68a-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>480079.39 462781.33 480076.58 462791.05 480117.22 462802.80 480120.12 462792.80 480086.03 462782.94 480079.39 462781.33</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIOR_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIOR_A gml:id="PL.PZGiK.308.BDOT10k_818ee7fd-d849-47ff-85bc-e052c7669716_2023-12-31T120000">
+			<ot:lokalnyId>818ee7fd-d849-47ff-85bc-e052c7669716</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_336</ot:kodKarto10k>
+			<ot:rodzaj>wiata lub altana</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-8241c681-94fb-4891-96cb-3fb0a401af28-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>455220.17 464129.73 455223.36 464256.99 455239.01 464256.59 455235.82 464129.34 455220.17 464129.73</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIOR_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIOR_A gml:id="PL.PZGiK.308.BDOT10k_2923959E-D51E-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D51E-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_336</ot:kodKarto10k>
+			<ot:rodzaj>wiata lub altana</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-d7cf68db-f547-4d87-af1b-c713e0d04749-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>469772.29 445134.32 469762.88 445161.55 469779.27 445167.60 469788.72 445140.83 469772.29 445134.32</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIOR_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIOR_A gml:id="PL.PZGiK.308.BDOT10k_2923959E-D529-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D529-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_336</ot:kodKarto10k>
+			<ot:rodzaj>wiata lub altana</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-33d7e61f-6630-404c-accb-0f91f07319c8-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>473588.25 458134.91 473574.39 458147.83 473607.69 458183.91 473612.72 458179.27 473585.78 458150.07 473593.14 458143.23 473594.46 458141.97 473588.25 458134.91</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIOR_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIOR_A gml:id="PL.PZGiK.308.BDOT10k_2923959E-D4F5-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D4F5-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_337</ot:kodKarto10k>
+			<ot:rodzaj>szklarnia niebędąca budynkiem</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-e05ccd83-3202-4a6f-bec2-32ae7f3c2880-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>467614.32 462162.07 467661.96 461943.69 467619.30 461934.38 467570.79 462156.70 467588.30 462160.52 467589.16 462156.58 467614.32 462162.07</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIOR_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIOR_A gml:id="PL.PZGiK.308.BDOT10k_fef8ec49-8cdb-4ddb-aaf5-3b68a16f4644_2023-12-31T120000">
+			<ot:lokalnyId>fef8ec49-8cdb-4ddb-aaf5-3b68a16f4644</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_336</ot:kodKarto10k>
+			<ot:rodzaj>wiata lub altana</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-d4aab057-ad96-407e-8dbf-8f3295d64d00-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>466882.51 461617.23 466889.37 461618.28 466892.09 461611.87 466874.25 461600.38 466869.93 461607.09 466869.80 461613.45 466882.51 461617.23</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIOR_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIOR_A gml:id="PL.PZGiK.308.BDOT10k_2923959E-D523-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D523-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_336</ot:kodKarto10k>
+			<ot:rodzaj>wiata lub altana</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-4b39bb10-0889-4a75-a613-ba080e129967-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>470846.45 469875.35 470844.13 469888.86 470883.90 469895.54 470886.17 469882.04 470846.45 469875.35</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIOR_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIOR_A gml:id="PL.PZGiK.308.BDOT10k_213d8bfd-b4e8-48e2-acbb-1b26b9fcc47e_2023-12-31T120000">
+			<ot:lokalnyId>213d8bfd-b4e8-48e2-acbb-1b26b9fcc47e</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_336</ot:kodKarto10k>
+			<ot:rodzaj>wiata lub altana</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-b3472b21-c585-4842-a6c3-e0863d5039f8-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>468154.90 458001.50 468176.69 458057.77 468183.24 458055.23 468161.45 457998.98 468154.90 458001.50</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIOR_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIOR_A gml:id="PL.PZGiK.308.BDOT10k_a650cc12-b68e-49dd-9639-37942e2f1081_2023-12-31T120000">
+			<ot:lokalnyId>a650cc12-b68e-49dd-9639-37942e2f1081</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_337</ot:kodKarto10k>
+			<ot:rodzaj>szklarnia niebędąca budynkiem</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-6e68b1e4-e628-4d4a-ab0b-038c98917e64-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>459326.91 454447.19 459320.34 454448.74 459324.59 454466.66 459331.16 454465.10 459326.91 454447.19</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIOR_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIOR_A gml:id="PL.PZGiK.308.BDOT10k_2923959E-D516-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D516-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_336</ot:kodKarto10k>
+			<ot:rodzaj>wiata lub altana</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-59fec201-cebe-4530-80b4-7db17cd6050e-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>466657.12 461752.21 466655.02 461759.82 466683.09 461767.57 466685.19 461759.95 466657.12 461752.21</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIOR_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIOR_A gml:id="PL.PZGiK.308.BDOT10k_2923959E-D52F-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D52F-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_336</ot:kodKarto10k>
+			<ot:rodzaj>wiata lub altana</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-9bffd357-b6ef-470b-a0cc-67559ee1ef47-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>475044.68 456529.13 475045.77 456544.88 475077.05 456542.72 475075.96 456526.97 475044.68 456529.13</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIOR_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIOR_A gml:id="PL.PZGiK.308.BDOT10k_d6e233e7-bf7a-47f8-a177-883cc4eb870e_2023-12-31T120000">
+			<ot:lokalnyId>d6e233e7-bf7a-47f8-a177-883cc4eb870e</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_336</ot:kodKarto10k>
+			<ot:rodzaj>wiata lub altana</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-0cdcb3f6-055d-4af8-bb3c-b7df8b3c65e4-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>467513.48 470144.48 467487.19 470048.93 467481.12 470050.58 467507.43 470146.12 467513.48 470144.48</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIOR_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIOR_A gml:id="PL.PZGiK.308.BDOT10k_2923959E-D505-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D505-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_336</ot:kodKarto10k>
+			<ot:rodzaj>wiata lub altana</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-1aa4c6a0-ceb4-41d7-bb96-3653d7ea4c04-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>473352.72 458202.38 473346.42 458209.31 473362.64 458224.07 473369.01 458217.22 473352.72 458202.38</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIOR_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIOR_A gml:id="PL.PZGiK.308.BDOT10k_2923959E-D4F4-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D4F4-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_337</ot:kodKarto10k>
+			<ot:rodzaj>szklarnia niebędąca budynkiem</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-2dbfa9f1-aa49-4e0f-aa0a-57a085712ef3-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>467185.59 460384.45 467181.98 460402.92 467197.48 460405.97 467210.88 460408.60 467214.49 460390.09 467185.59 460384.45</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIOR_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIOR_A gml:id="PL.PZGiK.308.BDOT10k_dfa922bb-5b21-4e38-976e-0527e52f0a62_2023-12-31T120000">
+			<ot:lokalnyId>dfa922bb-5b21-4e38-976e-0527e52f0a62</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_336</ot:kodKarto10k>
+			<ot:rodzaj>wiata lub altana</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-5eb13519-dd60-4532-a651-1a343686de14-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>457478.26 474778.93 457459.69 474797.66 457462.51 474800.46 457467.52 474805.43 457486.09 474786.70 457481.08 474781.73 457478.26 474778.93</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIOR_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIOR_A gml:id="PL.PZGiK.308.BDOT10k_aI9uYshm-hSyw-VEdh-Dewl-pFR1iadijkDT_2025-01-08T092618">
+			<ot:lokalnyId>aI9uYshm-hSyw-VEdh-Dewl-pFR1iadijkDT</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2025-01-08T09:26:18</ot:wersja>
+			<ot:poczatekWersjiObiektu>2025-01-08T09:26:18</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>BGW-I-G.7520.19.2024</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_337</ot:kodKarto10k>
+			<ot:rodzaj>szklarnia niebędąca budynkiem</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-e93b7b5e-a598-413f-be46-fa7e00981190-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>477077.20 444834.96 477085.70 444836.71 477091.74 444807.30 477083.24 444805.55 477077.20 444834.96</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIOR_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIOR_A gml:id="PL.PZGiK.308.BDOT10k_2923959E-D511-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D511-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_336</ot:kodKarto10k>
+			<ot:rodzaj>wiata lub altana</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-7c2778ef-c272-4ece-a62b-a7e6e41a92e9-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>466042.92 461168.47 466047.23 461169.45 466058.79 461112.72 466054.41 461111.79 466042.92 461168.47</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIOR_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIOR_A gml:id="PL.PZGiK.308.BDOT10k_64c96341-937b-4bd6-90dd-911912e4eeb2_2023-12-31T120000">
+			<ot:lokalnyId>64c96341-937b-4bd6-90dd-911912e4eeb2</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_337</ot:kodKarto10k>
+			<ot:rodzaj>szklarnia niebędąca budynkiem</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-2f7c7734-69dc-43d0-924b-19b286757300-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>463567.06 470845.24 463558.79 470874.09 463566.13 470876.19 463574.40 470847.35 463567.06 470845.24</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIOR_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIOR_A gml:id="PL.PZGiK.308.BDOT10k_2923959E-D531-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D531-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_336</ot:kodKarto10k>
+			<ot:rodzaj>wiata lub altana</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-ee13f08e-fcf9-40d7-9a79-fe86f8343555-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>475089.74 443552.43 475093.67 443572.98 475144.55 443563.71 475143.05 443554.46 475103.66 443562.08 475101.38 443550.31 475089.74 443552.43</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIOR_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIOR_A gml:id="PL.PZGiK.308.BDOT10k_2923959E-D51A-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D51A-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_336</ot:kodKarto10k>
+			<ot:rodzaj>wiata lub altana</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-3a336f4a-b470-4f20-a76f-1db4b1359868-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>467588.30 462160.52 467587.20 462165.56 467591.35 462166.47 467612.37 462171.02 467614.32 462162.07 467589.16 462156.58 467588.30 462160.52</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIOR_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIOR_A gml:id="PL.PZGiK.308.BDOT10k_40879803-4468-4637-a175-91e48cf73300_2023-12-31T120000">
+			<ot:lokalnyId>40879803-4468-4637-a175-91e48cf73300</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_336</ot:kodKarto10k>
+			<ot:rodzaj>wiata lub altana</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-e1102b97-263a-4cda-ad2e-6321055eded2-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>467492.57 470150.14 467466.29 470054.60 467460.16 470056.26 467486.47 470151.79 467492.57 470150.14</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIOR_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIOR_A gml:id="PL.PZGiK.308.BDOT10k_2923959E-D525-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D525-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_336</ot:kodKarto10k>
+			<ot:rodzaj>wiata lub altana</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-eb2f8784-f08f-407d-8cc4-db0ffca790e5-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>472178.03 452085.97 472176.60 452100.51 472194.09 452102.23 472195.52 452087.69 472178.03 452085.97</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIOR_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIOR_A gml:id="PL.PZGiK.308.BDOT10k_5c3bee9d-f975-41e3-8763-b1822345a615_2023-12-31T120000">
+			<ot:lokalnyId>5c3bee9d-f975-41e3-8763-b1822345a615</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_336</ot:kodKarto10k>
+			<ot:rodzaj>wiata lub altana</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-a2fd9077-023f-4bea-b341-82a8243ed2b9-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>461287.10 473241.33 461299.50 473242.72 461302.23 473218.50 461289.82 473217.11 461287.10 473241.33</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIOR_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIOR_A gml:id="PL.PZGiK.308.BDOT10k_NORLPTOc-v05n-bVGR-qy6a-YNAr0eBg8mXI_2025-01-08T092644">
+			<ot:lokalnyId>NORLPTOc-v05n-bVGR-qy6a-YNAr0eBg8mXI</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2025-01-08T09:26:44</ot:wersja>
+			<ot:poczatekWersjiObiektu>2025-01-08T09:26:44</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>BGW-I-G.7520.19.2024</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_337</ot:kodKarto10k>
+			<ot:rodzaj>szklarnia niebędąca budynkiem</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-8625114a-1de2-4f2d-8ef8-26ae2b81795c-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>477089.96 444837.45 477098.46 444839.20 477104.50 444809.79 477096.00 444808.04 477089.96 444837.45</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIOR_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_OIOR_A gml:id="PL.PZGiK.308.BDOT10k_45ea3983-47ec-4df0-a171-a1387fdb1800_2023-12-31T120000">
+			<ot:lokalnyId>45ea3983-47ec-4df0-a171-a1387fdb1800</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_336</ot:kodKarto10k>
+			<ot:rodzaj>wiata lub altana</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-c1d5e2ce-e7af-4a8a-ae79-ad2f3f2a7a7b-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>462967.10 445133.05 462917.36 445133.66 462917.43 445140.14 462917.43 445140.15 462917.55 445151.87 462921.43 445151.83 462921.49 445157.44 462925.59 445157.40 462925.54 445153.12 462925.41 445140.06 462937.39 445139.95 462967.07 445139.70 462966.99 445137.19 462967.10 445133.05</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_OIOR_A>
+	</gml:featureMember>
+</gml:FeatureCollection>

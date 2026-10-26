@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:FeatureCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:ot="urn:gugik:specyfikacje:gmlas:bazaDanychObiektowTopograficznych10k:2.0" gml:id="GUGiK_OT_KUKO_P" xsi:schemaLocation="urn:gugik:specyfikacje:gmlas:bazaDanychObiektowTopograficznych10k:2.0 ../XSD/BDOT10k_BDOO.xsd">
+	<gml:featureMember>
+		<ot:OT_KUKO_P gml:id="PL.PZGiK.308.BDOT10k_2923959E-8D67-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-8D67-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_142</ot:kodKarto10k>
+			<ot:rodzaj>dworzec autobusowy</ot:rodzaj>
+			<ot:nazwa>Turek</ot:nazwa>
+			<ot:geometria>
+				<gml:Point gml:id="id-d317552d-4c5c-4b65-9094-af4d45e7b326-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:pos>466121.77 461885.27</gml:pos>
+				</gml:Point>
+			</ot:geometria>
+		</ot:OT_KUKO_P>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUKO_P gml:id="PL.PZGiK.308.BDOT10k_2923959E-8D68-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-8D68-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>port wodny lub przystań</ot:rodzaj>
+			<ot:typPortu>przystań żeglugi pasażerskiej</ot:typPortu>
+			<ot:nazwa>Przystań żeglarska w Skęczniewie</ot:nazwa>
+			<ot:geometria>
+				<gml:Point gml:id="id-5cd06333-3972-4e9d-9476-9a06b8f4cd08-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:pos>478392.19 443879.93</gml:pos>
+				</gml:Point>
+			</ot:geometria>
+		</ot:OT_KUKO_P>
+	</gml:featureMember>
+</gml:FeatureCollection>

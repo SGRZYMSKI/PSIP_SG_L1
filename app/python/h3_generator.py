@@ -2,7 +2,7 @@ import geopandas as gpd
 import h3
 from shapely.geometry import Polygon
 
-INPUT_FILE = "/data/powiat.shp"
+INPUT_FILE = "/data/powiat_turecki.shp"
 OUTPUT_FILE = "/data/hexagons.gpkg"
 
 H3_RESOLUTIONS = [7, 8, 9]

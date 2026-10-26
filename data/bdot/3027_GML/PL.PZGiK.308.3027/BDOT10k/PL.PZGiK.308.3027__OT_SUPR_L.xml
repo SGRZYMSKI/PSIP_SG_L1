@@ -1,0 +1,504 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:FeatureCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:ot="urn:gugik:specyfikacje:gmlas:bazaDanychObiektowTopograficznych10k:2.0" gml:id="GUGiK_OT_SUPR_L" xsi:schemaLocation="urn:gugik:specyfikacje:gmlas:bazaDanychObiektowTopograficznych10k:2.0 ../XSD/BDOT10k_BDOO.xsd">
+	<gml:featureMember>
+		<ot:OT_SUPR_L gml:id="id_292395A0-A1FD-829B-E053-CA2BA8C0F89A">
+			<ot:lokalnyId>292395A0-A1FD-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:informacjaDodatkowa>zespół 2 ciepłociągów</ot:informacjaDodatkowa>
+			<ot:kodKarto10k>0010_442</ot:kodKarto10k>
+			<ot:geometria>
+				<gml:Curve gml:id="id-c7797012-b361-4588-a6be-20fc2d896bbf-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>467582.20 460748.63 467564.81 460745.89 467565.34 460740.90 467492.43 460730.02 467491.80 460734.45 467473.87 460731.81 467474.19 460727.17 467415.21 460718.04 467404.77 460752.26 467399.50 460752.26 467399.58 460746.36 467383.98 460746.14 467379.32 460746.14 467381.16 460708.50 467354.34 460706.16 467251.48 460701.11 467155.55 460696.97 467149.51 460696.66 467149.19 460701.08 467134.43 460700.45 467134.22 460695.86 467051.78 460691.57 467046.66 460691.07 467046.13 460695.86 467031.27 460694.17 467031.27 460689.58 467020.93 460688.58 466944.23 460680.92 466943.91 460685.27 466928.63 460683.79 466928.63 460679.36 466849.71 460672.14 466848.76 460676.78 466834.74 460675.51 466834.62 460670.81 466763.00 460665.08 466762.57 460669.66 466748.02 460668.61 466747.81 460663.86 466687.05 460659.52</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+			<ot:rodzaj>ciepłowniczy</ot:rodzaj>
+		</ot:OT_SUPR_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_SUPR_L gml:id="id_41a9ccd2-a0bd-4964-9fd1-843f2694078e">
+			<ot:lokalnyId>41a9ccd2-a0bd-4964-9fd1-843f2694078e</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:informacjaDodatkowa>zespół 7 rurociągów</ot:informacjaDodatkowa>
+			<ot:kodKarto10k>0010_441</ot:kodKarto10k>
+			<ot:geometria>
+				<gml:Curve gml:id="id-fbeddb98-26a7-4851-a4e0-43588f1602dd-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>471314.61 458663.04 471356.94 458633.75 471410.18 458603.38 471424.82 458600.18 471470.82 458601.92</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+			<ot:rodzaj>wodociągowy</ot:rodzaj>
+		</ot:OT_SUPR_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_SUPR_L gml:id="id_292395A0-A1E8-829B-E053-CA2BA8C0F89A">
+			<ot:lokalnyId>292395A0-A1E8-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_442</ot:kodKarto10k>
+			<ot:geometria>
+				<gml:Curve gml:id="id-2834a610-a547-4815-b51c-87cad8649e9e-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>466106.48 461483.20 466102.60 461510.97 466099.15 461510.50 466097.44 461518.94 466101.53 461520.23 466094.42 461560.06 466089.56 461559.56 466087.75 461568.68 466091.58 461569.90 466086.52 461603.09 466147.22 461591.01 466177.76 461585.42 466249.09 461586.32</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+			<ot:rodzaj>ciepłowniczy</ot:rodzaj>
+		</ot:OT_SUPR_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_SUPR_L gml:id="id_ed82f70d-4455-4b3b-be9f-0894bc02574e">
+			<ot:lokalnyId>ed82f70d-4455-4b3b-be9f-0894bc02574e</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:informacjaDodatkowa>zespół 7 rurociągów</ot:informacjaDodatkowa>
+			<ot:kodKarto10k>0010_441</ot:kodKarto10k>
+			<ot:geometria>
+				<gml:Curve gml:id="id-6455a06c-9579-4340-a424-f736665451ae-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>471152.83 458787.95 471314.61 458663.04</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+			<ot:rodzaj>wodociągowy</ot:rodzaj>
+		</ot:OT_SUPR_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_SUPR_L gml:id="id_2Cwd8JQa-FtfQ-ONui-GoRe-wBzgHCzOvczK">
+			<ot:lokalnyId>2Cwd8JQa-FtfQ-ONui-GoRe-wBzgHCzOvczK</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2024-06-24T00:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2024-06-24T00:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>BGW-I-G.7520.15.2024</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_441</ot:kodKarto10k>
+			<ot:geometria>
+				<gml:Curve gml:id="id-44b7219b-16c7-4b39-8612-672345238b32-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>466296.89 462003.85 466297.53 462000.51 466295.78 462000.12 466304.46 461961.44 466322.68 461965.55 466325.34 461951.30 466346.85 461956.30 466365.37 461960.85 466366.17 461957.27 466370.71 461958.48 466369.82 461962.50 466395.01 461968.96 466420.86 461974.66 466421.90 461970.94</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+			<ot:rodzaj>wodociągowy</ot:rodzaj>
+		</ot:OT_SUPR_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_SUPR_L gml:id="id_292395A0-A1ED-829B-E053-CA2BA8C0F89A">
+			<ot:lokalnyId>292395A0-A1ED-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:informacjaDodatkowa>zespół 7 rurociągów</ot:informacjaDodatkowa>
+			<ot:kodKarto10k>0010_441</ot:kodKarto10k>
+			<ot:geometria>
+				<gml:Curve gml:id="id-9d05bb0c-5e9d-4f80-bb4d-3cabd49c0879-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>471470.82 458601.92 471500.66 458602.63 471563.83 458608.12 471626.77 458617.86</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+			<ot:rodzaj>wodociągowy</ot:rodzaj>
+		</ot:OT_SUPR_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_SUPR_L gml:id="id_8a19efce-5bb2-449c-9c93-34945b72f15c">
+			<ot:lokalnyId>8a19efce-5bb2-449c-9c93-34945b72f15c</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:informacjaDodatkowa>popioły</ot:informacjaDodatkowa>
+			<ot:kodKarto10k>0010_441</ot:kodKarto10k>
+			<ot:geometria>
+				<gml:Curve gml:id="id-ce857ffe-13d4-4042-adaf-c2f5d005e7ff-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>471797.40 458805.68 471797.40 458859.90 471810.64 458903.28 471829.93 458937.08 471838.86 458954.31</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+			<ot:rodzaj>wodociągowy</ot:rodzaj>
+		</ot:OT_SUPR_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_SUPR_L gml:id="id_3b98c8d9-1d30-41fd-a69e-98858cf3736b">
+			<ot:lokalnyId>3b98c8d9-1d30-41fd-a69e-98858cf3736b</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:informacjaDodatkowa>popioły</ot:informacjaDodatkowa>
+			<ot:kodKarto10k>0010_441</ot:kodKarto10k>
+			<ot:geometria>
+				<gml:Curve gml:id="id-6bb065fa-a63c-4e04-a84a-bded22b77eeb-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>471314.61 458663.04 471352.17 458718.77 471388.85 458793.72 471408.94 458865.80 471428.40 458956.38 471433.82 458993.06</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+			<ot:rodzaj>wodociągowy</ot:rodzaj>
+		</ot:OT_SUPR_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_SUPR_L gml:id="id_abb377ba-ea29-48ad-8b9d-3bb0ffcafd71">
+			<ot:lokalnyId>abb377ba-ea29-48ad-8b9d-3bb0ffcafd71</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:informacjaDodatkowa>zespół 2 ciepłociągów</ot:informacjaDodatkowa>
+			<ot:kodKarto10k>0010_442</ot:kodKarto10k>
+			<ot:geometria>
+				<gml:Curve gml:id="id-eb223533-f0ae-46fa-b742-eb91afe67518-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>468619.33 460671.08 468618.92 460608.72 468588.99 460604.83 468542.04 460581.84 468528.34 460577.93 468521.95 460576.10 468481.97 460570.15 468463.73 460566.05 468394.85 460567.27 468382.96 460567.48 468335.19 460568.71 468321.05 460582.66 468321.87 460624.30 468291.97 460624.89 468293.03 460675.75 468288.79 460707.33 468250.80 460704.21 468249.88 460724.16</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+			<ot:rodzaj>ciepłowniczy</ot:rodzaj>
+		</ot:OT_SUPR_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_SUPR_L gml:id="id_9de2e474-9a14-43e5-912f-4a2ebf299d50">
+			<ot:lokalnyId>9de2e474-9a14-43e5-912f-4a2ebf299d50</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:informacjaDodatkowa>zespół 7 rurociągów</ot:informacjaDodatkowa>
+			<ot:kodKarto10k>0010_441</ot:kodKarto10k>
+			<ot:geometria>
+				<gml:Curve gml:id="id-e92c663f-3854-4c40-a8a2-de818f9bf1d0-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>469744.83 460703.54 469773.63 460596.30 469839.19 460379.23 469906.30 460184.11 469940.47 460102.30 469986.66 460044.51 470038.25 459989.67 470176.75 459837.47 470195.54 459823.99 470414.09 459760.67 470600.78 459703.89 470603.64 459588.28 470688.36 459395.55 470767.19 459226.48 470910.45 458943.16 470950.73 458959.64 470977.43 458923.37 471152.83 458787.95</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+			<ot:rodzaj>wodociągowy</ot:rodzaj>
+		</ot:OT_SUPR_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_SUPR_L gml:id="id_292395A0-A1F5-829B-E053-CA2BA8C0F89A">
+			<ot:lokalnyId>292395A0-A1F5-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:informacjaDodatkowa>zespół 2 ciepłociągów</ot:informacjaDodatkowa>
+			<ot:kodKarto10k>0010_442</ot:kodKarto10k>
+			<ot:geometria>
+				<gml:Curve gml:id="id-021e8f90-f7ce-475b-a830-b10324ba580e-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>466687.05 460659.52 466685.18 460658.27 466665.36 460657.33 466663.92 460663.66</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+			<ot:rodzaj>ciepłowniczy</ot:rodzaj>
+		</ot:OT_SUPR_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_SUPR_L gml:id="id_292395A0-A1FC-829B-E053-CA2BA8C0F89A">
+			<ot:lokalnyId>292395A0-A1FC-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:informacjaDodatkowa>zespół 7 rurociągów</ot:informacjaDodatkowa>
+			<ot:kodKarto10k>0010_441</ot:kodKarto10k>
+			<ot:geometria>
+				<gml:Curve gml:id="id-12996cfc-a719-4aea-8089-6f45f521d02c-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>471626.77 458617.86 471726.05 458643.76 471781.96 458665.84 471827.16 458693.11</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+			<ot:rodzaj>wodociągowy</ot:rodzaj>
+		</ot:OT_SUPR_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_SUPR_L gml:id="id_765c41a6-e7b6-434d-9a38-21914edc0ad2">
+			<ot:lokalnyId>765c41a6-e7b6-434d-9a38-21914edc0ad2</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:informacjaDodatkowa>zespół 7 rurociągów</ot:informacjaDodatkowa>
+			<ot:kodKarto10k>0010_441</ot:kodKarto10k>
+			<ot:geometria>
+				<gml:Curve gml:id="id-60961bd3-a7d4-4b05-9877-4634d79e8691-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>471227.47 458985.08 471229.06 458960.21 471226.19 458922.89 471218.54 458895.46 471196.21 458846.98 471152.83 458787.95</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+			<ot:rodzaj>wodociągowy</ot:rodzaj>
+		</ot:OT_SUPR_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_SUPR_L gml:id="id_292395A0-A1E3-829B-E053-CA2BA8C0F89A">
+			<ot:lokalnyId>292395A0-A1E3-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:informacjaDodatkowa>zespół 2 ciepłociągów</ot:informacjaDodatkowa>
+			<ot:kodKarto10k>0010_442</ot:kodKarto10k>
+			<ot:geometria>
+				<gml:Curve gml:id="id-33928cdf-0d2c-4b1c-8381-671ca3e662e6-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>466663.92 460663.66 466654.86 460717.02</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+			<ot:rodzaj>ciepłowniczy</ot:rodzaj>
+		</ot:OT_SUPR_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_SUPR_L gml:id="id_292395A0-A1F1-829B-E053-CA2BA8C0F89A">
+			<ot:lokalnyId>292395A0-A1F1-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:informacjaDodatkowa>popioły</ot:informacjaDodatkowa>
+			<ot:kodKarto10k>0010_441</ot:kodKarto10k>
+			<ot:geometria>
+				<gml:Curve gml:id="id-91a6a432-d8f5-4842-a954-817991ef8ed3-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>471470.82 458601.92 471481.57 458612.31 471506.74 458660.81 471544.17 458751.46 471550.55 458794.20 471524.40 459081.88</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+			<ot:rodzaj>wodociągowy</ot:rodzaj>
+		</ot:OT_SUPR_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_SUPR_L gml:id="id_292395A0-A1E6-829B-E053-CA2BA8C0F89A">
+			<ot:lokalnyId>292395A0-A1E6-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:informacjaDodatkowa>popioły</ot:informacjaDodatkowa>
+			<ot:kodKarto10k>0010_441</ot:kodKarto10k>
+			<ot:geometria>
+				<gml:Curve gml:id="id-d9ca460e-75ef-4c3a-bec6-4bc639b86442-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>471827.16 458693.11 471807.71 458756.20 471796.78 458801.44</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+			<ot:rodzaj>wodociągowy</ot:rodzaj>
+		</ot:OT_SUPR_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_SUPR_L gml:id="id_292395A0-A1F2-829B-E053-CA2BA8C0F89A">
+			<ot:lokalnyId>292395A0-A1F2-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_442</ot:kodKarto10k>
+			<ot:geometria>
+				<gml:Curve gml:id="id-227de24d-1423-446a-869e-02c43366fc8a-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>464956.33 461428.81 464882.86 461423.75 464879.16 461425.74 464870.77 461414.51 464847.87 461359.01 464804.09 461259.47 464792.78 461228.91</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+			<ot:rodzaj>ciepłowniczy</ot:rodzaj>
+		</ot:OT_SUPR_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_SUPR_L gml:id="id_3c10e957-bb48-4d70-9afb-62cf7262965a">
+			<ot:lokalnyId>3c10e957-bb48-4d70-9afb-62cf7262965a</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:informacjaDodatkowa>zespół 7 rurociągów; uwodniony pył z elektrowni</ot:informacjaDodatkowa>
+			<ot:kodKarto10k>0010_441</ot:kodKarto10k>
+			<ot:geometria>
+				<gml:Curve gml:id="id-d776f369-1d72-4a30-8c02-fb2178da6682-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>469061.05 460652.27 469068.71 460651.36 469075.65 460650.88 469139.47 460641.00 469265.49 460616.08 469275.64 460615.26 469322.03 460621.88 469411.37 460638.14 469417.72 460639.47 469454.70 460646.53 469514.55 460656.88 469529.80 460666.16 469576.60 460674.24 469658.26 460688.96 469726.31 460700.44 469744.83 460703.54</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+			<ot:rodzaj>wodociągowy</ot:rodzaj>
+		</ot:OT_SUPR_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_SUPR_L gml:id="id_292395A0-A1F7-829B-E053-CA2BA8C0F89A">
+			<ot:lokalnyId>292395A0-A1F7-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:informacjaDodatkowa>popioły</ot:informacjaDodatkowa>
+			<ot:kodKarto10k>0010_441</ot:kodKarto10k>
+			<ot:geometria>
+				<gml:Curve gml:id="id-230fcdc4-768e-43d2-83af-bfd21523c085-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>471626.77 458617.86 471652.78 458704.94 471677.66 458772.41</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+			<ot:rodzaj>wodociągowy</ot:rodzaj>
+		</ot:OT_SUPR_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_SUPR_L gml:id="id_13d4cc44-0c26-4b8d-9c93-405d0566ed83">
+			<ot:lokalnyId>13d4cc44-0c26-4b8d-9c93-405d0566ed83</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:informacjaDodatkowa>zespół 2 ciepłociągów</ot:informacjaDodatkowa>
+			<ot:kodKarto10k>0010_442</ot:kodKarto10k>
+			<ot:geometria>
+				<gml:Curve gml:id="id-7c85dfd3-4758-4eb1-a474-29e99122a12a-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>468034.64 460696.72 467991.86 460691.70 467991.39 460696.65 467975.26 460694.97 467975.36 460690.12 467942.26 460687.06 467894.90 460682.68 467894.50 460688.32 467876.68 460686.95 467876.47 460681.68 467796.47 460677.36 467796.07 460682.79 467780.47 460682.26 467780.48 460676.54 467689.21 460673.73 467679.76 460759.65 467615.90 460749.00</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+			<ot:rodzaj>ciepłowniczy</ot:rodzaj>
+		</ot:OT_SUPR_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_SUPR_L gml:id="id_df691ef6-b4a9-47a2-b454-2de7d4cd0bb5">
+			<ot:lokalnyId>df691ef6-b4a9-47a2-b454-2de7d4cd0bb5</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_442</ot:kodKarto10k>
+			<ot:geometria>
+				<gml:Curve gml:id="id-bd05a6e3-ce8d-4d63-8c07-2d06d110ff2e-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>468298.53 461076.38 468295.85 461076.39 468219.99 461077.77 468117.10 461077.24 468109.35 461085.25 468092.14 461103.03 468006.64 461191.37 468000.46 461197.75 467965.21 461234.40 467866.86 461336.67 467850.78 461354.22 467822.85 461353.92 467801.42 461352.26 467737.95 461339.89 467735.32 461350.42</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+			<ot:rodzaj>ciepłowniczy</ot:rodzaj>
+		</ot:OT_SUPR_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_SUPR_L gml:id="id_292395A0-A1F6-829B-E053-CA2BA8C0F89A">
+			<ot:lokalnyId>292395A0-A1F6-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_442</ot:kodKarto10k>
+			<ot:geometria>
+				<gml:Curve gml:id="id-3afe66c2-2e9d-4e4f-a9a8-f1c5ebf068f5-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>466400.00 461253.77 466401.43 461245.34 466569.09 461274.65</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+			<ot:rodzaj>ciepłowniczy</ot:rodzaj>
+		</ot:OT_SUPR_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_SUPR_L gml:id="id_292395A0-A1EE-829B-E053-CA2BA8C0F89A">
+			<ot:lokalnyId>292395A0-A1EE-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:informacjaDodatkowa>zespół 7 rurociągów</ot:informacjaDodatkowa>
+			<ot:kodKarto10k>0010_441</ot:kodKarto10k>
+			<ot:geometria>
+				<gml:Curve gml:id="id-c7dfa808-3bb3-4ffb-811f-502555116d5b-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>471827.16 458693.11 471854.77 458719.34 471881.00 458753.85</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+			<ot:rodzaj>wodociągowy</ot:rodzaj>
+		</ot:OT_SUPR_L>
+	</gml:featureMember>
+</gml:FeatureCollection>

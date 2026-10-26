@@ -1,0 +1,885 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:FeatureCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:ot="urn:gugik:specyfikacje:gmlas:bazaDanychObiektowTopograficznych10k:2.0" gml:id="GUGiK_OT_KUSK_A" xsi:schemaLocation="urn:gugik:specyfikacje:gmlas:bazaDanychObiektowTopograficznych10k:2.0 ../XSD/BDOT10k_BDOO.xsd">
+	<gml:featureMember>
+		<ot:OT_KUSK_A gml:id="PL.PZGiK.308.BDOT10k_d8ef7dbb-08ff-4036-b752-ba686fbc7796_2023-12-31T120000">
+			<ot:lokalnyId>d8ef7dbb-08ff-4036-b752-ba686fbc7796</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:skrotKartograficzny>letn.</ot:skrotKartograficzny>
+			<ot:rodzaj>zespół domów letniskowych</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-b32544ce-ce1d-4905-b2a2-65c82fe2068c-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>477852.90 443584.92 477879.68 443566.90 477881.73 443565.52 477884.54 443563.13 477908.64 443592.83 477905.37 443595.37 477878.38 443615.79 477853.35 443634.74 477875.45 443663.23 477900.54 443644.23 477919.00 443667.92 477947.21 443646.82 477975.92 443626.08 477961.32 443607.45 477943.40 443584.58 477934.73 443573.52 477916.02 443549.64 477890.05 443516.50 477860.73 443538.75 477856.30 443542.16 477823.02 443500.34 477789.34 443536.05 477803.29 443553.62 477822.04 443577.23 477824.08 443598.87 477845.01 443604.42 477859.50 443594.55 477852.90 443584.92</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUSK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUSK_A gml:id="PL.PZGiK.308.BDOT10k_2923959E-D275-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D275-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:informacjaDodatkowa>nr rej. 303/45 z 14.05.1984</ot:informacjaDodatkowa>
+			<ot:rodzaj>park lub skwer</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-037422bd-f712-4084-8ca4-409f58a4566c-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>473299.45 449977.22 473296.84 449964.43 473291.48 449959.49 473258.45 449920.38 473224.80 449975.50 473190.37 450031.90 473170.47 450064.49 473171.56 450067.62 473185.53 450093.27 473191.68 450104.57 473193.43 450107.31 473208.86 450135.56 473199.93 450140.45 473199.00 450140.96 473211.59 450167.42 473213.90 450166.20 473218.60 450163.72 473226.63 450178.74 473256.67 450209.18 473266.32 450204.21 473279.52 450197.37 473297.41 450188.25 473261.34 450119.18 473269.03 450085.45 473283.87 450083.62 473323.18 450078.78 473322.07 450074.05 473313.07 450035.57 473299.45 449977.22</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUSK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUSK_A gml:id="PL.PZGiK.308.BDOT10k_2923959E-D277-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D277-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:informacjaDodatkowa>nr rej. 292/34 z 30.04.1984</ot:informacjaDodatkowa>
+			<ot:rodzaj>park lub skwer</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-5e0882ae-e0ea-4e36-a692-28e82a908899-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>470378.39 469910.23 470401.54 469920.00 470447.34 469938.86 470465.14 469946.19 470466.74 469924.38 470449.33 469911.17 470521.54 469840.63 470528.08 469833.08 470565.89 469786.16 470597.96 469754.46 470631.86 469759.49 470647.95 469761.87 470648.75 469757.74 470649.60 469753.65 470653.87 469727.16 470654.87 469721.04 470665.63 469716.74 470681.64 469710.44 470720.38 469696.47 470747.47 469686.76 470756.17 469682.31 470763.24 469677.66 470770.12 469669.77 470774.97 469660.66 470787.86 469636.71 470839.82 469540.74 470831.45 469537.80 470792.19 469532.49 470760.30 469526.58 470741.60 469523.12 470679.31 469513.75 470660.10 469508.60 470638.55 469503.45 470619.82 469501.58 470612.32 469498.77 470604.83 469493.14 470598.75 469490.62 470591.25 469487.52 470570.64 469484.25 470553.30 469482.37 470528.75 469479.69 470513.08 469480.62 470504.54 469481.13 470497.31 469481.84 470497.68 469546.51 470497.44 469562.02 470486.85 469587.80 470464.77 469663.15 470453.06 469700.65 470450.60 469708.53 470410.59 469820.28 470378.39 469910.23</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+					<gml:interior>
+						<gml:LinearRing>
+							<gml:posList>470560.23 469714.92 470559.00 469658.07 470591.01 469657.90 470591.84 469707.28 470592.02 469717.68 470588.95 469715.53 470581.88 469712.47 470575.38 469711.79 470567.75 469713.37 470562.20 469720.60 470560.23 469714.92</gml:posList>
+						</gml:LinearRing>
+					</gml:interior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUSK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUSK_A gml:id="PL.PZGiK.308.BDOT10k_2923959E-D267-829B-E053-CA2BA8C0F89A_2024-11-22T091140">
+			<ot:lokalnyId>2923959E-D267-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2024-11-22T09:11:40</ot:wersja>
+			<ot:poczatekWersjiObiektu>2024-11-22T09:11:40</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>park lub skwer</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-a30ff35a-48d5-4c56-b9c0-cb5a4fc02c3d-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>464950.94 460412.49 464941.84 460516.95 464994.39 460526.47 464995.98 460509.01 464983.98 460507.98 464985.68 460487.83 464986.67 460487.92 464986.83 460485.87 464966.40 460484.21 464965.96 460469.18 464970.54 460469.55 464970.33 460472.06 465015.16 460475.64 465015.38 460473.14 465020.01 460473.50 465035.28 460474.69 465040.09 460466.96 465044.07 460458.15 465046.07 460449.99 465046.55 460443.43 465045.56 460437.77 465043.07 460431.45 465040.25 460426.96 465036.55 460423.00 465034.88 460438.77 464964.92 460432.50 464968.86 460386.33 465039.44 460395.40 465053.85 460384.11 465048.64 460379.30 465025.29 460357.74 465023.97 460356.52 465010.90 460345.21 464998.62 460334.57 464984.37 460322.03 464961.38 460301.78 464959.23 460311.09 464958.40 460317.24 464957.57 460329.94 464954.47 460370.54 464953.25 460384.32 464950.94 460412.49</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUSK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUSK_A gml:id="PL.PZGiK.308.BDOT10k_2923959E-D268-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D268-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>park lub skwer</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-5ac652a3-cb43-4df9-b1c3-02314f4ba860-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>465255.48 461013.00 465277.73 461019.28 465305.63 460921.55 465319.05 460874.54 465309.22 460874.54 465294.98 460874.54 465295.32 460873.54 465297.37 460867.50 465303.34 460848.81 465305.30 460843.43 465270.42 460852.30 465198.81 460872.55 465185.22 460876.55 465190.80 460900.77 465199.54 460938.74 465213.28 460942.09 465228.75 460948.51 465259.03 460961.12 465248.01 460998.16 465244.85 461008.79 465249.73 461010.72 465255.48 461013.00</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUSK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUSK_A gml:id="PL.PZGiK.308.BDOT10k_2923959E-D26E-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D26E-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:informacjaDodatkowa>dawny park dworski, nr rej. A-468/209 z 07.02.1992</ot:informacjaDodatkowa>
+			<ot:rodzaj>park lub skwer</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-973bab15-bbff-4b85-a05c-10f8e3d5732d-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>469082.66 460956.00 469078.86 460956.01 468934.32 460956.27 468929.14 460981.82 468932.78 461085.12 468990.11 461088.21 469038.65 461090.83 469068.58 461092.44 469121.74 461095.31 469121.37 461118.38 469151.36 461119.78 469151.98 461104.08 469192.65 461106.56 469195.75 461181.96 469243.11 461183.92 469229.52 461040.78 469224.41 460987.02 469222.54 460967.29 469221.44 460955.75 469155.93 460955.87 469086.32 460955.99 469082.66 460956.00</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUSK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUSK_A gml:id="PL.PZGiK.308.BDOT10k_2923959E-D270-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D270-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:informacjaDodatkowa>nr rej. 315/57 z 14.05.1984</ot:informacjaDodatkowa>
+			<ot:rodzaj>park lub skwer</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-9e2d1a8d-466e-45b8-89d6-6d0c3144d34a-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>467569.08 449369.76 467579.77 449420.83 467697.54 449467.37 467734.07 449371.73 467741.12 449353.29 467697.00 449338.84 467641.68 449321.34 467621.55 449367.81 467618.38 449375.63 467612.40 449389.70 467599.19 449383.62 467569.08 449369.76</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUSK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUSK_A gml:id="PL.PZGiK.308.BDOT10k_d01a3a3d-618d-4fd7-9f8e-cf91033157f3_2023-12-31T120000">
+			<ot:lokalnyId>d01a3a3d-618d-4fd7-9f8e-cf91033157f3</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>park lub skwer</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-c3f9de2f-37aa-490e-abd4-262c90d618b5-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>459239.68 454286.96 459205.15 454267.91 459178.69 454255.75 459165.10 454250.26 459147.45 454267.67 459138.39 454278.16 459108.59 454254.56 459082.13 454234.29 459061.34 454217.73 459054.00 454211.88 459026.34 454191.14 458999.40 454169.21 458991.53 454164.68 458970.32 454149.18 458952.44 454135.35 458927.64 454115.09 458874.24 454074.56 458856.83 454061.45 458856.90 454065.36 458856.53 454124.54 458875.50 454129.45 458897.41 454128.33 458900.60 454131.70 458900.03 454140.32 458887.49 454145.75 458883.93 454151.56 458884.12 454159.81 458888.24 454168.24 458963.15 454218.46 458963.71 454221.64 458961.83 454241.11 458964.45 454247.30 458988.05 454271.28 458990.29 454277.47 458990.69 454291.47 458990.79 454295.40 458989.33 454346.00 458987.63 454390.13 459006.11 454396.25 459050.19 454410.85 459099.90 454427.31 459110.97 454430.04 459120.06 454430.80 459126.42 454429.74 459137.83 454427.20 459227.32 454407.28 459257.44 454400.58 459232.72 454364.22 459227.85 454364.28 459219.89 454353.92 459218.83 454352.26 459218.88 454346.77 459219.31 454335.03 459238.56 454335.63 459239.68 454286.96</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUSK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUSK_A gml:id="PL.PZGiK.308.BDOT10k_2923959E-D273-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D273-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:informacjaDodatkowa>park miejski</ot:informacjaDodatkowa>
+			<ot:rodzaj>park lub skwer</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-8648b751-cd85-4ce2-8804-bbfebad5ba42-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>473630.79 450206.92 473642.10 450211.97 473668.40 450209.28 473692.08 450206.85 473700.34 450207.05 473704.67 450209.41 473708.22 450214.53 473716.97 450233.39 473726.12 450262.78 473755.25 450266.75 473757.27 450277.25 473795.17 450274.98 473805.62 450272.51 473818.80 450270.31 473817.22 450257.88 473815.73 450246.12 473815.45 450242.55 473813.16 450212.72 473811.49 450196.71 473809.82 450180.31 473809.23 450174.54 473808.06 450167.23 473803.39 450167.78 473776.97 450170.87 473753.40 450173.64 473721.17 450177.44 473707.32 450179.04 473698.56 450180.06 473690.75 450180.98 473686.82 450181.44 473676.61 450182.64 473670.18 450183.39 473651.80 450185.54 473632.88 450187.76 473630.68 450188.02 473630.69 450190.94 473630.78 450204.04 473630.79 450206.92</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUSK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUSK_A gml:id="PL.PZGiK.308.BDOT10k_2923959E-D271-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D271-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:informacjaDodatkowa>Rejestr zabytków Nr 351/93 z 21.05.1984</ot:informacjaDodatkowa>
+			<ot:rodzaj>park lub skwer</ot:rodzaj>
+			<ot:nazwa>Park dworski w Smarzewie</ot:nazwa>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-66d8f236-30de-4f42-b671-4ed9b051073c-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>450442.37 461041.45 450466.15 461167.78 450477.77 461167.19 450483.08 461165.22 450490.76 461158.73 450491.57 461183.08 450499.11 461192.01 450504.97 461196.32 450509.79 461200.11 450519.07 461203.69 450530.95 461206.45 450542.60 461208.81 450544.98 461206.10 450585.19 461160.25 450584.94 461126.04 450614.75 461119.15 450615.50 461102.79 450612.18 461060.76 450626.26 461039.92 450625.97 461026.70 450614.52 461019.07 450613.03 461008.67 450581.66 461009.41 450579.18 460949.52 450562.47 460953.24 450497.61 460986.45 450469.87 460996.86 450474.74 461023.52 450476.71 461034.29 450442.37 461041.45</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUSK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUSK_A gml:id="PL.PZGiK.308.BDOT10k_2923959E-D26C-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D26C-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>park lub skwer</ot:rodzaj>
+			<ot:nazwa>Park Miejski im. Żerminy Składkowskiej</ot:nazwa>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-a7d6f583-5f29-47be-96c5-25d15d01cc24-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>465796.56 460672.83 465793.02 460672.14 465789.09 460670.21 465779.97 460671.84 465744.76 460678.11 465740.11 460678.94 465723.67 460682.27 465711.47 460684.24 465699.57 460686.16 465687.78 460688.26 465675.95 460690.36 465663.78 460692.53 465647.22 460695.48 465643.67 460696.11 465625.56 460699.14 465603.10 460703.90 465600.45 460699.36 465597.65 460701.42 465551.00 460709.71 465532.65 460712.99 465515.58 460716.04 465503.55 460718.19 465479.75 460722.44 465454.67 460726.92 465449.97 460727.76 465465.83 460791.14 465468.59 460801.46 465474.41 460823.27 465477.11 460833.07 465490.49 460881.67 465492.33 460888.36 465494.76 460895.02 465503.70 460919.54 465510.25 460938.95 465513.22 460947.77 465517.15 460960.31 465518.64 460966.86 465524.93 460966.25 465562.31 460962.66 465580.22 460960.58 465699.20 460946.76 465744.32 460941.17 465758.75 460939.38 465772.37 460939.04 465785.31 460937.89 465793.99 460937.12 465803.32 460949.91 465802.84 460945.15 465796.95 460879.34 465794.22 460830.72 465792.42 460798.75 465792.60 460756.20 465793.47 460733.19 465801.49 460732.40 465823.67 460735.75 465838.32 460734.91 465874.09 460723.83 465883.75 460721.21 465906.96 460709.38 465929.14 460685.94 465954.19 460655.47 465956.89 460656.78 465960.37 460658.66 465970.10 460660.55 466002.79 460664.60 466045.35 460666.81 466060.12 460630.56 466060.54 460582.85 466061.02 460527.10 466050.75 460519.53 466034.63 460518.80 465903.47 460541.34 465894.12 460542.95 465899.97 460578.92 465892.70 460588.93 465885.77 460598.48 465879.11 460608.09 465872.11 460618.20 465865.33 460627.98 465855.88 460641.60 465837.22 460628.66 465829.71 460623.45 465826.91 460632.32 465820.72 460644.52 465818.91 460647.00 465815.50 460652.98 465805.71 460668.01 465802.17 460671.06 465798.72 460672.63 465796.56 460672.83</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUSK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUSK_A gml:id="PL.PZGiK.308.BDOT10k_2923959E-D26D-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D26D-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>park lub skwer</ot:rodzaj>
+			<ot:nazwa>Park Tura</ot:nazwa>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-5bcef519-6ac2-4504-975d-763853a22702-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>466902.40 461056.61 466846.68 461049.63 466839.03 461048.79 466797.24 461044.20 466788.66 461059.47 466789.83 461063.90 466786.17 461089.03 466786.16 461089.11 466783.60 461106.74 466774.52 461167.26 466773.55 461176.55 466767.97 461181.44 466764.74 461199.97 466792.09 461217.75 466814.22 461232.13 466820.07 461235.94 466863.10 461175.17 466869.20 461177.15 466875.67 461177.69 466883.39 461175.71 466888.60 461172.84 466893.99 461167.27 466899.74 461157.95 466895.26 461154.95 466876.29 461142.28 466888.00 461122.44 466890.34 461115.61 466896.76 461069.61 466899.66 461067.10 466901.45 461062.97 466902.40 461056.61</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUSK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUSK_A gml:id="PL.PZGiK.308.BDOT10k_2923959E-D27F-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D27F-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:skrotKartograficzny>letn.</ot:skrotKartograficzny>
+			<ot:rodzaj>zespół domów letniskowych</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-9adbc976-1331-4293-9823-d5e2b279bc5b-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>477403.43 443837.34 477386.36 443853.11 477423.94 443876.16 477550.98 443748.34 477495.36 443691.48 477478.24 443708.51 477506.26 443736.75 477475.48 443770.78 477455.44 443789.29 477436.29 443806.98 477403.43 443837.34</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUSK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUSK_A gml:id="PL.PZGiK.308.BDOT10k_2923959E-D281-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D281-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:skrotKartograficzny>letn.</ot:skrotKartograficzny>
+			<ot:rodzaj>zespół domów letniskowych</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-f42cd129-22e3-4701-9d34-7289111afeca-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>477596.01 443623.39 477595.41 443624.01 477584.49 443635.25 477626.03 443677.66 477646.37 443655.55 477652.25 443661.36 477713.67 443731.52 477759.73 443692.89 477762.39 443695.95 477792.90 443733.99 477804.69 443724.54 477817.25 443714.46 477829.83 443704.37 477845.60 443691.72 477816.13 443655.00 477787.82 443619.78 477797.07 443601.58 477781.14 443583.08 477799.63 443566.64 477791.96 443557.43 477780.39 443544.82 477752.03 443574.16 477670.92 443658.33 477662.27 443649.30 477633.24 443621.61 477631.46 443623.49 477625.91 443629.31 477614.75 443641.02 477596.06 443623.43 477596.01 443623.39</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUSK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUSK_A gml:id="PL.PZGiK.308.BDOT10k_2923959E-D284-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D284-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:skrotKartograficzny>letn.</ot:skrotKartograficzny>
+			<ot:rodzaj>zespół domów letniskowych</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-262b4241-da5f-4e77-be51-b58fa039d3f7-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>477888.53 443689.26 477859.17 443709.83 477893.67 443752.91 477908.71 443772.25 477922.98 443790.60 477969.47 443850.40 477995.22 443840.21 477945.11 443773.99 477943.26 443771.79 477973.98 443750.88 477975.72 443754.52 477977.49 443760.11 477980.18 443765.61 477987.77 443783.71 478012.92 443773.34 478003.93 443736.63 477974.12 443719.14 477954.18 443703.78 477919.00 443667.92 477888.53 443689.26</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUSK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUSK_A gml:id="PL.PZGiK.308.BDOT10k_2923959E-D285-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D285-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:skrotKartograficzny>letn.</ot:skrotKartograficzny>
+			<ot:rodzaj>zespół domów letniskowych</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-8ffa1dad-6f4e-4607-bba8-457a831dadfe-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>479178.35 452198.23 479167.66 452256.25 479335.28 452259.30 479334.90 452197.76 479277.33 452196.97 479271.07 452196.81 479272.02 452148.91 479184.54 452194.97 479178.35 452198.23</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUSK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUSK_A gml:id="PL.PZGiK.308.BDOT10k_2923959E-D269-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D269-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>park lub skwer</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-c8084817-79a4-468a-8731-faffc061b396-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>465394.89 460740.74 465389.81 460800.46 465399.29 460798.65 465439.60 460793.68 465454.68 460792.04 465461.52 460791.56 465465.83 460791.14 465449.97 460727.76 465445.05 460728.46 465432.47 460730.24 465415.46 460732.87 465408.73 460737.43 465394.89 460740.74</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUSK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUSK_A gml:id="PL.PZGiK.308.BDOT10k_2923959E-D278-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D278-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:informacjaDodatkowa>nr rej. 294/36 z 30.04.1984</ot:informacjaDodatkowa>
+			<ot:rodzaj>park lub skwer</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-424aafa7-1d72-422d-a33d-3fd686b72fb9-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>472218.29 469473.59 472193.92 469525.72 472275.19 469568.34 472298.64 469580.63 472358.90 469602.83 472366.55 469601.52 472364.13 469589.32 472346.93 469502.46 472340.44 469469.83 472338.98 469462.77 472331.22 469439.56 472325.88 469425.41 472322.34 469418.84 472312.52 469403.22 472297.51 469385.63 472282.50 469368.04 472271.91 469355.63 472270.06 469353.46 472249.76 469385.51 472238.36 469403.52 472225.25 469424.22 472241.84 469433.51 472230.44 469452.92 472218.29 469473.59</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUSK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUSK_A gml:id="PL.PZGiK.308.BDOT10k_2923959E-D26A-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D26A-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>park lub skwer</ot:rodzaj>
+			<ot:nazwa>Miejski Park im. Konstytucji 3 maja</ot:nazwa>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-1f81266c-b0af-4fa9-b0d9-d8625710da75-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>465386.58 461489.85 465383.21 461503.13 465387.33 461504.26 465394.66 461479.47 465461.66 461498.47 465485.14 461505.30 465509.77 461512.47 465511.36 461512.93 465512.71 461507.38 465519.11 461474.53 465523.71 461456.74 465491.96 461447.93 465486.97 461465.85 465484.88 461466.70 465398.67 461442.21 465393.27 461463.48 465386.58 461489.85</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUSK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUSK_A gml:id="PL.PZGiK.308.BDOT10k_2923959E-D26F-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D26F-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:informacjaDodatkowa>nr rej. 313/55 z 14.05.1984</ot:informacjaDodatkowa>
+			<ot:rodzaj>park lub skwer</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-d22b1acb-d417-45b2-8bd1-bac05b0858ff-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>467458.74 442273.86 467470.79 442275.62 467474.14 442276.11 467477.37 442276.33 467489.66 442277.19 467505.29 442280.18 467520.59 442285.83 467538.87 442302.46 467558.49 442333.38 467563.36 442347.71 467564.60 442351.39 467571.82 442334.53 467578.91 442309.92 467578.32 442301.78 467573.91 442291.20 467605.10 442274.37 467610.52 442270.00 467623.02 442258.53 467655.95 442229.54 467580.57 442195.81 467549.70 442177.28 467547.70 442204.23 467546.22 442225.99 467529.74 442223.16 467509.40 442219.66 467489.12 442192.43 467488.54 442192.24 467482.86 442190.71 467478.04 442192.81 467458.74 442273.86</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUSK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUSK_A gml:id="PL.PZGiK.308.BDOT10k_2923959E-D286-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D286-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>kompleks sportowo-rekreacyjny</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-586f85e5-054c-4111-b3ca-cd685aec1a58-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>472838.32 450497.91 472859.21 450487.31 472863.07 450484.54 472870.11 450479.80 472875.13 450476.37 472761.32 450356.50 472686.28 450397.34 472708.76 450439.58 472635.89 450478.07 472710.71 450622.23 472780.02 450578.53 472850.73 450533.90 472841.47 450519.20 472837.17 450512.40 472838.32 450497.91</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUSK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUSK_A gml:id="PL.PZGiK.308.BDOT10k_2923959E-D288-829B-E053-CA2BA8C0ML00_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D288-829B-E053-CA2BA8C0ML00</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>kompleks sportowo-rekreacyjny</ot:rodzaj>
+			<ot:nazwa>OSiR Turek</ot:nazwa>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-e2df0671-6309-4cc1-9773-6aef55353bb4-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>464904.46 461207.76 464897.27 461207.38 464840.07 461212.35 464837.18 461213.14 464809.13 461224.66 464794.16 461231.85 464805.51 461264.84 464871.79 461414.94 464879.28 461425.73 464880.90 461424.65 464882.53 461423.57 464958.49 461427.81 464961.53 461390.13 464967.29 461386.35 465027.25 461389.26 465038.83 461218.08 465036.44 461186.56 464977.92 461179.94 464971.42 461178.37 464963.61 461176.45 464962.24 461176.11 464955.55 461174.48 464939.58 461170.70 464925.94 461214.24 464904.46 461207.76</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUSK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUSK_A gml:id="PL.PZGiK.308.BDOT10k_2923959E-D289-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D289-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>kompleks sportowo-rekreacyjny</ot:rodzaj>
+			<ot:nazwa>OSiR Turek</ot:nazwa>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-035ef8b7-c7fe-4c89-b8fb-5198eb6a4947-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>466394.18 461240.62 466393.65 461243.94 466386.00 461291.35 466392.94 461299.79 466390.23 461313.80 466384.67 461342.47 466383.56 461348.19 466377.60 461390.03 466396.23 461394.60 466405.30 461395.94 466412.18 461395.99 466431.13 461394.37 466455.21 461389.94 466464.51 461387.22 466470.22 461384.83 466474.87 461383.43 466478.36 461383.43 466482.32 461384.36 466486.51 461387.39 466487.90 461392.45 466485.34 461413.87 466474.64 461477.70 466471.60 461500.09 466470.95 461504.89 466469.77 461513.57 466473.86 461506.75 466489.63 461404.40 466490.85 461396.13 466524.82 461401.24 466545.29 461404.32 466556.88 461406.06 466575.10 461289.94 466576.96 461278.07 466577.91 461272.01 466394.18 461240.62</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUSK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUSK_A gml:id="PL.PZGiK.308.BDOT10k_2923959E-D28A-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D28A-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>kompleks sportowo-rekreacyjny</ot:rodzaj>
+			<ot:nazwa>Stadion Miejski w Tuliszkowie</ot:nazwa>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-afd78593-2932-4b32-a441-d6d50f14edca-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>451058.67 467869.97 451107.04 467870.76 451107.08 467877.70 451108.11 467927.00 451108.25 467936.10 451128.76 467935.43 451129.13 467953.29 451129.37 467964.78 451142.34 467965.08 451149.91 467964.20 451164.80 467888.51 451158.96 467886.17 451147.80 467881.70 451149.56 467876.13 451165.82 467824.54 450948.98 467760.60 450949.41 467747.38 450924.56 467749.51 450904.21 467751.25 450916.76 467983.60 450948.72 467981.79 450954.44 467981.46 450958.54 467981.51 450959.33 468003.77 450960.49 468049.54 450973.66 468049.02 451062.28 468045.52 451058.67 467869.97</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUSK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUSK_A gml:id="PL.PZGiK.308.BDOT10k_2923959E-D287-829B-E053-CA2BA8C0ML00_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D287-829B-E053-CA2BA8C0ML00</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>kompleks sportowo-rekreacyjny</ot:rodzaj>
+			<ot:nazwa>GKS Kasztelania Brudzew</ot:nazwa>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-f970836c-eb7a-46cd-9b2e-b5518e2775f3-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>473296.42 469976.73 473285.56 470002.39 473307.92 470035.32 473411.68 469986.48 473309.78 469848.81 473300.72 469843.08 473289.81 469839.01 473229.30 469828.59 473204.72 469824.36 473180.14 469820.13 473170.89 469840.04 473157.02 469869.91 473158.87 469875.27 473192.11 469895.61 473294.06 469957.98 473296.46 469964.46 473332.53 469939.80 473335.82 469943.54 473354.50 469966.93 473337.45 469979.19 473324.31 469964.98 473303.25 469982.44 473296.42 469976.73</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUSK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUSK_A gml:id="PL.PZGiK.308.BDOT10k_2923959E-D28D-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D28D-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>park lub skwer</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-4c628d88-7389-4374-bc30-610473824d0d-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>461472.70 461283.79 461477.77 461323.39 461479.43 461334.14 461483.80 461333.43 461494.04 461331.35 461498.67 461330.81 461502.99 461358.72 461534.03 461389.15 461533.73 461402.62 461532.31 461407.78 461527.66 461410.64 461509.24 461412.88 461508.00 461399.32 461504.43 461390.38 461495.89 461378.02 461484.29 461377.94 461489.16 461417.95 461489.16 461436.40 461492.04 461445.75 461495.41 461468.53 461513.35 461462.94 461572.77 461444.41 461594.40 461437.66 461605.79 461433.59 461609.22 461430.50 461611.32 461426.20 461611.79 461421.28 461616.04 461420.82 461612.13 461376.43 461610.09 461353.78 461608.13 461333.91 461606.11 461313.50 461604.21 461294.30 461603.87 461290.78 461601.82 461270.08 461592.19 461271.02 461554.57 461274.70 461523.32 461277.76 461484.53 461282.25 461472.70 461283.79</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUSK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUSK_A gml:id="PL.PZGiK.308.BDOT10k_cc52c5a5-9674-45bb-ac00-459965247cf4_2023-12-31T120000">
+			<ot:lokalnyId>cc52c5a5-9674-45bb-ac00-459965247cf4</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:skrotKartograficzny>letn.</ot:skrotKartograficzny>
+			<ot:rodzaj>zespół domów letniskowych</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-d12f4438-9c49-429e-ab4d-908a129c7cd0-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>476904.12 441318.10 476897.26 441318.21 476896.99 441293.65 476896.60 441258.20 476828.63 441258.20 476828.63 441283.24 476834.08 441283.24 476868.21 441283.24 476869.08 441318.18 476870.02 441355.73 476904.48 441355.75 476913.51 441355.75 476913.53 441360.47 476914.72 441417.68 476924.68 441417.47 476926.94 441417.42 476957.49 441416.85 476957.10 441395.02 476957.10 441364.77 476945.12 441364.77 476945.06 441360.17 476945.06 441318.10 476944.89 441313.97 476944.63 441297.21 476903.93 441298.23 476904.12 441318.10</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUSK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUSK_A gml:id="PL.PZGiK.308.BDOT10k_a2604127-627c-4251-9cac-a1aa9417d7aa_2023-12-31T120000">
+			<ot:lokalnyId>a2604127-627c-4251-9cac-a1aa9417d7aa</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:skrotKartograficzny>letn.</ot:skrotKartograficzny>
+			<ot:rodzaj>zespół domów letniskowych</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-d4a53070-3b27-4b43-a513-4dbda19443ed-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>477112.04 440530.18 477069.13 440533.02 477069.25 440535.98 477052.49 440537.24 477054.18 440580.36 477054.74 440594.81 477146.69 440589.57 477157.93 440589.06 477180.86 440587.39 477179.41 440547.43 477175.13 440547.33 477173.44 440547.33 477145.19 440547.33 477142.67 440547.38 477142.13 440531.31 477112.13 440532.78 477112.04 440530.18</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUSK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUSK_A gml:id="PL.PZGiK.308.BDOT10k_5edcc16a-856d-4501-8bbe-f076216de6e7_2025-01-31T120649">
+			<ot:lokalnyId>5edcc16a-856d-4501-8bbe-f076216de6e7</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2025-01-31T12:06:49</ot:wersja>
+			<ot:poczatekWersjiObiektu>2025-01-31T12:06:49</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>BGW-I-G.7520.19.2024</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:skrotKartograficzny>letn.</ot:skrotKartograficzny>
+			<ot:rodzaj>zespół domów letniskowych</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-b4303452-6a0d-4518-ad5a-f2dd0805348f-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>477150.67 441056.26 477150.68 441057.35 477150.74 441064.86 477150.75 441066.56 477151.70 441077.40 477151.53 441111.29 477152.20 441149.30 477157.02 441149.23 477191.44 441148.75 477191.74 441168.80 477157.52 441168.65 477152.54 441168.63 477153.09 441187.01 477154.87 441246.23 477181.73 441228.45 477192.50 441220.99 477205.97 441213.49 477228.59 441202.24 477231.30 441168.72 477287.62 441166.75 477305.33 441147.00 477314.10 441131.17 477315.50 441120.49 477315.41 441107.60 477315.76 441049.89 477315.77 441028.93 477315.77 441014.86 477315.29 440994.68 477315.24 440985.45 477343.05 440985.38 477361.33 440940.29 477363.59 440934.71 477368.48 440922.03 477369.16 440904.98 477368.66 440873.25 477367.36 440826.21 477315.38 440825.95 477319.11 440866.59 477319.09 440875.10 477283.02 440876.74 477283.68 440907.77 477317.39 440905.76 477315.80 440934.00 477283.03 440934.43 477284.02 440964.62 477255.00 440964.02 477229.75 440965.16 477229.92 440974.39 477186.57 440975.62 477186.16 440956.59 477229.60 440955.79 477229.60 440935.07 477229.52 440906.57 477209.91 440906.37 477195.80 440906.31 477190.10 440906.27 477171.38 440906.12 477165.46 440906.07 477149.45 440905.93 477149.64 440931.38 477149.72 440937.54 477149.87 440957.01 477150.02 440976.13 477150.18 440996.01 477112.25 440996.07 477112.38 441016.17 477149.65 441016.04 477187.26 441015.52 477187.58 441034.40 477150.50 441034.91 477113.17 441036.17 477112.79 441048.38 477119.79 441056.01 477150.67 441056.26</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUSK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUSK_A gml:id="PL.PZGiK.308.BDOT10k_a3ea83a5-676f-4489-a550-9cb91a900de0_2023-12-31T120000">
+			<ot:lokalnyId>a3ea83a5-676f-4489-a550-9cb91a900de0</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:informacjaDodatkowa>nr rej. 409/151 z 27.09.1988</ot:informacjaDodatkowa>
+			<ot:rodzaj>park lub skwer</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-92bc28a1-4cbe-489a-9f1f-7a7a95b7d402-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>465497.19 445464.99 465505.41 445465.12 465575.76 445472.85 465586.35 445472.23 465672.71 445470.14 465672.39 445457.06 465648.76 445370.59 465658.46 445370.67 465780.97 445371.65 465779.35 445366.32 465776.57 445354.23 465762.97 445290.10 465762.55 445288.00 465743.66 445193.10 465737.56 445159.00 465574.71 445130.06 465532.77 445118.41 465531.52 445121.65 465467.39 445107.93 465372.49 445089.98 465348.95 445201.19 465308.02 445277.09 465400.18 445303.29 465400.27 445325.16 465506.45 445364.02 465509.06 445355.78 465511.38 445359.18 465520.20 445363.97 465544.32 445373.25 465548.00 445374.29 465527.79 445426.31 465510.40 445420.75 465497.19 445464.99</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+					<gml:interior>
+						<gml:LinearRing>
+							<gml:posList>465459.00 445159.73 465541.73 445179.10 465546.11 445182.02 465549.54 445186.75 465550.47 445191.39 465549.85 445196.34 465548.15 445204.53 465544.83 445220.15 465530.24 445254.42 465520.70 445279.07 465516.53 445286.18 465513.28 445289.43 465508.64 445292.68 465502.28 445295.70 465497.42 445299.37 465488.03 445296.70 465467.85 445292.68 465463.83 445291.44 465461.05 445289.90 465458.88 445286.80 465457.61 445282.40 465455.98 445275.67 465453.63 445268.09 465442.18 445243.81 465440.44 445238.05 465439.36 445230.32 465439.20 445221.82 465440.60 445211.14 465443.53 445197.85 465454.66 445168.07 465459.00 445159.73</gml:posList>
+						</gml:LinearRing>
+					</gml:interior>
+					<gml:interior>
+						<gml:LinearRing>
+							<gml:posList>465627.61 445186.40 465702.66 445197.47 465691.56 445249.21 465656.12 445243.36 465618.04 445237.38 465627.61 445186.40</gml:posList>
+						</gml:LinearRing>
+					</gml:interior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUSK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUSK_A gml:id="PL.PZGiK.308.BDOT10k_68bc11ca-0a83-4dc1-a1bd-774e2f21b792_2023-12-31T120000">
+			<ot:lokalnyId>68bc11ca-0a83-4dc1-a1bd-774e2f21b792</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:skrotKartograficzny>letn.</ot:skrotKartograficzny>
+			<ot:rodzaj>zespół domów letniskowych</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-6804ee9f-7dda-4855-bfae-bbb0449c6e02-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>476637.65 444985.06 476644.09 444987.29 476653.25 444989.70 476663.93 444992.63 476671.06 444994.79 476676.42 444995.88 476677.43 444991.82 476722.88 444987.52 476823.99 444972.31 476853.39 444866.98 476807.57 444854.89 476813.71 444831.02 476764.80 444818.94 476769.14 444803.46 476772.65 444789.14 476767.93 444787.97 476755.29 444784.83 476745.61 444782.42 476728.53 444778.00 476733.43 444759.17 476736.17 444747.72 476764.66 444754.57 476770.87 444756.13 476780.99 444758.66 476786.96 444735.98 476709.72 444711.08 476675.73 444699.32 476664.27 444742.37 476698.84 444750.74 476702.02 444751.55 476693.50 444784.21 476689.88 444783.38 476655.56 444775.07 476648.74 444800.67 476643.08 444821.92 476637.46 444843.05 476631.10 444866.95 476622.87 444897.83 476612.69 444936.05 476606.74 444958.40 476599.16 444986.87 476629.50 444994.85 476633.74 444995.96 476637.65 444985.06</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+					<gml:interior>
+						<gml:LinearRing>
+							<gml:posList>476715.35 444839.95 476756.35 444850.71 476759.49 444851.42 476755.47 444866.89 476750.36 444886.51 476796.38 444898.66 476794.61 444906.77 476791.82 444917.93 476786.89 444937.65 476782.13 444956.71 476732.86 444944.48 476729.21 444943.50 476742.10 444894.02 476704.09 444884.79 476710.20 444860.57 476715.35 444839.95</gml:posList>
+						</gml:LinearRing>
+					</gml:interior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUSK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUSK_A gml:id="PL.PZGiK.308.BDOT10k_1e3007f6-3465-4f69-8a65-5366b6e4e4f6_2023-12-31T120000">
+			<ot:lokalnyId>1e3007f6-3465-4f69-8a65-5366b6e4e4f6</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:informacjaDodatkowa>nr rej. A-461/202 z 20.08.1991</ot:informacjaDodatkowa>
+			<ot:rodzaj>park lub skwer</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-2125b9a4-2aad-48e9-991f-075f7abe008a-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>464408.06 461194.83 464476.13 461204.01 464521.77 461201.11 464520.49 461177.81 464546.75 461177.49 464627.12 461171.62 464625.64 461164.87 464628.05 461107.13 464629.56 461069.83 464630.87 461037.60 464632.38 461000.49 464625.33 460994.07 464542.96 461004.56 464506.87 461012.51 464468.65 461021.39 464432.76 461029.02 464416.56 461042.06 464410.34 461042.50 464409.11 461068.06 464407.99 461091.59 464407.07 461110.64 464406.94 461113.39 464405.65 461140.29 464404.79 461156.39 464402.89 461192.08 464402.77 461193.97 464408.06 461194.83</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUSK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUSK_A gml:id="PL.PZGiK.308.BDOT10k_4e8180de-b6e4-4f38-b2f8-a415e21e43d3_2023-12-31T120000">
+			<ot:lokalnyId>4e8180de-b6e4-4f38-b2f8-a415e21e43d3</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:informacjaDodatkowa>nr rej. 349/91 z 21.05.1984</ot:informacjaDodatkowa>
+			<ot:rodzaj>park lub skwer</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-1a6d2499-2a48-4266-832c-bac1deb0549d-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>455634.24 461394.48 455634.29 461427.13 455634.39 461438.00 455638.47 461464.85 455642.29 461499.67 455645.63 461499.16 455656.47 461497.65 455688.61 461491.67 455725.15 461504.47 455727.77 461514.96 455741.74 461514.52 455745.05 461512.86 455762.69 461504.04 455763.29 461504.04 455777.52 461504.04 455779.71 461522.82 455816.80 461533.73 455862.88 461555.92 455885.75 461566.93 455897.60 461569.24 455941.61 461577.84 455957.32 461576.53 455986.56 461579.67 455999.48 461569.32 456004.70 461568.91 456004.68 461556.01 456004.66 461546.25 456004.60 461515.37 456004.60 461512.98 456004.52 461472.58 456004.43 461423.72 456004.27 461421.94 455980.31 461424.08 455954.41 461429.13 455944.19 461432.45 455931.10 461441.38 455921.01 461411.77 455911.58 461380.94 455911.37 461366.78 455906.30 461365.32 455882.03 461367.87 455864.43 461356.52 455839.41 461346.70 455825.59 461349.09 455789.35 461354.23 455722.44 461366.50 455697.83 461372.38 455667.28 461372.38 455651.14 461371.94 455640.45 461378.27 455635.86 461384.60 455634.24 461394.48</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUSK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUSK_A gml:id="PL.PZGiK.308.BDOT10k_449f1e33-0e0e-4782-a135-321a103a1ea4_2023-12-31T120000">
+			<ot:lokalnyId>449f1e33-0e0e-4782-a135-321a103a1ea4</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:skrotKartograficzny>letn.</ot:skrotKartograficzny>
+			<ot:rodzaj>zespół domów letniskowych</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-7c070292-0084-416e-9e27-2a1be799b80f-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>477425.65 442888.25 477403.20 442912.32 477358.44 442960.31 477372.78 442973.27 477395.70 442997.04 477415.86 443018.34 477428.43 443031.62 477474.73 442973.29 477517.77 442943.56 477548.62 442911.65 477532.70 442897.17 477509.62 442876.17 477504.58 442881.52 477496.32 442858.95 477495.21 442845.20 477494.97 442816.64 477447.91 442865.13 477423.80 442841.49 477401.95 442864.38 477425.64 442888.25 477425.65 442888.25</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUSK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUSK_A gml:id="PL.PZGiK.308.BDOT10k_3818e7f9-f11e-4780-a9ec-f7c5296a60ab_2023-12-31T120000">
+			<ot:lokalnyId>3818e7f9-f11e-4780-a9ec-f7c5296a60ab</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:skrotKartograficzny>letn.</ot:skrotKartograficzny>
+			<ot:rodzaj>zespół domów letniskowych</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-4da06c93-8705-49f7-9f33-5faae15ce450-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>477592.19 443011.46 477612.76 443031.48 477592.28 443053.32 477575.22 443071.26 477562.09 443085.19 477582.24 443104.92 477584.00 443106.55 477541.34 443149.53 477555.20 443163.89 477592.33 443126.11 477611.58 443106.53 477628.39 443089.43 477646.35 443071.17 477681.30 443035.61 477668.13 443021.89 477648.89 443040.00 477647.24 443037.76 477626.81 443016.50 477643.67 442997.43 477623.38 442979.43 477603.59 442961.87 477573.47 442990.77 477572.21 442991.98 477571.70 442992.47 477592.19 443011.46</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUSK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUSK_A gml:id="PL.PZGiK.308.BDOT10k_1ed58fcf-89bb-40fe-a2c2-30e07f345322_2023-12-31T120000">
+			<ot:lokalnyId>1ed58fcf-89bb-40fe-a2c2-30e07f345322</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:informacjaDodatkowa>nr rej. Kl.IV-7/91/53 z 23.12.1953</ot:informacjaDodatkowa>
+			<ot:rodzaj>park lub skwer</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-cacc8a60-7087-4e68-8590-347523f3aa04-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>461844.93 472502.11 461870.75 472500.83 461894.30 472512.14 461998.17 472504.91 461996.01 472467.61 462051.97 472463.52 462044.00 472363.79 462020.82 472215.33 462013.52 472168.59 461913.08 472222.99 461839.62 472262.77 461830.59 472269.32 461811.17 472286.26 461769.62 472339.85 461773.22 472353.09 461777.18 472371.71 461783.70 472400.80 461785.64 472408.68 461786.70 472415.26 461785.64 472419.73 461773.28 472432.90 461767.24 472441.32 461761.19 472450.74 461758.14 472458.06 461755.65 472466.04 461754.43 472478.07 461756.58 472497.87 461759.00 472510.78 461762.30 472510.44 461841.90 472502.26 461844.93 472502.11</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUSK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUSK_A gml:id="PL.PZGiK.308.BDOT10k_64ab3523-90fa-40b9-b346-abcd2cc4df5f_2023-12-31T120000">
+			<ot:lokalnyId>64ab3523-90fa-40b9-b346-abcd2cc4df5f</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:informacjaDodatkowa>nr rej. 350/92 z 21.05.1984</ot:informacjaDodatkowa>
+			<ot:rodzaj>park lub skwer</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-56ec5fe4-7125-41e5-a7f1-363f6614ee16-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>456366.35 464608.68 456362.12 464628.48 456356.07 464627.02 456346.80 464625.01 456341.90 464654.22 456372.79 464662.53 456378.11 464665.93 456367.54 464682.47 456358.28 464695.50 456363.09 464702.21 456364.40 464709.50 456363.06 464721.79 456370.76 464736.62 456356.91 464752.02 456355.59 464757.30 456372.08 464762.14 456381.31 464753.56 456389.01 464763.24 456401.76 464769.40 456424.84 464778.18 456426.37 464771.47 456428.52 464766.66 456434.78 464760.85 456437.76 464757.80 456443.59 464750.99 456455.99 464728.74 456459.64 464722.20 456483.22 464679.90 456490.15 464668.88 456494.48 464663.46 456505.28 464653.25 456585.11 464577.76 456590.72 464572.45 456608.77 464555.39 456604.33 464545.13 456604.74 464539.44 456600.50 464529.79 456593.32 464521.45 456549.31 464470.24 456485.60 464401.68 456469.75 464382.76 456465.68 464380.52 456347.40 464428.55 456320.15 464439.85 456310.23 464490.75 456313.90 464503.47 456327.73 464514.87 456353.21 464533.96 456364.51 464528.26 456373.55 464535.00 456387.22 464565.05 456371.63 464571.40 456362.20 464558.50 456352.97 464562.58 456350.13 464563.84 456352.99 464576.54 456354.94 464581.34 456358.20 464583.88 456341.10 464588.59 456337.86 464602.16 456366.35 464608.68</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUSK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUSK_A gml:id="PL.PZGiK.308.BDOT10k_aYAeHnWw-2Gsi-XT0E-obn5-7UHZMuuBZYnR_2024-06-24T000000">
+			<ot:lokalnyId>aYAeHnWw-2Gsi-XT0E-obn5-7UHZMuuBZYnR</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2024-06-24T00:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2024-06-24T00:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>BGW-I-G.7520.15.2024</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:skrotKartograficzny>letn.</ot:skrotKartograficzny>
+			<ot:rodzaj>zespół domów letniskowych</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-db083763-7a28-4a9f-9f01-9c9cbd0b07f4-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>477752.34 443554.15 477723.16 443524.52 477716.82 443518.18 477691.11 443492.47 477700.97 443481.96 477721.79 443460.95 477742.57 443439.98 477753.43 443429.02 477764.81 443417.53 477778.77 443403.45 477748.75 443373.10 477720.63 443343.84 477705.38 443359.46 477694.49 443370.62 477685.43 443379.89 477673.76 443391.85 477663.19 443402.68 477651.75 443414.41 477599.63 443465.69 477628.72 443495.07 477653.95 443469.51 477664.50 443458.58 477680.90 443443.17 477684.20 443445.78 477621.90 443508.08 477648.35 443535.13 477657.85 443525.84 477686.30 443550.64 477690.24 443554.08 477710.61 443533.29 477712.65 443535.21 477742.93 443563.41 477752.34 443554.15</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUSK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUSK_A gml:id="PL.PZGiK.308.BDOT10k_5d6c8af4-88d4-4885-8ecb-d4f4a6e2244f_2023-12-31T120000">
+			<ot:lokalnyId>5d6c8af4-88d4-4885-8ecb-d4f4a6e2244f</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:informacjaDodatkowa>nr rej. 352/94 z 21.05.1984</ot:informacjaDodatkowa>
+			<ot:rodzaj>park lub skwer</ot:rodzaj>
+			<ot:nazwa>Park Miejski</ot:nazwa>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-ac0aba8f-2315-4730-806a-6ba5f2e92371-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>451970.93 468122.30 452074.81 468135.46 452081.38 468140.58 452080.74 468168.32 452080.61 468174.06 452021.22 468164.95 451992.03 468160.27 451987.06 468195.21 451986.00 468203.95 451998.83 468205.83 451997.77 468213.52 451996.23 468222.17 451992.48 468251.57 452010.60 468240.25 452024.08 468248.50 452035.22 468255.80 452044.63 468261.42 452043.64 468266.99 452042.62 468271.38 452040.91 468277.96 452039.43 468289.05 452028.60 468291.63 452009.78 468295.38 451987.69 468288.08 451980.98 468338.66 451979.67 468348.58 452026.92 468354.17 452037.20 468356.61 452047.40 468363.05 452056.11 468372.53 452087.07 468406.25 452093.63 468411.33 452099.00 468414.02 452118.67 468418.80 452122.81 468419.53 452152.17 468424.74 452153.41 468419.71 452156.27 468407.53 452163.99 468378.55 452178.56 468380.55 452179.90 468363.55 452185.33 468285.91 452243.34 468155.18 452248.86 468142.74 452237.00 468138.58 452178.89 468130.76 452171.84 468129.82 452149.26 468124.19 452110.61 468114.57 452104.80 468112.11 452102.32 468111.06 452093.85 468107.49 452035.04 468078.65 452029.29 468083.51 452003.70 468104.44 451979.86 468116.07 451972.79 468120.27 451970.93 468122.30</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+					<gml:interior>
+						<gml:LinearRing>
+							<gml:posList>452057.14 468368.11 452054.72 468363.10 452060.57 468314.33 452109.52 468320.79 452104.61 468375.62 452057.14 468368.11</gml:posList>
+						</gml:LinearRing>
+					</gml:interior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUSK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUSK_A gml:id="PL.PZGiK.308.BDOT10k_8f4df85c-199e-4fde-8764-329c80e69ab4_2023-12-31T120000">
+			<ot:lokalnyId>8f4df85c-199e-4fde-8764-329c80e69ab4</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:informacjaDodatkowa>nr rej. 290/32 z 30.04.1984</ot:informacjaDodatkowa>
+			<ot:rodzaj>park lub skwer</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-593971f0-6ccd-4417-861c-ee04238deecc-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>472499.97 470698.87 472477.43 470709.75 472540.80 470737.46 472627.95 470761.47 472660.04 470797.82 472715.65 470801.52 472735.60 470803.24 472737.81 470779.59 472736.71 470776.01 472741.99 470719.41 472790.88 470729.18 472789.11 470736.25 472780.81 470769.30 472859.27 470778.48 472869.21 470779.97 472887.12 470782.78 472899.49 470784.15 472905.32 470784.77 472906.26 470771.62 472908.02 470746.79 472918.60 470671.08 472920.44 470657.92 472908.89 470598.78 472893.78 470596.21 472845.58 470588.01 472808.66 470581.73 472802.78 470580.73 472764.55 470574.22 472753.19 470573.60 472682.73 470569.73 472670.64 470637.57 472669.91 470641.69 472563.23 470634.89 472564.13 470679.32 472529.80 470700.01 472499.97 470698.87</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUSK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUSK_A gml:id="PL.PZGiK.308.BDOT10k_jZ91MGCo-Z97u-2KjS-LH7q-WEDYrKd1AJEQ_2024-06-24T000000">
+			<ot:lokalnyId>jZ91MGCo-Z97u-2KjS-LH7q-WEDYrKd1AJEQ</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2024-06-24T00:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2024-06-24T00:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>BGW-I-G.7520.15.2024</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:skrotKartograficzny>letn.</ot:skrotKartograficzny>
+			<ot:rodzaj>zespół domów letniskowych</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-0c740b77-4172-4026-a4be-b752cc0bf465-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>477005.69 443693.07 476984.94 443696.18 476989.57 443730.39 476994.94 443769.39 477000.62 443811.37 476968.30 443815.58 476983.08 443926.08 476984.28 443946.84 476979.60 443946.59 476951.41 443943.83 476929.32 443942.54 476879.39 443939.62 476853.83 443938.29 476824.10 443937.91 476819.58 443963.39 476839.44 443968.65 476832.49 443998.17 476861.72 444001.30 476913.66 444009.65 476965.20 444018.11 476973.72 444013.39 476984.46 444015.96 477010.21 443994.57 477024.45 444011.08 477044.72 444037.97 477086.65 444005.56 477064.78 443982.77 477039.43 443934.94 477066.71 443931.77 477063.31 443904.64 477059.70 443875.77 477059.28 443872.41 477058.95 443869.77 477056.20 443847.79 477051.92 443813.62 477045.57 443762.91 477040.71 443724.12 477036.25 443688.49 477005.69 443693.07</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUSK_A>
+	</gml:featureMember>
+</gml:FeatureCollection>
