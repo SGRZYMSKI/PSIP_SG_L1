@@ -1,10 +1,10 @@
-name: Stop Remote Database
+name: Destroy Remote Database
 
 on:
   workflow_dispatch:
     inputs:
       environment:
-        description: "Środowisko do zatrzymania"
+        description: "Środowisko do usunięcia"
         required: true
         type: choice
         options:
@@ -13,7 +13,7 @@ on:
           - main
 
 jobs:
-  stop-db:
+  destroy-db:
     runs-on: self-hosted
 
     environment:
@@ -23,14 +23,14 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Stop PostGIS
+      - name: Destroy PostGIS
         run: |
           docker compose \
             -f docker-compose-remote.yml \
             -p remote-db-${{ inputs.environment }} \
-            down
+            down -v
 
       - name: Verify
         run: |
           docker ps -a
-
+          docker volume ls
