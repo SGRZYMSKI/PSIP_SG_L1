@@ -1,0 +1,952 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:FeatureCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:ot="urn:gugik:specyfikacje:gmlas:bazaDanychObiektowTopograficznych10k:2.0" gml:id="GUGiK_OT_KUSC_A" xsi:schemaLocation="urn:gugik:specyfikacje:gmlas:bazaDanychObiektowTopograficznych10k:2.0 ../XSD/BDOT10k_BDOO.xsd">
+	<gml:featureMember>
+		<ot:OT_KUSC_A gml:id="PL.PZGiK.308.BDOT10k_2923959E-D264-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D264-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_345_1</ot:kodKarto10k>
+			<ot:nazwa>Cmentarz Komunalny w Turku</ot:nazwa>
+			<ot:rodzaj>cmentarz komunalny</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-0da24a93-097e-4594-8e68-1755422e77fb-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>465295.14 461980.40 465255.87 462187.47 465298.99 462194.43 465312.74 462169.01 465361.83 462078.10 465444.75 462092.23 465475.20 462097.42 465483.90 462066.79 465488.24 462051.51 465445.04 462037.40 465455.13 462007.52 465460.26 461992.33 465408.70 461989.99 465295.14 461980.40</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUSC_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUSC_A gml:id="PL.PZGiK.308.BDOT10k_61ff79bf-517c-4a41-ac9e-4b87c6288a0c_2023-12-31T120000">
+			<ot:lokalnyId>61ff79bf-517c-4a41-ac9e-4b87c6288a0c</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_343_1</ot:kodKarto10k>
+			<ot:nazwa>Cmentarz Parafialny w Galewie</ot:nazwa>
+			<ot:rodzaj>cmentarz wyznaniowy</ot:rodzaj>
+			<ot:wyznanie>chrześcijańskie</ot:wyznanie>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-de7905b0-d259-4c64-ab17-4c228022e797-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>469460.72 466904.02 469470.46 466998.78 469517.40 466998.05 469540.73 466997.68 469533.74 466903.06 469460.72 466904.02</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUSC_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUSC_A gml:id="PL.PZGiK.308.BDOT10k_2923959E-D265-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D265-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_343_1</ot:kodKarto10k>
+			<ot:nazwa>Cmentarz Parafialny w Turku</ot:nazwa>
+			<ot:rodzaj>cmentarz wyznaniowy</ot:rodzaj>
+			<ot:wyznanie>chrześcijańskie</ot:wyznanie>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-dbe5c893-d70a-4f7b-9c73-a8113aea429c-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>465361.83 462078.10 465312.74 462169.01 465411.16 462186.36 465446.01 462192.51 465460.92 462143.93 465475.20 462097.42 465444.75 462092.23 465361.83 462078.10</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUSC_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUSC_A gml:id="PL.PZGiK.308.BDOT10k_67be4ede-0beb-4aec-8b82-ec92b2054ed6_2023-12-31T120000">
+			<ot:lokalnyId>67be4ede-0beb-4aec-8b82-ec92b2054ed6</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:informacjaDodatkowa>nr rej. 305/47 z 14.05.1984</ot:informacjaDodatkowa>
+			<ot:nazwa>Kościół Rzymskokatolicki (parafialny) pw. św. Mikołaja</ot:nazwa>
+			<ot:rodzaj>zespół sakralny lub klasztorny</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-b1f408cf-de94-4d14-8eba-d1095d7537f3-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>476829.49 440811.45 476833.47 440823.66 476841.21 440847.39 476846.78 440864.43 476853.44 440862.31 476918.17 440827.72 476937.67 440824.79 476946.37 440813.68 476936.59 440767.34 476930.98 440760.94 476903.45 440765.90 476900.37 440770.94 476903.09 440787.44 476829.49 440811.45</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUSC_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUSC_A gml:id="PL.PZGiK.308.BDOT10k_2923959E-D243-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D243-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:informacjaDodatkowa>cmentarz żydowski, nr rej. A-464/205 z 11.09.1991</ot:informacjaDodatkowa>
+			<ot:kodKarto10k>0010_344_1</ot:kodKarto10k>
+			<ot:nazwa>Cmentarz Żydowski</ot:nazwa>
+			<ot:rodzaj>cmentarz wyznaniowy</ot:rodzaj>
+			<ot:wyznanie>inne</ot:wyznanie>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-38a867b3-9fc5-4922-9528-c99384512da5-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>464647.04 463567.63 464618.82 463641.92 464648.32 463648.87 464683.22 463657.09 464728.00 463667.64 464734.00 463617.48 464735.07 463607.47 464738.08 463583.41 464696.14 463576.14 464647.04 463567.63</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUSC_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUSC_A gml:id="PL.PZGiK.308.BDOT10k_2923959E-D247-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D247-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:nazwa>Kościół Rzymskokatolicki (parafialny) pw. św. Stanisława Biskupa Męczennika i św. Mikołaja Biskupa</ot:nazwa>
+			<ot:rodzaj>zespół sakralny lub klasztorny</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-5f0e5577-861a-4c2b-b3ff-79dfb5089b2a-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>458260.58 454136.25 458299.24 454152.85 458340.98 454167.10 458347.11 454169.19 458364.34 454175.24 458366.92 454168.04 458373.42 454150.19 458404.45 454163.98 458367.90 454112.58 458381.47 454077.22 458386.79 454061.65 458391.49 454047.87 458320.07 454012.79 458282.44 454091.03 458278.00 454100.26 458270.66 454115.42 458260.58 454136.25</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUSC_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUSC_A gml:id="PL.PZGiK.308.BDOT10k_2923959E-D25C-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D25C-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_343_1</ot:kodKarto10k>
+			<ot:nazwa>Cmentarz Parafialny w Brudzewie</ot:nazwa>
+			<ot:rodzaj>cmentarz wyznaniowy</ot:rodzaj>
+			<ot:wyznanie>chrześcijańskie</ot:wyznanie>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-a81a4990-cd62-45e3-8719-123fd24c97ff-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>471826.20 470037.60 471802.01 470113.46 471816.63 470122.31 471843.17 470138.38 471873.36 470149.22 471876.38 470150.30 471914.65 470163.67 471937.47 470163.38 471970.61 470162.95 471978.25 470131.11 471985.78 470099.73 471929.60 470077.86 471874.45 470056.39 471826.20 470037.60</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUSC_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUSC_A gml:id="PL.PZGiK.308.BDOT10k_2923959E-D25B-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D25B-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_343_1</ot:kodKarto10k>
+			<ot:nazwa>Cmentarz Parafialny w Kowalach Pańskich</ot:nazwa>
+			<ot:rodzaj>cmentarz wyznaniowy</ot:rodzaj>
+			<ot:wyznanie>chrześcijańskie</ot:wyznanie>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-39ce8b27-89cf-4aeb-9017-0a2efc99a7b6-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>468536.02 452050.05 468542.52 452073.50 468553.32 452121.65 468547.12 452123.30 468565.85 452198.39 468581.40 452195.51 468592.80 452197.61 468607.61 452187.73 468569.02 452032.10 468551.04 452032.57 468552.15 452036.96 468541.78 452039.21 468544.35 452047.79 468536.02 452050.05</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUSC_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUSC_A gml:id="PL.PZGiK.308.BDOT10k_2923959E-D25F-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D25F-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_343_1</ot:kodKarto10k>
+			<ot:nazwa>Cmentarz Parafialny w Janiszewie</ot:nazwa>
+			<ot:rodzaj>cmentarz wyznaniowy</ot:rodzaj>
+			<ot:wyznanie>chrześcijańskie</ot:wyznanie>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-38bacd46-f264-48ee-ab3b-a5247d8c65c1-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>475944.16 468999.86 475939.40 469062.18 475995.96 469062.66 476038.23 469063.01 476079.47 469063.36 476080.70 468977.35 476026.82 468976.69 475946.01 468975.69 475944.16 468999.86</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUSC_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUSC_A gml:id="PL.PZGiK.308.BDOT10k_2923959E-D261-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D261-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_343_1</ot:kodKarto10k>
+			<ot:nazwa>Cmentarz Parafialny w Boleszczynie</ot:nazwa>
+			<ot:rodzaj>cmentarz wyznaniowy</ot:rodzaj>
+			<ot:wyznanie>chrześcijańskie</ot:wyznanie>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-92bd9ce8-3c98-4ca1-876a-a0e597f6d575-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>477234.23 455430.15 477286.99 455435.19 477294.56 455413.30 477296.00 455408.44 477313.84 455344.96 477326.19 455305.95 477252.27 455301.35 477247.27 455337.02 477234.23 455430.15</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUSC_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUSC_A gml:id="PL.PZGiK.308.BDOT10k_2923959E-D251-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D251-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:informacjaDodatkowa>nr rej. 524/265 z 30.12.1995</ot:informacjaDodatkowa>
+			<ot:kodKarto10k>0010_343_1</ot:kodKarto10k>
+			<ot:nazwa>Cmentarz Parafialny w Tuliszkowie</ot:nazwa>
+			<ot:rodzaj>cmentarz wyznaniowy</ot:rodzaj>
+			<ot:wyznanie>chrześcijańskie</ot:wyznanie>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-07f86d16-42b9-4086-9103-2bf19007859b-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>451693.48 467663.59 451688.67 467718.42 451697.35 467722.86 451829.35 467716.48 451833.01 467712.94 451846.43 467618.17 451857.36 467540.97 451858.54 467532.94 451868.19 467465.01 451733.31 467445.06 451726.41 467483.88 451722.09 467508.15 451720.58 467516.64 451700.73 467615.99 451697.41 467636.32 451694.09 467656.65 451693.48 467663.59</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUSC_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUSC_A gml:id="PL.PZGiK.308.BDOT10k_2923959E-D24A-829B-E053-CA2BA8C0F89A_2024-06-24T000000">
+			<ot:lokalnyId>2923959E-D24A-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2024-06-24T00:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2024-06-24T00:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>BGW-I-G.7520.15.2024</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:nazwa>Kościół Rzymskokatolicki (parafialny) pw. Przemienienia Pańskiego</ot:nazwa>
+			<ot:rodzaj>zespół sakralny lub klasztorny</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-f48d9bf6-f5d4-4d33-bb82-9e89f0c61923-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>469733.55 466881.52 469738.50 466936.99 469738.83 466940.70 469803.10 466937.56 469805.54 466942.61 469914.21 466938.78 469916.65 466833.32 469905.11 466832.82 469828.27 466834.58 469762.24 466839.14 469730.29 466844.59 469730.65 466848.63 469733.55 466881.52</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUSC_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUSC_A gml:id="PL.PZGiK.308.BDOT10k_2923959E-D24F-829B-E053-CA2BA8C0F89A_2024-06-24T000000">
+			<ot:lokalnyId>2923959E-D24F-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2024-06-24T00:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2024-06-24T00:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>BGW-I-G.7520.15.2024</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:nazwa>Kościół Rzymskokatolicki (parafialny) pw. św. Józefa Robotnika w Kunach</ot:nazwa>
+			<ot:rodzaj>zespół sakralny lub klasztorny</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-08008392-b3de-425e-a607-0e1faf59843c-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>461618.46 476773.60 461624.01 476787.24 461631.81 476805.59 461632.84 476810.24 461651.12 476806.46 461678.25 476800.88 461686.35 476799.15 461701.73 476795.86 461704.82 476791.87 461709.26 476770.87 461696.78 476732.60 461654.31 476743.21 461634.80 476747.67 461610.08 476752.98 461618.46 476773.60</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUSC_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUSC_A gml:id="PL.PZGiK.308.BDOT10k_16c2af0c-3af7-41b8-a9a1-f371aac39e7f_2023-12-31T120000">
+			<ot:lokalnyId>16c2af0c-3af7-41b8-a9a1-f371aac39e7f</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_343_1</ot:kodKarto10k>
+			<ot:nazwa>Cmentarz Parafialny w Turku</ot:nazwa>
+			<ot:rodzaj>cmentarz wyznaniowy</ot:rodzaj>
+			<ot:wyznanie>chrześcijańskie</ot:wyznanie>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-5fe4c7aa-8e23-46f1-abc4-37f22b18cc14-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>465569.06 462248.07 465577.62 462250.56 465597.87 462256.45 465634.99 462133.02 465618.14 462127.92 465615.94 462127.25 465575.78 462115.09 465552.27 462107.97 465528.82 462100.87 465501.42 462092.57 465479.46 462173.04 465477.39 462180.62 465526.00 462195.30 465559.92 462205.55 465581.09 462211.94 465569.06 462248.07</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUSC_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUSC_A gml:id="PL.PZGiK.308.BDOT10k_2923959E-D24B-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D24B-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:nazwa>Kościół Rzymskokatolicki (parafialny) pw. Narodzenia Najświętszej Maryi Panny</ot:nazwa>
+			<ot:rodzaj>zespół sakralny lub klasztorny</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-b7cd61b8-fa9a-4e60-9107-b9633ef8f4b6-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>473556.90 450045.19 473556.47 450048.19 473561.45 450060.18 473569.07 450078.53 473576.71 450099.07 473610.61 450088.54 473614.07 450087.47 473667.22 450072.35 473677.02 450053.59 473673.64 450040.75 473668.77 450026.33 473664.83 450016.77 473658.98 450001.63 473655.98 450001.48 473638.70 450008.77 473573.46 450037.62 473556.90 450045.19</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUSC_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUSC_A gml:id="PL.PZGiK.308.BDOT10k_2923959E-D245-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D245-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_344_1</ot:kodKarto10k>
+			<ot:nazwa>Cmentarz Żydowski</ot:nazwa>
+			<ot:rodzaj>cmentarz wyznaniowy</ot:rodzaj>
+			<ot:wyznanie>inne</ot:wyznanie>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-e01ab16a-be09-4126-8b7b-69796d2c0264-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>473190.75 449009.06 473198.80 449009.33 473208.51 449009.25 473219.79 449007.91 473229.22 449005.96 473238.64 449003.39 473248.18 449000.11 473264.36 448993.45 473293.60 448979.32 473280.49 448865.33 473214.90 448865.02 473190.75 449009.06</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUSC_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUSC_A gml:id="PL.PZGiK.308.BDOT10k_9c915418-aabe-4842-9b20-12c5afe6be15_2023-12-31T120000">
+			<ot:lokalnyId>9c915418-aabe-4842-9b20-12c5afe6be15</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_345_1</ot:kodKarto10k>
+			<ot:nazwa>Cmentarz Komunalny w Turku</ot:nazwa>
+			<ot:rodzaj>cmentarz komunalny</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-72f5c7c1-4fc9-4e6d-a2e7-2a656d67bae7-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>462281.07 461853.65 462279.05 461860.50 462261.82 461861.91 462250.68 461862.82 462244.01 461863.36 462173.08 461869.15 462162.34 461870.03 462165.50 461909.78 462168.68 461949.81 462173.79 462013.99 462175.63 462037.16 462367.73 462021.73 462457.23 462014.44 462452.53 461968.77 462446.51 461888.92 462442.33 461838.74 462351.77 461847.79 462281.07 461853.65</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUSC_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUSC_A gml:id="PL.PZGiK.308.BDOT10k_2923959E-D259-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D259-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_343_1</ot:kodKarto10k>
+			<ot:nazwa>Cmentarz Parafialny w Milejowie</ot:nazwa>
+			<ot:rodzaj>cmentarz wyznaniowy</ot:rodzaj>
+			<ot:wyznanie>chrześcijańskie</ot:wyznanie>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-13de13a4-c8d0-4d11-a4c5-99fad73f57af-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>467921.46 445971.86 467929.37 446014.67 467939.86 446071.49 467989.09 446045.01 468014.22 446031.50 468057.42 446008.27 468057.42 445980.67 468042.70 445954.12 468028.03 445927.65 467939.90 445964.21 467921.46 445971.86</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUSC_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUSC_A gml:id="PL.PZGiK.308.BDOT10k_4b12b025-bb15-4419-ba0e-23a974aeece8_2023-12-31T120000">
+			<ot:lokalnyId>4b12b025-bb15-4419-ba0e-23a974aeece8</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_343_1</ot:kodKarto10k>
+			<ot:nazwa>Cmentarz Parafialny w Głuchowie</ot:nazwa>
+			<ot:rodzaj>cmentarz wyznaniowy</ot:rodzaj>
+			<ot:wyznanie>chrześcijańskie</ot:wyznanie>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-54d7b68b-ec0a-4fa4-b50a-dd1a1b7230b2-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>469747.72 444439.92 469745.77 444460.18 469786.06 444472.62 469792.80 444448.07 469799.64 444417.19 469806.23 444377.67 469752.48 444390.42 469747.72 444439.92</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUSC_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUSC_A gml:id="PL.PZGiK.308.BDOT10k_2923959E-D25D-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D25D-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_343_1</ot:kodKarto10k>
+			<ot:nazwa>Cmentarz parafii św. apostołów Piotra i Pawła w Psarach</ot:nazwa>
+			<ot:rodzaj>cmentarz wyznaniowy</ot:rodzaj>
+			<ot:wyznanie>chrześcijańskie</ot:wyznanie>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-f67c5904-d07e-4401-aaf8-baa6a8ae7883-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>473106.37 458467.74 473133.37 458509.01 473171.72 458567.61 473196.78 458544.73 473241.38 458504.02 473214.09 458460.92 473181.77 458410.98 473138.36 458443.40 473106.37 458467.74</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUSC_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUSC_A gml:id="PL.PZGiK.308.BDOT10k_2923959E-D248-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D248-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:nazwa>Kościół Rzymskokatolicki (parafialny) pw. św. Barbary</ot:nazwa>
+			<ot:rodzaj>zespół sakralny lub klasztorny</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-571845eb-7c18-4617-8c8d-51f954e9e1ea-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>466679.55 461227.33 466664.28 461333.15 466681.87 461335.76 466734.58 461343.59 466751.62 461237.82 466679.55 461227.33</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUSC_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUSC_A gml:id="PL.PZGiK.308.BDOT10k_2923959E-D260-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D260-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_343_1</ot:kodKarto10k>
+			<ot:nazwa>Cmentarz Parafialny w Miłkowicach</ot:nazwa>
+			<ot:rodzaj>cmentarz wyznaniowy</ot:rodzaj>
+			<ot:wyznanie>chrześcijańskie</ot:wyznanie>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-13fb91ba-9324-42a8-99f8-0a33017d143b-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>476163.89 441341.26 476187.79 441339.85 476316.76 441332.26 476315.55 441300.15 476315.12 441288.90 476315.09 441288.11 476313.05 441234.09 476287.12 441235.56 476257.37 441237.26 476256.49 441237.31 476217.56 441239.52 476159.40 441242.82 476163.89 441341.26</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUSC_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUSC_A gml:id="PL.PZGiK.308.BDOT10k_2923959E-D24C-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D24C-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:nazwa>Kościół Rzymskokatolicki (parafialny) pw. Nawiedzenia Najświętszej Marii Panny w Psarach</ot:nazwa>
+			<ot:rodzaj>zespół sakralny lub klasztorny</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-baf05762-df86-43b4-99e6-cb80956520ea-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>473661.03 457954.68 473669.47 457965.70 473678.08 457977.01 473693.18 457993.97 473706.15 458009.75 473727.80 457988.00 473734.35 457981.32 473736.97 457978.79 473759.53 457954.44 473772.01 457942.74 473765.02 457936.36 473737.20 457901.29 473661.03 457954.68</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUSC_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUSC_A gml:id="PL.PZGiK.308.BDOT10k_ea75acbe-a08d-4bc9-8c8f-3f2de2bed873_2023-12-31T120000">
+			<ot:lokalnyId>ea75acbe-a08d-4bc9-8c8f-3f2de2bed873</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:informacjaDodatkowa>cmentarz żydowski, nr rej. A-499/240 z 31.03.1994</ot:informacjaDodatkowa>
+			<ot:kodKarto10k>0010_344_1</ot:kodKarto10k>
+			<ot:rodzaj>cmentarz wyznaniowy</ot:rodzaj>
+			<ot:wyznanie>inne</ot:wyznanie>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-95e973d7-16ae-4120-916b-c95950d4662a-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>464623.18 472147.40 464592.26 472141.81 464606.95 472172.48 464608.09 472175.21 464641.14 472180.53 464740.08 472194.96 464740.69 472164.42 464623.18 472147.40</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUSC_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUSC_A gml:id="PL.PZGiK.308.BDOT10k_2923959E-D24E-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D24E-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_343_1</ot:kodKarto10k>
+			<ot:nazwa>Cmentarz Ewangelicki</ot:nazwa>
+			<ot:rodzaj>cmentarz wyznaniowy</ot:rodzaj>
+			<ot:wyznanie>chrześcijańskie</ot:wyznanie>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-9b5d3d77-b2bb-4805-9fd3-284a8d971bc5-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>471351.54 472062.87 471355.45 472119.44 471376.01 472130.78 471390.57 472129.25 471405.32 472117.04 471405.77 472116.67 471440.51 472087.92 471440.04 472063.14 471403.72 472063.03 471351.54 472062.87</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUSC_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUSC_A gml:id="PL.PZGiK.308.BDOT10k_3dc261a1-619c-4d81-87d3-dce20621017d_2023-12-31T120000">
+			<ot:lokalnyId>3dc261a1-619c-4d81-87d3-dce20621017d</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:informacjaDodatkowa>cmentarz ewangelicko-augsburski, nr rej. 4-475/216 z 20.07.1992</ot:informacjaDodatkowa>
+			<ot:kodKarto10k>0010_343_1</ot:kodKarto10k>
+			<ot:nazwa>Cmentarz Ewangelicki w Turku</ot:nazwa>
+			<ot:rodzaj>cmentarz wyznaniowy</ot:rodzaj>
+			<ot:wyznanie>chrześcijańskie</ot:wyznanie>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-bf4447a6-6549-4176-a782-6938a77ac5c3-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>465569.06 462248.07 465581.09 462211.94 465559.92 462205.55 465526.00 462195.30 465477.39 462180.62 465466.52 462216.93 465548.19 462241.73 465569.06 462248.07</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUSC_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUSC_A gml:id="PL.PZGiK.308.BDOT10k_8a43175b-e8a1-4296-a24e-1e2d34bf9a2b_2023-12-31T120000">
+			<ot:lokalnyId>8a43175b-e8a1-4296-a24e-1e2d34bf9a2b</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:nazwa>Kościół Rzymskokatolicki (parafialny) pw. św. Jadwigi Śląskiej</ot:nazwa>
+			<ot:rodzaj>zespół sakralny lub klasztorny</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-1dc4457a-a13a-4b89-b45b-9554daa73589-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>475658.58 468998.26 475678.57 469003.02 475726.56 469014.53 475722.07 469033.13 475774.72 469048.81 475776.92 469041.70 475800.43 469049.79 475808.51 469045.13 475814.39 469018.77 475819.09 468998.78 475812.23 468997.17 475804.84 468998.09 475775.11 468992.98 475776.68 468985.84 475735.83 468975.57 475737.34 468969.21 475689.34 468957.94 475669.97 468952.90 475665.79 468969.53 475660.66 468989.97 475658.58 468998.26</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUSC_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUSC_A gml:id="PL.PZGiK.308.BDOT10k_2923959E-D25A-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D25A-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_343_1</ot:kodKarto10k>
+			<ot:nazwa>Cmentarz Parafialny w Kaczkach Średnich</ot:nazwa>
+			<ot:rodzaj>cmentarz wyznaniowy</ot:rodzaj>
+			<ot:wyznanie>chrześcijańskie</ot:wyznanie>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-c6fe9aa1-d760-4abf-b7a4-039c2f6ed707-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>468039.05 456190.39 468014.16 456282.72 468070.79 456298.01 468080.01 456266.64 468097.63 456206.66 468058.92 456195.91 468039.05 456190.39</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUSC_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUSC_A gml:id="PL.PZGiK.308.BDOT10k_4546ea5e-1362-468d-8db0-4a7123f00da1_2023-12-31T120000">
+			<ot:lokalnyId>4546ea5e-1362-468d-8db0-4a7123f00da1</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_343_1</ot:kodKarto10k>
+			<ot:nazwa>Cmentarz Ewangelicko-Augsburski</ot:nazwa>
+			<ot:rodzaj>cmentarz wyznaniowy</ot:rodzaj>
+			<ot:wyznanie>chrześcijańskie</ot:wyznanie>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-4531c445-882f-471a-b4c1-a868b8c406af-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>455320.62 464049.37 455316.10 464066.85 455321.26 464100.18 455331.25 464100.40 455345.55 464100.19 455386.64 464095.36 455384.40 464088.77 455383.22 464082.60 455382.10 464076.77 455376.70 464043.48 455320.62 464049.37</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUSC_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUSC_A gml:id="PL.PZGiK.308.BDOT10k_2923959E-D262-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D262-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_343_1</ot:kodKarto10k>
+			<ot:nazwa>Cmentarz parafii Trójcy Świętej w Skęczniewie</ot:nazwa>
+			<ot:rodzaj>cmentarz wyznaniowy</ot:rodzaj>
+			<ot:wyznanie>chrześcijańskie</ot:wyznanie>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-a943631f-77f1-4be4-881a-cda051d30820-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>478020.42 445486.61 478002.96 445540.45 478069.18 445551.06 478112.28 445557.96 478114.57 445534.23 478118.24 445496.18 478121.87 445458.56 478125.76 445415.53 478080.33 445426.11 478035.71 445436.50 478028.61 445459.00 478020.42 445486.61</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUSC_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUSC_A gml:id="PL.PZGiK.308.BDOT10k_2923959E-D257-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D257-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_343_1</ot:kodKarto10k>
+			<ot:nazwa>Cmentarz Parafialny w Kunach</ot:nazwa>
+			<ot:rodzaj>cmentarz wyznaniowy</ot:rodzaj>
+			<ot:wyznanie>chrześcijańskie</ot:wyznanie>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-485cbd3b-cf4a-429b-a51f-261285eba5a4-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>462033.19 476999.32 462047.29 477035.70 462051.86 477047.51 462058.70 477065.15 462133.09 477039.64 462126.50 477022.05 462123.41 477013.80 462111.01 476980.66 462072.08 476990.21 462033.19 476999.32</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUSC_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUSC_A gml:id="PL.PZGiK.308.BDOT10k_2923959E-D249-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D249-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:nazwa>Kościół Rzymskokatolicki (parafialny) pw. Najświętszej Maryi Panny Królowej Polski</ot:nazwa>
+			<ot:rodzaj>zespół sakralny lub klasztorny</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-274e810d-7fa6-4b0d-8856-c3f7e2c59bec-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>468420.70 456110.36 468385.72 456226.78 468428.67 456241.44 468455.04 456250.44 468467.37 456210.96 468470.59 456200.66 468489.06 456141.48 468498.71 456110.56 468429.64 456110.38 468420.70 456110.36</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUSC_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUSC_A gml:id="PL.PZGiK.308.BDOT10k_4716e6ac-63fb-49eb-8a63-55a54842f790_2023-12-31T120000">
+			<ot:lokalnyId>4716e6ac-63fb-49eb-8a63-55a54842f790</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:informacjaDodatkowa>cmentarz choleryczny, nr rej. 20/Wlkp/A z 10.02.2002</ot:informacjaDodatkowa>
+			<ot:kodKarto10k>0010_345_1</ot:kodKarto10k>
+			<ot:nazwa>Cmentarz choleryczny</ot:nazwa>
+			<ot:rodzaj>cmentarz komunalny</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-244f3dd6-c4d8-489b-b191-d7c6b0b925e5-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>464700.79 463778.82 464724.04 463778.28 464727.77 463737.92 464711.49 463736.60 464706.05 463736.16 464700.79 463778.82</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUSC_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUSC_A gml:id="PL.PZGiK.308.BDOT10k_d1e41686-929f-4094-91f7-43c4d3e446d9_2023-12-31T120000">
+			<ot:lokalnyId>d1e41686-929f-4094-91f7-43c4d3e446d9</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:informacjaDodatkowa>nr rej. A-501/242 z 07.04.1994</ot:informacjaDodatkowa>
+			<ot:kodKarto10k>0010_343_1</ot:kodKarto10k>
+			<ot:nazwa>Cmentarz Parafialny w Russocicach</ot:nazwa>
+			<ot:rodzaj>cmentarz wyznaniowy</ot:rodzaj>
+			<ot:wyznanie>chrześcijańskie</ot:wyznanie>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-2a3bf4c2-b95e-4656-9562-725aa6b111a1-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>464557.71 471474.23 464546.74 471532.95 464545.74 471538.30 464537.49 471582.46 464596.10 471589.41 464775.19 471610.65 464779.07 471611.11 464781.11 471604.52 464738.88 471558.90 464718.39 471536.76 464613.84 471496.07 464557.71 471474.23</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUSC_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUSC_A gml:id="PL.PZGiK.308.BDOT10k_2923959E-D254-829B-E053-CA2BA8C0F89A_2025-02-03T124419">
+			<ot:lokalnyId>2923959E-D254-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2025-02-03T12:44:19</ot:wersja>
+			<ot:poczatekWersjiObiektu>2025-02-03T12:44:19</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>BGW-I-G.7520.19.2024</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_343_1</ot:kodKarto10k>
+			<ot:nazwa>Cmentarz Parafialny w Grzymiszewie</ot:nazwa>
+			<ot:rodzaj>cmentarz wyznaniowy</ot:rodzaj>
+			<ot:wyznanie>chrześcijańskie</ot:wyznanie>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-97e91236-121c-45c1-9fa6-8e0d5990d2b5-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>456036.02 464025.62 456006.85 464080.64 456071.67 464114.89 456084.03 464096.09 456089.74 464083.88 456096.63 464070.93 456098.93 464066.60 456130.93 464006.46 456064.01 463972.82 456036.02 464025.62</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUSC_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUSC_A gml:id="PL.PZGiK.308.BDOT10k_2942ef80-5127-4d20-81f8-3a825071b38e_2023-12-31T120000">
+			<ot:lokalnyId>2942ef80-5127-4d20-81f8-3a825071b38e</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_343_1</ot:kodKarto10k>
+			<ot:nazwa>Cmentarz Ewangelicki w Sarbicach</ot:nazwa>
+			<ot:rodzaj>cmentarz wyznaniowy</ot:rodzaj>
+			<ot:wyznanie>chrześcijańskie</ot:wyznanie>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-dd3de8d6-d6ab-46a7-baab-846c619ce3c0-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>479612.92 462338.07 479608.03 462357.14 479646.02 462366.94 479650.89 462347.72 479612.92 462338.07</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUSC_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUSC_A gml:id="PL.PZGiK.308.BDOT10k_a491667c-1720-449a-a3cb-a4235dee2e3b_2023-12-31T120000">
+			<ot:lokalnyId>a491667c-1720-449a-a3cb-a4235dee2e3b</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_343_1</ot:kodKarto10k>
+			<ot:nazwa>Cmentarz parafii Narodzenia Najświętszej Maryi Panny w Dobrej</ot:nazwa>
+			<ot:rodzaj>cmentarz wyznaniowy</ot:rodzaj>
+			<ot:wyznanie>chrześcijańskie</ot:wyznanie>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-b64dbce0-8a4c-4aec-ad8e-ac0d12fe325d-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>473997.51 450551.95 473995.57 450556.96 474006.97 450591.45 474014.52 450605.30 474032.43 450636.34 474072.26 450703.93 474072.93 450705.28 474078.54 450716.56 474209.84 450685.02 474189.68 450669.12 474113.48 450609.05 474046.71 450556.41 474019.68 450547.05 474016.59 450547.73 473997.51 450551.95</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUSC_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUSC_A gml:id="PL.PZGiK.308.BDOT10k_b00a4d98-9f06-4e92-abf2-9fe402351f0e_2023-12-31T120000">
+			<ot:lokalnyId>b00a4d98-9f06-4e92-abf2-9fe402351f0e</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:nazwa>Kościół Rzymskokatolicki (parafialny) pw. św. Mikołaja</ot:nazwa>
+			<ot:rodzaj>zespół sakralny lub klasztorny</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-86fe8f71-3ee6-4d14-b20f-b75645cbb748-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>472775.71 470525.24 472770.39 470542.98 472778.03 470545.28 472786.55 470547.86 472785.13 470553.58 472807.36 470559.64 472802.78 470580.73 472808.66 470581.73 472845.58 470588.01 472893.78 470596.21 472900.90 470582.28 472903.23 470571.19 472902.91 470561.98 472899.55 470551.74 472898.77 470546.89 472876.17 470537.80 472863.50 470533.64 472858.93 470532.12 472859.73 470529.97 472821.36 470517.94 472814.95 470537.19 472783.37 470527.53 472775.71 470525.24</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUSC_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUSC_A gml:id="PL.PZGiK.308.BDOT10k_2923959E-D256-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D256-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_343_1</ot:kodKarto10k>
+			<ot:nazwa>Cmentarz Parafialny w Malanowie</ot:nazwa>
+			<ot:rodzaj>cmentarz wyznaniowy</ot:rodzaj>
+			<ot:wyznanie>chrześcijańskie</ot:wyznanie>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-6e0f08f7-89a4-4866-a074-d69c2fabaa67-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>458094.92 453573.38 458119.26 453586.34 458154.17 453591.77 458215.87 453601.37 458246.44 453596.97 458249.99 453590.47 458257.82 453576.13 458261.72 453568.98 458249.32 453518.29 458237.89 453471.54 458193.75 453469.75 458110.98 453464.54 458105.54 453476.46 458128.85 453497.19 458094.92 453573.38</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUSC_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUSC_A gml:id="PL.PZGiK.308.BDOT10k_2923959E-D255-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D255-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_343_1</ot:kodKarto10k>
+			<ot:nazwa>Cmentarz Parafialny w Wyszynie</ot:nazwa>
+			<ot:rodzaj>cmentarz wyznaniowy</ot:rodzaj>
+			<ot:wyznanie>chrześcijańskie</ot:wyznanie>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-b916d731-60a7-4290-9703-7f757de70083-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>457776.40 474021.50 457755.22 474062.22 457754.31 474063.97 457779.07 474097.08 457818.96 474150.42 457825.27 474158.86 457845.52 474185.93 457849.09 474190.71 457896.70 474156.79 457912.01 474106.19 457880.59 474086.57 457776.40 474021.50</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUSC_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUSC_A gml:id="PL.PZGiK.308.BDOT10k_e322eb87-94a7-4fa1-a483-e1e2fd6d2b5f_2023-12-31T120000">
+			<ot:lokalnyId>e322eb87-94a7-4fa1-a483-e1e2fd6d2b5f</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:informacjaDodatkowa>nr rej. A-500/241 z 07.04.1994</ot:informacjaDodatkowa>
+			<ot:kodKarto10k>0010_344_1</ot:kodKarto10k>
+			<ot:rodzaj>cmentarz wyznaniowy</ot:rodzaj>
+			<ot:wyznanie>inne</ot:wyznanie>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-2a3afad2-00cb-4e78-836b-fec5f82c5e1e-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>462672.58 470423.42 462706.19 470420.60 462730.41 470420.28 462730.41 470392.82 462729.24 470358.72 462725.15 470358.74 462703.56 470359.70 462671.01 470362.84 462672.58 470423.42</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUSC_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUSC_A gml:id="PL.PZGiK.308.BDOT10k_2923959E-D250-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-D250-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kodKarto10k>0010_343_1</ot:kodKarto10k>
+			<ot:nazwa>Gadowskie Holendry-Cmentarz ewangelicko-augsbursk</ot:nazwa>
+			<ot:rodzaj>cmentarz wyznaniowy</ot:rodzaj>
+			<ot:wyznanie>chrześcijańskie</ot:wyznanie>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-aa0d0743-7457-485a-98cc-b2b658efedd1-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>448068.42 464875.91 448068.93 464896.41 448069.52 464919.78 448198.97 464916.54 448197.87 464872.67 448068.42 464875.91</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUSC_A>
+	</gml:featureMember>
+</gml:FeatureCollection>

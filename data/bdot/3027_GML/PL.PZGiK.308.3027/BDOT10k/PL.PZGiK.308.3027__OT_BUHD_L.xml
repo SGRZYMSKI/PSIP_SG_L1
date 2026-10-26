@@ -1,0 +1,554 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:FeatureCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:ot="urn:gugik:specyfikacje:gmlas:bazaDanychObiektowTopograficznych10k:2.0" gml:id="GUGiK_OT_BUHD_L" xsi:schemaLocation="urn:gugik:specyfikacje:gmlas:bazaDanychObiektowTopograficznych10k:2.0 ../XSD/BDOT10k_BDOO.xsd">
+	<gml:featureMember>
+		<ot:OT_BUHD_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-4A5F-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-4A5F-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_620</ot:kodKarto10k>
+			<ot:rodzaj>jaz</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-1ef3d7e2-bf06-4f06-897e-94b7eee6683e-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>480104.54 445587.16 480104.05 445581.73 480103.51 445576.38</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUHD_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUHD_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-4A54-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-4A54-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_620</ot:kodKarto10k>
+			<ot:rodzaj>jaz</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-19b17ce1-c442-415c-b9e9-be37e940aeed-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>460403.59 474767.14 460406.48 474768.64 460409.34 474769.84</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUHD_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUHD_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-4A63-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-4A63-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_620</ot:kodKarto10k>
+			<ot:rodzaj>jaz</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-614156e6-bf64-4637-837c-140b5eec3777-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>482483.73 451725.68 482489.47 451724.80 482494.48 451724.02</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUHD_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUHD_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-4A49-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-4A49-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_620</ot:kodKarto10k>
+			<ot:rodzaj>jaz</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-5b889228-d99f-4c9e-ac01-db9cae1d5887-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>448065.27 466638.32 448067.51 466641.29 448069.49 466643.78</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUHD_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUHD_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-4A59-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-4A59-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_620</ot:kodKarto10k>
+			<ot:rodzaj>jaz</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-27aaddd4-0872-41fd-802f-0a5d93ad1898-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>471313.52 444714.86 471318.90 444717.07 471324.64 444719.36</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUHD_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUHD_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-4A4D-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-4A4D-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_620</ot:kodKarto10k>
+			<ot:rodzaj>jaz</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-050a851d-0aab-443b-944a-3ba50f28b8ac-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>449068.47 463986.19 449066.93 463983.79 449065.89 463982.18</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUHD_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUHD_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-4A4E-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-4A4E-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_620</ot:kodKarto10k>
+			<ot:rodzaj>jaz</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-a2b884e3-da5e-428d-a073-ecc09e024589-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>452834.33 467094.52 452834.32 467091.95 452834.20 467089.16</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUHD_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUHD_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-4A57-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-4A57-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_620</ot:kodKarto10k>
+			<ot:rodzaj>jaz</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-aadbb3a5-a364-4c4c-81b5-7c4b41218ba4-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>469735.14 460631.36 469744.20 460633.78 469751.98 460635.85</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUHD_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUHD_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-4A53-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-4A53-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:informacjaDodatkowa>zastawka</ot:informacjaDodatkowa>
+			<ot:kodKarto10k>0010_620</ot:kodKarto10k>
+			<ot:rodzaj>jaz</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-0f8476bb-e252-4ece-bb77-561f887377aa-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>460072.82 473977.95 460073.98 473976.18 460075.28 473973.99</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUHD_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUHD_L gml:id="PL.PZGiK.308.BDOT10k_66f4867a-4441-4c32-9829-7fc11cc68bf0_2023-12-31T120000">
+			<ot:lokalnyId>66f4867a-4441-4c32-9829-7fc11cc68bf0</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_620</ot:kodKarto10k>
+			<ot:rodzaj>jaz</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-a39afcdc-b3cb-49f6-a96d-e262367005bc-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>472385.77 450311.21 472388.13 450310.59 472390.75 450309.89</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUHD_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUHD_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-4A65-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-4A65-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>pomiar terenowy</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_620</ot:kodKarto10k>
+			<ot:rodzaj>jaz</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-0d9ef814-4ac5-4e4d-a351-c80c6c079b04-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>446627.50 469477.52 446625.99 469470.78</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUHD_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUHD_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-4A4C-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-4A4C-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_620</ot:kodKarto10k>
+			<ot:rodzaj>jaz</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-e68353f7-d625-4862-9721-bf1cc9db2e63-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>448791.33 465020.09 448794.46 465022.09 448797.15 465023.91</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUHD_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUHD_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-4A5A-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-4A5A-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_620</ot:kodKarto10k>
+			<ot:rodzaj>jaz</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-a0cfa055-418e-4aa7-b7c3-d932e3e4ee2b-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>472912.81 470666.35 472912.35 470669.99 472911.73 470673.87</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUHD_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUHD_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-4A4A-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-4A4A-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_620</ot:kodKarto10k>
+			<ot:rodzaj>jaz</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-5eb02b55-e1f7-44d6-ac42-bf18c6b5ae74-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>448450.63 466284.40 448448.42 466282.80 448445.28 466280.50</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUHD_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUHD_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-4A56-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-4A56-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_620</ot:kodKarto10k>
+			<ot:rodzaj>jaz</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-cdb8d33e-0e41-490c-b6ed-27fefebf64fb-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>469271.42 463598.67 469274.39 463596.35 469276.94 463594.14</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUHD_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUHD_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-4A5C-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-4A5C-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_620</ot:kodKarto10k>
+			<ot:rodzaj>jaz</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-5ec78581-97b8-463a-9ef1-ceb611923d4f-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>478814.81 464624.94 478818.62 464628.70 478825.72 464636.08</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUHD_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUHD_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-4A58-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-4A58-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_620</ot:kodKarto10k>
+			<ot:rodzaj>jaz</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-2dfb13db-21fe-4d66-8322-2561e4213e62-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>470170.87 459810.27 470173.25 459812.44 470175.95 459815.21</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUHD_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUHD_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-4A5D-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-4A5D-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_620</ot:kodKarto10k>
+			<ot:rodzaj>jaz</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-b67b1e36-4e37-45f1-a2aa-7cf09f191453-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>479587.77 463898.62 479592.28 463898.26 479597.52 463897.63</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUHD_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUHD_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-4A55-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-4A55-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_620</ot:kodKarto10k>
+			<ot:rodzaj>jaz</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-b5ff134c-2455-4ce7-8638-0c5ed69a1815-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>460525.58 476487.03 460524.47 476483.03 460523.32 476479.37</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUHD_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUHD_L gml:id="PL.PZGiK.308.BDOT10k_39890dbd-d12d-4258-a40d-c6ade4c62c69_2023-12-31T120000">
+			<ot:lokalnyId>39890dbd-d12d-4258-a40d-c6ade4c62c69</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_620</ot:kodKarto10k>
+			<ot:rodzaj>jaz</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-4dfa68fe-44f5-46f5-986c-2bfc2228a8b0-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>473776.09 452823.36 473793.51 452819.77</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUHD_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUHD_L gml:id="PL.PZGiK.308.BDOT10k_3c93eb5e-69ad-4063-a91e-b2fe9d0d4a7b_2023-12-31T120000">
+			<ot:lokalnyId>3c93eb5e-69ad-4063-a91e-b2fe9d0d4a7b</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_620</ot:kodKarto10k>
+			<ot:rodzaj>jaz</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-12150213-1412-4b5e-91c3-6b9e4d34a6d5-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>473774.01 452815.47 473792.07 452811.56</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUHD_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUHD_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-4A4F-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-4A4F-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_620</ot:kodKarto10k>
+			<ot:rodzaj>jaz</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-f740ce17-670d-49e4-86be-fec1df2d0f50-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>453638.46 467069.28 453637.52 467059.32 453636.58 467049.36</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUHD_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUHD_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-4A50-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-4A50-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_620</ot:kodKarto10k>
+			<ot:rodzaj>jaz</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-84449cbc-43b6-4222-baec-c46bb31b4edc-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>459111.10 470800.95 459113.75 470800.21 459116.06 470799.49</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUHD_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUHD_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-4A64-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-4A64-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_620</ot:kodKarto10k>
+			<ot:rodzaj>jaz</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-81d8ef46-7f03-4265-b9b0-20c4eb613af0-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>482548.28 452024.03 482553.41 452022.78 482558.14 452021.60</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUHD_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUHD_L gml:id="PL.PZGiK.308.BDOT10k_2923959E-4A48-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-4A48-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>eksploatowany</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_620</ot:kodKarto10k>
+			<ot:rodzaj>jaz</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-7ffaff2c-bea1-4f77-ab60-ee82bf4da131-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>447283.98 468478.27 447288.35 468479.64 447292.60 468480.78</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUHD_L>
+	</gml:featureMember>
+</gml:FeatureCollection>

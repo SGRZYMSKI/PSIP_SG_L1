@@ -1,0 +1,408 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:FeatureCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:ot="urn:gugik:specyfikacje:gmlas:bazaDanychObiektowTopograficznych10k:2.0" gml:id="GUGiK_OT_SKRW_P" xsi:schemaLocation="urn:gugik:specyfikacje:gmlas:bazaDanychObiektowTopograficznych10k:2.0 ../XSD/BDOT10k_BDOO.xsd">
+	<gml:featureMember>
+		<ot:OT_SKRW_P gml:id="PL.PZGiK.308.BDOT10k_1e3f1a6e-ec8d-4498-a2a7-7fd474231b01_2023-12-31T120000">
+			<ot:lokalnyId>1e3f1a6e-ec8d-4498-a2a7-7fd474231b01</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>rondo</ot:rodzaj>
+			<ot:geometria>
+				<gml:Point gml:id="id-479522dc-af7b-44b5-be3d-7e9dfecd0194-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:pos>465941.35 460993.52</gml:pos>
+				</gml:Point>
+			</ot:geometria>
+		</ot:OT_SKRW_P>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_SKRW_P gml:id="PL.PZGiK.308.BDOT10k_c8633aff-b9e1-4242-bf0c-5354bbe51f61_2023-12-31T120000">
+			<ot:lokalnyId>c8633aff-b9e1-4242-bf0c-5354bbe51f61</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>rondo</ot:rodzaj>
+			<ot:geometria>
+				<gml:Point gml:id="id-635185ec-27b6-4b4e-a5df-d887421bd5e4-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:pos>473408.98 457349.15</gml:pos>
+				</gml:Point>
+			</ot:geometria>
+		</ot:OT_SKRW_P>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_SKRW_P gml:id="PL.PZGiK.308.BDOT10k_5f95dfce-b036-41e2-9198-310f5fb9df38_2023-12-31T120000">
+			<ot:lokalnyId>5f95dfce-b036-41e2-9198-310f5fb9df38</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>rondo</ot:rodzaj>
+			<ot:geometria>
+				<gml:Point gml:id="id-0ee138e5-7754-4d73-97e6-4c3f7e900380-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:pos>464132.03 471249.66</gml:pos>
+				</gml:Point>
+			</ot:geometria>
+		</ot:OT_SKRW_P>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_SKRW_P gml:id="PL.PZGiK.308.BDOT10k_3f56ba58-cd08-460b-ab46-0920fc578d31_2023-12-31T120000">
+			<ot:lokalnyId>3f56ba58-cd08-460b-ab46-0920fc578d31</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>rondo</ot:rodzaj>
+			<ot:geometria>
+				<gml:Point gml:id="id-a15c9d9c-1651-4ab8-99b4-5b3edb3c4005-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:pos>452151.94 467970.33</gml:pos>
+				</gml:Point>
+			</ot:geometria>
+		</ot:OT_SKRW_P>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_SKRW_P gml:id="PL.PZGiK.308.BDOT10k_55b7c363-8a76-4f5f-8136-6426569b00e0_2023-12-31T120000">
+			<ot:lokalnyId>55b7c363-8a76-4f5f-8136-6426569b00e0</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>rondo</ot:rodzaj>
+			<ot:geometria>
+				<gml:Point gml:id="id-bc96995b-9592-4ed5-9067-4a8408f95e65-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:pos>472634.40 470203.93</gml:pos>
+				</gml:Point>
+			</ot:geometria>
+		</ot:OT_SKRW_P>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_SKRW_P gml:id="PL.PZGiK.308.BDOT10k_d250d3ef-3c31-433c-941d-c3c989da0436_2023-12-31T120000">
+			<ot:lokalnyId>d250d3ef-3c31-433c-941d-c3c989da0436</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>rondo</ot:rodzaj>
+			<ot:geometria>
+				<gml:Point gml:id="id-1ab480c9-6cba-41f1-935a-c4a3501dd9a1-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:pos>466603.49 461594.16</gml:pos>
+				</gml:Point>
+			</ot:geometria>
+		</ot:OT_SKRW_P>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_SKRW_P gml:id="PL.PZGiK.308.BDOT10k_0c89063d-389e-452e-9810-d20fb3d8a7e5_2023-12-31T120000">
+			<ot:lokalnyId>0c89063d-389e-452e-9810-d20fb3d8a7e5</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>rondo</ot:rodzaj>
+			<ot:geometria>
+				<gml:Point gml:id="id-89eb7165-67dc-415e-bc0a-2671007bf7f5-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:pos>466109.28 461293.94</gml:pos>
+				</gml:Point>
+			</ot:geometria>
+		</ot:OT_SKRW_P>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_SKRW_P gml:id="PL.PZGiK.308.BDOT10k_47f95a58-cbe2-4f19-829b-2e7ff913107b_2023-12-31T120000">
+			<ot:lokalnyId>47f95a58-cbe2-4f19-829b-2e7ff913107b</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>rondo</ot:rodzaj>
+			<ot:geometria>
+				<gml:Point gml:id="id-01d64180-ed9c-40d4-a5de-04271243e55f-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:pos>466147.33 460903.22</gml:pos>
+				</gml:Point>
+			</ot:geometria>
+		</ot:OT_SKRW_P>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_SKRW_P gml:id="PL.PZGiK.308.BDOT10k_ecb4c283-17cd-4c90-98d2-40cb06d6afad_2023-12-31T120000">
+			<ot:lokalnyId>ecb4c283-17cd-4c90-98d2-40cb06d6afad</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>rondo</ot:rodzaj>
+			<ot:geometria>
+				<gml:Point gml:id="id-ab4c9c6f-5a8a-4465-a51d-928aff7d91e5-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:pos>463563.98 471220.98</gml:pos>
+				</gml:Point>
+			</ot:geometria>
+		</ot:OT_SKRW_P>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_SKRW_P gml:id="PL.PZGiK.308.BDOT10k_79c95093-98b3-4e84-ac86-8b27a99e3f6f_2024-06-18T000000">
+			<ot:lokalnyId>79c95093-98b3-4e84-ac86-8b27a99e3f6f</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2024-06-18T00:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2024-06-18T00:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>BGW-I-G.7520.15.2024</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>BDOT500</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>rondo</ot:rodzaj>
+			<ot:geometria>
+				<gml:Point gml:id="id-57d4fe33-1356-4fd8-87ff-be97323f1e17-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:pos>456274.87 464105.63</gml:pos>
+				</gml:Point>
+			</ot:geometria>
+		</ot:OT_SKRW_P>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_SKRW_P gml:id="PL.PZGiK.308.BDOT10k_4ff590f0-3c73-4ee2-aba1-1ae9ff3d80ba_2024-06-19T000000">
+			<ot:lokalnyId>4ff590f0-3c73-4ee2-aba1-1ae9ff3d80ba</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2024-06-19T00:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2024-06-19T00:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>BGW-I-G.7520.15.2024</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>BDOT500</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>rondo</ot:rodzaj>
+			<ot:geometria>
+				<gml:Point gml:id="id-5ad3847e-6b36-4bd4-9801-d3abca1d11ca-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:pos>457433.20 464130.36</gml:pos>
+				</gml:Point>
+			</ot:geometria>
+		</ot:OT_SKRW_P>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_SKRW_P gml:id="PL.PZGiK.308.BDOT10k_efd65d0f-4918-4c24-8c79-2621085fa277_2023-12-31T120000">
+			<ot:lokalnyId>efd65d0f-4918-4c24-8c79-2621085fa277</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>rondo</ot:rodzaj>
+			<ot:geometria>
+				<gml:Point gml:id="id-bef3067a-aa59-4ee4-8446-83cb61c5ebdb-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:pos>467275.54 460306.74</gml:pos>
+				</gml:Point>
+			</ot:geometria>
+		</ot:OT_SKRW_P>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_SKRW_P gml:id="PL.PZGiK.308.BDOT10k_3feea016-dd17-45a0-9c15-b6e3f5c763fd_2023-12-31T120000">
+			<ot:lokalnyId>3feea016-dd17-45a0-9c15-b6e3f5c763fd</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>rondo</ot:rodzaj>
+			<ot:geometria>
+				<gml:Point gml:id="id-6726e81d-0217-4b89-95b5-23d9f7c74943-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:pos>466919.29 460373.09</gml:pos>
+				</gml:Point>
+			</ot:geometria>
+		</ot:OT_SKRW_P>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_SKRW_P gml:id="PL.PZGiK.308.BDOT10k_5fee2819-f455-40cb-9d66-9357dedec372_2023-12-31T120000">
+			<ot:lokalnyId>5fee2819-f455-40cb-9d66-9357dedec372</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>rondo</ot:rodzaj>
+			<ot:geometria>
+				<gml:Point gml:id="id-a5b37fbf-fa71-44d0-b39c-f7ab0b109cfc-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:pos>465905.82 461675.45</gml:pos>
+				</gml:Point>
+			</ot:geometria>
+		</ot:OT_SKRW_P>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_SKRW_P gml:id="PL.PZGiK.308.BDOT10k_292395A0-8E0E-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>292395A0-8E0E-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>pomiar terenowy</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>rondo</ot:rodzaj>
+			<ot:geometria>
+				<gml:Point gml:id="id-0254483a-5eca-4bb7-846c-c687986e473c-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:pos>468320.67 461246.05</gml:pos>
+				</gml:Point>
+			</ot:geometria>
+		</ot:OT_SKRW_P>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_SKRW_P gml:id="PL.PZGiK.308.BDOT10k_292395A0-8E0F-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>292395A0-8E0F-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>rondo</ot:rodzaj>
+			<ot:geometria>
+				<gml:Point gml:id="id-ce2d282e-d5bc-4c2d-a78d-93639f746000-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:pos>467546.78 460160.84</gml:pos>
+				</gml:Point>
+			</ot:geometria>
+		</ot:OT_SKRW_P>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_SKRW_P gml:id="PL.PZGiK.308.BDOT10k_292395A0-8E10-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>292395A0-8E10-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:informacjaDodatkowa>Rondo Solidarności</ot:informacjaDodatkowa>
+			<ot:rodzaj>rondo</ot:rodzaj>
+			<ot:geometria>
+				<gml:Point gml:id="id-5ecca8c5-70d6-4b23-83f3-14661b71c063-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:pos>466081.69 460494.42</gml:pos>
+				</gml:Point>
+			</ot:geometria>
+		</ot:OT_SKRW_P>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_SKRW_P gml:id="PL.PZGiK.308.BDOT10k_292395A0-8E11-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>292395A0-8E11-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:informacjaDodatkowa>Rondo Dmowskiego</ot:informacjaDodatkowa>
+			<ot:rodzaj>rondo</ot:rodzaj>
+			<ot:geometria>
+				<gml:Point gml:id="id-a9a5b206-9968-4444-adcf-4d039755e2ff-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:pos>464665.27 460956.03</gml:pos>
+				</gml:Point>
+			</ot:geometria>
+		</ot:OT_SKRW_P>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_SKRW_P gml:id="PL.PZGiK.308.BDOT10k_292395A0-8E12-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>292395A0-8E12-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:informacjaDodatkowa>Rondo Niepodległości</ot:informacjaDodatkowa>
+			<ot:rodzaj>rondo</ot:rodzaj>
+			<ot:geometria>
+				<gml:Point gml:id="id-822788a4-1e5b-4ac2-8ca5-9e01e15ad4d5-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:pos>466063.19 460683.83</gml:pos>
+				</gml:Point>
+			</ot:geometria>
+		</ot:OT_SKRW_P>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_SKRW_P gml:id="PL.PZGiK.308.BDOT10k_292395A0-8E13-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>292395A0-8E13-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>rondo</ot:rodzaj>
+			<ot:geometria>
+				<gml:Point gml:id="id-ad2712df-cc5d-4444-b484-f5c89cc80734-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:pos>466959.48 461327.50</gml:pos>
+				</gml:Point>
+			</ot:geometria>
+		</ot:OT_SKRW_P>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_SKRW_P gml:id="PL.PZGiK.308.BDOT10k_292395A0-8E14-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>292395A0-8E14-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:informacjaDodatkowa>Rondo Wałęsy</ot:informacjaDodatkowa>
+			<ot:rodzaj>rondo</ot:rodzaj>
+			<ot:geometria>
+				<gml:Point gml:id="id-771ad5cf-d6bb-4423-9e5e-eb604a82a056-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:pos>468034.02 452539.31</gml:pos>
+				</gml:Point>
+			</ot:geometria>
+		</ot:OT_SKRW_P>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_SKRW_P gml:id="PL.PZGiK.308.BDOT10k_292395A0-8E15-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>292395A0-8E15-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>pomiar terenowy</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>rondo</ot:rodzaj>
+			<ot:geometria>
+				<gml:Point gml:id="id-1ac041a0-4c3c-4f0d-8812-297f8092e353-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:pos>473959.24 445182.25</gml:pos>
+				</gml:Point>
+			</ot:geometria>
+		</ot:OT_SKRW_P>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_SKRW_P gml:id="PL.PZGiK.308.BDOT10k_292395A0-8E0B-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>292395A0-8E0B-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>rondo</ot:rodzaj>
+			<ot:geometria>
+				<gml:Point gml:id="id-12c85fc6-702c-4b80-8c75-93768e6a7ba1-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:pos>464867.04 463549.55</gml:pos>
+				</gml:Point>
+			</ot:geometria>
+		</ot:OT_SKRW_P>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_SKRW_P gml:id="PL.PZGiK.308.BDOT10k_292395A0-8E0C-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>292395A0-8E0C-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>pomiar terenowy</ot:zrodloDanychGeometrycznych>
+			<ot:informacjaDodatkowa>Rondo Popiełuszki</ot:informacjaDodatkowa>
+			<ot:rodzaj>rondo</ot:rodzaj>
+			<ot:geometria>
+				<gml:Point gml:id="id-998d55ec-546f-4017-bca0-8a7f3d34b251-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:pos>466772.73 462161.87</gml:pos>
+				</gml:Point>
+			</ot:geometria>
+		</ot:OT_SKRW_P>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_SKRW_P gml:id="PL.PZGiK.308.BDOT10k_292395A0-8E0D-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>292395A0-8E0D-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>rondo</ot:rodzaj>
+			<ot:geometria>
+				<gml:Point gml:id="id-d6462fa8-de2e-4eca-b1fa-ee49b64a3700-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:pos>466981.28 461845.53</gml:pos>
+				</gml:Point>
+			</ot:geometria>
+		</ot:OT_SKRW_P>
+	</gml:featureMember>
+</gml:FeatureCollection>

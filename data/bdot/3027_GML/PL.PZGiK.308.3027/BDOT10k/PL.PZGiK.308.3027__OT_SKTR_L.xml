@@ -1,0 +1,705 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:FeatureCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:ot="urn:gugik:specyfikacje:gmlas:bazaDanychObiektowTopograficznych10k:2.0" gml:id="GUGiK_OT_SKTR_L" xsi:schemaLocation="urn:gugik:specyfikacje:gmlas:bazaDanychObiektowTopograficznych10k:2.0 ../XSD/BDOT10k_BDOO.xsd">
+	<gml:featureMember>
+		<ot:OT_SKTR_L gml:id="PL.PZGiK.308.BDOT10k_292395A0-8E3B-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>292395A0-8E3B-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>nieczynny</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_213</ot:kodKarto10k>
+			<ot:funkcjaToru>bocznica</ot:funkcjaToru>
+			<ot:liczbaTorow>1</ot:liczbaTorow>
+			<ot:polozenie>ponad powierzchnią gruntu poziom 1</ot:polozenie>
+			<ot:rodzajPojazduSzynowego>kolej</ot:rodzajPojazduSzynowego>
+			<ot:rodzajTorow>tor normalny</ot:rodzajTorow>
+			<ot:rodzajTrakcji>zelektryfikowana</ot:rodzajTrakcji>
+			<ot:geometria>
+				<gml:Curve gml:id="id-981d2643-3db0-4699-ad3c-f42e04f4f6f8-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>469922.09 461152.42 469925.84 461153.47 469929.79 461154.58</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_SKTR_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_SKTR_L gml:id="PL.PZGiK.308.BDOT10k_292395A0-8E2A-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>292395A0-8E2A-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>nieczynny</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_213</ot:kodKarto10k>
+			<ot:funkcjaToru>bocznica</ot:funkcjaToru>
+			<ot:liczbaTorow>1</ot:liczbaTorow>
+			<ot:polozenie>na powierzchni gruntu</ot:polozenie>
+			<ot:rodzajPojazduSzynowego>kolej</ot:rodzajPojazduSzynowego>
+			<ot:rodzajTorow>tor normalny</ot:rodzajTorow>
+			<ot:rodzajTrakcji>zelektryfikowana</ot:rodzajTrakcji>
+			<ot:geometria>
+				<gml:Curve gml:id="id-e2a1a777-5132-4828-a103-73db8a93dbea-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>472883.03 462579.50 472928.52 462548.56 472979.04 462517.39</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_SKTR_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_SKTR_L gml:id="PL.PZGiK.308.BDOT10k_292395A0-8E51-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>292395A0-8E51-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>nieczynny</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_213</ot:kodKarto10k>
+			<ot:funkcjaToru>bocznica</ot:funkcjaToru>
+			<ot:liczbaTorow>1</ot:liczbaTorow>
+			<ot:polozenie>na powierzchni gruntu</ot:polozenie>
+			<ot:rodzajPojazduSzynowego>kolej</ot:rodzajPojazduSzynowego>
+			<ot:rodzajTorow>tor normalny</ot:rodzajTorow>
+			<ot:rodzajTrakcji>zelektryfikowana</ot:rodzajTrakcji>
+			<ot:geometria>
+				<gml:Curve gml:id="id-2dfb2046-6d66-4588-a5c2-1006f61c6797-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>472811.69 462638.96 472843.65 462616.47 472921.38 462564.35 472932.31 462556.83 472979.04 462517.39</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_SKTR_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_SKTR_L gml:id="PL.PZGiK.308.BDOT10k_292395A0-8E40-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>292395A0-8E40-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>nieczynny</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_211</ot:kodKarto10k>
+			<ot:funkcjaToru>tor szlakowy</ot:funkcjaToru>
+			<ot:liczbaTorow>1</ot:liczbaTorow>
+			<ot:polozenie>na powierzchni gruntu</ot:polozenie>
+			<ot:rodzajPojazduSzynowego>kolej</ot:rodzajPojazduSzynowego>
+			<ot:rodzajTorow>tor wąski</ot:rodzajTorow>
+			<ot:rodzajTrakcji>niezelektryfikowana</ot:rodzajTrakcji>
+			<ot:geometria>
+				<gml:Curve gml:id="id-ac69051d-862b-4155-a446-50bbc65d527d-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>456944.34 464050.12 456949.77 464059.64 456956.63 464070.13</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_SKTR_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_SKTR_L gml:id="PL.PZGiK.308.BDOT10k_7bafa5aa-021a-43e4-a6be-71e3c673fb9a_2023-12-31T120000">
+			<ot:lokalnyId>7bafa5aa-021a-43e4-a6be-71e3c673fb9a</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>nieczynny</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_213</ot:kodKarto10k>
+			<ot:funkcjaToru>bocznica</ot:funkcjaToru>
+			<ot:liczbaTorow>1</ot:liczbaTorow>
+			<ot:polozenie>na powierzchni gruntu</ot:polozenie>
+			<ot:rodzajPojazduSzynowego>kolej</ot:rodzajPojazduSzynowego>
+			<ot:rodzajTorow>tor normalny</ot:rodzajTorow>
+			<ot:rodzajTrakcji>zelektryfikowana</ot:rodzajTrakcji>
+			<ot:geometria>
+				<gml:Curve gml:id="id-5f0cf572-4a41-4554-96fd-3c1c1869358f-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>472979.04 462517.39 472988.36 462508.09 473016.34 462486.09 473157.68 462393.70 473208.19 462369.68</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_SKTR_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_SKTR_L gml:id="PL.PZGiK.308.BDOT10k_292395A0-8E30-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>292395A0-8E30-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>nieczynny</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_213</ot:kodKarto10k>
+			<ot:funkcjaToru>bocznica</ot:funkcjaToru>
+			<ot:liczbaTorow>1</ot:liczbaTorow>
+			<ot:polozenie>na powierzchni gruntu</ot:polozenie>
+			<ot:rodzajPojazduSzynowego>kolej</ot:rodzajPojazduSzynowego>
+			<ot:rodzajTorow>tor normalny</ot:rodzajTorow>
+			<ot:rodzajTrakcji>zelektryfikowana</ot:rodzajTrakcji>
+			<ot:geometria>
+				<gml:Curve gml:id="id-fcb9ce19-01b0-48bd-bb53-89c118a53ea9-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>473042.70 462364.68 473057.41 462339.14 473071.28 462311.40 473081.33 462286.04 473088.34 462264.51 473094.24 462238.84 473098.99 462214.88 473101.38 462191.36 473105.84 462096.71 473108.63 462032.37</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_SKTR_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_SKTR_L gml:id="PL.PZGiK.308.BDOT10k_292395A0-8E42-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>292395A0-8E42-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>nieczynny</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_211</ot:kodKarto10k>
+			<ot:funkcjaToru>tor szlakowy</ot:funkcjaToru>
+			<ot:liczbaTorow>1</ot:liczbaTorow>
+			<ot:polozenie>ponad powierzchnią gruntu poziom 1</ot:polozenie>
+			<ot:rodzajPojazduSzynowego>kolej</ot:rodzajPojazduSzynowego>
+			<ot:rodzajTorow>tor wąski</ot:rodzajTorow>
+			<ot:rodzajTrakcji>niezelektryfikowana</ot:rodzajTrakcji>
+			<ot:geometria>
+				<gml:Curve gml:id="id-012dfbbe-9cdd-47f3-acea-7bc1737e5d34-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>456944.34 464050.12 456942.01 464045.55 456939.85 464041.18</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_SKTR_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_SKTR_L gml:id="PL.PZGiK.308.BDOT10k_292395A0-8E43-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>292395A0-8E43-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>nieczynny</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_211</ot:kodKarto10k>
+			<ot:funkcjaToru>tor szlakowy</ot:funkcjaToru>
+			<ot:liczbaTorow>1</ot:liczbaTorow>
+			<ot:polozenie>na powierzchni gruntu</ot:polozenie>
+			<ot:rodzajPojazduSzynowego>kolej</ot:rodzajPojazduSzynowego>
+			<ot:rodzajTorow>tor wąski</ot:rodzajTorow>
+			<ot:rodzajTrakcji>niezelektryfikowana</ot:rodzajTrakcji>
+			<ot:geometria>
+				<gml:Curve gml:id="id-83393e85-1728-4165-9365-4de1edcbc240-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>451377.43 461346.99 451320.04 461341.81 451226.40 461333.33 451223.97 461333.16 451202.61 461331.51 451076.45 461321.74 450901.37 461306.33 450819.92 461299.31 450717.20 461290.62 450681.01 461289.94 450646.09 461286.60 450623.76 461284.55 450543.74 461276.90 450403.71 461265.46 450282.49 461255.20 450268.96 461254.08 450141.13 461243.51 450041.51 461234.60 449970.32 461228.79 449934.06 461225.46 449915.36 461222.45 449893.66 461218.10 449872.96 461211.75 449847.92 461201.38 449843.65 461199.04 449822.34 461187.37 449818.67 461185.31 449805.63 461178.07 449792.24 461168.37 449766.20 461146.29 449744.16 461123.55 449728.84 461104.26 449719.07 461089.65 449713.15 461080.18 449693.12 461040.71 449676.43 460998.89 449658.80 460953.75 449653.76 460941.54 449648.01 460928.67 449641.94 460916.21 449632.58 460898.14 449627.59 460889.36 449618.25 460875.74 449615.40 460872.64 449612.56 460869.55 449572.04 460828.45 449539.49 460801.19 449475.47 460747.26 449427.86 460706.26 449387.73 460671.73 449357.89 460646.05 449315.36 460609.28 449291.87 460589.07 449224.77 460531.12 449123.89 460445.59 449014.62 460351.87 448965.05 460306.07 448942.35 460283.66 448920.32 460257.57 448906.64 460238.56 448897.96 460225.84 448895.21 460219.85 448893.64 460214.89 448886.30 460188.13 448882.28 460167.21 448881.90 460164.23</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_SKTR_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_SKTR_L gml:id="PL.PZGiK.308.BDOT10k_292395A0-8E1F-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>292395A0-8E1F-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>nieczynny</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_213</ot:kodKarto10k>
+			<ot:funkcjaToru>bocznica</ot:funkcjaToru>
+			<ot:liczbaTorow>1</ot:liczbaTorow>
+			<ot:polozenie>na powierzchni gruntu</ot:polozenie>
+			<ot:rodzajPojazduSzynowego>kolej</ot:rodzajPojazduSzynowego>
+			<ot:rodzajTorow>tor normalny</ot:rodzajTorow>
+			<ot:rodzajTrakcji>zelektryfikowana</ot:rodzajTrakcji>
+			<ot:geometria>
+				<gml:Curve gml:id="id-8e573b67-22a0-4d96-a0e1-2fef62d23dd5-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>469603.88 461046.59 469606.70 461047.85 469611.15 461049.84 469630.71 461058.59</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_SKTR_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_SKTR_L gml:id="PL.PZGiK.308.BDOT10k_27f66c52-1fac-4114-8ed4-9786e026f9b5_2023-12-31T120000">
+			<ot:lokalnyId>27f66c52-1fac-4114-8ed4-9786e026f9b5</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>nieczynny</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_213</ot:kodKarto10k>
+			<ot:funkcjaToru>bocznica</ot:funkcjaToru>
+			<ot:liczbaTorow>1</ot:liczbaTorow>
+			<ot:polozenie>na powierzchni gruntu</ot:polozenie>
+			<ot:rodzajPojazduSzynowego>kolej</ot:rodzajPojazduSzynowego>
+			<ot:rodzajTorow>tor normalny</ot:rodzajTorow>
+			<ot:rodzajTrakcji>zelektryfikowana</ot:rodzajTrakcji>
+			<ot:geometria>
+				<gml:Curve gml:id="id-86bbadf3-8c0d-4a27-bc0a-771bbcc5367f-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>473166.98 462407.79 473271.48 462337.12 473288.18 462326.49 473349.68 462286.74 473395.32 462256.02</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_SKTR_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_SKTR_L gml:id="PL.PZGiK.308.BDOT10k_KID9dhUl-bRiH-yB44-Ecv8-HRmtWJAUN0Xe_2024-06-19T000000">
+			<ot:lokalnyId>KID9dhUl-bRiH-yB44-Ecv8-HRmtWJAUN0Xe</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2024-06-19T00:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2024-06-19T00:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>BGW-I-G.7520.15.2024</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>nieczynny</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_211</ot:kodKarto10k>
+			<ot:funkcjaToru>tor szlakowy</ot:funkcjaToru>
+			<ot:liczbaTorow>1</ot:liczbaTorow>
+			<ot:polozenie>na powierzchni gruntu</ot:polozenie>
+			<ot:rodzajPojazduSzynowego>kolej</ot:rodzajPojazduSzynowego>
+			<ot:rodzajTorow>tor wąski</ot:rodzajTorow>
+			<ot:rodzajTrakcji>niezelektryfikowana</ot:rodzajTrakcji>
+			<ot:geometria>
+				<gml:Curve gml:id="id-64399d2b-7fc6-447f-9af2-2c550fd29fab-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>456939.85 464041.18 456917.85 463997.59 456901.33 463964.13 456898.15 463957.68 456895.11 463951.40 456873.47 463906.70 456847.26 463852.56 456820.60 463797.50</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_SKTR_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_SKTR_L gml:id="PL.PZGiK.308.BDOT10k_DeLtpCwK-LfvP-I205-LEpi-NLiDuQu49SZn_2024-06-19T000000">
+			<ot:lokalnyId>DeLtpCwK-LfvP-I205-LEpi-NLiDuQu49SZn</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2024-06-19T00:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2024-06-19T00:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>BGW-I-G.7520.15.2024</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>nieczynny</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_211</ot:kodKarto10k>
+			<ot:funkcjaToru>tor szlakowy</ot:funkcjaToru>
+			<ot:liczbaTorow>1</ot:liczbaTorow>
+			<ot:polozenie>na powierzchni gruntu</ot:polozenie>
+			<ot:rodzajPojazduSzynowego>kolej</ot:rodzajPojazduSzynowego>
+			<ot:rodzajTorow>tor wąski</ot:rodzajTorow>
+			<ot:rodzajTrakcji>niezelektryfikowana</ot:rodzajTrakcji>
+			<ot:geometria>
+				<gml:Curve gml:id="id-29e122f8-a0aa-4537-8a58-e9fcfcfdadba-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>456795.21 463745.63 456777.78 463710.07 456751.34 463655.15 456735.68 463625.31 456731.04 463616.78 456726.40 463608.24 456723.94 463603.92 456719.12 463595.48 456714.29 463587.03 456706.93 463574.41 456702.66 463567.09 456671.83 463514.24 456615.62 463417.82 456604.21 463399.44 456594.52 463383.39 456552.36 463313.50 456549.87 463309.38 456516.97 463254.85 456495.74 463218.60 456474.40 463182.32 456472.00 463178.07 456469.49 463173.80 456453.57 463146.71 456432.59 463111.94 456417.88 463087.57 456410.35 463076.41 456402.82 463065.87 456392.58 463053.21 456382.97 463041.87 456372.00 463031.14 456360.52 463021.41 456347.69 463011.73 456345.52 463010.14 456333.34 463001.20 456320.49 462993.33 456284.26 462972.84 456269.69 462964.60 456243.05 462950.09 456078.71 462860.60 455868.04 462744.51 455857.86 462738.90 455849.34 462734.19 455817.26 462716.54 455697.19 462650.17 455590.53 462591.22 455547.79 462567.60 455535.18 462560.63 455460.02 462519.10 455349.05 462457.96 455164.22 462356.07 455067.57 462301.52 455063.20 462299.02 455058.83 462296.59 455035.54 462283.32 455026.31 462277.70 455014.96 462270.09 454955.64 462225.97 454832.40 462134.01 454806.06 462114.35 454758.94 462079.00 454688.30 462026.02 454591.54 461953.44 454482.25 461871.42 454425.30 461828.87 454372.57 461789.47 454366.69 461785.07 454330.90 461758.33 454299.23 461734.67 454295.21 461731.66 454187.06 461650.85 454130.13 461608.31 454099.41 461586.01 454096.21 461584.03 454087.66 461578.77 454078.93 461573.65 454070.80 461568.83 454060.25 461564.01 454050.61 461559.48 454036.15 461553.76 454022.90 461549.54 454011.15 461545.92 454000.31 461543.21 453989.76 461540.80 453977.11 461538.69 453963.56 461537.18 453951.81 461535.98 453939.46 461535.68 453919.88 461535.68 453906.02 461536.58 453880.12 461539.29 453767.55 461555.16 453535.37 461587.89 453403.27 461606.51 453397.96 461607.26 453306.06 461620.03 453246.64 461628.21 453213.80 461632.13 453198.44 461633.03 453184.58 461633.33 453171.87 461632.47 453154.16 461631.23 453136.24 461628.88 453111.38 461623.70 453032.76 461605.01 452954.15 461586.32 452924.92 461579.09 452911.98 461575.97 452836.36 461558.12 452810.69 461552.20 452766.46 461542.00 452746.57 461537.11 452666.31 461517.37 452641.54 461511.86 452563.17 461494.41 452546.97 461490.57 452487.40 461476.46 452483.56 461475.56 452428.60 461462.61 452375.54 461450.11 452309.32 461434.51 452304.58 461433.39 452280.27 461427.58 452256.49 461422.45 452253.39 461421.97 452201.55 461413.50 452134.22 461407.20 452073.19 461400.90 452034.80 461398.32 451954.55 461391.83 451796.47 461379.46 451770.58 461376.86 451725.45 461373.16 451681.06 461368.71 451634.55 461366.13 451560.46 461359.46 451434.07 461352.04 451388.43 461347.28</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_SKTR_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_SKTR_L gml:id="PL.PZGiK.308.BDOT10k_292395A0-8E52-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>292395A0-8E52-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>nieczynny</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_213</ot:kodKarto10k>
+			<ot:funkcjaToru>bocznica</ot:funkcjaToru>
+			<ot:liczbaTorow>1</ot:liczbaTorow>
+			<ot:polozenie>na powierzchni gruntu</ot:polozenie>
+			<ot:rodzajPojazduSzynowego>kolej</ot:rodzajPojazduSzynowego>
+			<ot:rodzajTorow>tor normalny</ot:rodzajTorow>
+			<ot:rodzajTrakcji>zelektryfikowana</ot:rodzajTrakcji>
+			<ot:geometria>
+				<gml:Curve gml:id="id-3234c1a0-1388-4c67-9ede-cdc5c54bd922-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>473140.21 462441.88 473146.62 462437.26 473166.41 462420.19 473179.83 462409.38 473216.52 462381.80 473249.50 462358.08 473273.57 462341.87 473333.88 462302.98 473380.39 462270.57 473394.25 462263.61</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_SKTR_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_SKTR_L gml:id="PL.PZGiK.308.BDOT10k_292395A0-8E2E-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>292395A0-8E2E-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>nieczynny</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_213</ot:kodKarto10k>
+			<ot:funkcjaToru>bocznica</ot:funkcjaToru>
+			<ot:liczbaTorow>1</ot:liczbaTorow>
+			<ot:polozenie>na powierzchni gruntu</ot:polozenie>
+			<ot:rodzajPojazduSzynowego>kolej</ot:rodzajPojazduSzynowego>
+			<ot:rodzajTorow>tor normalny</ot:rodzajTorow>
+			<ot:rodzajTrakcji>zelektryfikowana</ot:rodzajTrakcji>
+			<ot:geometria>
+				<gml:Curve gml:id="id-3f876630-053e-46a4-9a7a-c4dea0de4ea1-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>473042.70 462364.68 473070.06 462283.29 473079.75 462245.32 473082.71 462231.32 473085.40 462215.17 473087.82 462192.82 473089.15 462161.78 473091.59 462032.35</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_SKTR_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_SKTR_L gml:id="PL.PZGiK.308.BDOT10k_292395A0-8E45-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>292395A0-8E45-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>nieczynny</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_211</ot:kodKarto10k>
+			<ot:funkcjaToru>tor szlakowy</ot:funkcjaToru>
+			<ot:liczbaTorow>1</ot:liczbaTorow>
+			<ot:polozenie>ponad powierzchnią gruntu poziom 1</ot:polozenie>
+			<ot:rodzajPojazduSzynowego>kolej</ot:rodzajPojazduSzynowego>
+			<ot:rodzajTorow>tor wąski</ot:rodzajTorow>
+			<ot:rodzajTrakcji>niezelektryfikowana</ot:rodzajTrakcji>
+			<ot:geometria>
+				<gml:Curve gml:id="id-dc8421c6-85e3-454e-bf4e-bd0256d0e63c-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>451388.43 461347.28 451383.29 461347.14 451377.43 461346.99</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_SKTR_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_SKTR_L gml:id="PL.PZGiK.308.BDOT10k_292395A0-8E20-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>292395A0-8E20-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>nieczynny</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_213</ot:kodKarto10k>
+			<ot:funkcjaToru>bocznica</ot:funkcjaToru>
+			<ot:liczbaTorow>1</ot:liczbaTorow>
+			<ot:polozenie>na powierzchni gruntu</ot:polozenie>
+			<ot:rodzajPojazduSzynowego>kolej</ot:rodzajPojazduSzynowego>
+			<ot:rodzajTorow>tor normalny</ot:rodzajTorow>
+			<ot:rodzajTrakcji>zelektryfikowana</ot:rodzajTrakcji>
+			<ot:geometria>
+				<gml:Curve gml:id="id-10e211d5-08a5-43f5-a46a-10b32f06124f-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>469630.71 461058.59 469641.18 461062.76 469670.75 461074.53 469715.71 461092.44 469728.55 461097.55 469736.02 461100.20 469755.45 461107.09 469775.86 461113.73 469799.46 461120.60 469817.21 461125.51 469842.22 461131.93 469842.70 461132.05 469897.74 461146.17 469910.49 461149.44 469914.69 461150.52 469918.31 461151.45 469922.09 461152.42</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_SKTR_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_SKTR_L gml:id="PL.PZGiK.308.BDOT10k_292395A0-8E27-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>292395A0-8E27-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>nieczynny</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_213</ot:kodKarto10k>
+			<ot:funkcjaToru>bocznica</ot:funkcjaToru>
+			<ot:liczbaTorow>1</ot:liczbaTorow>
+			<ot:polozenie>na powierzchni gruntu</ot:polozenie>
+			<ot:rodzajPojazduSzynowego>kolej</ot:rodzajPojazduSzynowego>
+			<ot:rodzajTorow>tor normalny</ot:rodzajTorow>
+			<ot:rodzajTrakcji>zelektryfikowana</ot:rodzajTrakcji>
+			<ot:geometria>
+				<gml:Curve gml:id="id-4ef8da86-d1c7-4c82-8e93-804dc7939c13-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>472455.44 462592.56 472526.82 462631.67 472537.19 462636.91 472545.60 462640.73 472555.06 462644.57 472568.59 462649.20 472575.18 462651.46 472578.42 462652.57 472586.06 462654.48 472600.72 462658.16 472619.44 462661.97 472632.97 462663.83 472642.41 462664.54 472667.11 462666.07 472673.67 462666.40 472680.86 462666.13 472686.69 462665.67 472700.22 462663.60 472732.17 462656.61 472762.74 462648.11 472767.15 462646.51 472770.87 462645.15 472780.84 462641.51 472788.37 462638.12 472801.22 462631.80 472816.23 462623.29 472873.19 462586.86 472883.03 462579.50</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_SKTR_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_SKTR_L gml:id="PL.PZGiK.308.BDOT10k_292395A0-8E25-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>292395A0-8E25-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>nieczynny</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_213</ot:kodKarto10k>
+			<ot:funkcjaToru>bocznica</ot:funkcjaToru>
+			<ot:liczbaTorow>1</ot:liczbaTorow>
+			<ot:polozenie>na powierzchni gruntu</ot:polozenie>
+			<ot:rodzajPojazduSzynowego>kolej</ot:rodzajPojazduSzynowego>
+			<ot:rodzajTorow>tor normalny</ot:rodzajTorow>
+			<ot:rodzajTrakcji>zelektryfikowana</ot:rodzajTrakcji>
+			<ot:geometria>
+				<gml:Curve gml:id="id-d81bc687-f8f2-49e4-a524-401389427f69-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>472455.44 462592.56 472529.83 462643.26</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_SKTR_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_SKTR_L gml:id="PL.PZGiK.308.BDOT10k_292395A0-8E35-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>292395A0-8E35-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>nieczynny</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_213</ot:kodKarto10k>
+			<ot:funkcjaToru>bocznica</ot:funkcjaToru>
+			<ot:liczbaTorow>1</ot:liczbaTorow>
+			<ot:polozenie>na powierzchni gruntu</ot:polozenie>
+			<ot:rodzajPojazduSzynowego>kolej</ot:rodzajPojazduSzynowego>
+			<ot:rodzajTorow>tor normalny</ot:rodzajTorow>
+			<ot:rodzajTrakcji>zelektryfikowana</ot:rodzajTrakcji>
+			<ot:geometria>
+				<gml:Curve gml:id="id-d28728a1-92cf-4ac4-a41b-4cf98a605846-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>469354.15 460936.35 469382.90 460948.31 469396.67 460954.21 469497.35 460997.40 469584.74 461037.96</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_SKTR_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_SKTR_L gml:id="PL.PZGiK.308.BDOT10k_292395A0-8E34-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>292395A0-8E34-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>nieczynny</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_213</ot:kodKarto10k>
+			<ot:funkcjaToru>bocznica</ot:funkcjaToru>
+			<ot:liczbaTorow>1</ot:liczbaTorow>
+			<ot:polozenie>na powierzchni gruntu</ot:polozenie>
+			<ot:rodzajPojazduSzynowego>kolej</ot:rodzajPojazduSzynowego>
+			<ot:rodzajTorow>tor normalny</ot:rodzajTorow>
+			<ot:rodzajTrakcji>zelektryfikowana</ot:rodzajTrakcji>
+			<ot:geometria>
+				<gml:Curve gml:id="id-a35125c3-5437-4bf2-95cd-8f1b5c2ca9f3-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>473208.19 462369.68 473234.01 462352.88 473268.08 462329.07 473350.05 462275.71 473390.43 462249.25</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_SKTR_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_SKTR_L gml:id="PL.PZGiK.308.BDOT10k_292395A0-8E2C-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>292395A0-8E2C-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>nieczynny</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_213</ot:kodKarto10k>
+			<ot:funkcjaToru>bocznica</ot:funkcjaToru>
+			<ot:liczbaTorow>1</ot:liczbaTorow>
+			<ot:polozenie>na powierzchni gruntu</ot:polozenie>
+			<ot:rodzajPojazduSzynowego>kolej</ot:rodzajPojazduSzynowego>
+			<ot:rodzajTorow>tor normalny</ot:rodzajTorow>
+			<ot:rodzajTrakcji>zelektryfikowana</ot:rodzajTrakcji>
+			<ot:geometria>
+				<gml:Curve gml:id="id-98213db4-b489-424b-aaeb-c401fdc338a6-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>472979.04 462517.39 473006.50 462499.85 473059.08 462464.72 473151.17 462404.92 473208.19 462369.68</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_SKTR_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_SKTR_L gml:id="PL.PZGiK.308.BDOT10k_292395A0-8E22-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>292395A0-8E22-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>nieczynny</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_213</ot:kodKarto10k>
+			<ot:funkcjaToru>bocznica</ot:funkcjaToru>
+			<ot:liczbaTorow>1</ot:liczbaTorow>
+			<ot:polozenie>na powierzchni gruntu</ot:polozenie>
+			<ot:rodzajPojazduSzynowego>kolej</ot:rodzajPojazduSzynowego>
+			<ot:rodzajTorow>tor normalny</ot:rodzajTorow>
+			<ot:rodzajTrakcji>zelektryfikowana</ot:rodzajTrakcji>
+			<ot:geometria>
+				<gml:Curve gml:id="id-7878dae1-dcb5-40c6-bdb1-458e120315f2-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>469929.79 461154.58 469937.29 461156.68 469981.77 461169.11 469985.13 461170.05 469986.40 461170.40 470021.34 461179.76 470046.38 461186.46 470054.93 461189.08 470067.57 461194.05 470081.51 461200.19 470092.73 461205.63 470105.24 461212.54 470105.97 461212.95 470110.16 461215.26 470111.68 461216.16 470121.14 461221.76 470134.25 461230.98 470136.65 461232.86 470152.33 461245.16 470163.67 461254.53 470189.45 461275.85 470221.11 461302.03 470227.40 461307.23 470236.67 461315.17 470260.92 461335.92 470314.03 461380.78 470348.65 461409.91 470360.88 461420.20 470417.30 461467.99 470459.75 461503.37 470501.33 461539.40 470544.76 461575.27 470557.63 461584.50 470574.14 461596.14 470591.58 461607.35 470612.37 461618.69 470622.61 461623.17 470638.91 461629.91 470668.92 461642.43 470717.89 461663.56 470737.82 461671.78 470790.80 461693.62 470805.34 461699.73 470820.33 461706.03 470864.36 461722.89 470928.43 461750.15 470941.22 461755.66 470961.73 461765.07 470994.77 461781.80 471008.28 461789.52 471039.61 461807.41 471079.98 461829.00 471091.18 461835.38 471111.24 461846.81 471147.03 461867.61 471189.24 461890.33 471227.16 461911.13 471297.25 461948.77 471315.21 461958.49 471333.25 461969.89 471350.38 461979.94 471394.87 462005.19 471449.44 462034.73 471513.24 462069.86 471570.88 462101.78 471674.83 462159.29 471714.59 462181.29 471791.78 462224.01 471825.98 462243.10 471864.16 462264.42 471864.49 462264.61 471947.68 462311.57 471966.77 462322.19 471988.51 462334.24 472024.35 462354.03 472058.29 462372.85 472082.11 462386.05 472117.10 462404.75 472129.60 462411.19 472154.69 462425.45 472193.85 462446.68 472222.55 462461.57 472254.91 462480.48 472324.28 462519.86 472381.84 462551.76 472434.25 462581.00 472455.44 462592.56</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_SKTR_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_SKTR_L gml:id="PL.PZGiK.308.BDOT10k_292395A0-8E28-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>292395A0-8E28-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>nieczynny</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_213</ot:kodKarto10k>
+			<ot:funkcjaToru>bocznica</ot:funkcjaToru>
+			<ot:liczbaTorow>1</ot:liczbaTorow>
+			<ot:polozenie>na powierzchni gruntu</ot:polozenie>
+			<ot:rodzajPojazduSzynowego>kolej</ot:rodzajPojazduSzynowego>
+			<ot:rodzajTorow>tor normalny</ot:rodzajTorow>
+			<ot:rodzajTrakcji>zelektryfikowana</ot:rodzajTrakcji>
+			<ot:geometria>
+				<gml:Curve gml:id="id-a5e15b2b-dfef-4009-82e2-a09cca89e4f4-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>472883.03 462579.50 472924.44 462539.29 472953.46 462510.19 472966.75 462494.83 472980.17 462477.59 472991.51 462460.41 473000.79 462445.36 473014.65 462420.98 473030.76 462388.32 473042.70 462364.68</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_SKTR_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_SKTR_L gml:id="PL.PZGiK.308.BDOT10k_292395A0-8E39-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>292395A0-8E39-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>nieczynny</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_213</ot:kodKarto10k>
+			<ot:funkcjaToru>bocznica</ot:funkcjaToru>
+			<ot:liczbaTorow>1</ot:liczbaTorow>
+			<ot:polozenie>ponad powierzchnią gruntu poziom 1</ot:polozenie>
+			<ot:rodzajPojazduSzynowego>kolej</ot:rodzajPojazduSzynowego>
+			<ot:rodzajTorow>tor normalny</ot:rodzajTorow>
+			<ot:rodzajTrakcji>zelektryfikowana</ot:rodzajTrakcji>
+			<ot:geometria>
+				<gml:Curve gml:id="id-626fe11a-c785-4556-b8b7-27a4c496609f-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>469584.74 461037.96 469592.99 461041.68 469603.88 461046.59</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_SKTR_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_SKTR_L gml:id="PL.PZGiK.308.BDOT10k_292395A0-8E2F-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>292395A0-8E2F-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>nieczynny</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_213</ot:kodKarto10k>
+			<ot:funkcjaToru>bocznica</ot:funkcjaToru>
+			<ot:liczbaTorow>1</ot:liczbaTorow>
+			<ot:polozenie>na powierzchni gruntu</ot:polozenie>
+			<ot:rodzajPojazduSzynowego>kolej</ot:rodzajPojazduSzynowego>
+			<ot:rodzajTorow>tor normalny</ot:rodzajTorow>
+			<ot:rodzajTrakcji>zelektryfikowana</ot:rodzajTrakcji>
+			<ot:geometria>
+				<gml:Curve gml:id="id-5418c316-4ae1-4471-bed2-fd58db6a5b39-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>473042.70 462364.68 473065.82 462308.17 473077.94 462276.67 473085.51 462248.77 473091.73 462221.10 473096.35 462192.11 473098.75 462141.06 473102.65 462033.57</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_SKTR_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_SKTR_L gml:id="PL.PZGiK.308.BDOT10k_292395A0-8E29-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>292395A0-8E29-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:kategoriaIstnienia>nieczynny</ot:kategoriaIstnienia>
+			<ot:kodKarto10k>0010_213</ot:kodKarto10k>
+			<ot:funkcjaToru>bocznica</ot:funkcjaToru>
+			<ot:liczbaTorow>1</ot:liczbaTorow>
+			<ot:polozenie>na powierzchni gruntu</ot:polozenie>
+			<ot:rodzajPojazduSzynowego>kolej</ot:rodzajPojazduSzynowego>
+			<ot:rodzajTorow>tor normalny</ot:rodzajTorow>
+			<ot:rodzajTrakcji>zelektryfikowana</ot:rodzajTrakcji>
+			<ot:geometria>
+				<gml:Curve gml:id="id-9ab28286-30d8-4a58-8a61-eb0bdb84919b-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>472883.03 462579.50 472925.72 462542.32 472945.37 462523.35 472963.30 462504.79 472976.72 462488.49 472987.63 462472.57 472998.53 462456.02 473011.70 462433.70 473027.69 462402.92 473036.02 462384.43 473042.70 462364.68</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_SKTR_L>
+	</gml:featureMember>
+</gml:FeatureCollection>

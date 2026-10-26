@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:FeatureCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:ot="urn:gugik:specyfikacje:gmlas:bazaDanychObiektowTopograficznych10k:2.0" gml:id="GUGiK_OT_KUHO_A" xsi:schemaLocation="urn:gugik:specyfikacje:gmlas:bazaDanychObiektowTopograficznych10k:2.0 ../XSD/BDOT10k_BDOO.xsd">
+	<gml:featureMember>
+		<ot:OT_KUHO_A gml:id="PL.PZGiK.308.BDOT10k_2923959E-8D34-829B-E053-CA2BA8C0F89A_2023-12-31T120000">
+			<ot:lokalnyId>2923959E-8D34-829B-E053-CA2BA8C0F89A</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>hotel lub motel</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-3adb65cd-3d45-4a01-9ab2-91eab4251b4c-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>464246.77 460267.92 464287.26 460247.80 464255.76 460182.27 464253.85 460176.63 464246.89 460178.10 464226.54 460182.39 464151.31 460198.74 464152.88 460205.31 464163.18 460245.23 464166.37 460257.09 464169.44 460258.49 464200.20 460272.71 464239.49 460254.19 464246.77 460267.92</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUHO_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUHO_A gml:id="PL.PZGiK.308.BDOT10k_3fb4b1a4-8c9e-4919-9c17-0ca41b87fce9_2023-12-31T120000">
+			<ot:lokalnyId>3fb4b1a4-8c9e-4919-9c17-0ca41b87fce9</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:skrotKartograficzny>ośr. wyp.</ot:skrotKartograficzny>
+			<ot:rodzaj>ośrodek wypoczynkowy</ot:rodzaj>
+			<ot:nazwa>Ośrodek medytacji Vipassana</ot:nazwa>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-173f131d-02a4-469b-853c-c4c49f9461f6-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>454228.64 458303.12 454238.68 458362.64 454247.23 458361.40 454272.44 458366.62 454295.92 458370.10 454310.27 458377.93 454349.83 458374.88 454445.04 458363.86 454576.24 458348.67 454563.66 458235.65 454550.23 458237.15 454533.02 458238.26 454535.05 458248.99 454527.23 458261.46 454513.31 458264.65 454508.68 458271.33 454382.26 458286.38 454311.25 458295.08 454228.64 458303.12</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUHO_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUHO_A gml:id="PL.PZGiK.308.BDOT10k_e89fb0a2-07e9-4945-a639-db5602bd0340_2023-12-31T120000">
+			<ot:lokalnyId>e89fb0a2-07e9-4945-a639-db5602bd0340</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>hotel lub motel</ot:rodzaj>
+			<ot:nazwa>OLSZA</ot:nazwa>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-99355de8-42b6-482c-8eee-29c7d48d584c-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>471674.07 457928.45 471673.91 457937.13 471673.74 457953.13 471676.86 457965.21 471682.24 457973.97 471751.77 457938.07 471821.49 457902.07 471806.32 457869.95 471800.83 457872.89 471798.90 457864.88 471757.84 457871.07 471751.91 457871.21 471683.70 457870.88 471676.46 457870.73 471674.87 457897.68 471674.07 457928.45</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUHO_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUHO_A gml:id="PL.PZGiK.308.BDOT10k_c50fd9d4-0c85-4dc8-b43f-a960edd3e7b1_2023-12-31T120000">
+			<ot:lokalnyId>c50fd9d4-0c85-4dc8-b43f-a960edd3e7b1</ot:lokalnyId>
+			<ot:przestrzenNazw>PL.PZGiK.308.BDOT10k</ot:przestrzenNazw>
+			<ot:wersja>2023-12-31T12:00:00</ot:wersja>
+			<ot:poczatekWersjiObiektu>2023-12-31T12:00:00</ot:poczatekWersjiObiektu>
+			<ot:oznaczenieZmiany>GI-TOPO.600.116.2023</ot:oznaczenieZmiany>
+			<ot:zrodloDanychGeometrycznych>ortofotomapa</ot:zrodloDanychGeometrycznych>
+			<ot:rodzaj>hotel lub motel</ot:rodzaj>
+			<ot:nazwa>Zajazd Staropolski</ot:nazwa>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-3020b965-a15d-4ae2-aa5f-274fa7976ce7-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>471806.32 457869.95 471821.49 457902.07 471956.47 457832.37 471956.58 457819.56 471956.96 457773.99 471777.95 457777.93 471798.90 457864.88 471800.83 457872.89 471806.32 457869.95</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUHO_A>
+	</gml:featureMember>
+</gml:FeatureCollection>
