@@ -22,3 +22,8 @@ RUN python3 -m pip install --no-cache-dir --break-system-packages \
     psycopg2-binary
 
 WORKDIR /app
+
+COPY app /app
+COPY data /data
+
+CMD ["tail", "-f", "/dev/null"]

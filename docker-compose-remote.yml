@@ -14,7 +14,6 @@ services:
 
     volumes:
       - pgdata:/var/lib/postgresql/data
-      - ./data:/data:ro
 
     restart: unless-stopped
 
@@ -30,10 +29,6 @@ services:
       DB_HOST: postgis
       DB_PORT: 5432
       PGPASSWORD: ${POSTGRES_PASSWORD}
-
-    volumes:
-      - ./app:/app:ro
-      - ./data:/data
 
     command: ["tail", "-f", "/dev/null"]
 
