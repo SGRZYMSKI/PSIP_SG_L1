@@ -19,7 +19,10 @@ RUN python3 -m pip install --no-cache-dir --break-system-packages \
     geopandas \
     h3 \
     shapely \
-    psycopg2-binary
+    psycopg2-binary \
+    psycopg \
+    matplotlib \
+    "sqlalchemy>=2.0.42"
 
 WORKDIR /app
 
